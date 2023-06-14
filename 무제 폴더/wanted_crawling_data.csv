@@ -1,0 +1,55 @@
+title,company,qualification,preferential_treatments,skill_tools
+보안 기술 엔지니어,아인시스에이아이랩,• IDS/IPS 사고분석 경력을 1년 이상 보유하신 분,"• 전산학, 컴퓨터공학을 전공하신 분 
+• 보안 장비 프로젝트를 경험해보신 분
+• 보안/네트워크 관련 자격증을 소지하신 분",
+Backend 개발팀 시니어 개발자 (6년 이상),모던라이언,"• 6년 이상의 백엔드 개발 경력이 있거나 그에 준하는 실력을 갖추신 분
+• JavaScript / TypeScript 를 이용한 개발에 능숙하신 분
+• 웹 서비스에 대한 전반적인 이해를 갖추신 분
+• RDB(Postgres) 및 ORM에 대한 전반적인 이해를 갖추신 분
+• 도커, 쿠버네티스 등 컨테이너 기반의 서비스에 대한 경험이 있으신 분
+• 1년 이상의 NestJS 실무 프로젝트 개발 경험이 있으신 분
+• 모듈화, 테스트, 유지보수가 용이한 코드에 대한 이해를 갖추고 계신 분
+• 기술 중심이 아닌 유저 중심적인 태도를 가지고 계신 분
+• 배움에 대한 열정을 갖고, 지속적이고 효과적으로 피드백을 주고 받는 분","• 하나 이상의 백엔드 서비스나 플랫폼을 직접 설계 및 개발한 경험이 있는 분
+• NestJS, TypeORM, Ethers 등의 라이브러리 사용 경험이 있는 분
+• 사용자 인증과 인가 방식에 대한 설계 및 구현 경험이 있는 분
+• 블록체인과 NFT 도메인에 대한 이해가 있으며, 관련 개발에 경험이 있으신 분
+• 피그마로 제작된 UI / UX 기반으로 기획자와 협업 경험이 있으신 분",
+솔루션 운영 엔지니어 (국내),스콥정보통신,"• 학력 : 초대졸 이상
+• 전공 : 무관
+• 경력 : 5년 이상
+
+• 네트워크 및 보안 관련 업무경력
+• NAC, IP관리 솔루션 운영 경험자
+• Network L2,L3 운영 경험자
+• 서버 / DB설치 지식 보유자","• 컨설팅 관련 업무 경력
+• 동종업계 제조사 엔지니어",
+Cyber Security Manager (Automotive),럭스소프트코리아,"• Experience with creating and managing Security Architecture and/or Solution Architecture
+• Proven work experience in-Vehicle Cyber Security
+• Threat modelling and vulnerability analysis
+• Risk assessment/management experience, including threat identification, risk assessment and mitigation as well as vulnerability management and tracking
+• Strong software security expertise, including familiarity with Secure Software Development Lifecycle, SAST, Threat Modelling, and Penetration testing concepts
+• Experience and ability to perform Threat modelling for automotive software projects
+• Understanding of automotive security standards and guidelines (ISO 21434, SAE J3061 and others)
+• Familiarity with safety requirements set towards automotive software solutions (ISO 26262:2018)","• Security certification is a plus (CISSP, CRISC, CISA, CISSP-ISSAP)
+• Experience in managing cyber security in automotive projects
+• Technical IT-related degree or equivalent qualification
+• Consulting experience",
+Digital 회로설계 개발자,테스콤,"• 전자회로 기초이론 이해 및 설계 능력
+• High Speed Digital 회로 설계 능력
+• 영어 문서를 읽고 이해하는 능력","통신공학, 전자공학, 정보통신 공학 전공자",
+"NVR, VMS 설계 및 개발자",에이클시스템,"• C++ 프로그래밍 능력
+• NVR, VMS 연구 설계 및 개발 경력","• AI 영상분석 개발 경험
+• 정보처리기사 자격증 소지",
+Software Engineer (Frontend),언베일드,"- React 및 HTML/CSS 경험 (layout, specificity, cross browser compatibility, accessibility 등) 3년 이상
+- 브라우저 API 및 프론트엔드 성능 최적화 관련 경험 3년 이상","- Web3.js 사용 경험
+- 블록체인 애플리케이션 및 dApp에 대한 기본적인 이해
+- 오픈 소스 프로젝트에 기여한 경험",
+프론트엔드 개발자 (3년 이상),스마트잭,"• 프론트 개발 경력 3년 이상 이신 분
+• Vue.js, Javascript(ES6+) 개발에 능숙하신 분
+• Git에 대한 이해 및 소스 코드 관리 경험이 있으신 분","• Mobile Web 기반 하이브리드 App  프로젝트 경험자 (Flutter)
+• 프로젝트 리딩 경험자
+• Node.js, express.js 경험자
+• Typescript 개발 경험자
+• AWS 환경에서 서비스 운영 및 배포 경험자
+• 대규모 서비스 설계 및 개발 경험자",
