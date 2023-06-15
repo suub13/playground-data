@@ -1,1766 +1,1766 @@
 title,company,qualifications,preferred,skills
-ë³´ì•ˆ ê¸°ìˆ  ì—”ì§€ë‹ˆì–´,ì•„ì¸ì‹œìŠ¤ì—ì´ì•„ì´ëž©,â€¢ IDS/IPS ì‚¬ê³ ë¶„ì„ ê²½ë ¥ì„ 1ë…„ ì´ìƒ ë³´ìœ í•˜ì‹  ë¶„,"â€¢ ì „ì‚°í•™, ì»´í“¨í„°ê³µí•™ì„ ì „ê³µí•˜ì‹  ë¶„ 
-â€¢ ë³´ì•ˆ ìž¥ë¹„ í”„ë¡œì íŠ¸ë¥¼ ê²½í—˜í•´ë³´ì‹  ë¶„
-â€¢ ë³´ì•ˆ/ë„¤íŠ¸ì›Œí¬ ê´€ë ¨ ìžê²©ì¦ì„ ì†Œì§€í•˜ì‹  ë¶„",
-Backend ê°œë°œíŒ€ ì‹œë‹ˆì–´ ê°œë°œìž (6ë…„ ì´ìƒ),ëª¨ë˜ë¼ì´ì–¸,"â€¢ 6ë…„ ì´ìƒì˜ ë°±ì—”ë“œ ê°œë°œ ê²½ë ¥ì´ ìžˆê±°ë‚˜ ê·¸ì— ì¤€í•˜ëŠ” ì‹¤ë ¥ì„ ê°–ì¶”ì‹  ë¶„
-â€¢ JavaScript / TypeScript ë¥¼ ì´ìš©í•œ ê°œë°œì— ëŠ¥ìˆ™í•˜ì‹  ë¶„
-â€¢ ì›¹ ì„œë¹„ìŠ¤ì— ëŒ€í•œ ì „ë°˜ì ì¸ ì´í•´ë¥¼ ê°–ì¶”ì‹  ë¶„
-â€¢ RDB(Postgres) ë° ORMì— ëŒ€í•œ ì „ë°˜ì ì¸ ì´í•´ë¥¼ ê°–ì¶”ì‹  ë¶„
-â€¢ ë„ì»¤, ì¿ ë²„ë„¤í‹°ìŠ¤ ë“± ì»¨í…Œì´ë„ˆ ê¸°ë°˜ì˜ ì„œë¹„ìŠ¤ì— ëŒ€í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ 1ë…„ ì´ìƒì˜ NestJS ì‹¤ë¬´ í”„ë¡œì íŠ¸ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ëª¨ë“ˆí™”, í…ŒìŠ¤íŠ¸, ìœ ì§€ë³´ìˆ˜ê°€ ìš©ì´í•œ ì½”ë“œì— ëŒ€í•œ ì´í•´ë¥¼ ê°–ì¶”ê³  ê³„ì‹  ë¶„
-â€¢ ê¸°ìˆ  ì¤‘ì‹¬ì´ ì•„ë‹Œ ìœ ì € ì¤‘ì‹¬ì ì¸ íƒœë„ë¥¼ ê°€ì§€ê³  ê³„ì‹  ë¶„
-â€¢ ë°°ì›€ì— ëŒ€í•œ ì—´ì •ì„ ê°–ê³ , ì§€ì†ì ì´ê³  íš¨ê³¼ì ìœ¼ë¡œ í”¼ë“œë°±ì„ ì£¼ê³  ë°›ëŠ” ë¶„","â€¢ í•˜ë‚˜ ì´ìƒì˜ ë°±ì—”ë“œ ì„œë¹„ìŠ¤ë‚˜ í”Œëž«í¼ì„ ì§ì ‘ ì„¤ê³„ ë° ê°œë°œí•œ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ NestJS, TypeORM, Ethers ë“±ì˜ ë¼ì´ë¸ŒëŸ¬ë¦¬ ì‚¬ìš© ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ ì‚¬ìš©ìž ì¸ì¦ê³¼ ì¸ê°€ ë°©ì‹ì— ëŒ€í•œ ì„¤ê³„ ë° êµ¬í˜„ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ ë¸”ë¡ì²´ì¸ê³¼ NFT ë„ë©”ì¸ì— ëŒ€í•œ ì´í•´ê°€ ìžˆìœ¼ë©°, ê´€ë ¨ ê°œë°œì— ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ í”¼ê·¸ë§ˆë¡œ ì œìž‘ëœ UI / UX ê¸°ë°˜ìœ¼ë¡œ ê¸°íšìžì™€ í˜‘ì—… ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„",
-ì†”ë£¨ì…˜ ìš´ì˜ ì—”ì§€ë‹ˆì–´ (êµ­ë‚´),ìŠ¤ì½¥ì •ë³´í†µì‹ ,"â€¢ í•™ë ¥ : ì´ˆëŒ€ì¡¸ ì´ìƒ
-â€¢ ì „ê³µ : ë¬´ê´€
-â€¢ ê²½ë ¥ : 5ë…„ ì´ìƒ
+º¸¾È ±â¼ú ¿£Áö´Ï¾î,¾ÆÀÎ½Ã½º¿¡ÀÌ¾ÆÀÌ·¦,? IDS/IPS »ç°íºÐ¼® °æ·ÂÀ» 1³â ÀÌ»ó º¸À¯ÇÏ½Å ºÐ,"? Àü»êÇÐ, ÄÄÇ»ÅÍ°øÇÐÀ» Àü°øÇÏ½Å ºÐ 
+? º¸¾È Àåºñ ÇÁ·ÎÁ§Æ®¸¦ °æÇèÇØº¸½Å ºÐ
+? º¸¾È/³×Æ®¿öÅ© °ü·Ã ÀÚ°ÝÁõÀ» ¼ÒÁöÇÏ½Å ºÐ",
+Backend °³¹ßÆÀ ½Ã´Ï¾î °³¹ßÀÚ (6³â ÀÌ»ó),¸ð´ø¶óÀÌ¾ð,"? 6³â ÀÌ»óÀÇ ¹é¿£µå °³¹ß °æ·ÂÀÌ ÀÖ°Å³ª ±×¿¡ ÁØÇÏ´Â ½Ç·ÂÀ» °®Ãß½Å ºÐ
+? JavaScript / TypeScript ¸¦ ÀÌ¿ëÇÑ °³¹ß¿¡ ´É¼÷ÇÏ½Å ºÐ
+? À¥ ¼­ºñ½º¿¡ ´ëÇÑ Àü¹ÝÀûÀÎ ÀÌÇØ¸¦ °®Ãß½Å ºÐ
+? RDB(Postgres) ¹× ORM¿¡ ´ëÇÑ Àü¹ÝÀûÀÎ ÀÌÇØ¸¦ °®Ãß½Å ºÐ
+? µµÄ¿, Äí¹ö³×Æ¼½º µî ÄÁÅ×ÀÌ³Ê ±â¹ÝÀÇ ¼­ºñ½º¿¡ ´ëÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? 1³â ÀÌ»óÀÇ NestJS ½Ç¹« ÇÁ·ÎÁ§Æ® °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ¸ðµâÈ­, Å×½ºÆ®, À¯Áöº¸¼ö°¡ ¿ëÀÌÇÑ ÄÚµå¿¡ ´ëÇÑ ÀÌÇØ¸¦ °®Ãß°í °è½Å ºÐ
+? ±â¼ú Áß½ÉÀÌ ¾Æ´Ñ À¯Àú Áß½ÉÀûÀÎ ÅÂµµ¸¦ °¡Áö°í °è½Å ºÐ
+? ¹è¿ò¿¡ ´ëÇÑ ¿­Á¤À» °®°í, Áö¼ÓÀûÀÌ°í È¿°úÀûÀ¸·Î ÇÇµå¹éÀ» ÁÖ°í ¹Þ´Â ºÐ","? ÇÏ³ª ÀÌ»óÀÇ ¹é¿£µå ¼­ºñ½º³ª ÇÃ·§ÆûÀ» Á÷Á¢ ¼³°è ¹× °³¹ßÇÑ °æÇèÀÌ ÀÖ´Â ºÐ
+? NestJS, TypeORM, Ethers µîÀÇ ¶óÀÌºê·¯¸® »ç¿ë °æÇèÀÌ ÀÖ´Â ºÐ
+? »ç¿ëÀÚ ÀÎÁõ°ú ÀÎ°¡ ¹æ½Ä¿¡ ´ëÇÑ ¼³°è ¹× ±¸Çö °æÇèÀÌ ÀÖ´Â ºÐ
+? ºí·ÏÃ¼ÀÎ°ú NFT µµ¸ÞÀÎ¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖÀ¸¸ç, °ü·Ã °³¹ß¿¡ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ÇÇ±×¸¶·Î Á¦ÀÛµÈ UI / UX ±â¹ÝÀ¸·Î ±âÈ¹ÀÚ¿Í Çù¾÷ °æÇèÀÌ ÀÖÀ¸½Å ºÐ",
+¼Ö·ç¼Ç ¿î¿µ ¿£Áö´Ï¾î (±¹³»),½ºÄßÁ¤º¸Åë½Å,"? ÇÐ·Â : ÃÊ´ëÁ¹ ÀÌ»ó
+? Àü°ø : ¹«°ü
+? °æ·Â : 5³â ÀÌ»ó
 
-â€¢ ë„¤íŠ¸ì›Œí¬ ë° ë³´ì•ˆ ê´€ë ¨ ì—…ë¬´ê²½ë ¥
-â€¢ NAC, IPê´€ë¦¬ ì†”ë£¨ì…˜ ìš´ì˜ ê²½í—˜ìž
-â€¢ Network L2,L3 ìš´ì˜ ê²½í—˜ìž
-â€¢ ì„œë²„ / DBì„¤ì¹˜ ì§€ì‹ ë³´ìœ ìž","â€¢ ì»¨ì„¤íŒ… ê´€ë ¨ ì—…ë¬´ ê²½ë ¥
-â€¢ ë™ì¢…ì—…ê³„ ì œì¡°ì‚¬ ì—”ì§€ë‹ˆì–´",
-Cyber Security Manager (Automotive),ëŸ­ìŠ¤ì†Œí”„íŠ¸ì½”ë¦¬ì•„,"â€¢ Experience with creating and managing Security Architecture and/or Solution Architecture
-â€¢ Proven work experience in-Vehicle Cyber Security
-â€¢ Threat modelling and vulnerability analysis
-â€¢ Risk assessment/management experience, including threat identification, risk assessment and mitigation as well as vulnerability management and tracking
-â€¢ Strong software security expertise, including familiarity with Secure Software Development Lifecycle, SAST, Threat Modelling, and Penetration testing concepts
-â€¢ Experience and ability to perform Threat modelling for automotive software projects
-â€¢ Understanding of automotive security standards and guidelines (ISO 21434, SAE J3061 and others)
-â€¢ Familiarity with safety requirements set towards automotive software solutions (ISO 26262:2018)","â€¢ Security certification is a plus (CISSP, CRISC, CISA, CISSP-ISSAP)
-â€¢ Experience in managing cyber security in automotive projects
-â€¢ Technical IT-related degree or equivalent qualification
-â€¢ Consulting experience",
-Digital íšŒë¡œì„¤ê³„ ê°œë°œìž,í…ŒìŠ¤ì½¤,"â€¢ ì „ìžíšŒë¡œ ê¸°ì´ˆì´ë¡  ì´í•´ ë° ì„¤ê³„ ëŠ¥ë ¥
-â€¢ High Speed Digital íšŒë¡œ ì„¤ê³„ ëŠ¥ë ¥
-â€¢ ì˜ì–´ ë¬¸ì„œë¥¼ ì½ê³  ì´í•´í•˜ëŠ” ëŠ¥ë ¥","í†µì‹ ê³µí•™, ì „ìžê³µí•™, ì •ë³´í†µì‹  ê³µí•™ ì „ê³µìž",
-"NVR, VMS ì„¤ê³„ ë° ê°œë°œìž",ì—ì´í´ì‹œìŠ¤í…œ,"â€¢ C++ í”„ë¡œê·¸ëž˜ë° ëŠ¥ë ¥
-â€¢ NVR, VMS ì—°êµ¬ ì„¤ê³„ ë° ê°œë°œ ê²½ë ¥","â€¢ AI ì˜ìƒë¶„ì„ ê°œë°œ ê²½í—˜
-â€¢ ì •ë³´ì²˜ë¦¬ê¸°ì‚¬ ìžê²©ì¦ ì†Œì§€",
-Software Engineer (Frontend),ì–¸ë² ì¼ë“œ,"- React ë° HTML/CSS ê²½í—˜ (layout, specificity, cross browser compatibility, accessibility ë“±) 3ë…„ ì´ìƒ
-- ë¸Œë¼ìš°ì € API ë° í”„ë¡ íŠ¸ì—”ë“œ ì„±ëŠ¥ ìµœì í™” ê´€ë ¨ ê²½í—˜ 3ë…„ ì´ìƒ","- Web3.js ì‚¬ìš© ê²½í—˜
-- ë¸”ë¡ì²´ì¸ ì• í”Œë¦¬ì¼€ì´ì…˜ ë° dAppì— ëŒ€í•œ ê¸°ë³¸ì ì¸ ì´í•´
-- ì˜¤í”ˆ ì†ŒìŠ¤ í”„ë¡œì íŠ¸ì— ê¸°ì—¬í•œ ê²½í—˜",
-í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œìž (3ë…„ ì´ìƒ),ìŠ¤ë§ˆíŠ¸ìž­,"â€¢ í”„ë¡ íŠ¸ ê°œë°œ ê²½ë ¥ 3ë…„ ì´ìƒ ì´ì‹  ë¶„
-â€¢ Vue.js, Javascript(ES6+) ê°œë°œì— ëŠ¥ìˆ™í•˜ì‹  ë¶„
-â€¢ Gitì— ëŒ€í•œ ì´í•´ ë° ì†ŒìŠ¤ ì½”ë“œ ê´€ë¦¬ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„","â€¢ Mobile Web ê¸°ë°˜ í•˜ì´ë¸Œë¦¬ë“œ App  í”„ë¡œì íŠ¸ ê²½í—˜ìž (Flutter)
-â€¢ í”„ë¡œì íŠ¸ ë¦¬ë”© ê²½í—˜ìž
-â€¢ Node.js, express.js ê²½í—˜ìž
-â€¢ Typescript ê°œë°œ ê²½í—˜ìž
-â€¢ AWS í™˜ê²½ì—ì„œ ì„œë¹„ìŠ¤ ìš´ì˜ ë° ë°°í¬ ê²½í—˜ìž
-â€¢ ëŒ€ê·œëª¨ ì„œë¹„ìŠ¤ ì„¤ê³„ ë° ê°œë°œ ê²½í—˜ìž",
-ë°±ì—”ë“œ ì„œë²„ ê°œë°œìž (node.js),ìŠ¤ë§ˆíŠ¸ìž­,"â€¢ ë°±ì—”ë“œ ê°œë°œì— ëŠ¥ìˆ™í•˜ì‹  ë¶„
-â€¢ ê²½ë ¥ì´ 3ë…„ ~ 7ë…„ ì´ì‹  ë¶„
-â€¢ Node.jsë¥¼ ì´ìš©í•´ ì„œë²„ ê°œë°œ êµ¬ì¶• ëŠ¥ë ¥ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ë°ì´í„°ë² ì´ìŠ¤ í…Œì´ë¸” ì„¤ê³„ ëŠ¥ë ¥ì´ ìžˆìœ¼ì‹  ë¶„","â€¢ Cloud(AWS) í™˜ê²½ì—ì„œ ì„œë²„ ë¹Œë“œ, ë°°í¬ ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ Elasticsearch, Mongo DB ë“± ì¸í”„ë¼ ì„¤ì¹˜ ë° ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹ ë¶„
-â€¢ ëŒ€ìš©ëŸ‰ ë°ì´í„°ë¥¼ ì²˜ë¦¬í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹ ë¶„
-â€¢ ERPì‹œìŠ¤í…œì— ëŒ€í•œ ì´í•´ë„ê°€ ìžˆìœ¼ì‹ ë¶„",
-Node.js ë°±ì—”ë“œ ê°œë°œ,ì±”í”„ìŠ¤í„°ë””,"1. Node.js BackEnd ê°œë°œ 3ë…„ ì´ìƒ ë˜ëŠ” ê·¸ì— ì¤€í•˜ëŠ” ê²½í—˜
+? ³×Æ®¿öÅ© ¹× º¸¾È °ü·Ã ¾÷¹«°æ·Â
+? NAC, IP°ü¸® ¼Ö·ç¼Ç ¿î¿µ °æÇèÀÚ
+? Network L2,L3 ¿î¿µ °æÇèÀÚ
+? ¼­¹ö / DB¼³Ä¡ Áö½Ä º¸À¯ÀÚ","? ÄÁ¼³ÆÃ °ü·Ã ¾÷¹« °æ·Â
+? µ¿Á¾¾÷°è Á¦Á¶»ç ¿£Áö´Ï¾î",
+Cyber Security Manager (Automotive),·°½º¼ÒÇÁÆ®ÄÚ¸®¾Æ,"? Experience with creating and managing Security Architecture and/or Solution Architecture
+? Proven work experience in-Vehicle Cyber Security
+? Threat modelling and vulnerability analysis
+? Risk assessment/management experience, including threat identification, risk assessment and mitigation as well as vulnerability management and tracking
+? Strong software security expertise, including familiarity with Secure Software Development Lifecycle, SAST, Threat Modelling, and Penetration testing concepts
+? Experience and ability to perform Threat modelling for automotive software projects
+? Understanding of automotive security standards and guidelines (ISO 21434, SAE J3061 and others)
+? Familiarity with safety requirements set towards automotive software solutions (ISO 26262:2018)","? Security certification is a plus (CISSP, CRISC, CISA, CISSP-ISSAP)
+? Experience in managing cyber security in automotive projects
+? Technical IT-related degree or equivalent qualification
+? Consulting experience",
+Digital È¸·Î¼³°è °³¹ßÀÚ,Å×½ºÄÞ,"? ÀüÀÚÈ¸·Î ±âÃÊÀÌ·Ð ÀÌÇØ ¹× ¼³°è ´É·Â
+? High Speed Digital È¸·Î ¼³°è ´É·Â
+? ¿µ¾î ¹®¼­¸¦ ÀÐ°í ÀÌÇØÇÏ´Â ´É·Â","Åë½Å°øÇÐ, ÀüÀÚ°øÇÐ, Á¤º¸Åë½Å °øÇÐ Àü°øÀÚ",
+"NVR, VMS ¼³°è ¹× °³¹ßÀÚ",¿¡ÀÌÅ¬½Ã½ºÅÛ,"? C++ ÇÁ·Î±×·¡¹Ö ´É·Â
+? NVR, VMS ¿¬±¸ ¼³°è ¹× °³¹ß °æ·Â","? AI ¿µ»óºÐ¼® °³¹ß °æÇè
+? Á¤º¸Ã³¸®±â»ç ÀÚ°ÝÁõ ¼ÒÁö",
+Software Engineer (Frontend),¾ðº£ÀÏµå,"- React ¹× HTML/CSS °æÇè (layout, specificity, cross browser compatibility, accessibility µî) 3³â ÀÌ»ó
+- ºê¶ó¿ìÀú API ¹× ÇÁ·ÐÆ®¿£µå ¼º´É ÃÖÀûÈ­ °ü·Ã °æÇè 3³â ÀÌ»ó","- Web3.js »ç¿ë °æÇè
+- ºí·ÏÃ¼ÀÎ ¾ÖÇÃ¸®ÄÉÀÌ¼Ç ¹× dApp¿¡ ´ëÇÑ ±âº»ÀûÀÎ ÀÌÇØ
+- ¿ÀÇÂ ¼Ò½º ÇÁ·ÎÁ§Æ®¿¡ ±â¿©ÇÑ °æÇè",
+ÇÁ·ÐÆ®¿£µå °³¹ßÀÚ (3³â ÀÌ»ó),½º¸¶Æ®Àè,"? ÇÁ·ÐÆ® °³¹ß °æ·Â 3³â ÀÌ»ó ÀÌ½Å ºÐ
+? Vue.js, Javascript(ES6+) °³¹ß¿¡ ´É¼÷ÇÏ½Å ºÐ
+? Git¿¡ ´ëÇÑ ÀÌÇØ ¹× ¼Ò½º ÄÚµå °ü¸® °æÇèÀÌ ÀÖÀ¸½Å ºÐ","? Mobile Web ±â¹Ý ÇÏÀÌºê¸®µå App  ÇÁ·ÎÁ§Æ® °æÇèÀÚ (Flutter)
+? ÇÁ·ÎÁ§Æ® ¸®µù °æÇèÀÚ
+? Node.js, express.js °æÇèÀÚ
+? Typescript °³¹ß °æÇèÀÚ
+? AWS È¯°æ¿¡¼­ ¼­ºñ½º ¿î¿µ ¹× ¹èÆ÷ °æÇèÀÚ
+? ´ë±Ô¸ð ¼­ºñ½º ¼³°è ¹× °³¹ß °æÇèÀÚ",
+¹é¿£µå ¼­¹ö °³¹ßÀÚ (node.js),½º¸¶Æ®Àè,"? ¹é¿£µå °³¹ß¿¡ ´É¼÷ÇÏ½Å ºÐ
+? °æ·ÂÀÌ 3³â ~ 7³â ÀÌ½Å ºÐ
+? Node.js¸¦ ÀÌ¿ëÇØ ¼­¹ö °³¹ß ±¸Ãà ´É·ÂÀÌ ÀÖÀ¸½Å ºÐ
+? µ¥ÀÌÅÍº£ÀÌ½º Å×ÀÌºí ¼³°è ´É·ÂÀÌ ÀÖÀ¸½Å ºÐ","? Cloud(AWS) È¯°æ¿¡¼­ ¼­¹ö ºôµå, ¹èÆ÷ ¿î¿µ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? Elasticsearch, Mongo DB µî ÀÎÇÁ¶ó ¼³Ä¡ ¹× ¿î¿µ °æÇèÀÌ ÀÖÀ¸½ÅºÐ
+? ´ë¿ë·® µ¥ÀÌÅÍ¸¦ Ã³¸®ÇÑ °æÇèÀÌ ÀÖÀ¸½ÅºÐ
+? ERP½Ã½ºÅÛ¿¡ ´ëÇÑ ÀÌÇØµµ°¡ ÀÖÀ¸½ÅºÐ",
+Node.js ¹é¿£µå °³¹ß,Ã¨ÇÁ½ºÅÍµð,"1. Node.js BackEnd °³¹ß 3³â ÀÌ»ó ¶Ç´Â ±×¿¡ ÁØÇÏ´Â °æÇè
 
-2. Typescript/Javascript(ES6) ê¸°ë³¸ì§€ì‹
+2. Typescript/Javascript(ES6) ±âº»Áö½Ä
 
-3. Nest.js/Express.js í”„ë ˆìž„ì›ŒíŠ¸ ê°œë°œ ê²½í—˜
+3. Nest.js/Express.js ÇÁ·¹ÀÓ¿öÆ® °³¹ß °æÇè
 
-4. AWS ì‚¬ìš©ê²½í—˜ìž (Lambda, EC2, API Gateway, RDS)
+4. AWS »ç¿ë°æÇèÀÚ (Lambda, EC2, API Gateway, RDS)
 
-5. BackEnd ê¸°ë°˜ì˜ ê¸°ë³¸ DBì„¤ê³„ ê°€ëŠ¥ìž","1. graphql ì‚¬ìš© ê²½í—˜ìž
-2. Dockers, Jenkins ì‚¬ìš©ê²½í—˜
-3. RDBMS, NoSQL ê°œë°œ ê²½í—˜ìž
-4. Git í†µí•œ ë²„ì „ê´€ë¦¬ ë° í˜‘ì—… ê²½í—˜ìž",
-DevOps Engineer,í¬ë¦½í† ëž©,"â€¢ Computer Science ë° ê·¸ì— ì¤€í•˜ëŠ” ì „ê³µì˜ í•™ì‚¬ í•™ìœ„ ì´ìƒ í˜¹ì€ ê´€ë ¨ ê²½í—˜ ì†Œìœ ìž
-â€¢ ë¦¬ëˆ…ìŠ¤ í™˜ê²½ í™œìš© ëŠ¥ë ¥ ë° ì‹œìŠ¤í…œ ì—”ì§€ë‹ˆì–´ë§ ê²½í—˜
-â€¢ ì»¨í…Œì´í„° ì˜¤ì¼€ìŠ¤íŠ¸ë ˆì´ì…˜ ê¸°ë°˜ ì„œë¹„ìŠ¤ ë° CI/CDì— ëŒ€í•œ ê²½í—˜
-â€¢ GPUë¥¼ í¬í•¨í•œ í´ëŸ¬ìŠ¤í„° í™˜ê²½ì˜ ëª¨ë‹ˆí„°ë§ ì‹œìŠ¤í…œ êµ¬ì¶• ë° ìš´ìš© ê²½í—˜
-â€¢ íŒ€ì› ë° íƒ€ë¶€ì„œì™€ ì†Œí†µì— ì ê·¹ì ì´ì‹  ë¶„","â€¢ Secure SDL(Software Development Lifecycle)ì— ëŒ€í•œ ê²½í—˜
-â€¢ On-Premise ê¸°ë°˜ ì„œë¹„ìŠ¤ êµ¬ì¶• ê²½í—˜
-â€¢ NCP, AWS, GCP ë“±ì˜ í¼ë¸”ë¦­ í´ë¼ìš°ë“œ ì‚¬ìš© ê²½í—˜
-â€¢ vSphere, Proxmox ë“± í•˜ë“œì›¨ì–´ ê°€ìƒí™”ì— ëŒ€í•œ ê²½í—˜
-â€¢ ìƒˆë¡œìš´ ì§€ì‹ ë° ê²½í—˜ ìŠµë“ì— ì¦ê±°ì›€ì„ ëŠë¼ì‹œëŠ” ë¶„",
-AI Software Engineer,í¬ë¦½í† ëž©,"â€¢ ì»´í“¨í„° ë° ì‘ìš© ìˆ˜í•™ ê´€ë ¨ ë¶„ì•¼ ì „ê³µì˜ í•™ì‚¬ í•™ìœ„ ì´ìƒìž
-â€¢ Python ê°œë°œ ê²½í—˜ìž
-â€¢ ë¨¸ì‹ ëŸ¬ë‹ ë° ë”¥ëŸ¬ë‹ ê°œë°œ ê²½í—˜ìž","â€¢ ë™í˜•ì•”í˜¸ ì•Œê³ ë¦¬ì¦˜ ì—°êµ¬ ë° ê°œë°œ ê²½í—˜ìž
-â€¢ GPU ê°€ì†í™”ë¥¼ ì´ìš©í•œ ë¨¸ì‹ ëŸ¬ë‹ ê°œë°œ ê²½í—˜ìž
-â€¢ ìƒˆë¡œìš´ ë¶„ì•¼ì— ëŒ€í•œ ë„ì „ ì •ì‹ ì´ ìžˆëŠ” ë¶„",
-Applied Scientist,í¬ë¦½í† ëž©,"â€¢ Biomedical ë°ì´í„° ì´ìš©í•œ ë°ì´í„°ë¶„ì„ì´ ê°€ëŠ¥í•œ ë¶„
-â€¢ Python, R ë“±ì˜ í”„ë¡œê·¸ëž˜ë° ì–¸ì–´ë¥¼ í™œìš©í•˜ì—¬ ë¹…ë°ì´í„° ë¶„ì„ì´ ê°€ëŠ¥í•œ ë¶„
-â€¢ ë™í˜•ì•”í˜¸ê¸°ë°˜ ì´í•´ë¥¼ ìœ„í•œ ìˆ˜í•™ì  ê¸°ì´ˆ ì§€ì‹ì„ ê°–ì¶”ì‹  ë¶„
-â€¢ ìƒˆë¡œìš´ ë¶„ì•¼ì˜ ë°ì´í„°ì— ëŒ€í•œ ê´€ì‹¬ê³¼ ì—´ì •ì´ ìžˆìœ¼ì‹  ë¶„","â€¢ Bioinformatics, Computer Science, Statistics ë“± ìœ ê´€ë¶„ì•¼ ì„ì‚¬ì´ìƒ
-â€¢ PPML(Privacy-Preserving Machine Learning)ì„ ì „ê³µí•˜ì‹  ë¶„
-â€¢ PyTorch ê¸°ë°˜ framework ê°œë°œ ê°€ëŠ¥
-â€¢ Linux, Docker, Git ë“±ì˜ ê°œë°œí™˜ê²½ì— ìµìˆ™í•˜ì‹  ë¶„
-â€¢ Kaggle, Dacon ë“± Competition ê²½í—˜ìž ë° ìš°ìˆ˜ ê¸°ë¡ ë³´ìœ ìž
-â€¢ ë‹¤ì–‘í•œ í˜•íƒœì˜ ë°ì´í„° ì „ì²˜ë¦¬~ë¶„ì„ ê²°ê³¼ ë„ì¶œ í”„ë¡œì íŠ¸ ìˆ˜í–‰ ê²½í—˜ì´ ìžˆëŠ” ë¶„",
-ML Engineer,í¬ë¦½í† ëž©,"â€¢ Biomedical ë°ì´í„° í™œìš© ë¶„ì•¼ ì—°êµ¬, ì‚°ì—…ì²´ ê²½ë ¥ ìžˆìœ¼ì‹  ë¶„
-â€¢ Python, C++ ë“±ì˜ í”„ë¡œê·¸ëž˜ë° ì–¸ì–´ë¥¼ í™œìš©í•˜ì—¬ MLì•Œê³ ë¦¬ì¦˜ ê°œë°œì´ ê°€ëŠ¥í•œ ë¶„
-â€¢ ë™í˜•ì•”í˜¸ê¸°ë°˜ ì´í•´ë¥¼ ìœ„í•œ ìˆ˜í•™ì  ê¸°ì´ˆ ì§€ì‹ì„ ê°–ì¶”ì‹  ë¶„
-â€¢ ìƒˆë¡œìš´ ë¶„ì•¼ì˜ ë°ì´í„°ì— ëŒ€í•œ ê´€ì‹¬ê³¼ ì—´ì •ì´ ìžˆìœ¼ì‹  ë¶„","â€¢ Bioinformatics, Computer Science, Statistics ë“± ìœ ê´€ë¶„ì•¼ ì„ì‚¬ì´ìƒ
-â€¢ PPML(Privacy-Preserving Machine Learning)ì„ ì „ê³µí•˜ì‹  ë¶„
-â€¢ PyTorch ê¸°ë°˜ framework ê°œë°œ ê°€ëŠ¥
-â€¢ Linux, Docker, Git ë“±ì˜ ê°œë°œí™˜ê²½ì— ìµìˆ™í•˜ì‹  ë¶„
-â€¢ Kaggle, Dacon ë“± Competition ê²½í—˜ìž ë° ìš°ìˆ˜ ê¸°ë¡ ë³´ìœ ìž
-â€¢ ë‹¤ì–‘í•œ í˜•íƒœì˜ ë°ì´í„° ì „ì²˜ë¦¬~ë¶„ì„ ê²°ê³¼ ë„ì¶œ í”„ë¡œì íŠ¸ ìˆ˜í–‰ ê²½í—˜ì´ ìžˆëŠ” ë¶„",
-[íŒêµ] ëª¨ë°”ì¼ ë§ˆì¼€íŒ… í”Œëž«í¼ í…ŒìŠ¤íŠ¸ì—”ì§€ë‹ˆì–´,ì´ë…¸ì•„ì´,"â€¢ í…ŒìŠ¤íŠ¸ ë°©ë²•ë¡ ì— ëŒ€í•œ ì§€ì‹ê³¼ ê²½í—˜ì„ ë³´ìœ 
-â€¢ ì˜¨ë¼ì¸/ ëª¨ë°”ì¼ ì„œë¹„ìŠ¤ì— ëŒ€í•œ ê²€ì¦ ìˆ˜í–‰ì´ë ¥ì„ ë³´ìœ 
-â€¢ ê²€ì¦ ã…ë¡œì íŠ¸ ê·¸ë£¹ ë¦¬ë”© ê²½í—˜ ë³´ìœ 
-â€¢ ê²€ì¦ ë¶„ì•¼ ê²½ë ¥ 2ë…„ ì´ìƒ","â€¢ QA ì§êµ°/ ê°œë°œ ì§êµ° ì¸ë ¥ë“¤ê³¼ í˜‘ì—…í•˜ê³  ì£¼ìš” ë¦¬ì†ŒìŠ¤ë¥¼ ìž˜ í™œìš©í•œ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ ISTQB ë˜ëŠ” ê²€ì¦ê´€ë ¨ ìžê²©ì¦ ë³´ìœ í•˜ì‹  ë¶„
-â€¢ ì»´í“¨í„° ë˜ëŠ” IT ì¸ì ‘ ì „ê³µì„ ë³´ìœ í•˜ì‹  ë¶„",
-ì›¹ í”„ë¡ íŠ¸ì—”ë“œ ë° ë°±ì—”ë“œ ê°œë°œìž(5-10ë…„),ì—”ì—ìŠ¤ì›ì†Œí”„íŠ¸,"â€¢ í”„ë¡ íŠ¸ì—”ë“œ ì˜ì—­ ê°œë°œ ê¸°ë³¸ ìŠ¤í‚¬ ë³´ìœ (Java, javascript, Spring Boot, JSP, React, Vue.js, etc)
-â€¢ ê´€ë ¨ ê°œë°œê²½ë ¥ 5ë…„~10ë…„ ì‚¬ì´ ìš°ëŒ€
-â€¢ ë°±ì˜¤í”¼ìŠ¤/ê´€ë¦¬ìžì˜ì—­/ë¶„ì„ì˜ì—­ ê°œë°œ ê²½í—˜","â€¢ NMS/APM/SMS ë“± ê°œë°œ ê²½í—˜ìž ìš°ëŒ€
-â€¢ ìŠ¤íƒ€íŠ¸ì—… 4ë…„ì´ìƒ ê²½í—˜ìž ìš°ëŒ€
-â€¢ ë°±ì—”ë“œ ê°œë°œ ìŠ¤í‚¬ ë³´ìœ ìž ìš°ëŒ€",
-ì†Œí”„íŠ¸ì›¨ì–´ ê°œë°œìž,í´ë¦°ì¼ë ‰ìŠ¤,â€¢ Embedded SW ê°œë°œ ê²½í—˜ 3ë…„ ì´ìƒ,"â€¢ Android/Linux application ê°œë°œ ê²½í—˜í•˜ì‹ ë¶„
-â€¢ Android/Linux Kernel/Driver ê°œë°œ ê²½í—˜í•˜ì‹ ë¶„",
-ì¸í”„ë¼ ê°œë°œìž,ëŸ¬ë„ˆìŠ¤,"- ë°±ì—”ë“œ, ì¸í”„ë¼ ê°œë°œ ê´€ë ¨ ê²½ë ¥ 4ë…„ ì´ìƒ ìžˆìœ¼ì‹  ë¶„
+5. BackEnd ±â¹ÝÀÇ ±âº» DB¼³°è °¡´ÉÀÚ","1. graphql »ç¿ë °æÇèÀÚ
+2. Dockers, Jenkins »ç¿ë°æÇè
+3. RDBMS, NoSQL °³¹ß °æÇèÀÚ
+4. Git ÅëÇÑ ¹öÀü°ü¸® ¹× Çù¾÷ °æÇèÀÚ",
+DevOps Engineer,Å©¸³Åä·¦,"? Computer Science ¹× ±×¿¡ ÁØÇÏ´Â Àü°øÀÇ ÇÐ»ç ÇÐÀ§ ÀÌ»ó È¤Àº °ü·Ã °æÇè ¼ÒÀ¯ÀÚ
+? ¸®´ª½º È¯°æ È°¿ë ´É·Â ¹× ½Ã½ºÅÛ ¿£Áö´Ï¾î¸µ °æÇè
+? ÄÁÅ×ÀÌÅÍ ¿ÀÄÉ½ºÆ®·¹ÀÌ¼Ç ±â¹Ý ¼­ºñ½º ¹× CI/CD¿¡ ´ëÇÑ °æÇè
+? GPU¸¦ Æ÷ÇÔÇÑ Å¬·¯½ºÅÍ È¯°æÀÇ ¸ð´ÏÅÍ¸µ ½Ã½ºÅÛ ±¸Ãà ¹× ¿î¿ë °æÇè
+? ÆÀ¿ø ¹× Å¸ºÎ¼­¿Í ¼ÒÅë¿¡ Àû±ØÀûÀÌ½Å ºÐ","? Secure SDL(Software Development Lifecycle)¿¡ ´ëÇÑ °æÇè
+? On-Premise ±â¹Ý ¼­ºñ½º ±¸Ãà °æÇè
+? NCP, AWS, GCP µîÀÇ ÆÛºí¸¯ Å¬¶ó¿ìµå »ç¿ë °æÇè
+? vSphere, Proxmox µî ÇÏµå¿þ¾î °¡»óÈ­¿¡ ´ëÇÑ °æÇè
+? »õ·Î¿î Áö½Ä ¹× °æÇè ½Àµæ¿¡ Áñ°Å¿òÀ» ´À³¢½Ã´Â ºÐ",
+AI Software Engineer,Å©¸³Åä·¦,"? ÄÄÇ»ÅÍ ¹× ÀÀ¿ë ¼öÇÐ °ü·Ã ºÐ¾ß Àü°øÀÇ ÇÐ»ç ÇÐÀ§ ÀÌ»óÀÚ
+? Python °³¹ß °æÇèÀÚ
+? ¸Ó½Å·¯´× ¹× µö·¯´× °³¹ß °æÇèÀÚ","? µ¿Çü¾ÏÈ£ ¾Ë°í¸®Áò ¿¬±¸ ¹× °³¹ß °æÇèÀÚ
+? GPU °¡¼ÓÈ­¸¦ ÀÌ¿ëÇÑ ¸Ó½Å·¯´× °³¹ß °æÇèÀÚ
+? »õ·Î¿î ºÐ¾ß¿¡ ´ëÇÑ µµÀü Á¤½ÅÀÌ ÀÖ´Â ºÐ",
+Applied Scientist,Å©¸³Åä·¦,"? Biomedical µ¥ÀÌÅÍ ÀÌ¿ëÇÑ µ¥ÀÌÅÍºÐ¼®ÀÌ °¡´ÉÇÑ ºÐ
+? Python, R µîÀÇ ÇÁ·Î±×·¡¹Ö ¾ð¾î¸¦ È°¿ëÇÏ¿© ºòµ¥ÀÌÅÍ ºÐ¼®ÀÌ °¡´ÉÇÑ ºÐ
+? µ¿Çü¾ÏÈ£±â¹Ý ÀÌÇØ¸¦ À§ÇÑ ¼öÇÐÀû ±âÃÊ Áö½ÄÀ» °®Ãß½Å ºÐ
+? »õ·Î¿î ºÐ¾ßÀÇ µ¥ÀÌÅÍ¿¡ ´ëÇÑ °ü½É°ú ¿­Á¤ÀÌ ÀÖÀ¸½Å ºÐ","? Bioinformatics, Computer Science, Statistics µî À¯°üºÐ¾ß ¼®»çÀÌ»ó
+? PPML(Privacy-Preserving Machine Learning)À» Àü°øÇÏ½Å ºÐ
+? PyTorch ±â¹Ý framework °³¹ß °¡´É
+? Linux, Docker, Git µîÀÇ °³¹ßÈ¯°æ¿¡ ÀÍ¼÷ÇÏ½Å ºÐ
+? Kaggle, Dacon µî Competition °æÇèÀÚ ¹× ¿ì¼ö ±â·Ï º¸À¯ÀÚ
+? ´Ù¾çÇÑ ÇüÅÂÀÇ µ¥ÀÌÅÍ ÀüÃ³¸®~ºÐ¼® °á°ú µµÃâ ÇÁ·ÎÁ§Æ® ¼öÇà °æÇèÀÌ ÀÖ´Â ºÐ",
+ML Engineer,Å©¸³Åä·¦,"? Biomedical µ¥ÀÌÅÍ È°¿ë ºÐ¾ß ¿¬±¸, »ê¾÷Ã¼ °æ·Â ÀÖÀ¸½Å ºÐ
+? Python, C++ µîÀÇ ÇÁ·Î±×·¡¹Ö ¾ð¾î¸¦ È°¿ëÇÏ¿© ML¾Ë°í¸®Áò °³¹ßÀÌ °¡´ÉÇÑ ºÐ
+? µ¿Çü¾ÏÈ£±â¹Ý ÀÌÇØ¸¦ À§ÇÑ ¼öÇÐÀû ±âÃÊ Áö½ÄÀ» °®Ãß½Å ºÐ
+? »õ·Î¿î ºÐ¾ßÀÇ µ¥ÀÌÅÍ¿¡ ´ëÇÑ °ü½É°ú ¿­Á¤ÀÌ ÀÖÀ¸½Å ºÐ","? Bioinformatics, Computer Science, Statistics µî À¯°üºÐ¾ß ¼®»çÀÌ»ó
+? PPML(Privacy-Preserving Machine Learning)À» Àü°øÇÏ½Å ºÐ
+? PyTorch ±â¹Ý framework °³¹ß °¡´É
+? Linux, Docker, Git µîÀÇ °³¹ßÈ¯°æ¿¡ ÀÍ¼÷ÇÏ½Å ºÐ
+? Kaggle, Dacon µî Competition °æÇèÀÚ ¹× ¿ì¼ö ±â·Ï º¸À¯ÀÚ
+? ´Ù¾çÇÑ ÇüÅÂÀÇ µ¥ÀÌÅÍ ÀüÃ³¸®~ºÐ¼® °á°ú µµÃâ ÇÁ·ÎÁ§Æ® ¼öÇà °æÇèÀÌ ÀÖ´Â ºÐ",
+[ÆÇ±³] ¸ð¹ÙÀÏ ¸¶ÄÉÆÃ ÇÃ·§Æû Å×½ºÆ®¿£Áö´Ï¾î,ÀÌ³ë¾ÆÀÌ,"? Å×½ºÆ® ¹æ¹ý·Ð¿¡ ´ëÇÑ Áö½Ä°ú °æÇèÀ» º¸À¯
+? ¿Â¶óÀÎ/ ¸ð¹ÙÀÏ ¼­ºñ½º¿¡ ´ëÇÑ °ËÁõ ¼öÇàÀÌ·ÂÀ» º¸À¯
+? °ËÁõ ¤½·ÎÁ§Æ® ±×·ì ¸®µù °æÇè º¸À¯
+? °ËÁõ ºÐ¾ß °æ·Â 2³â ÀÌ»ó","? QA Á÷±º/ °³¹ß Á÷±º ÀÎ·Âµé°ú Çù¾÷ÇÏ°í ÁÖ¿ä ¸®¼Ò½º¸¦ Àß È°¿ëÇÑ °æÇèÀÌ ÀÖ´Â ºÐ
+? ISTQB ¶Ç´Â °ËÁõ°ü·Ã ÀÚ°ÝÁõ º¸À¯ÇÏ½Å ºÐ
+? ÄÄÇ»ÅÍ ¶Ç´Â IT ÀÎÁ¢ Àü°øÀ» º¸À¯ÇÏ½Å ºÐ",
+À¥ ÇÁ·ÐÆ®¿£µå ¹× ¹é¿£µå °³¹ßÀÚ(5-10³â),¿£¿¡½º¿ø¼ÒÇÁÆ®,"? ÇÁ·ÐÆ®¿£µå ¿µ¿ª °³¹ß ±âº» ½ºÅ³ º¸À¯(Java, javascript, Spring Boot, JSP, React, Vue.js, etc)
+? °ü·Ã °³¹ß°æ·Â 5³â~10³â »çÀÌ ¿ì´ë
+? ¹é¿ÀÇÇ½º/°ü¸®ÀÚ¿µ¿ª/ºÐ¼®¿µ¿ª °³¹ß °æÇè","? NMS/APM/SMS µî °³¹ß °æÇèÀÚ ¿ì´ë
+? ½ºÅ¸Æ®¾÷ 4³âÀÌ»ó °æÇèÀÚ ¿ì´ë
+? ¹é¿£µå °³¹ß ½ºÅ³ º¸À¯ÀÚ ¿ì´ë",
+¼ÒÇÁÆ®¿þ¾î °³¹ßÀÚ,Å¬¸°ÀÏ·º½º,? Embedded SW °³¹ß °æÇè 3³â ÀÌ»ó,"? Android/Linux application °³¹ß °æÇèÇÏ½ÅºÐ
+? Android/Linux Kernel/Driver °³¹ß °æÇèÇÏ½ÅºÐ",
+ÀÎÇÁ¶ó °³¹ßÀÚ,·¯³Ê½º,"- ¹é¿£µå, ÀÎÇÁ¶ó °³¹ß °ü·Ã °æ·Â 4³â ÀÌ»ó ÀÖÀ¸½Å ºÐ
 
-- AWS í™˜ê²½ì—ì„œ ì¸í”„ë¼ ë° ì„œë¹„ìŠ¤ë¥¼ ìš´ì˜í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
+- AWS È¯°æ¿¡¼­ ÀÎÇÁ¶ó ¹× ¼­ºñ½º¸¦ ¿î¿µÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
 
-- AWS Docker/Kubernetes ì¸í”„ë¼ êµ¬ì¶• ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
+- AWS Docker/Kubernetes ÀÎÇÁ¶ó ±¸Ãà °æÇèÀÌ ÀÖÀ¸½Å ºÐ
 
-- Elasticsearch ê²€ìƒ‰ì—”ì§„ êµ¬ì¶• ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„","- ìŠ¤íƒ€íŠ¸ì—…ì„ ì°½ì—…í•´ ë´¤ê±°ë‚˜ ê°œë°œ ì¡°ì§ ë¦¬ë“œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
+- Elasticsearch °Ë»ö¿£Áø ±¸Ãà °æÇèÀÌ ÀÖÀ¸½Å ºÐ","- ½ºÅ¸Æ®¾÷À» Ã¢¾÷ÇØ ºÃ°Å³ª °³¹ß Á¶Á÷ ¸®µå °æÇèÀÌ ÀÖÀ¸½Å ºÐ
 
-- í”Œëž«í¼ ì„œë¹„ìŠ¤ ëŸ°ì¹­ ë° ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
+- ÇÃ·§Æû ¼­ºñ½º ·±Äª ¹× ¿î¿µ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
 
-- ìŠ¤ìŠ¤ë¡œ ë¬¸ì œë¥¼ ì°¾ì•„ì„œ í•´ê²°í•˜ê³ , ê·¸ë¡œë¶€í„° ì„±ì·¨ê°ì„ ëŠë¼ì‹œëŠ” ë¶„",
-ë°±ì—”ë“œ ê°œë°œìž,ë””ë‚˜ë¹„,"â€¢ ì‹¤ë¬´ ê²½ë ¥ ìµœì†Œ 4ë…„ ì´ìƒ / ì–´í”Œë¦¬ì¼€ì´ì…˜ ê°œë°œ ê²½í—˜ 3ë…„ ì´ìƒ 8ë…„ ì´í•˜
-â€¢ ìµœì†Œ 1íšŒ ì´ìƒì˜ ëª¨ë°”ì¼ í™˜ê²½ì˜ ë°±ì—”ë“œ ìš´ì˜/ê°œë°œ ê²½í—˜ ë³´ìœ 
-â€¢ ë³¸ì¸ì˜ ì£¼ ì–¸ì–´ì— ëŒ€í•´ ë†’ì€ ì´í•´ë¥¼ í•˜ì‹œëŠ” ë¶„
-â€¢ ë°ì´í„° ëª¨ë¸ë§ ë° ê¸°ìˆ  ëª…ì„¸ ë“± ë¬¸ì„œí™”ë¥¼ ê¼¼ê¼¼í•˜ê²Œ í•˜ì‹œëŠ” ë¶„","â€¢ ì• ìžì¼ í”„ë¡œì„¸ìŠ¤ ê´€ë ¨ ê²½í—˜ì´ ìžˆëŠ” ë¶„ ë˜ëŠ” ìŠ¤íƒ€íŠ¸ì—… ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ëª¨ë°”ì¼/ì›¹ í”Œëž«í¼ì˜ ìµœì‹  ê¸°ìˆ ì„ ì£¼ì²´ì ìœ¼ë¡œ í•™ìŠµí•˜ê±°ë‚˜ ìƒˆë¡œìš´ íˆ´ê³¼ ë°©ë²•ë¡ ì— ê´€ì‹¬ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ì ê·¹ì ì´ê³  ì±…ìž„ê° ê°•í•˜ì‹  ë¶„
-â€¢ ìžê¸°ê°œë°œì— ëŒ€í•œ ìš•êµ¬ê°€ ìžˆìœ¼ì‹  ë¶„",
-Data Scientist(ë°ì´í„° ì‚¬ì´ì–¸í‹°ìŠ¤íŠ¸),í”„ë¼ì´ë°ì´ì¦ˆëž©(Retentics),"[ë°ì´í„° ì‚¬ì´ì–¸í‹°ìŠ¤íŠ¸ë¡œ ì´ëŸ° ë¶„ì„ ì°¾ì•„ìš”]
-#ìžê²© ìš”ê±´
-â€¢ 3ë…„ ì´ìƒì˜ ML/DL ëª¨ë¸ë§ì— ê¸°ë°˜í•œ í”„ë¡œì íŠ¸ ì‹¤ë¬´ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ê°œì¸í™” ì¶”ì²œ ë° ê³ ê° ê²½í—˜ ê´€ë ¨ ëª¨ë¸ë§ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ì´ì»¤ë¨¸ìŠ¤ ë° ê±°ëž˜ ë°ì´í„° ë„ë©”ì¸ì— ëŒ€í•œ ì´í•´ë„ í˜¹ì€ ê´€ë ¨ ê·¼ë¬´ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ Pythonê³¼ SQL í”„ë¡œê·¸ëž˜ë°ì„ ëŠ¥ìˆ™í•˜ê²Œ ë‹¤ë£° ìˆ˜ ìžˆìœ¼ì‹  ë¶„
-â€¢ ML/DLì— ëŒ€í•œ ë™ìž‘ ë°©ì‹ê³¼ ìˆ˜í•™ì  ì›ë¦¬ì— ëŒ€í•œ ì´í•´ë„ê°€ ìžˆìœ¼ì‹  ë¶„
-â€¢ í•¨ê»˜ í˜‘ì—…í•˜ëŠ” ì‚¬ëžŒë“¤ê³¼ ìœ ì—°í•˜ê²Œ ì˜ì‚¬ì†Œí†µ í•  ìˆ˜ ìžˆìœ¼ì‹  ë¶„","[ì´ëŸ° ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„ì´ë©´ ë” ì¢‹ì•„ìš”]
-#ìš°ëŒ€ ì‚¬í•­
-â€¢ Data Science ê´€ë ¨ ì „ê³µ(í†µê³„í•™ê³¼, ìˆ˜í•™ê³¼, ì»´í“¨í„°ê³¼í•™ ë“±) ì„ì‚¬ ì´ìƒì˜ í•™ë ¥ì„ ë³´ìœ í•˜ì‹  ë¶„
-â€¢ B2C ë¹„ì¦ˆë‹ˆìŠ¤ì—ì„œ ë¨¸ì‹ ëŸ¬ë‹ ëª¨ë¸ë§ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ê²°ê³¼ì™€ ê³¼ì •ì— ëŒ€í•´ ë…¼ë¦¬ì ìœ¼ë¡œ ì„¤ëª…í•  ìˆ˜ ìžˆìœ¼ì‹  ë¶„
-â€¢ ëŒ€ìš©ëŸ‰ ë°ì´í„° ì²˜ë¦¬/ë¶„ì„ (Spark) ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ë¹ ë¥´ê²Œ ì‹¤í—˜í•˜ê³  ë°˜ë³µì ì¸ í”¼ë“œë°±ìœ¼ë¡œ ëª¨ë¸ì„ ê°œì„ í•´ ë‚˜ê°€ì‹œëŠ” ë¶„
-â€¢ ì˜ì–´ê¶Œ êµ­ê°€ì—ì„œ í•™ìœ„ë¥¼ ì·¨ë“í•˜ì…¨ê±°ë‚˜ í˜¹ì€ ì˜ì–´ë¡œ ì—…ë¬´ê°€ ê°€ëŠ¥í•˜ì‹  ë¶„
+- ½º½º·Î ¹®Á¦¸¦ Ã£¾Æ¼­ ÇØ°áÇÏ°í, ±×·ÎºÎÅÍ ¼ºÃë°¨À» ´À³¢½Ã´Â ºÐ",
+¹é¿£µå °³¹ßÀÚ,µð³ªºñ,"? ½Ç¹« °æ·Â ÃÖ¼Ò 4³â ÀÌ»ó / ¾îÇÃ¸®ÄÉÀÌ¼Ç °³¹ß °æÇè 3³â ÀÌ»ó 8³â ÀÌÇÏ
+? ÃÖ¼Ò 1È¸ ÀÌ»óÀÇ ¸ð¹ÙÀÏ È¯°æÀÇ ¹é¿£µå ¿î¿µ/°³¹ß °æÇè º¸À¯
+? º»ÀÎÀÇ ÁÖ ¾ð¾î¿¡ ´ëÇØ ³ôÀº ÀÌÇØ¸¦ ÇÏ½Ã´Â ºÐ
+? µ¥ÀÌÅÍ ¸ðµ¨¸µ ¹× ±â¼ú ¸í¼¼ µî ¹®¼­È­¸¦ ²Ä²ÄÇÏ°Ô ÇÏ½Ã´Â ºÐ","? ¾ÖÀÚÀÏ ÇÁ·Î¼¼½º °ü·Ã °æÇèÀÌ ÀÖ´Â ºÐ ¶Ç´Â ½ºÅ¸Æ®¾÷ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ¸ð¹ÙÀÏ/À¥ ÇÃ·§ÆûÀÇ ÃÖ½Å ±â¼úÀ» ÁÖÃ¼ÀûÀ¸·Î ÇÐ½ÀÇÏ°Å³ª »õ·Î¿î Åø°ú ¹æ¹ý·Ð¿¡ °ü½ÉÀÌ ÀÖÀ¸½Å ºÐ
+? Àû±ØÀûÀÌ°í Ã¥ÀÓ°¨ °­ÇÏ½Å ºÐ
+? ÀÚ±â°³¹ß¿¡ ´ëÇÑ ¿å±¸°¡ ÀÖÀ¸½Å ºÐ",
+Data Scientist(µ¥ÀÌÅÍ »çÀÌ¾ðÆ¼½ºÆ®),ÇÁ¶óÀÌµ¥ÀÌÁî·¦(Retentics),"[µ¥ÀÌÅÍ »çÀÌ¾ðÆ¼½ºÆ®·Î ÀÌ·± ºÐÀ» Ã£¾Æ¿ä]
+#ÀÚ°Ý ¿ä°Ç
+? 3³â ÀÌ»óÀÇ ML/DL ¸ðµ¨¸µ¿¡ ±â¹ÝÇÑ ÇÁ·ÎÁ§Æ® ½Ç¹« °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? °³ÀÎÈ­ ÃßÃµ ¹× °í°´ °æÇè °ü·Ã ¸ðµ¨¸µ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ÀÌÄ¿¸Ó½º ¹× °Å·¡ µ¥ÀÌÅÍ µµ¸ÞÀÎ¿¡ ´ëÇÑ ÀÌÇØµµ È¤Àº °ü·Ã ±Ù¹« °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? Python°ú SQL ÇÁ·Î±×·¡¹ÖÀ» ´É¼÷ÇÏ°Ô ´Ù·ê ¼ö ÀÖÀ¸½Å ºÐ
+? ML/DL¿¡ ´ëÇÑ µ¿ÀÛ ¹æ½Ä°ú ¼öÇÐÀû ¿ø¸®¿¡ ´ëÇÑ ÀÌÇØµµ°¡ ÀÖÀ¸½Å ºÐ
+? ÇÔ²² Çù¾÷ÇÏ´Â »ç¶÷µé°ú À¯¿¬ÇÏ°Ô ÀÇ»ç¼ÒÅë ÇÒ ¼ö ÀÖÀ¸½Å ºÐ","[ÀÌ·± °æÇèÀÌ ÀÖÀ¸½Å ºÐÀÌ¸é ´õ ÁÁ¾Æ¿ä]
+#¿ì´ë »çÇ×
+? Data Science °ü·Ã Àü°ø(Åë°èÇÐ°ú, ¼öÇÐ°ú, ÄÄÇ»ÅÍ°úÇÐ µî) ¼®»ç ÀÌ»óÀÇ ÇÐ·ÂÀ» º¸À¯ÇÏ½Å ºÐ
+? B2C ºñÁî´Ï½º¿¡¼­ ¸Ó½Å·¯´× ¸ðµ¨¸µ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? °á°ú¿Í °úÁ¤¿¡ ´ëÇØ ³í¸®ÀûÀ¸·Î ¼³¸íÇÒ ¼ö ÀÖÀ¸½Å ºÐ
+? ´ë¿ë·® µ¥ÀÌÅÍ Ã³¸®/ºÐ¼® (Spark) °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ºü¸£°Ô ½ÇÇèÇÏ°í ¹Ýº¹ÀûÀÎ ÇÇµå¹éÀ¸·Î ¸ðµ¨À» °³¼±ÇØ ³ª°¡½Ã´Â ºÐ
+? ¿µ¾î±Ç ±¹°¡¿¡¼­ ÇÐÀ§¸¦ ÃëµæÇÏ¼Ì°Å³ª È¤Àº ¿µ¾î·Î ¾÷¹«°¡ °¡´ÉÇÏ½Å ºÐ
 
-#ë°ì´í„° ì‚¬ì´ì–¸í‹°ìŠ¤íŠ¸ ê¸°ìˆ  ìŠ¤íƒ
-â€¢ ë°ì´í„° ì²˜ë¦¬/ë¶„ì„ ë¼ì´ë¸ŒëŸ¬ë¦¬ëŠ” NumPy, Pandas, Spark ë¥¼ ì‚¬ìš©í•˜ê³  ìžˆìŠµë‹ˆë‹¤.
-â€¢ ML/DL ë¼ì´ë¸ŒëŸ¬ë¦¬ëŠ” Scikit-Learn, Pytorch, Tensorflowë¥¼ ì‚¬ìš©í•˜ê³  ìžˆìŠµë‹ˆë‹¤.
-â€¢ í´ë¼ìš°ë“œ ì»´í“¨íŒ… ì„œë¹„ìŠ¤ë¡œ AWSë¥¼ ì‚¬ìš©í•˜ê³  ìžˆìŠµë‹ˆë‹¤.",
-ëª¨ë°”ì¼ ì•± ê°œë°œ ë° ìš´ì˜ìž(6ë…„ ì´ìƒ),ì”¨ì—˜ì— ì•¤ì—ìŠ¤(CLM&S),"â€¢ ê³¼ìž¥ê¸‰
-- í•™ë ¥ : ëŒ€ì¡¸ì´ìƒ
-- ëª¨ë°”ì¼ ê°œë°œ ê²½ë ¥ 6ë…„ ì´ìƒ
-- ì•„ëž˜ ê¸°ìˆ  ì¤‘ê¸‰ ì´ìƒìœ¼ë¡œ ì‹¤ì œ ì„œë¹„ìŠ¤ ê°œë°œ ë° ìš´ì˜ì— í™œìš©í•´ë³´ì‹  ë¶„
+#µ¥ÀÌÅÍ »çÀÌ¾ðÆ¼½ºÆ® ±â¼ú ½ºÅÃ
+? µ¥ÀÌÅÍ Ã³¸®/ºÐ¼® ¶óÀÌºê·¯¸®´Â NumPy, Pandas, Spark ¸¦ »ç¿ëÇÏ°í ÀÖ½À´Ï´Ù.
+? ML/DL ¶óÀÌºê·¯¸®´Â Scikit-Learn, Pytorch, Tensorflow¸¦ »ç¿ëÇÏ°í ÀÖ½À´Ï´Ù.
+? Å¬¶ó¿ìµå ÄÄÇ»ÆÃ ¼­ºñ½º·Î AWS¸¦ »ç¿ëÇÏ°í ÀÖ½À´Ï´Ù.",
+¸ð¹ÙÀÏ ¾Û °³¹ß ¹× ¿î¿µÀÚ(6³â ÀÌ»ó),¾¾¿¤¿¥¾Ø¿¡½º(CLM&S),"? °úÀå±Þ
+- ÇÐ·Â : ´ëÁ¹ÀÌ»ó
+- ¸ð¹ÙÀÏ °³¹ß °æ·Â 6³â ÀÌ»ó
+- ¾Æ·¡ ±â¼ú Áß±Þ ÀÌ»óÀ¸·Î ½ÇÁ¦ ¼­ºñ½º °³¹ß ¹× ¿î¿µ¿¡ È°¿ëÇØº¸½Å ºÐ
    [AWS, node.js, javascript, Git, flutter]","AWS Cloud(ECS, EC2, RDS-AuroraDB, DynamoDB, SMS, SQS, Codepipeline),
-kubernetes, Docker, CI/DC, MSA, react/vuejs/react-native, kafka ìœ ê²½í—˜ìž",
-ëª¨ë°”ì¼ ì•± ê°œë°œ ë° ìš´ì˜ìž(3~5ë…„),ì”¨ì—˜ì— ì•¤ì—ìŠ¤(CLM&S),"â€¢ ëŒ€ë¦¬ê¸‰
-- í•™ë ¥ : ëŒ€ì¡¸ì´ìƒ
-- ëª¨ë°”ì¼ ê°œë°œ 3~5ë…„
-- ì•„ëž˜ ê¸°ìˆ  ì´ˆê¸‰ ì´ìƒìœ¼ë¡œ ì‹¤ì œ ì„œë¹„ìŠ¤ ê°œë°œ ë° ìš´ì˜ì— í™œìš©í•´ë³´ì‹  ë¶„
+kubernetes, Docker, CI/DC, MSA, react/vuejs/react-native, kafka À¯°æÇèÀÚ",
+¸ð¹ÙÀÏ ¾Û °³¹ß ¹× ¿î¿µÀÚ(3~5³â),¾¾¿¤¿¥¾Ø¿¡½º(CLM&S),"? ´ë¸®±Þ
+- ÇÐ·Â : ´ëÁ¹ÀÌ»ó
+- ¸ð¹ÙÀÏ °³¹ß 3~5³â
+- ¾Æ·¡ ±â¼ú ÃÊ±Þ ÀÌ»óÀ¸·Î ½ÇÁ¦ ¼­ºñ½º °³¹ß ¹× ¿î¿µ¿¡ È°¿ëÇØº¸½Å ºÐ
    [AWS, node.js, javascript, Git, flutter]","AWS Cloud(ECS, EC2, RDS-AuroraDB, DynamoDB, SMS, SQS, Codepipeline),
-kubernetes, Docker, CI/DC, MSA, react/vuejs/react-native, kafka ìœ ê²½í—˜ìž",
-ë°±ì—”ë“œ ê°œë°œìž,ëŸ¬ë„ˆìŠ¤,"- Nestjs ê°œë°œ ê²½ë ¥ 1ë…„ ì´ìƒ ë˜ëŠ” ê·¸ì— ì¤€í•˜ì‹œëŠ” ë¶„
-- NestJS í”„ë ˆìž„ì›Œí¬ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„","- Docker / Kubernetes ì— ê´€ì‹¬ ë˜ëŠ” ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- Kafka / Elasticsearch ì— ê´€ì‹¬ ë˜ëŠ” ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- ìŠ¤íƒ€íŠ¸ì—…ì„ ì°½ì—…í•´ ë´¤ê±°ë‚˜ ê°œë°œ ì¡°ì§ ë¦¬ë“œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- í”Œëž«í¼ ì„œë¹„ìŠ¤ ëŸ°ì¹­ ë° ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- ìŠ¤ìŠ¤ë¡œ ë¬¸ì œë¥¼ ì°¾ì•„ì„œ í•´ê²°í•˜ê³ , ê·¸ë¡œë¶€í„° ì„±ì·¨ê°ì„ ëŠë¼ì‹œëŠ” ë¶„",
-Flutter ê°œë°œìž,ì—‘ìŠ¤ì•Œì—ì´ì•„ì´,"â€¢ ê²½ë ¥ ë¬´ê´€
-â€¢ í•™ë ¥ ë¬´ê´€","â€¢ ê´€ë ¨ ì „ê³µìž
-â€¢ Firebase, RESTful api ì—°ë™ ê²½í—˜
-â€¢ í˜•ìƒê´€ë¦¬ ì‚¬ìš© ë° í˜‘ì—… ê²½í—˜
-â€¢ ì•± ë°°í¬ ë° ìœ ì§€ë³´ìˆ˜ ê²½í—˜
-â€¢ ìƒíƒœê´€ë¦¬(RiverPod, Provider ë“±) ê²½í—˜
-â€¢ Flutter ê°œë°œ ê²½ë ¥ì´ ìžˆëŠ” ë¶„",
-React ê°œë°œìž,ë„¥ì‹œë¹Œ,"â€¢ í•™ë ¥ : ê³µí•™ê³„ì—´ í•™ì‚¬ì´ìƒ(ë‹¨, ì—…ë¬´ëŠ¥ë ¥ì— ë”°ë¼ ì£¼ì–´ì§€ëŠ” ì¼ê³¼ ë³´ìƒì´ ë‹¤ë¦…ë‹ˆë‹¤.)
+kubernetes, Docker, CI/DC, MSA, react/vuejs/react-native, kafka À¯°æÇèÀÚ",
+¹é¿£µå °³¹ßÀÚ,·¯³Ê½º,"- Nestjs °³¹ß °æ·Â 1³â ÀÌ»ó ¶Ç´Â ±×¿¡ ÁØÇÏ½Ã´Â ºÐ
+- NestJS ÇÁ·¹ÀÓ¿öÅ© °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ","- Docker / Kubernetes ¿¡ °ü½É ¶Ç´Â °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- Kafka / Elasticsearch ¿¡ °ü½É ¶Ç´Â °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- ½ºÅ¸Æ®¾÷À» Ã¢¾÷ÇØ ºÃ°Å³ª °³¹ß Á¶Á÷ ¸®µå °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- ÇÃ·§Æû ¼­ºñ½º ·±Äª ¹× ¿î¿µ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- ½º½º·Î ¹®Á¦¸¦ Ã£¾Æ¼­ ÇØ°áÇÏ°í, ±×·ÎºÎÅÍ ¼ºÃë°¨À» ´À³¢½Ã´Â ºÐ",
+Flutter °³¹ßÀÚ,¿¢½º¾Ë¿¡ÀÌ¾ÆÀÌ,"? °æ·Â ¹«°ü
+? ÇÐ·Â ¹«°ü","? °ü·Ã Àü°øÀÚ
+? Firebase, RESTful api ¿¬µ¿ °æÇè
+? Çü»ó°ü¸® »ç¿ë ¹× Çù¾÷ °æÇè
+? ¾Û ¹èÆ÷ ¹× À¯Áöº¸¼ö °æÇè
+? »óÅÂ°ü¸®(RiverPod, Provider µî) °æÇè
+? Flutter °³¹ß °æ·ÂÀÌ ÀÖ´Â ºÐ",
+React °³¹ßÀÚ,³Ø½Ãºô,"? ÇÐ·Â : °øÇÐ°è¿­ ÇÐ»çÀÌ»ó(´Ü, ¾÷¹«´É·Â¿¡ µû¶ó ÁÖ¾îÁö´Â ÀÏ°ú º¸»óÀÌ ´Ù¸¨´Ï´Ù.)
 
-â€¢ ì™¸êµ­ì–´ ëŠ¥ë ¥(ì˜ì–´): ë…í•´(ì½ê¸°) ì¤‘ê¸‰ ì´ìƒ(ìµœì†Œí•œ Stack_Overflowì—ì„œ ì§ˆì˜ ì‘ë‹µì„ íŒŒì•…í•  ìˆ˜ ìžˆì–´ì•¼ í•©ë‹ˆë‹¤.)
+? ¿Ü±¹¾î ´É·Â(¿µ¾î): µ¶ÇØ(ÀÐ±â) Áß±Þ ÀÌ»ó(ÃÖ¼ÒÇÑ Stack_Overflow¿¡¼­ ÁúÀÇ ÀÀ´äÀ» ÆÄ¾ÇÇÒ ¼ö ÀÖ¾î¾ß ÇÕ´Ï´Ù.)
 
-â€¢ ì±…ìž„ê°ê³¼ ì†Œëª…ì˜ì‹: ë„¥ì‹œë¹Œì˜ ì—…ë¬´í‰ê°€ëŠ” ì±…ìž„ê°ê³¼ ì„±ê³¼ë¥¼ ê¸°ë³¸ìœ¼ë¡œ í•©ë‹ˆë‹¤.","â€¢ ì´ê³µê³„ ì„ì‚¬/ë°•ì‚¬
+? Ã¥ÀÓ°¨°ú ¼Ò¸íÀÇ½Ä: ³Ø½ÃºôÀÇ ¾÷¹«Æò°¡´Â Ã¥ÀÓ°¨°ú ¼º°ú¸¦ ±âº»À¸·Î ÇÕ´Ï´Ù.","? ÀÌ°ø°è ¼®»ç/¹Ú»ç
 
-â€¢ ê³µí•™ê³„ì—´, ìžì—°ê³„ì—´(íŠ¹ížˆ, ì—­í•™/ìˆ˜í•™ì— ëŠ¥ìˆ™í•˜ì‹  ë¶„ë“¤ì„ ìš°ëŒ€í•©ë‹ˆë‹¤.)
+? °øÇÐ°è¿­, ÀÚ¿¬°è¿­(Æ¯È÷, ¿ªÇÐ/¼öÇÐ¿¡ ´É¼÷ÇÏ½Å ºÐµéÀ» ¿ì´ëÇÕ´Ï´Ù.)
 
-â€¢ JavaScript, React, three.js, python ê°œë°œ ê²½í—˜ìž",
-"[firebase,Vue.js] í’€ìŠ¤íƒ ê°œë°œìž",ë¯¸ëŸ¬,"[ ì–´ë–¤ ì¡°ê±´ì´ í•„ìš”í•œê°€ìš”? ]
+? JavaScript, React, three.js, python °³¹ß °æÇèÀÚ",
+"[firebase,Vue.js] Ç®½ºÅÃ °³¹ßÀÚ",¹Ì·¯,"[ ¾î¶² Á¶°ÇÀÌ ÇÊ¿äÇÑ°¡¿ä? ]
 
-- ì›¹ ì–´í”Œë¦¬ì¼€ì´ì…˜ í”„ë¡ íŠ¸ì—”ë“œ ë° ë°±ì—”ë“œ ê°œë°œ 5ë…„ ì´ìƒ ë˜ëŠ” ì´ì— ì¤€í•˜ëŠ” ì—­ëŸ‰ì„ ë³´ìœ í•˜ì‹  ë¶„
-- HTML(5), CSS, javascript(ES6) ì§€ì‹ì„ ë³´ìœ í•˜ê³  ê³„ì‹  ë¶„[í•„ìˆ˜]
-- Vue.jsë¥¼ ì´ìš©í•œ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„[í•„ìˆ˜]
-- RESTful API í´ë¼ì´ì–¸íŠ¸ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„[í•„ìˆ˜]
-- Firebase ë¥¼ ì´ìš©í•œ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„[í•„ìˆ˜]
-- ì œë„¤ì‹œìŠ¤ ë¸”ë¡ì„ ì‚¬ìš©í•  ì¤„ ì•„ì‹œëŠ” ë¶„[í•„ìˆ˜]
-- node.jsë¥¼ ì´ìš©í•œ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- next.jsë¥¼ ì´ìš©í•œ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„","[ ì´ëŸ° ì ì´ ìžˆë‹¤ë©´ ë”ìš± ì¢‹ì•„ìš” ! ]
+- À¥ ¾îÇÃ¸®ÄÉÀÌ¼Ç ÇÁ·ÐÆ®¿£µå ¹× ¹é¿£µå °³¹ß 5³â ÀÌ»ó ¶Ç´Â ÀÌ¿¡ ÁØÇÏ´Â ¿ª·®À» º¸À¯ÇÏ½Å ºÐ
+- HTML(5), CSS, javascript(ES6) Áö½ÄÀ» º¸À¯ÇÏ°í °è½Å ºÐ[ÇÊ¼ö]
+- Vue.js¸¦ ÀÌ¿ëÇÑ °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ[ÇÊ¼ö]
+- RESTful API Å¬¶óÀÌ¾ðÆ® °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ[ÇÊ¼ö]
+- Firebase ¸¦ ÀÌ¿ëÇÑ °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ[ÇÊ¼ö]
+- Á¦³×½Ã½º ºí·ÏÀ» »ç¿ëÇÒ ÁÙ ¾Æ½Ã´Â ºÐ[ÇÊ¼ö]
+- node.js¸¦ ÀÌ¿ëÇÑ °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- next.js¸¦ ÀÌ¿ëÇÑ °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ","[ ÀÌ·± Á¡ÀÌ ÀÖ´Ù¸é ´õ¿í ÁÁ¾Æ¿ä ! ]
 
-- ëŒ€ìš©ëŸ‰ íŠ¸ëž˜í”½ ì²˜ë¦¬ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- ë™ì‹œì„± ì²˜ë¦¬ì— ëŒ€í•´ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- ë§¡ì€ ì„œë¹„ìŠ¤ë¥¼ ê³ ê° ì¤‘ì‹¬ì—ì„œ ê°™ì´ ê³ ë¯¼í•˜ê³  í‚¤ì›Œë‚˜ê°€ì‹¤ ë¶„
-- ì½”ë“œ ë¦¬ë·° ë“±ì„ í†µí•´ ì£¼ë³€ ë™ë£Œì—ê²Œ ìžê·¹ì„ ì£¼ëŠ” ë¶„
-- ìƒˆë¡œìš´ ê¸°ìˆ ì— í˜¸ê¸°ì‹¬ì´ ë§Žê³  ë„ë¦¬ ê³µìœ í•˜ì‹œëŠ” ë¶„",
-Quant Researcher | í€€íŠ¸ ë°ì´í„° ë¶„ì„ê°€,íì•Œì—ìŠ¤í‹°ì—ì´ì•„ì´,"â€¢ ê¸ˆìœµì‹œìž¥ê³¼ íŠ¸ë ˆì´ë”©ì— ì—´ì •ì„ ê°€ì§€ì‹  ë¶„
-â€¢ ì»´í“¨í„°ê³µí•™, ê¸ˆìœµê³µí•™, í†µê³„, ìˆ˜í•™, ë¬¼ë¦¬ ë“± ê´€ë ¨ ì „ê³µ í•™ê³¼ ì¡¸ì—…
-â€¢ ë¨¸ì‹ ëŸ¬ë‹, ë”¥ëŸ¬ë‹, ê°•í™”í•™ìŠµ ë“± AI ê¸°ìˆ ì„ í™œìš©í•œ ì—°êµ¬ ì—­ëŸ‰ ë³´ìœ 
-â€¢ ë°ì´í„° ë¶„ì„ ê²½ë ¥ì„ ë°”íƒ•ìœ¼ë¡œ ê°€ì„¤ì„ ì„¤ì •í•˜ê³  ë¶„ì„ ë°©ë²•ì„ ì„¤ê³„í•˜ì—¬ ê²°ê³¼ë¥¼ ë„ì¶œí•  ìˆ˜ ìžˆëŠ” ì—­ëŸ‰ ë³´ìœ 
-â€¢ Numpy, Pandasë¥¼ í†µí•œ ë°ì´í„° ì²˜ë¦¬ ì—­ëŸ‰ ë³´ìœ 
-â€¢ ì ê·¹ì ì¸ ì•„ì´ë””ì–´ ê°œì§„, í˜‘ì—…, í™œë°œí•œ í”¼ë“œë°±ì„ í†µí•œ ì„±ìž¥ì„ ì¦ê¸°ëŠ” ë¶„
-â€¢ ë§ˆì´í¬ë¡œë§¤ë‹ˆì§•ì´ í•„ìš” ì—†ëŠ” ë¶„
-â€¢ ì›í™œí•œ ì˜ì‚¬ì†Œí†µ ëŠ¥ë ¥
-â€¢ Pythonì— ëŠ¥ìˆ™í•˜ì‹  ë¶„","â€¢ ë°ì´í„° ë¶„ì„ ê²°ê³¼ë¥¼ ë°”íƒ•ìœ¼ë¡œ ê¸°ì¡´ í”„ë¡œì„¸ìŠ¤ì˜ ë¹„íš¨ìœ¨ì„ ê°œì„ í•˜ê±°ë‚˜, 
-  ìƒˆë¡œìš´ ê¸°íšŒë¥¼ ì´ëŒì–´ ë‚¸ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ ì„ì‚¬ í•™ìœ„ ì´ìƒ ì†Œì§€ ë˜ëŠ” ì˜ˆì •ìž
-â€¢ ìˆ˜í•™ ì˜¬ë¦¼í”¼ì•„ë“œ ë“± ê²½ì‹œëŒ€íšŒ ìˆ˜ìƒ ê²½ë ¥
-â€¢ ê¸ˆìœµì‹œìž¥ê³¼ ê¸ˆìœµì‚°ì—…, íˆ¬ìžì— ëŒ€í•œ ì§€ì‹
-â€¢ ìœ ê°€ì¦ê¶Œ ë° íŒŒìƒìƒí’ˆ ê±°ëž˜ ê²½í—˜
-â€¢ AWS ì¸í”„ë¼ì— ëŒ€í•œ ì´í•´
-â€¢ ì£¼ë„ì ì¸ ì—°êµ¬ ë° ì—…ë¬´/ì¼ì • ê´€ë¦¬ ëŠ¥ë ¥
-â€¢ C/C++ì— ëŠ¥ìˆ™í•˜ì‹  ë¶„",
-í•˜ë“œì›¨ì–´ ê°œë°œìž (ì œí’ˆê°œë°œ),í´ë¡œë§ˆìš´íŠ¸,ì „ìž í•˜ë“œì›¨ì–´ ê°œë°œ ê²½ë ¥(1ë…„ ì´ìƒ),"ê´€ë ¨ ì „ê³µ ì¡¸ì—…ìž(ì „ìž/ì „íŒŒ ë“±)
-êµ­ë‚´ì™¸ ì–‘ì‚°(OEM/ODM/EMS) 1ë§Œê°œ ì´ìƒ ì œí’ˆ ê°œë°œ ê²½í—˜
-íŽŒì›¨ì–´ì— ëŒ€í•œ ê¹Šì€ ê´€ì‹¬ê³¼ ì´í•´
-ê¸°êµ¬ì„¤ê³„ì— ëŒ€í•œ ê¹Šì€ ê´€ì‹¬ê³¼ ì´í•´
-IoTì œí’ˆ ê°œë°œ ê²½ë ¥ìž",
-[ê°•ë‚¨ì—­] ì»¤ë¨¸ìŠ¤í”Œëž«í¼ í…ŒìŠ¤íŠ¸ ì—”ì§€ë‹ˆì–´,ì´ë…¸ì•„ì´,"â€¢ í…ŒìŠ¤íŠ¸ ë°©ë²•ë¡ ì— ëŒ€í•œ ì§€ì‹ê³¼ ê²½í—˜ì„ ë³´ìœ í•  ê²ƒ         
-â€¢ ì˜¨ë¼ì¸/ëª¨ë°”ì¼ ì„œë¹„ìŠ¤ì— ëŒ€í•œ ê²€ì¦ ìˆ˜í–‰ì´ë ¥ì„ ë³´ìœ í•  ê²ƒ
-â€¢ ê²€ì¦ ë¶„ì•¼ ê²½ë ¥ì´ 7ë…„ ~ 9ë…„ ì´ì‹  ë¶„","â€¢ QA ì§êµ°/ ê°œë°œ ì§êµ° ì¸ë ¥ë“¤ê³¼ í˜‘ì—…í•˜ê³  ì£¼ìš” ë¦¬ì†ŒìŠ¤ë¥¼ ìž˜ í™œìš©í•œ ê²½í—˜ì´ ìžˆëŠ” ë¶„         
-â€¢ ISTQB ë˜ëŠ” ê²€ì¦ ê´€ë ¨ ìžê²©ì¦ ë³´ìœ í•˜ì‹  ë¶„         
-â€¢ ì»´í“¨í„° ë“± IT ì¸ì ‘ ì „ê³µì„ ë³´ìœ í•˜ì‹  ë¶„",
-ì¸ê³µì§€ëŠ¥í”„ë¡œì„¸ì„œ í•˜ë“œì›¨ì–´ ê°œë°œìž,ì—ìž„í“¨ì²˜,"â€¢ í•™ë ¥: 4ë…„ì œ ëŒ€í•™êµ ì¡¸ì—… ì´ìƒ
-â€¢ ê²½ë ¥: 2ë…„ ì´ìƒ(ì„ ìž„ì—°êµ¬ì›, ì±…ìž„ì—°êµ¬ì›, ìˆ˜ì„ì—°êµ¬ì›ê¸‰)
-â€¢ ê¸°íƒ€: í•˜ë“œì›¨ì–´ ê´€ë ¨ ê·¼ë¬´ê²½í—˜ í•„ìˆ˜",â€¢ ê³µí•™ê³„ì—´ ì „ê¸°Â·ì „ìžÂ·ì „ì‚°Â·ì»´í“¨í„° ì „ê³µ,
-ê¸°ìˆ ì§€ì› ì—”ì§€ë‹ˆì–´ - íŒêµ,ì§€ëž€ì§€êµë°ì´í„°,"â€¢ ì»´í“¨í„° ê´€ë ¨ í•™ê³¼ ì¡¸ì—… / IT êµìœ¡ ì´ìˆ˜
-â€¢ OS(ìœˆë„ìš°, ë¦¬ëˆ…ìŠ¤ ë“±) ì— ëŒ€í•œ ê¸°ì´ˆ ì§€ì‹ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ì„œë¹„ìŠ¤ ë§ˆì¸ë“œ í¬í•¨ ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ì´ ê°€ëŠ¥í•œ ë¶„
-â€¢ ê³ ê°ì‚¬ ì ê²€ì´ë‚˜ ìš´ì˜ ì¶œìž¥ ì—…ë¬´ê°€ ë§žìœ¼ì‹œëŠ” ë¶„
-â€¢ ìžë™ì°¨ ìš´ì „ ê°€ëŠ¥ìž (2ì¢… ë³´í†µ)","â€¢ CentOS, ë ˆë“œí–‡ ë¦¬ëˆ…ìŠ¤ ì„¤ì¹˜ ê²½í—˜ì´ ìžˆëŠ” ë¶„ 
-â€¢ ê°œì¸ì •ë³´ë³´í˜¸ ì†”ë£¨ì…˜ ìœ ì‚¬ ì—…ì¢…(ê³ ê°ì§€ì›ì—…ë¬´í¬í•¨) / ìœ ì§€ë³´ìˆ˜ ê²½ë ¥",
-System Engineer,ì˜¤ë¹„ì´ëž©(Obelab),"â€¢ ì„ì‚¬ ì´ìƒ ì¡¸ì—…ìž(í•„ìˆ˜)
-â€¢ ì „ê¸°ì „ìž, ì˜ìš©ê³µí•™, IT ì „ê³µìž","â€¢ ì„/ë°•ì‚¬ ë³‘ì—­íŠ¹ë¡€(ì „ë¬¸ì—°êµ¬ìš”ì›) í˜„ì—­ ì§€ì›ìž
-â€¢ Matlab, Phython ê°€ëŠ¥ìž
-â€¢ Pads ë¥¼ í™œìš©í™˜ ìƒì²´ì‹ í˜¸ ì¸¡ì • íšŒë¡œ ì„¤ê³„ ê²½í—˜ (EEG,ECG ë“±)
-â€¢ STM ê³„ì—´ì„ í™œìš©í•œ MCU êµ¬ë™ ë¡œì§ ê°œë°œ ê²½í—˜",
-Backend(Python) Engineer,í”„ë¦¬ë””ì†Œí”„íŠ¸,"â€¢ ì›¹ê°œë°œ ê²½í—˜ 4ë…„ ì´ìƒ
-â€¢ python + python framework (django, flask, fastapi ë“± ì‚¬ìš©) ê²½ë ¥ìž
-â€¢ TDDë¥¼ ìœ„í•´ ë…¸ë ¥í•˜ì‹œëŠ” ë¶„
-â€¢ Network (http, TCP/IP ë“±) ì§€ì‹ì´ í’ë¶€í•˜ì‹  ë¶„
-â€¢ DB/SQLì— ëŒ€í•œ ì¶©ë¶„í•œ ì§€ì‹ì´ ìžˆìœ¼ì‹  ë¶„ 
-â€¢ Docker í™œìš© ê²½í—˜ ìžˆìœ¼ì‹  ë¶„","â€¢ í´ë¼ìš°ë“œ ì„œë¹„ìŠ¤ í™œìš© ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ë¦¬ì„œì¹˜í•œ ë‚´ìš©ê³¼ ê²½í—˜ì„ ì ê·¹ ê³µìœ í•˜ì‹œëŠ” ë¶„
-â€¢ ë¬¸ì œ íŒŒì•…ê³¼ í•´ê²°ì— ì ê·¹ì ì´ì‹  ë¶„
-â€¢ pythonic í•œ ì½”ë“œë¥¼ ì„ í˜¸í•˜ì‹œëŠ” ë¶„
-â€¢ ì½”ë“œ ë¦¬ë·°ê°€ ë‘ë µì§€ ì•Šìœ¼ì‹  ë¶„
-â€¢ ê°œë°œ ê³µì‹ ë¬¸ì„œë¥¼ ì½ëŠ”ë° ì–´ë ¤ì›€ì´ ì—†ìœ¼ì‹  ë¶„
+- ´ë¿ë·® Æ®·¡ÇÈ Ã³¸® °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- µ¿½Ã¼º Ã³¸®¿¡ ´ëÇØ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- ¸ÃÀº ¼­ºñ½º¸¦ °í°´ Áß½É¿¡¼­ °°ÀÌ °í¹ÎÇÏ°í Å°¿ö³ª°¡½Ç ºÐ
+- ÄÚµå ¸®ºä µîÀ» ÅëÇØ ÁÖº¯ µ¿·á¿¡°Ô ÀÚ±ØÀ» ÁÖ´Â ºÐ
+- »õ·Î¿î ±â¼ú¿¡ È£±â½ÉÀÌ ¸¹°í ³Î¸® °øÀ¯ÇÏ½Ã´Â ºÐ",
+Quant Researcher | ÄöÆ® µ¥ÀÌÅÍ ºÐ¼®°¡,Å¥¾Ë¿¡½ºÆ¼¿¡ÀÌ¾ÆÀÌ,"? ±ÝÀ¶½ÃÀå°ú Æ®·¹ÀÌµù¿¡ ¿­Á¤À» °¡Áö½Å ºÐ
+? ÄÄÇ»ÅÍ°øÇÐ, ±ÝÀ¶°øÇÐ, Åë°è, ¼öÇÐ, ¹°¸® µî °ü·Ã Àü°ø ÇÐ°ú Á¹¾÷
+? ¸Ó½Å·¯´×, µö·¯´×, °­È­ÇÐ½À µî AI ±â¼úÀ» È°¿ëÇÑ ¿¬±¸ ¿ª·® º¸À¯
+? µ¥ÀÌÅÍ ºÐ¼® °æ·ÂÀ» ¹ÙÅÁÀ¸·Î °¡¼³À» ¼³Á¤ÇÏ°í ºÐ¼® ¹æ¹ýÀ» ¼³°èÇÏ¿© °á°ú¸¦ µµÃâÇÒ ¼ö ÀÖ´Â ¿ª·® º¸À¯
+? Numpy, Pandas¸¦ ÅëÇÑ µ¥ÀÌÅÍ Ã³¸® ¿ª·® º¸À¯
+? Àû±ØÀûÀÎ ¾ÆÀÌµð¾î °³Áø, Çù¾÷, È°¹ßÇÑ ÇÇµå¹éÀ» ÅëÇÑ ¼ºÀåÀ» Áñ±â´Â ºÐ
+? ¸¶ÀÌÅ©·Î¸Å´ÏÂ¡ÀÌ ÇÊ¿ä ¾ø´Â ºÐ
+? ¿øÈ°ÇÑ ÀÇ»ç¼ÒÅë ´É·Â
+? Python¿¡ ´É¼÷ÇÏ½Å ºÐ","? µ¥ÀÌÅÍ ºÐ¼® °á°ú¸¦ ¹ÙÅÁÀ¸·Î ±âÁ¸ ÇÁ·Î¼¼½ºÀÇ ºñÈ¿À²À» °³¼±ÇÏ°Å³ª, 
+  »õ·Î¿î ±âÈ¸¸¦ ÀÌ²ø¾î ³½ °æÇèÀÌ ÀÖ´Â ºÐ
+? ¼®»ç ÇÐÀ§ ÀÌ»ó ¼ÒÁö ¶Ç´Â ¿¹Á¤ÀÚ
+? ¼öÇÐ ¿Ã¸²ÇÇ¾Æµå µî °æ½Ã´ëÈ¸ ¼ö»ó °æ·Â
+? ±ÝÀ¶½ÃÀå°ú ±ÝÀ¶»ê¾÷, ÅõÀÚ¿¡ ´ëÇÑ Áö½Ä
+? À¯°¡Áõ±Ç ¹× ÆÄ»ý»óÇ° °Å·¡ °æÇè
+? AWS ÀÎÇÁ¶ó¿¡ ´ëÇÑ ÀÌÇØ
+? ÁÖµµÀûÀÎ ¿¬±¸ ¹× ¾÷¹«/ÀÏÁ¤ °ü¸® ´É·Â
+? C/C++¿¡ ´É¼÷ÇÏ½Å ºÐ",
+ÇÏµå¿þ¾î °³¹ßÀÚ (Á¦Ç°°³¹ß),Å¬·Î¸¶¿îÆ®,ÀüÀÚ ÇÏµå¿þ¾î °³¹ß °æ·Â(1³â ÀÌ»ó),"°ü·Ã Àü°ø Á¹¾÷ÀÚ(ÀüÀÚ/ÀüÆÄ µî)
+±¹³»¿Ü ¾ç»ê(OEM/ODM/EMS) 1¸¸°³ ÀÌ»ó Á¦Ç° °³¹ß °æÇè
+Æß¿þ¾î¿¡ ´ëÇÑ ±íÀº °ü½É°ú ÀÌÇØ
+±â±¸¼³°è¿¡ ´ëÇÑ ±íÀº °ü½É°ú ÀÌÇØ
+IoTÁ¦Ç° °³¹ß °æ·ÂÀÚ",
+[°­³²¿ª] Ä¿¸Ó½ºÇÃ·§Æû Å×½ºÆ® ¿£Áö´Ï¾î,ÀÌ³ë¾ÆÀÌ,"? Å×½ºÆ® ¹æ¹ý·Ð¿¡ ´ëÇÑ Áö½Ä°ú °æÇèÀ» º¸À¯ÇÒ °Í         
+? ¿Â¶óÀÎ/¸ð¹ÙÀÏ ¼­ºñ½º¿¡ ´ëÇÑ °ËÁõ ¼öÇàÀÌ·ÂÀ» º¸À¯ÇÒ °Í
+? °ËÁõ ºÐ¾ß °æ·ÂÀÌ 7³â ~ 9³â ÀÌ½Å ºÐ","? QA Á÷±º/ °³¹ß Á÷±º ÀÎ·Âµé°ú Çù¾÷ÇÏ°í ÁÖ¿ä ¸®¼Ò½º¸¦ Àß È°¿ëÇÑ °æÇèÀÌ ÀÖ´Â ºÐ         
+? ISTQB ¶Ç´Â °ËÁõ °ü·Ã ÀÚ°ÝÁõ º¸À¯ÇÏ½Å ºÐ         
+? ÄÄÇ»ÅÍ µî IT ÀÎÁ¢ Àü°øÀ» º¸À¯ÇÏ½Å ºÐ",
+ÀÎ°øÁö´ÉÇÁ·Î¼¼¼­ ÇÏµå¿þ¾î °³¹ßÀÚ,¿¡ÀÓÇ»Ã³,"? ÇÐ·Â: 4³âÁ¦ ´ëÇÐ±³ Á¹¾÷ ÀÌ»ó
+? °æ·Â: 2³â ÀÌ»ó(¼±ÀÓ¿¬±¸¿ø, Ã¥ÀÓ¿¬±¸¿ø, ¼ö¼®¿¬±¸¿ø±Þ)
+? ±âÅ¸: ÇÏµå¿þ¾î °ü·Ã ±Ù¹«°æÇè ÇÊ¼ö",? °øÇÐ°è¿­ Àü±â¡¤ÀüÀÚ¡¤Àü»ê¡¤ÄÄÇ»ÅÍ Àü°ø,
+±â¼úÁö¿ø ¿£Áö´Ï¾î - ÆÇ±³,Áö¶õÁö±³µ¥ÀÌÅÍ,"? ÄÄÇ»ÅÍ °ü·Ã ÇÐ°ú Á¹¾÷ / IT ±³À° ÀÌ¼ö
+? OS(À©µµ¿ì, ¸®´ª½º µî) ¿¡ ´ëÇÑ ±âÃÊ Áö½ÄÀÌ ÀÖÀ¸½Å ºÐ
+? ¼­ºñ½º ¸¶ÀÎµå Æ÷ÇÔ ¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼ÇÀÌ °¡´ÉÇÑ ºÐ
+? °í°´»ç Á¡°ËÀÌ³ª ¿î¿µ ÃâÀå ¾÷¹«°¡ ¸ÂÀ¸½Ã´Â ºÐ
+? ÀÚµ¿Â÷ ¿îÀü °¡´ÉÀÚ (2Á¾ º¸Åë)","? CentOS, ·¹µåÇÞ ¸®´ª½º ¼³Ä¡ °æÇèÀÌ ÀÖ´Â ºÐ 
+? °³ÀÎÁ¤º¸º¸È£ ¼Ö·ç¼Ç À¯»ç ¾÷Á¾(°í°´Áö¿ø¾÷¹«Æ÷ÇÔ) / À¯Áöº¸¼ö °æ·Â",
+System Engineer,¿ÀºñÀÌ·¦(Obelab),"? ¼®»ç ÀÌ»ó Á¹¾÷ÀÚ(ÇÊ¼ö)
+? Àü±âÀüÀÚ, ÀÇ¿ë°øÇÐ, IT Àü°øÀÚ","? ¼®/¹Ú»ç º´¿ªÆ¯·Ê(Àü¹®¿¬±¸¿ä¿ø) Çö¿ª Áö¿øÀÚ
+? Matlab, Phython °¡´ÉÀÚ
+? Pads ¸¦ È°¿ëÈ¯ »ýÃ¼½ÅÈ£ ÃøÁ¤ È¸·Î ¼³°è °æÇè (EEG,ECG µî)
+? STM °è¿­À» È°¿ëÇÑ MCU ±¸µ¿ ·ÎÁ÷ °³¹ß °æÇè",
+Backend(Python) Engineer,ÇÁ¸®µð¼ÒÇÁÆ®,"? À¥°³¹ß °æÇè 4³â ÀÌ»ó
+? python + python framework (django, flask, fastapi µî »ç¿ë) °æ·ÂÀÚ
+? TDD¸¦ À§ÇØ ³ë·ÂÇÏ½Ã´Â ºÐ
+? Network (http, TCP/IP µî) Áö½ÄÀÌ Ç³ºÎÇÏ½Å ºÐ
+? DB/SQL¿¡ ´ëÇÑ ÃæºÐÇÑ Áö½ÄÀÌ ÀÖÀ¸½Å ºÐ 
+? Docker È°¿ë °æÇè ÀÖÀ¸½Å ºÐ","? Å¬¶ó¿ìµå ¼­ºñ½º È°¿ë °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ¸®¼­Ä¡ÇÑ ³»¿ë°ú °æÇèÀ» Àû±Ø °øÀ¯ÇÏ½Ã´Â ºÐ
+? ¹®Á¦ ÆÄ¾Ç°ú ÇØ°á¿¡ Àû±ØÀûÀÌ½Å ºÐ
+? pythonic ÇÑ ÄÚµå¸¦ ¼±È£ÇÏ½Ã´Â ºÐ
+? ÄÚµå ¸®ºä°¡ µÎ·ÆÁö ¾ÊÀ¸½Å ºÐ
+? °³¹ß °ø½Ä ¹®¼­¸¦ ÀÐ´Âµ¥ ¾î·Á¿òÀÌ ¾øÀ¸½Å ºÐ
 
-[ì±„ìš© ì ˆì°¨]
-ì„œë¥˜ ì „í˜• - ê³¼ì œ ì „í˜• - HR ë©´ì ‘ - ì‹¤ë¬´ì§„ ë©´ì ‘ - íŒ€ë¦¬ë“œ ë©´ì ‘ - ìµœì¢… í•©ê²© (ìž„ì› ë©´ì ‘ì´ ì¶”ê°€ë  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.) 
+[Ã¤¿ë ÀýÂ÷]
+¼­·ù ÀüÇü - °úÁ¦ ÀüÇü - HR ¸éÁ¢ - ½Ç¹«Áø ¸éÁ¢ - ÆÀ¸®µå ¸éÁ¢ - ÃÖÁ¾ ÇÕ°Ý (ÀÓ¿ø ¸éÁ¢ÀÌ Ãß°¡µÉ ¼ö ÀÖ½À´Ï´Ù.) 
 
-[ìž…ì‚¬ ìœ ì˜ì‚¬í•­]
-â€¢ ì¸í„´ì„ ì œì™¸í•œ ëª¨ë“  ì§ë¬´ëŠ” 3ê°œì›” ìˆ˜ìŠµê¸°ê°„ì´ ìžˆìŠµë‹ˆë‹¤.
-â€¢ ìˆ˜ìŠµê¸°ê°„ ë™ì•ˆ ê¸‰ì—¬(100%) ë° ë³µì§€ëŠ” ì°¨ë“± ì—†ì´ ì§€ê¸‰ë©ë‹ˆë‹¤.
-â€¢ ìž…ì‚¬ì§€ì› ì„œë¥˜ì—ì„œ í—ˆìœ„ê¸°ìž¬ ì‚¬ì‹¤ì´ ë°œê²¬ë  ê²½ìš°, ìž…ì‚¬ê°€ ì·¨ì†Œë  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.",
-"FWê°œë°œ/íŽŒì›¨ì–´/POCì§„ë‹¨ê¸°ê¸°(í•™ì‚¬, 5ë…„ ì´ìƒ)",ì˜¤ìƒí—¬ìŠ¤ì¼€ì–´,"ã†í•™ë ¥ : í•™ì‚¬ ì´ìƒ
-ã†ê²½ë ¥ : Firmware ê°œë°œ ê²½ë ¥ 5ë…„ ì´ìƒ","ã†ì²´ì™¸ì§„ë‹¨ì˜ë£Œê¸°ê¸° ê°œë°œ ê²½ë ¥ ìš°ëŒ€
-ã†ê¸°ìˆ ë¬¸ì„œ ìž‘ì„± ê²½ë ¥ ìš°ëŒ€",
-"SWê°œë°œ/POCë¶„ì„ê¸°/ì•ˆë“œë¡œì´ë“œì•±(í•™ì‚¬, 3ë…„ ì´ìƒ)",ì˜¤ìƒí—¬ìŠ¤ì¼€ì–´,"ã†í•™ë ¥ : í•™ì‚¬ ì´ìƒ
+[ÀÔ»ç À¯ÀÇ»çÇ×]
+? ÀÎÅÏÀ» Á¦¿ÜÇÑ ¸ðµç Á÷¹«´Â 3°³¿ù ¼ö½À±â°£ÀÌ ÀÖ½À´Ï´Ù.
+? ¼ö½À±â°£ µ¿¾È ±Þ¿©(100%) ¹× º¹Áö´Â Â÷µî ¾øÀÌ Áö±ÞµË´Ï´Ù.
+? ÀÔ»çÁö¿ø ¼­·ù¿¡¼­ ÇãÀ§±âÀç »ç½ÇÀÌ ¹ß°ßµÉ °æ¿ì, ÀÔ»ç°¡ Ãë¼ÒµÉ ¼ö ÀÖ½À´Ï´Ù.",
+"FW°³¹ß/Æß¿þ¾î/POCÁø´Ü±â±â(ÇÐ»ç, 5³â ÀÌ»ó)",¿À»óÇï½ºÄÉ¾î,"¤ýÇÐ·Â : ÇÐ»ç ÀÌ»ó
+¤ý°æ·Â : Firmware °³¹ß °æ·Â 5³â ÀÌ»ó","¤ýÃ¼¿ÜÁø´ÜÀÇ·á±â±â °³¹ß °æ·Â ¿ì´ë
+¤ý±â¼ú¹®¼­ ÀÛ¼º °æ·Â ¿ì´ë",
+"SW°³¹ß/POCºÐ¼®±â/¾Èµå·ÎÀÌµå¾Û(ÇÐ»ç, 3³â ÀÌ»ó)",¿À»óÇï½ºÄÉ¾î,"¤ýÇÐ·Â : ÇÐ»ç ÀÌ»ó
 
-ã†ê²½ë ¥ : ê²½ë ¥ 3ë…„ ~ 10ë…„ ì´í•˜
+¤ý°æ·Â : °æ·Â 3³â ~ 10³â ÀÌÇÏ
 
-ã†ì•ˆë“œë¡œì´ë“œ ì•± ê°œë°œ ê²½ë ¥","ã†Embedded System OS ê°œë°œ ê²½ë ¥ ìš°ëŒ€
+¤ý¾Èµå·ÎÀÌµå ¾Û °³¹ß °æ·Â","¤ýEmbedded System OS °³¹ß °æ·Â ¿ì´ë
 
-ã†ì˜ë£Œê¸°ê¸° ì¸ì¦ë¬¸ì„œ ìž‘ì„± ê²½ë ¥ ìš°ëŒ€",
-ì›¹ í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œìž,íƒ€ìž…ë¹„,"â€¢ 3ë…„ ì´ìƒì˜ í”„ë¡ íŠ¸ì—”ë“œ ì—…ë¬´ ê²½ë ¥ì´ ìžˆëŠ” ë¶„
-â€¢ TypeScript, React ì›¹í´ë¼ì´ì–¸íŠ¸ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ìœ ì—°í•˜ë©´ì„œ ê°€ë…ì„±ì´ ì¢‹ì€ ì½”ë“œë¥¼ ìž‘ì„±í•˜ì‹¤ ìˆ˜ ìžˆëŠ” ë¶„
-â€¢ ë¬¸ì œì˜ ë³¸ì§ˆì„ ì´í•´í•˜ê³  ë‹µì„ ì°¾ìœ¼ë ¤ í–‰ë™í•˜ëŠ” ë¶„
-â€¢ ê°œë°œ ìžì²´ì— ë§¤ëª°ë˜ì§€ ì•Šê³ , ë¬¸ì œ í•´ê²°ì— ëª°ìž…í•˜ëŠ” ë¶„
-â€¢ ë™ë£Œì™€ì˜ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ì„ ì¤‘ìš”í•˜ê²Œ ìƒê°í•˜ê³  í–‰ë™í•˜ëŠ” ë¶„",â€¢ e-commerce ê´€ë ¨ ì—…ë¬´ ê²½í—˜ì´ ìžˆìœ¼ì‹ ë¶„,
-ì›¹ í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œìž,ë² ìŠ¤íŠ¸í•€,"â€¢ Front End ê°œë°œ ê²½ë ¥ 4~5ë…„
-â€¢ Javascript, Typescript ê°œë°œì´ ê°€ëŠ¥í•˜ì‹  ë¶„
-â€¢ React ì‚¬ìš© ê²½í—˜ì´  ìžˆìœ¼ì‹  ë¶„
-â€¢ ë°±ì—”ë“œ ê°œë°œìž ë° ì„œë¹„ìŠ¤ ê¸°íšìž, ë””ìžì´ë„ˆì™€ í˜‘ì—…ì´ ê°€ëŠ¥í•˜ì‹  ë¶„
-â€¢  ì„œë¹„ìŠ¤ ì„±ëŠ¥ ìµœì í™”ì— ê´€ì‹¬ì´ ìžˆìœ¼ì‹  ë¶„","â€¢ ê¸ˆìœµê¶Œ ë˜ëŠ” í•€í…Œí¬ í”„ë¡œì íŠ¸ ê²½í—˜ìž 
-â€¢ ìŠ¤íƒ€íŠ¸ì—… ê²½í—˜ìž ë° ì§„ì·¨ì  ì—´ì •ì„ ê°€ì§„ ì‚¬ëžŒ",
-DBA,íŽ˜ì´ë ˆí„°,"â€¢ ê´€ë ¨ ê²½ë ¥: 5ë…„ ì´ìƒ
-â€¢ SQL Server êµ¬ì¶• ë° ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ DB ëª¨ë¸ë§(ë…¼ë¦¬,ë¬¼ë¦¬,í‘œì¤€í™”) ì—­ëŸ‰ì„ ë³´ìœ í•˜ê³  ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ê³ ë¶€í•˜ ì¿¼ë¦¬ íŠœë‹ ìŠ¤í‚¬ì„ ë³´ìœ í•˜ì‹  ë¶„","â€¢ ëŒ€ìš©ëŸ‰ RDBMSì— ëŒ€í•œ ì§€ì‹ê³¼ ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ í´ëŸ¬ìŠ¤í„° ê³ ê°€ìš©ì„± ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ NoSQLì— ëŒ€í•œ ì§€ì‹ê³¼ ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ êµ¬ì„±ì›ë“¤ê³¼ì˜ í˜‘ì—…ì„ ì¤‘ìš”í•˜ê²Œ ìƒê°í•˜ì‹œëŠ” ë¶„
-â€¢ í•©ë¦¬ì ì¸ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ì—­ëŸ‰ì„ ë³´ìœ í•˜ì‹  ë¶„
-â€¢ ë³¸ì¸ ì§€ì‹ê³¼ ê²½í—˜ì„ ê³µìœ í•˜ê³ , ë„ì›€ì„ ì£¼ëŠ” ê²ƒì— ê¸ì •ì ì´ì‹  ë¶„
-â€¢ ê°•í•œ ì±…ìž„ê°ì„ ê°€ì§€ê³  ì£¼ë„ì ìœ¼ë¡œ ì—…ë¬´ë¥¼ ì´ëŒì–´ ê°€ëŠ” ë¶„
-â€¢ êµ­ê°€ë³´í›ˆëŒ€ìƒìž",
-"Software Engineer (3ë…„ ì´ìƒ, Front End)",ìŠ¤ëˆ„ì•„ì´ëž©,"â€¢ ì»´í“¨í„°ê³µí•™ ë° ì „ê¸°ì „ìžê³µí•™ ê´€ë ¨ ì „ê³µìž
-â€¢ 3ë…„ ì´ìƒ (ë˜ëŠ” ê·¸ì— ì¤€í•˜ëŠ”) ì‹œìŠ¤í…œ/ì„œë¹„ìŠ¤ ê°œë°œ ê²½í—˜
-â€¢ ì£¼ìš” í”„ë¡ íŠ¸ì—”ë“œ í”„ë ˆìž„ì›Œí¬(ì˜ˆ: React, Angular, Vue.js ë“±)ì— ëŒ€í•œ ê¹Šì€ ì´í•´ì™€ ê²½í—˜
-â€¢ ë…¼ë¦¬ì  ë¬¸ì œ ì •ì˜ì™€ í•´ê²° ëŠ¥ë ¥","â€¢ ì¡°ì§ ë¦¬ë“œ ê²½í—˜
-â€¢ Remix, Next.js ë“± SSR í”„ë ˆìž„ì›Œí¬ ì‚¬ìš© ê²½í—˜
-â€¢ Full stack engineer ë¡œ ê·¼ë¬´í•œ ê²½í—˜
-â€¢ SW ê°œë°œë¡œ ì œí’ˆ ë˜ëŠ” AI ì„œë¹„ìŠ¤ ì¶œì‹œ ê²½í—˜
-â€¢ ì¸ê³µì§€ëŠ¥ ë¶„ì•¼ì— ê´€ì‹¬ì´ ë§Žìœ¼ì‹  ë¶„",
-í’€ìŠ¤íƒ ì›¹ ê°œë°œìž,ë…¸íƒœê·¸ì½”ë¦¬ì•„,"- í’€ìŠ¤íƒ ì›¹ ê°œë°œ ê²½ë ¥ ë˜ëŠ” ê·¸ì— ì¤€í•˜ëŠ” ê²½í—˜ì´ í•„ìš”í•©ë‹ˆë‹¤.
-- ìš”êµ¬ì‚¬í•­ ë¶„ì„ë¶€í„° ê°œë°œ, ìš´ì˜ê¹Œì§€ ì›¹ ê°œë°œ í”„ë¡œì íŠ¸ ì „ì²´ë¥¼ ì§ì ‘ ê²½í—˜í•œ ë¶„ì„ ì°¾ê³  ìžˆìŠµë‹ˆë‹¤.
-- ì›¹ ê¸°ìˆ  ì „ë°˜ì— ëŒ€í•œ ì´í•´ì™€ ê²½í—˜ì´ í•„ìš”í•©ë‹ˆë‹¤.
-- ê¸°ìˆ  ìžì²´ë³´ë‹¤ëŠ” ì œí’ˆ ì¤‘ì‹¬ê³¼ ë¬¸ì œ í•´ê²° ì¤‘ì‹¬ìœ¼ë¡œ ê¸°ìˆ ì„ ìµížˆê³  í™œìš©í•˜ëŠ” ë¶„ì„ ì„ í˜¸í•©ë‹ˆë‹¤.
-- ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ëŠ¥ë ¥ê³¼ íƒ€ì¸ì„ ë°°ë ¤í•˜ëŠ” ë§ˆìŒì„ ê°€ì§„ ë¶„ì„ ì°¾ê³  ìžˆìŠµë‹ˆë‹¤.","- ì´ì»¤ë¨¸ìŠ¤ í”Œëž«í¼ì„ ê°œë°œí•˜ê³  ìš´ì˜í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- ë¶„ì‚° ì‹œìŠ¤í…œì„ ì„¤ê³„í•˜ê³  ìš´ì˜í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- ë™ë£Œ ê°œë°œìžë“¤ì„ ì§€ì›í•˜ê³  ì´ëŒì–´ ë‚˜ê°ˆ ìˆ˜ ìžˆëŠ” ë¦¬ë”ì‹­ ëŠ¥ë ¥ì„ ê°€ì§„ ë¶„",
-[ë³¸ì‚¬] 2ì°¨ì „ì§€ ì¶©ë°©ì „ ê²€ì‚¬ìž¥ë¹„ HW ê°œë°œ ì—°êµ¬ì›,í”¼ë‹‰ìŠ¨ì»¨íŠ¸ë¡¤ìŠ¤,"â€¢ í•™ë ¥ : ëŒ€ì¡¸ ì´ìƒ (4ë…„)
+¤ýÀÇ·á±â±â ÀÎÁõ¹®¼­ ÀÛ¼º °æ·Â ¿ì´ë",
+À¥ ÇÁ·ÐÆ®¿£µå °³¹ßÀÚ,Å¸ÀÔºñ,"? 3³â ÀÌ»óÀÇ ÇÁ·ÐÆ®¿£µå ¾÷¹« °æ·ÂÀÌ ÀÖ´Â ºÐ
+? TypeScript, React À¥Å¬¶óÀÌ¾ðÆ® °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? À¯¿¬ÇÏ¸é¼­ °¡µ¶¼ºÀÌ ÁÁÀº ÄÚµå¸¦ ÀÛ¼ºÇÏ½Ç ¼ö ÀÖ´Â ºÐ
+? ¹®Á¦ÀÇ º»ÁúÀ» ÀÌÇØÇÏ°í ´äÀ» Ã£À¸·Á Çàµ¿ÇÏ´Â ºÐ
+? °³¹ß ÀÚÃ¼¿¡ ¸Å¸ôµÇÁö ¾Ê°í, ¹®Á¦ ÇØ°á¿¡ ¸ôÀÔÇÏ´Â ºÐ
+? µ¿·á¿ÍÀÇ Ä¿¹Â´ÏÄÉÀÌ¼ÇÀ» Áß¿äÇÏ°Ô »ý°¢ÇÏ°í Çàµ¿ÇÏ´Â ºÐ",? e-commerce °ü·Ã ¾÷¹« °æÇèÀÌ ÀÖÀ¸½ÅºÐ,
+À¥ ÇÁ·ÐÆ®¿£µå °³¹ßÀÚ,º£½ºÆ®ÇÉ,"? Front End °³¹ß °æ·Â 4~5³â
+? Javascript, Typescript °³¹ßÀÌ °¡´ÉÇÏ½Å ºÐ
+? React »ç¿ë °æÇèÀÌ  ÀÖÀ¸½Å ºÐ
+? ¹é¿£µå °³¹ßÀÚ ¹× ¼­ºñ½º ±âÈ¹ÀÚ, µðÀÚÀÌ³Ê¿Í Çù¾÷ÀÌ °¡´ÉÇÏ½Å ºÐ
+?  ¼­ºñ½º ¼º´É ÃÖÀûÈ­¿¡ °ü½ÉÀÌ ÀÖÀ¸½Å ºÐ","? ±ÝÀ¶±Ç ¶Ç´Â ÇÉÅ×Å© ÇÁ·ÎÁ§Æ® °æÇèÀÚ 
+? ½ºÅ¸Æ®¾÷ °æÇèÀÚ ¹× ÁøÃëÀû ¿­Á¤À» °¡Áø »ç¶÷",
+DBA,ÆäÀÌ·¹ÅÍ,"? °ü·Ã °æ·Â: 5³â ÀÌ»ó
+? SQL Server ±¸Ãà ¹× ¿î¿µ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? DB ¸ðµ¨¸µ(³í¸®,¹°¸®,Ç¥ÁØÈ­) ¿ª·®À» º¸À¯ÇÏ°í °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? °íºÎÇÏ Äõ¸® Æ©´× ½ºÅ³À» º¸À¯ÇÏ½Å ºÐ","? ´ë¿ë·® RDBMS¿¡ ´ëÇÑ Áö½Ä°ú ¿î¿µ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? Å¬·¯½ºÅÍ °í°¡¿ë¼º °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? NoSQL¿¡ ´ëÇÑ Áö½Ä°ú ¿î¿µ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ±¸¼º¿øµé°úÀÇ Çù¾÷À» Áß¿äÇÏ°Ô »ý°¢ÇÏ½Ã´Â ºÐ
+? ÇÕ¸®ÀûÀÎ Ä¿¹Â´ÏÄÉÀÌ¼Ç ¿ª·®À» º¸À¯ÇÏ½Å ºÐ
+? º»ÀÎ Áö½Ä°ú °æÇèÀ» °øÀ¯ÇÏ°í, µµ¿òÀ» ÁÖ´Â °Í¿¡ ±àÁ¤ÀûÀÌ½Å ºÐ
+? °­ÇÑ Ã¥ÀÓ°¨À» °¡Áö°í ÁÖµµÀûÀ¸·Î ¾÷¹«¸¦ ÀÌ²ø¾î °¡´Â ºÐ
+? ±¹°¡º¸ÈÆ´ë»óÀÚ",
+"Software Engineer (3³â ÀÌ»ó, Front End)",½º´©¾ÆÀÌ·¦,"? ÄÄÇ»ÅÍ°øÇÐ ¹× Àü±âÀüÀÚ°øÇÐ °ü·Ã Àü°øÀÚ
+? 3³â ÀÌ»ó (¶Ç´Â ±×¿¡ ÁØÇÏ´Â) ½Ã½ºÅÛ/¼­ºñ½º °³¹ß °æÇè
+? ÁÖ¿ä ÇÁ·ÐÆ®¿£µå ÇÁ·¹ÀÓ¿öÅ©(¿¹: React, Angular, Vue.js µî)¿¡ ´ëÇÑ ±íÀº ÀÌÇØ¿Í °æÇè
+? ³í¸®Àû ¹®Á¦ Á¤ÀÇ¿Í ÇØ°á ´É·Â","? Á¶Á÷ ¸®µå °æÇè
+? Remix, Next.js µî SSR ÇÁ·¹ÀÓ¿öÅ© »ç¿ë °æÇè
+? Full stack engineer ·Î ±Ù¹«ÇÑ °æÇè
+? SW °³¹ß·Î Á¦Ç° ¶Ç´Â AI ¼­ºñ½º Ãâ½Ã °æÇè
+? ÀÎ°øÁö´É ºÐ¾ß¿¡ °ü½ÉÀÌ ¸¹À¸½Å ºÐ",
+Ç®½ºÅÃ À¥ °³¹ßÀÚ,³ëÅÂ±×ÄÚ¸®¾Æ,"- Ç®½ºÅÃ À¥ °³¹ß °æ·Â ¶Ç´Â ±×¿¡ ÁØÇÏ´Â °æÇèÀÌ ÇÊ¿äÇÕ´Ï´Ù.
+- ¿ä±¸»çÇ× ºÐ¼®ºÎÅÍ °³¹ß, ¿î¿µ±îÁö À¥ °³¹ß ÇÁ·ÎÁ§Æ® ÀüÃ¼¸¦ Á÷Á¢ °æÇèÇÑ ºÐÀ» Ã£°í ÀÖ½À´Ï´Ù.
+- À¥ ±â¼ú Àü¹Ý¿¡ ´ëÇÑ ÀÌÇØ¿Í °æÇèÀÌ ÇÊ¿äÇÕ´Ï´Ù.
+- ±â¼ú ÀÚÃ¼º¸´Ù´Â Á¦Ç° Áß½É°ú ¹®Á¦ ÇØ°á Áß½ÉÀ¸·Î ±â¼úÀ» ÀÍÈ÷°í È°¿ëÇÏ´Â ºÐÀ» ¼±È£ÇÕ´Ï´Ù.
+- ¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼Ç ´É·Â°ú Å¸ÀÎÀ» ¹è·ÁÇÏ´Â ¸¶À½À» °¡Áø ºÐÀ» Ã£°í ÀÖ½À´Ï´Ù.","- ÀÌÄ¿¸Ó½º ÇÃ·§ÆûÀ» °³¹ßÇÏ°í ¿î¿µÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- ºÐ»ê ½Ã½ºÅÛÀ» ¼³°èÇÏ°í ¿î¿µÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- µ¿·á °³¹ßÀÚµéÀ» Áö¿øÇÏ°í ÀÌ²ø¾î ³ª°¥ ¼ö ÀÖ´Â ¸®´õ½Ê ´É·ÂÀ» °¡Áø ºÐ",
+[º»»ç] 2Â÷ÀüÁö Ãæ¹æÀü °Ë»çÀåºñ HW °³¹ß ¿¬±¸¿ø,ÇÇ´Ð½¼ÄÁÆ®·Ñ½º,"? ÇÐ·Â : ´ëÁ¹ ÀÌ»ó (4³â)
 
-â€¢ ê²½ë ¥ : ê²½ë ¥ (ì£¼ìž„ì—°êµ¬ì›ê¸‰)
+? °æ·Â : °æ·Â (ÁÖÀÓ¿¬±¸¿ø±Þ)
 
-â€¢ ì „ê³µê³„ì—´: ê³µí•™ê³„ì—´(ì»´í“¨í„°ê³µí•™, ì „ê¸°Â·ì „ìžê³µí•™)","ã†ê´€ë ¨í•™ê³¼ ì„ì‚¬ ì¡¸ì—…ìž
+? Àü°ø°è¿­: °øÇÐ°è¿­(ÄÄÇ»ÅÍ°øÇÐ, Àü±â¡¤ÀüÀÚ°øÇÐ)","¤ý°ü·ÃÇÐ°ú ¼®»ç Á¹¾÷ÀÚ
 
-ã†í•´ë‹¹ì§ë¬´ ê·¼ë¬´ ê²½í—˜ìž (ì „ë ¥, ì „ìž HWê°œë°œ ë° ìš´ìš© ê²½í—˜)
+¤ýÇØ´çÁ÷¹« ±Ù¹« °æÇèÀÚ (Àü·Â, ÀüÀÚ HW°³¹ß ¹× ¿î¿ë °æÇè)
 
-ã†DSP 2803x, 2833x, 2837xë“±ì˜ ì‚¬ìš© ê²½í—˜ìž
+¤ýDSP 2803x, 2833x, 2837xµîÀÇ »ç¿ë °æÇèÀÚ
 
-ã†Arm Cortex-M ì‹œë¦¬ì¦ˆ ì‚¬ìš© ê²½í—˜ìž
+¤ýArm Cortex-M ½Ã¸®Áî »ç¿ë °æÇèÀÚ
 
-ã†êµ­ë‚´(ì§€ë°©)/í•´ì™¸ ì¶œìž¥ ê°€ëŠ¥ìž
+¤ý±¹³»(Áö¹æ)/ÇØ¿Ü ÃâÀå °¡´ÉÀÚ
 
-ã†ìš´ì „ê°€ëŠ¥ìž",
-ML engineer,íœ´ë©œë¡œ,"- ë”¥ëŸ¬ë‹ì— ëŒ€í•œ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„
-- Django, FastAPI ì¤‘ 1ê°œ ì´ìƒì˜ REST frameworkì„ ì‚¬ìš©í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„(ìµìˆ™í•˜ì‹  ë¶„)
-- Docker ì‚¬ìš© ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- DevOps, MLOpsì— ê´€ì‹¬ì´ ë§Žìœ¼ì‹  ë¶„, Githubì˜ ì½”ë“œë“¤ì„ í™œìš©í•˜ê³  ê°œì„ í•  ìˆ˜ ìžˆìœ¼ì‹  ë¶„
-- íŒ€ì›ê³¼ ëª…ë£Œí•˜ê²Œ ì˜ì‚¬ì†Œí†µí•  ìˆ˜ ìžˆëŠ” ëŠ¥ë ¥ì„ ê°€ì§€ì‹  ë¶„ (Verbal + Writing)","1. AI ê´€ë ¨ í•™ê³¼(ì „ì‚°í•™ê³¼, ì „ìžê³¼, ìˆ˜í•™ê³¼, ë¬¼ë¦¬ê³¼) ì„ì‚¬ ì´ìƒì˜ í•™ìœ„ë¥¼ ì†Œì§€í•˜ì‹  ë¶„
-2. ë‚¨ì„±ì˜ ê²½ìš° êµ°í•„ì´ì‹  ë¶„
-3. AI Service ê°œë°œ ë° ìš´ì˜ ê²½ë ¥ì´ ìžˆìœ¼ì‹  ë¶„
-4. AI Service ì†ë„ ê°œì„  ë° ìµœì í™”ë¥¼ ìœ„í•œ ê³ ë¯¼ì„ í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-5. Servicable AI ê¸°ìˆ ì„ ì—°êµ¬/ê°œë°œí•´ë³´ì•˜ê³ , ì•žìœ¼ë¡œ end-userê°€ íŽ¸ë¦¬í•˜ê²Œ ì‚¬ìš©í•  AI Serviceë¥¼ ë§Œë“¤ê³  ì‹¶ìœ¼ì‹  ë¶„",
-AI researcher,íœ´ë©œë¡œ,"- ìµœì‹  ë…¼ë¬¸ì„ ì´í•´í•˜ê³ , ì´ë¥¼ ë°”íƒ•ìœ¼ë¡œ í•©ë¦¬ì ì¸ insightì–»ì„ ìˆ˜ ìžˆìœ¼ì‹  ë¶„
-- ì£¼ì–´ì§„ íƒœìŠ¤í¬ì— í•„ìš”í•œ ë°©ë²•ì„ ë¹ ë¥´ê²Œ ì°¾ê³ , Tensorflow/Pytorch ì¤‘ 1ê°œ ì´ìƒì˜ AI í”„ë ˆìž„ì›Œí¬ë¡œ êµ¬í˜„í•˜ì—¬ ì ìš©í•  ìˆ˜ ìžˆìœ¼ì‹  ë¶„
-- ë”¥ëŸ¬ë‹ í”„ë¡œì íŠ¸ë¥¼ ì£¼ë„ì ìœ¼ë¡œ ì§„í–‰í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- íŒ€ì›ê³¼ ëª…ë£Œí•˜ê²Œ ì˜ì‚¬ì†Œí†µí•  ìˆ˜ ìžˆëŠ” ëŠ¥ë ¥ì„ ê°€ì§€ì‹  ë¶„","1. AI ê´€ë ¨ í•™ê³¼(ì „ì‚°í•™ê³¼, ì „ìžê³¼, ìˆ˜í•™ê³¼, ë¬¼ë¦¬ê³¼) ì„ì‚¬ ì´ìƒì˜ í•™ìœ„ ì†Œì§€í•˜ì‹  ë¶„
-2. ë‚¨ì„±ì˜ ê²½ìš° êµ°í•„ì´ì‹  ë¶„
-3. AI ê´€ë ¨ êµ­ì œ ì €ë„ ë˜ëŠ” í•™íšŒ ì„±ê³¼ê°€ ìžˆìœ¼ì‹  ë¶„
-4. Servicable AI ê¸°ìˆ ì„ ì—°êµ¬/ê°œë°œí•´ë³´ì•˜ê³ , ì•žìœ¼ë¡œë„ end-userê°€ ì‚¬ìš©í•  ìˆ˜ ìžˆëŠ” ìˆ˜ì¤€ì˜ ê¸°ìˆ ì„ ê°œë°œí•´ë³´ê³  ì‹¶ì€ì‹  ë¶„",
-Network Monitoring Engineer,ë””ë¬´ë¸Œ,"- ê²½ë ¥(ì—°ìˆ˜ ë¬´ê´€)
-- Linux ì‹œìŠ¤í…œ ê´€ë¦¬, ë„¤íŠ¸ì›Œí‚¹ ë° ë¬¸ì œ í•´ê²°ì— ì§€ì‹ì„ ë³´ìœ í•˜ì‹  ë¶„
-- AWS í´ë¼ìš°ë“œ í™˜ê²½ì— ëŒ€í•œ ì´í•´ë¥¼ ë³´ìœ í•˜ì‹  ë¶„","- IT ê´€ë ¨ ìžê²©ì¦ ë³´ìœ ìž
-- ì¸í”„ë¼ ëª¨ë‹ˆí„°ë§ ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- ë©€í‹°íƒœìŠ¤í‚¹ì´ ê°€ëŠ¥í•˜ì‹  ë¶„
-- ì„±ì‹¤í•¨ê³¼ ì±…ìž„ê°ì„ ë³´ìœ í•˜ì‹  ë¶„",
-Solution Engineer,ë””ë¬´ë¸Œ,"- ê²½ë ¥(ì—°ìˆ˜ ë¬´ê´€)
-- Linux ì‹œìŠ¤í…œì— ëŒ€í•œ ê¸°ë³¸ì ì¸ ì§€ì‹ì„ ë³´ìœ í•˜ì‹  ë¶„
-- AWS í´ë¼ìš°ë“œ í™˜ê²½ì— ëŒ€í•œ ì´í•´ë¥¼ ë³´ìœ í•˜ì‹  ë¶„","- IT ê´€ë ¨ ìžê²©ì¦ ë³´ìœ ìž
-- IT ê´€ë ¨ ì—…ë¬´ ë˜ëŠ” í”„ë¡œì íŠ¸ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- ì„±ì‹¤í•¨ê³¼ ì±…ìž„ê°ì„ ë³´ìœ í•˜ì‹  ë¶„",
-CERT Engineer (ì¹¨í•´ëŒ€ì‘ ì „ë¬¸ê°€),ì•„ì¸ì‹œìŠ¤ì—ì´ì•„ì´ëž©,"â€¢ ìœ ê´€ ê²½ë ¥ 1ë…„ ì´ìƒ ë³´ìœ í•˜ì‹  ë¶„
-â€¢ ë„¤íŠ¸ì›Œí¬ íŒ¨í‚· ë¶„ì„ ëŠ¥ë ¥ì„ ê°–ì¶”ì‹  ë¶„
-â€¢ ì£¼ìš” í”„ë¡œí† ì½œ(HTTP(S), DNS, SMTP ë“±) ë™ìž‘ ë°©ì‹ì— ëŒ€í•œ ì§€ì‹ì„ ë³´ìœ í•˜ì‹  ë¶„
-â€¢ ì‚¬ì´ë²„ ê³µê²© ì‚¬ë¡€ ë¶„ì„ ë³´ê³ ì„œë¥¼ ì½ê³  ì¸ì‚¬ì´íŠ¸ë¥¼ ë„ì¶œí•˜ì‹¤ ìˆ˜ ìžˆëŠ” ë¶„","â€¢ ëª¨ì˜í•´í‚¹ ìˆ˜í–‰ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ì·¨ì•½ì  ì§„ë‹¨ì´ ê°€ëŠ¥í•˜ì‹  ë¶„",
-í”„ë¡œë•íŠ¸ QC ë‹´ë‹¹ìž(1ë…„ ì´ìƒ),ì´ì§€í…Œí¬í•€,"â€¢ ê´€ë ¨ê²½ë ¥ : 1ë…„ ~ 5ë…„
-â€¢ Android, iOS, Web í”Œëž«í¼ì— ëŒ€í•œ ì´í•´ë„ ë³´ìœ í•˜ì‹  ë¶„
-â€¢ QCì— ëŒ€í•œ ì—…ë¬´ë¥¼ ê²½í—˜í•´ ë³´ì‹  ë¶„
-â€¢ ìœ ê´€ë¶€ì„œì™€ì˜ ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ì´ ê°€ëŠ¥í•˜ë©°, ìš°ì„ ìˆœìœ„ì— ë”°ë¥¸ íš¨ìœ¨ì ì¸ ì—…ë¬´ ìˆ˜í–‰ì´ ê°€ëŠ¥í•œë¶„
-â€¢ ê¸°ì¡´ í”„ë¡œì„¸ìŠ¤ì˜ ê°œì„ ì ì„ ê³ ë¯¼, ë„ì¶œí•˜ëŠ” ë“± ì£¼ë„ì ì´ê³  ëŠ¥ë™ì ì¸ íƒœë„ë¥¼ ê°€ì§„ ë¶„","â€¢ ìƒìš© ëª¨ë°”ì¼ ì„œë¹„ìŠ¤ í…ŒìŠ¤íŠ¸ ê²½í—˜
-â€¢ Jira, Slack, Notion ë“±ì˜ í˜‘ì—…íˆ´ ì‚¬ìš© ê²½í—˜
-â€¢ ë¸”ë¡ì²´ì¸ ë° ì—…ê³„ì— ëŒ€í•œ ì´í•´ë„ê°€ ìžˆëŠ” ë¶„
-â€¢ ê¸ì •ì ì¸ ë§ˆì¸ë“œë¥¼ ì§€ë‹ˆê³  ê³„ì‹  ë¶„",
-í”„ë¡œë•íŠ¸ QA ë‹´ë‹¹ìž(1ë…„ ì´ìƒ),ì´ì§€í…Œí¬í•€,"â€¢ ê´€ë ¨ê²½ë ¥ : 1ë…„ ~ 5ë…„
-â€¢ Android, iOS, Web í”Œëž«í¼ì— ëŒ€í•œ ì´í•´ë„ ë³´ìœ í•˜ì‹  ë¶„
-â€¢ QAì— ëŒ€í•œ ì—…ë¬´ë¥¼ ê²½í—˜í•´ ë³´ì‹  ë¶„
-â€¢ ìœ ê´€ë¶€ì„œì™€ì˜ ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ì´ ê°€ëŠ¥í•˜ë©°, ìš°ì„ ìˆœìœ„ì— ë”°ë¥¸ íš¨ìœ¨ì ì¸ ì—…ë¬´ ìˆ˜í–‰ì´ ê°€ëŠ¥í•œë¶„
-â€¢ ê¸°ì¡´ í”„ë¡œì„¸ìŠ¤ì˜ ê°œì„ ì ì„ ê³ ë¯¼, ë„ì¶œí•˜ëŠ” ë“± ì£¼ë„ì ì´ê³  ëŠ¥ë™ì ì¸ íƒœë„ë¥¼ ê°€ì§„ ë¶„","â€¢ ìƒìš© ëª¨ë°”ì¼ ì„œë¹„ìŠ¤ í…ŒìŠ¤íŠ¸ ê²½í—˜
-â€¢ Jira, Slack, Notion ë“±ì˜ í˜‘ì—…íˆ´ ì‚¬ìš© ê²½í—˜
-â€¢ ë¸”ë¡ì²´ì¸ ë° ì—…ê³„ì— ëŒ€í•œ ì´í•´ë„ê°€ ìžˆëŠ” ë¶„
-â€¢ ê¸ì •ì ì¸ ë§ˆì¸ë“œë¥¼ ì§€ë‹ˆê³  ê³„ì‹  ë¶„",
-ë°˜ë„ì²´ Product Engineering,ë””ì—ì´ì•„ì´ì˜¤,"- c ì–¸ì–´ ì‚¬ìš©ê°€ëŠ¥
-- Android / u-boot / kernel driver / filesystem / storage ê²½ë ¥ìž ìš°ëŒ€
-- ì „ìžê³µí•™ ë° ì»´í“¨í„° ê³µí•™ ë“±ì˜  í•™ì‚¬ ì´ìƒì˜ ìžê²©
-- íšŒì‚¬ ë° ìœ ê´€ê¸°ê´€ 3ë…„ ì´ìƒì˜ ê²½í—˜
-- Oscilloscope, Logic Analyzer ë“± í…ŒìŠ¤íŠ¸ ìž¥ë¹„ ì‚¬ìš©ê°€ëŠ¥
-- ê²½ë ¥ì‚¬í•­: ì‹ ìž…, ê²½ë ¥(ì—°ì°¨ë¬´ê´€)
-- í•™ë ¥ì‚¬í•­: ëŒ€ì¡¸ ì´ìƒ(4ë…„)","- NAND Storage(SD, SSD, eMMC) ì œí’ˆ Firmware ê²½í—˜
-- ì „ìžê³µí•™ ë° ì»´í“¨í„° ê³µí•™ ë“±ì˜  ì„ì‚¬ ì´ìƒì˜ ìžê²©
-- CPU firmware ê°œë°œ ê²½í—˜
-- OSê°œë°œ ê²½í—˜",
-NAND Flash Solution ê°œë°œìž (ìž„ë² ë””ë“œ íŽŒì›¨ì–´ ê°œë°œ),ë””ì—ì´ì•„ì´ì˜¤,"- C ì–¸ì–´ ì‚¬ìš©ê°€ëŠ¥
-- Firmware ê°œë°œ ê²½í—˜
-- Data structure & Algorithm ëŠ¥í†µ
-- Computer architecture ëŠ¥í†µ
-- ê²½ë ¥ì‚¬í•­: ì‹ ìž…, ê²½ë ¥(ì—°ì°¨ë¬´ê´€)
-- í•™ë ¥ì‚¬í•­: ëŒ€ì¡¸ ì´ìƒ(4ë…„)","- NAND Storage(SD, SSD, eMMC) ì œí’ˆ Firmware ê°œë°œ ê²½í—˜
-- ì „ìžê³µí•™ ë° ì»´í“¨í„° ê³µí•™ ë“±ì˜ ì„ì‚¬ ì´ìƒì˜ ìžê²©",
-SAP MM(3ë…„ ì´ìƒ),ì•„ì‹œì•„ë‚˜IDT,"â€¢ SAP MM/SD ëª¨ë“ˆ ê²½í—˜ìž (3ë…„ì´ìƒ)
-â€¢ SAP ABAP ê°œë°œ ê²½í—˜ìž (3ë…„ì´ìƒ)",ITí”„ë¡œì íŠ¸ ì œì•ˆ/ìˆ˜í–‰ ê²½í—˜ìž,
-ëª¨ë¹Œë¦¬í‹°ìš© ì´ì°¨ì „ì§€ BMS ì—°êµ¬ê°œë°œ ì‹ ê·œ ì—°êµ¬ì›,ì”¨í‹°ì—”ì—ìŠ¤,â€¢ ìž„ë² ë””ë“œ ì‹œìŠ¤í…œ ë° íŽŒì›¨ì–´ ê°œë°œ ê²½ë ¥ 3ë…„ ì´ìƒ.,"â€¢ ì „ê¸° ê³µí•™, ì»´í“¨í„° ê³¼í•™ ë˜ëŠ” ê´€ë ¨ ë¶„ì•¼ì˜ í•™ìœ„.
-â€¢ ì „ë ¥ ì „ìž ë° ë””ì§€í„¸ ì‹ í˜¸ ì²˜ë¦¬ì— ëŒ€í•œ ì§€ì‹.
-â€¢ í†µì‹  í”„ë¡œí† ì½œ ê²½í—˜.
-â€¢ ì‹¤ì‹œê°„ ìš´ì˜ ì²´ì œ(RTOS) ë° ê°œë°œ ë„êµ¬ ì‚¬ìš© ê²½í—˜.
-â€¢ ë²„ì „ ì œì–´ ì‹œìŠ¤í…œ(ì˜ˆ: Git) ë° ë²„ê·¸ ì¶”ì  ë„êµ¬ ê²½í—˜.",
-[100ì–µâ†‘íˆ¬ìž] Sr. DevOps Engineer (ì‹œë‹ˆì–´ ë°ë¸Œì˜µìŠ¤ ê°œë°œìž),í”Œë£¨ê³ ì½”ë¦¬ì•„,"â€¢ ë¹„ì¦ˆë‹ˆìŠ¤ ë ˆë²¨ì˜ ì˜ì–´ ëŠ¥ë ¥ ë³´ìœ 
-â€¢ DevOps ê°œë°œ 3ë…„ ì´ìƒì˜ ê²½ë ¥ í¬í•¨ ì´ 5ë…„ ì´ìƒì˜ ê°œë°œ ê²½ë ¥ 
-â€¢ DevOps ë° SREì˜ ì›ì¹™ê³¼ ê´€í–‰ ìˆ™ì§€
-â€¢ AWS í´ë¼ìš°ë“œ ì„œë¹„ìŠ¤, AWS EKS, CDK ë° ArgoCD ê²½í—˜ 
-â€¢ Kubernetes í™˜ê²½ì—ì„œ ë§ˆì´í¬ë¡œ ì„œë¹„ìŠ¤ ìš´ì˜ ë° ê°œì„ í•œ ê²½í—˜","â€¢ Kosko ë˜ëŠ” CDK8S ì™€ ê°™ì€ íˆ´ ì‚¬ìš© ê²½í—˜
-â€¢ RDS MySQL, Aurora Serverless, MongoDB, DynamoDB ë“± DB ê´€ë¦¬ ê²½í—˜",
-ê¸°ìˆ ì§€ì› ì—”ì§€ë‹ˆì–´ ì‹ ìž… - ëŒ€ì „,ì§€ëž€ì§€êµë°ì´í„°,"â€¢ ì»´í“¨í„° ê´€ë ¨ í•™ê³¼ ì¡¸ì—… / IT êµìœ¡ ì´ìˆ˜
-â€¢ OS(ìœˆë„ìš°, ë¦¬ëˆ…ìŠ¤ ë“±) ì— ëŒ€í•œ ê¸°ì´ˆ ì§€ì‹ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ì„œë¹„ìŠ¤ ë§ˆì¸ë“œ í¬í•¨ ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ì´ ê°€ëŠ¥í•œ ë¶„
-â€¢ ê³ ê°ì‚¬ ì ê²€ì´ë‚˜ ìš´ì˜ ì¶œìž¥ ì—…ë¬´ê°€ ë§žìœ¼ì‹œëŠ” ë¶„
-â€¢ ìžë™ì°¨ ìš´ì „ ê°€ëŠ¥ìž (2ì¢… ë³´í†µ)
-â€»ê¸°ìˆ ì§€ì› ì—…ë¬´ íŠ¹ì„±ìƒ ì™¸ê·¼ì—…ë¬´ê°€ ë§Žì€ ë¹„ì¤‘ì„ ì°¨ì§€í•©ë‹ˆë‹¤.","â€¢ CentOS, ë ˆë“œí–‡ ë¦¬ëˆ…ìŠ¤ ì„¤ì¹˜ ê²½í—˜ì´ ìžˆëŠ” ë¶„ 
-â€¢ ê°œì¸ì •ë³´ë³´í˜¸ ì†”ë£¨ì…˜ ìœ ì‚¬ ì—…ì¢…(ê³ ê°ì§€ì›ì—…ë¬´í¬í•¨) / ìœ ì§€ë³´ìˆ˜ ê²½ë ¥",
-[ë‹ˆì§ë‚´ì§] í”Œëž«í¼ ë°±ì—”ë“œ ê°œë°œìž,ì¸ë””íŽœë˜íŠ¸,"- ë°±ì—”ë“œ ê°œë°œ ì‹¤ë¬´ ê²½ë ¥ 5ë…„ ì´ìƒì¸ ë¶„
-- ìƒìš© ì„œë¹„ìŠ¤ ê°œë°œ ë° ë³´ìˆ˜ê°€ ê°€ëŠ¥í•˜ì‹  ë¶„
-- JAVA, Springì„ ëŠ¥ìˆ™í•˜ê²Œ ë‹¤ë£° ì¤„ ì•„ì‹œëŠ” ë¶„
-- MySQLê°™ì€ RDBMSë¥¼ ëŠ¥ìˆ™í•˜ê²Œ ë‹¤ë£° ì¤„ ì•„ì‹œëŠ” ë¶„
-- ì‚¬ìš©ìž ì¤‘ì‹¬ì ì¸ ë…¼ë¦¬ì  ì‚¬ê³ ê°€ ê°€ëŠ¥í•˜ì‹  ë¶„","- ì‹ ê·œ ì„œë¹„ìŠ¤ë¥¼ ì²˜ìŒë¶€í„° ëê¹Œì§€ ê°œë°œí•´ë³¸ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- ëŒ€ê·œëª¨ í”„ë¡œì íŠ¸ë¥¼ ê°œë°œí•´ë³¸ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- ì„œë¹„ìŠ¤ ë¦¬ë¹Œë”©(Re-Building) ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- ì„œë²„ ë§ˆì´ê·¸ë ˆì´ì…˜(Migration) ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- ë°ì´í„°ë² ì´ìŠ¤(DB) ìµœì í™” ê²½í—˜ì´ ìžˆê±°ë‚˜ ê°€ëŠ¥í•˜ì‹  ë¶„
-- HTML, CSS, Javascriptì— ëŒ€í•œ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„
-- í”¼íŠ¸ë‹ˆìŠ¤ í˜¹ì€ í—¬ìŠ¤ì¼€ì–´ ì‚°ì—… ë¶„ì•¼ ê´€ë ¨ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„",
-"[ê³„ì•½ì§]QA ë‹´ë‹¹ìž(1ë…„, ë°ì´í„° ìˆ˜ì§‘/ë¶„ë¥˜/ì •ì œ)",ë¼ì´ì–¸ë¡œì¼“,"â€¢ ë‹¤ì–‘í•œ íˆ´ í™œìš©(ì—‘ì…€/êµ¬ê¸€ìŠ¤í”„ë ˆë“œì‹œíŠ¸, ë…¸ì…˜ ë“±)ì´ ê°€ëŠ¥í•˜ì‹  ë¶„ 
-â€¢ ìŒì„±/ì˜ìƒ ê´€ë ¨ ë°ì´í„° ìž‘ì—…ì— ëŒ€í•œ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„ 
-â€¢ ì£¼ë„ì ì¸ í•™ìŠµê³¼ ì—…ë¬´ ìˆ˜í–‰ ëŠ¥ë ¥ì´ ìžˆìœ¼ì‹  ë¶„ 
-â€¢ ì—…ë¬´ì— ëŒ€í•œ ì±…ìž„ê°ì´ ê°•í•˜ê³ , ê¼¼ê¼¼í•˜ì‹  ë¶„ 
-â€¢ í•´ì™¸ì—¬í–‰ì˜ ê²°ê²©ì‚¬ìœ ê°€ ì—†ìœ¼ì‹  ë¶„","â€¢ IT ìŠ¤íƒ€íŠ¸ì—…ì—ì„œì˜ í•´ë‹¹ ì—…ë¬´ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„ 
-â€¢ ìƒì„±AIì— ëŒ€í•œ ì§€ì‹ í˜¹ì€ ê´€ì‹¬ì´ ë§Žìœ¼ì‹  ë¶„",
-ì£¼ë‹ˆì–´ ë¸”ë¡ì²´ì¸ ê°œë°œìž (Jr.Blockchain Engineer),ë”ì“°ë¦¬ë£°ìŠ¤,"-êµ­ì ì´ ë‹¤ì–‘í•˜ê³  ì¸ì¢…ì  ë°°ê²½ì´ ë‹¤ë¥¸ ë¹„ì†Œë‚˜ì´ í¬ë£¨ë“¤ê³¼ ì›í™œí•˜ê²Œ ì†Œí†µí•  ìˆ˜ ìžˆëŠ” ëŠ¥ë ¥ì´ ìžˆì–´ì•¼ í•©ë‹ˆë‹¤.
+¤ý¿îÀü°¡´ÉÀÚ",
+ML engineer,ÈÞ¸á·Î,"- µö·¯´×¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ
+- Django, FastAPI Áß 1°³ ÀÌ»óÀÇ REST frameworkÀ» »ç¿ëÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ(ÀÍ¼÷ÇÏ½Å ºÐ)
+- Docker »ç¿ë °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- DevOps, MLOps¿¡ °ü½ÉÀÌ ¸¹À¸½Å ºÐ, GithubÀÇ ÄÚµåµéÀ» È°¿ëÇÏ°í °³¼±ÇÒ ¼ö ÀÖÀ¸½Å ºÐ
+- ÆÀ¿ø°ú ¸í·áÇÏ°Ô ÀÇ»ç¼ÒÅëÇÒ ¼ö ÀÖ´Â ´É·ÂÀ» °¡Áö½Å ºÐ (Verbal + Writing)","1. AI °ü·Ã ÇÐ°ú(Àü»êÇÐ°ú, ÀüÀÚ°ú, ¼öÇÐ°ú, ¹°¸®°ú) ¼®»ç ÀÌ»óÀÇ ÇÐÀ§¸¦ ¼ÒÁöÇÏ½Å ºÐ
+2. ³²¼ºÀÇ °æ¿ì ±ºÇÊÀÌ½Å ºÐ
+3. AI Service °³¹ß ¹× ¿î¿µ °æ·ÂÀÌ ÀÖÀ¸½Å ºÐ
+4. AI Service ¼Óµµ °³¼± ¹× ÃÖÀûÈ­¸¦ À§ÇÑ °í¹ÎÀ» ÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+5. Servicable AI ±â¼úÀ» ¿¬±¸/°³¹ßÇØº¸¾Ò°í, ¾ÕÀ¸·Î end-user°¡ Æí¸®ÇÏ°Ô »ç¿ëÇÒ AI Service¸¦ ¸¸µé°í ½ÍÀ¸½Å ºÐ",
+AI researcher,ÈÞ¸á·Î,"- ÃÖ½Å ³í¹®À» ÀÌÇØÇÏ°í, ÀÌ¸¦ ¹ÙÅÁÀ¸·Î ÇÕ¸®ÀûÀÎ insight¾òÀ» ¼ö ÀÖÀ¸½Å ºÐ
+- ÁÖ¾îÁø ÅÂ½ºÅ©¿¡ ÇÊ¿äÇÑ ¹æ¹ýÀ» ºü¸£°Ô Ã£°í, Tensorflow/Pytorch Áß 1°³ ÀÌ»óÀÇ AI ÇÁ·¹ÀÓ¿öÅ©·Î ±¸ÇöÇÏ¿© Àû¿ëÇÒ ¼ö ÀÖÀ¸½Å ºÐ
+- µö·¯´× ÇÁ·ÎÁ§Æ®¸¦ ÁÖµµÀûÀ¸·Î ÁøÇàÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- ÆÀ¿ø°ú ¸í·áÇÏ°Ô ÀÇ»ç¼ÒÅëÇÒ ¼ö ÀÖ´Â ´É·ÂÀ» °¡Áö½Å ºÐ","1. AI °ü·Ã ÇÐ°ú(Àü»êÇÐ°ú, ÀüÀÚ°ú, ¼öÇÐ°ú, ¹°¸®°ú) ¼®»ç ÀÌ»óÀÇ ÇÐÀ§ ¼ÒÁöÇÏ½Å ºÐ
+2. ³²¼ºÀÇ °æ¿ì ±ºÇÊÀÌ½Å ºÐ
+3. AI °ü·Ã ±¹Á¦ Àú³Î ¶Ç´Â ÇÐÈ¸ ¼º°ú°¡ ÀÖÀ¸½Å ºÐ
+4. Servicable AI ±â¼úÀ» ¿¬±¸/°³¹ßÇØº¸¾Ò°í, ¾ÕÀ¸·Îµµ end-user°¡ »ç¿ëÇÒ ¼ö ÀÖ´Â ¼öÁØÀÇ ±â¼úÀ» °³¹ßÇØº¸°í ½ÍÀº½Å ºÐ",
+Network Monitoring Engineer,µð¹«ºê,"- °æ·Â(¿¬¼ö ¹«°ü)
+- Linux ½Ã½ºÅÛ °ü¸®, ³×Æ®¿öÅ· ¹× ¹®Á¦ ÇØ°á¿¡ Áö½ÄÀ» º¸À¯ÇÏ½Å ºÐ
+- AWS Å¬¶ó¿ìµå È¯°æ¿¡ ´ëÇÑ ÀÌÇØ¸¦ º¸À¯ÇÏ½Å ºÐ","- IT °ü·Ã ÀÚ°ÝÁõ º¸À¯ÀÚ
+- ÀÎÇÁ¶ó ¸ð´ÏÅÍ¸µ ¿î¿µ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- ¸ÖÆ¼ÅÂ½ºÅ·ÀÌ °¡´ÉÇÏ½Å ºÐ
+- ¼º½ÇÇÔ°ú Ã¥ÀÓ°¨À» º¸À¯ÇÏ½Å ºÐ",
+Solution Engineer,µð¹«ºê,"- °æ·Â(¿¬¼ö ¹«°ü)
+- Linux ½Ã½ºÅÛ¿¡ ´ëÇÑ ±âº»ÀûÀÎ Áö½ÄÀ» º¸À¯ÇÏ½Å ºÐ
+- AWS Å¬¶ó¿ìµå È¯°æ¿¡ ´ëÇÑ ÀÌÇØ¸¦ º¸À¯ÇÏ½Å ºÐ","- IT °ü·Ã ÀÚ°ÝÁõ º¸À¯ÀÚ
+- IT °ü·Ã ¾÷¹« ¶Ç´Â ÇÁ·ÎÁ§Æ® °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- ¼º½ÇÇÔ°ú Ã¥ÀÓ°¨À» º¸À¯ÇÏ½Å ºÐ",
+CERT Engineer (Ä§ÇØ´ëÀÀ Àü¹®°¡),¾ÆÀÎ½Ã½º¿¡ÀÌ¾ÆÀÌ·¦,"? À¯°ü °æ·Â 1³â ÀÌ»ó º¸À¯ÇÏ½Å ºÐ
+? ³×Æ®¿öÅ© ÆÐÅ¶ ºÐ¼® ´É·ÂÀ» °®Ãß½Å ºÐ
+? ÁÖ¿ä ÇÁ·ÎÅäÄÝ(HTTP(S), DNS, SMTP µî) µ¿ÀÛ ¹æ½Ä¿¡ ´ëÇÑ Áö½ÄÀ» º¸À¯ÇÏ½Å ºÐ
+? »çÀÌ¹ö °ø°Ý »ç·Ê ºÐ¼® º¸°í¼­¸¦ ÀÐ°í ÀÎ»çÀÌÆ®¸¦ µµÃâÇÏ½Ç ¼ö ÀÖ´Â ºÐ","? ¸ðÀÇÇØÅ· ¼öÇà °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? Ãë¾àÁ¡ Áø´ÜÀÌ °¡´ÉÇÏ½Å ºÐ",
+ÇÁ·Î´öÆ® QC ´ã´çÀÚ(1³â ÀÌ»ó),ÀÌÁöÅ×Å©ÇÉ,"? °ü·Ã°æ·Â : 1³â ~ 5³â
+? Android, iOS, Web ÇÃ·§Æû¿¡ ´ëÇÑ ÀÌÇØµµ º¸À¯ÇÏ½Å ºÐ
+? QC¿¡ ´ëÇÑ ¾÷¹«¸¦ °æÇèÇØ º¸½Å ºÐ
+? À¯°üºÎ¼­¿ÍÀÇ ¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼ÇÀÌ °¡´ÉÇÏ¸ç, ¿ì¼±¼øÀ§¿¡ µû¸¥ È¿À²ÀûÀÎ ¾÷¹« ¼öÇàÀÌ °¡´ÉÇÑºÐ
+? ±âÁ¸ ÇÁ·Î¼¼½ºÀÇ °³¼±Á¡À» °í¹Î, µµÃâÇÏ´Â µî ÁÖµµÀûÀÌ°í ´Éµ¿ÀûÀÎ ÅÂµµ¸¦ °¡Áø ºÐ","? »ó¿ë ¸ð¹ÙÀÏ ¼­ºñ½º Å×½ºÆ® °æÇè
+? Jira, Slack, Notion µîÀÇ Çù¾÷Åø »ç¿ë °æÇè
+? ºí·ÏÃ¼ÀÎ ¹× ¾÷°è¿¡ ´ëÇÑ ÀÌÇØµµ°¡ ÀÖ´Â ºÐ
+? ±àÁ¤ÀûÀÎ ¸¶ÀÎµå¸¦ Áö´Ï°í °è½Å ºÐ",
+ÇÁ·Î´öÆ® QA ´ã´çÀÚ(1³â ÀÌ»ó),ÀÌÁöÅ×Å©ÇÉ,"? °ü·Ã°æ·Â : 1³â ~ 5³â
+? Android, iOS, Web ÇÃ·§Æû¿¡ ´ëÇÑ ÀÌÇØµµ º¸À¯ÇÏ½Å ºÐ
+? QA¿¡ ´ëÇÑ ¾÷¹«¸¦ °æÇèÇØ º¸½Å ºÐ
+? À¯°üºÎ¼­¿ÍÀÇ ¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼ÇÀÌ °¡´ÉÇÏ¸ç, ¿ì¼±¼øÀ§¿¡ µû¸¥ È¿À²ÀûÀÎ ¾÷¹« ¼öÇàÀÌ °¡´ÉÇÑºÐ
+? ±âÁ¸ ÇÁ·Î¼¼½ºÀÇ °³¼±Á¡À» °í¹Î, µµÃâÇÏ´Â µî ÁÖµµÀûÀÌ°í ´Éµ¿ÀûÀÎ ÅÂµµ¸¦ °¡Áø ºÐ","? »ó¿ë ¸ð¹ÙÀÏ ¼­ºñ½º Å×½ºÆ® °æÇè
+? Jira, Slack, Notion µîÀÇ Çù¾÷Åø »ç¿ë °æÇè
+? ºí·ÏÃ¼ÀÎ ¹× ¾÷°è¿¡ ´ëÇÑ ÀÌÇØµµ°¡ ÀÖ´Â ºÐ
+? ±àÁ¤ÀûÀÎ ¸¶ÀÎµå¸¦ Áö´Ï°í °è½Å ºÐ",
+¹ÝµµÃ¼ Product Engineering,µð¿¡ÀÌ¾ÆÀÌ¿À,"- c ¾ð¾î »ç¿ë°¡´É
+- Android / u-boot / kernel driver / filesystem / storage °æ·ÂÀÚ ¿ì´ë
+- ÀüÀÚ°øÇÐ ¹× ÄÄÇ»ÅÍ °øÇÐ µîÀÇ  ÇÐ»ç ÀÌ»óÀÇ ÀÚ°Ý
+- È¸»ç ¹× À¯°ü±â°ü 3³â ÀÌ»óÀÇ °æÇè
+- Oscilloscope, Logic Analyzer µî Å×½ºÆ® Àåºñ »ç¿ë°¡´É
+- °æ·Â»çÇ×: ½ÅÀÔ, °æ·Â(¿¬Â÷¹«°ü)
+- ÇÐ·Â»çÇ×: ´ëÁ¹ ÀÌ»ó(4³â)","- NAND Storage(SD, SSD, eMMC) Á¦Ç° Firmware °æÇè
+- ÀüÀÚ°øÇÐ ¹× ÄÄÇ»ÅÍ °øÇÐ µîÀÇ  ¼®»ç ÀÌ»óÀÇ ÀÚ°Ý
+- CPU firmware °³¹ß °æÇè
+- OS°³¹ß °æÇè",
+NAND Flash Solution °³¹ßÀÚ (ÀÓº£µðµå Æß¿þ¾î °³¹ß),µð¿¡ÀÌ¾ÆÀÌ¿À,"- C ¾ð¾î »ç¿ë°¡´É
+- Firmware °³¹ß °æÇè
+- Data structure & Algorithm ´ÉÅë
+- Computer architecture ´ÉÅë
+- °æ·Â»çÇ×: ½ÅÀÔ, °æ·Â(¿¬Â÷¹«°ü)
+- ÇÐ·Â»çÇ×: ´ëÁ¹ ÀÌ»ó(4³â)","- NAND Storage(SD, SSD, eMMC) Á¦Ç° Firmware °³¹ß °æÇè
+- ÀüÀÚ°øÇÐ ¹× ÄÄÇ»ÅÍ °øÇÐ µîÀÇ ¼®»ç ÀÌ»óÀÇ ÀÚ°Ý",
+SAP MM(3³â ÀÌ»ó),¾Æ½Ã¾Æ³ªIDT,"? SAP MM/SD ¸ðµâ °æÇèÀÚ (3³âÀÌ»ó)
+? SAP ABAP °³¹ß °æÇèÀÚ (3³âÀÌ»ó)",ITÇÁ·ÎÁ§Æ® Á¦¾È/¼öÇà °æÇèÀÚ,
+¸ðºô¸®Æ¼¿ë ÀÌÂ÷ÀüÁö BMS ¿¬±¸°³¹ß ½Å±Ô ¿¬±¸¿ø,¾¾Æ¼¿£¿¡½º,? ÀÓº£µðµå ½Ã½ºÅÛ ¹× Æß¿þ¾î °³¹ß °æ·Â 3³â ÀÌ»ó.,"? Àü±â °øÇÐ, ÄÄÇ»ÅÍ °úÇÐ ¶Ç´Â °ü·Ã ºÐ¾ßÀÇ ÇÐÀ§.
+? Àü·Â ÀüÀÚ ¹× µðÁöÅÐ ½ÅÈ£ Ã³¸®¿¡ ´ëÇÑ Áö½Ä.
+? Åë½Å ÇÁ·ÎÅäÄÝ °æÇè.
+? ½Ç½Ã°£ ¿î¿µ Ã¼Á¦(RTOS) ¹× °³¹ß µµ±¸ »ç¿ë °æÇè.
+? ¹öÀü Á¦¾î ½Ã½ºÅÛ(¿¹: Git) ¹× ¹ö±× ÃßÀû µµ±¸ °æÇè.",
+[100¾ï¡èÅõÀÚ] Sr. DevOps Engineer (½Ã´Ï¾î µ¥ºê¿É½º °³¹ßÀÚ),ÇÃ·ç°íÄÚ¸®¾Æ,"? ºñÁî´Ï½º ·¹º§ÀÇ ¿µ¾î ´É·Â º¸À¯
+? DevOps °³¹ß 3³â ÀÌ»óÀÇ °æ·Â Æ÷ÇÔ ÃÑ 5³â ÀÌ»óÀÇ °³¹ß °æ·Â 
+? DevOps ¹× SREÀÇ ¿øÄ¢°ú °üÇà ¼÷Áö
+? AWS Å¬¶ó¿ìµå ¼­ºñ½º, AWS EKS, CDK ¹× ArgoCD °æÇè 
+? Kubernetes È¯°æ¿¡¼­ ¸¶ÀÌÅ©·Î ¼­ºñ½º ¿î¿µ ¹× °³¼±ÇÑ °æÇè","? Kosko ¶Ç´Â CDK8S ¿Í °°Àº Åø »ç¿ë °æÇè
+? RDS MySQL, Aurora Serverless, MongoDB, DynamoDB µî DB °ü¸® °æÇè",
+±â¼úÁö¿ø ¿£Áö´Ï¾î ½ÅÀÔ - ´ëÀü,Áö¶õÁö±³µ¥ÀÌÅÍ,"? ÄÄÇ»ÅÍ °ü·Ã ÇÐ°ú Á¹¾÷ / IT ±³À° ÀÌ¼ö
+? OS(À©µµ¿ì, ¸®´ª½º µî) ¿¡ ´ëÇÑ ±âÃÊ Áö½ÄÀÌ ÀÖÀ¸½Å ºÐ
+? ¼­ºñ½º ¸¶ÀÎµå Æ÷ÇÔ ¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼ÇÀÌ °¡´ÉÇÑ ºÐ
+? °í°´»ç Á¡°ËÀÌ³ª ¿î¿µ ÃâÀå ¾÷¹«°¡ ¸ÂÀ¸½Ã´Â ºÐ
+? ÀÚµ¿Â÷ ¿îÀü °¡´ÉÀÚ (2Á¾ º¸Åë)
+¡Ø±â¼úÁö¿ø ¾÷¹« Æ¯¼º»ó ¿Ü±Ù¾÷¹«°¡ ¸¹Àº ºñÁßÀ» Â÷ÁöÇÕ´Ï´Ù.","? CentOS, ·¹µåÇÞ ¸®´ª½º ¼³Ä¡ °æÇèÀÌ ÀÖ´Â ºÐ 
+? °³ÀÎÁ¤º¸º¸È£ ¼Ö·ç¼Ç À¯»ç ¾÷Á¾(°í°´Áö¿ø¾÷¹«Æ÷ÇÔ) / À¯Áöº¸¼ö °æ·Â",
+[´ÏÁü³»Áü] ÇÃ·§Æû ¹é¿£µå °³¹ßÀÚ,ÀÎµðÆæ´øÆ®,"- ¹é¿£µå °³¹ß ½Ç¹« °æ·Â 5³â ÀÌ»óÀÎ ºÐ
+- »ó¿ë ¼­ºñ½º °³¹ß ¹× º¸¼ö°¡ °¡´ÉÇÏ½Å ºÐ
+- JAVA, SpringÀ» ´É¼÷ÇÏ°Ô ´Ù·ê ÁÙ ¾Æ½Ã´Â ºÐ
+- MySQL°°Àº RDBMS¸¦ ´É¼÷ÇÏ°Ô ´Ù·ê ÁÙ ¾Æ½Ã´Â ºÐ
+- »ç¿ëÀÚ Áß½ÉÀûÀÎ ³í¸®Àû »ç°í°¡ °¡´ÉÇÏ½Å ºÐ","- ½Å±Ô ¼­ºñ½º¸¦ Ã³À½ºÎÅÍ ³¡±îÁö °³¹ßÇØº» °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- ´ë±Ô¸ð ÇÁ·ÎÁ§Æ®¸¦ °³¹ßÇØº» °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- ¼­ºñ½º ¸®ºôµù(Re-Building) °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- ¼­¹ö ¸¶ÀÌ±×·¹ÀÌ¼Ç(Migration) °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- µ¥ÀÌÅÍº£ÀÌ½º(DB) ÃÖÀûÈ­ °æÇèÀÌ ÀÖ°Å³ª °¡´ÉÇÏ½Å ºÐ
+- HTML, CSS, Javascript¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ
+- ÇÇÆ®´Ï½º È¤Àº Çï½ºÄÉ¾î »ê¾÷ ºÐ¾ß °ü·Ã °æÇèÀÌ ÀÖÀ¸½Å ºÐ",
+"[°è¾àÁ÷]QA ´ã´çÀÚ(1³â, µ¥ÀÌÅÍ ¼öÁý/ºÐ·ù/Á¤Á¦)",¶óÀÌ¾ð·ÎÄÏ,"? ´Ù¾çÇÑ Åø È°¿ë(¿¢¼¿/±¸±Û½ºÇÁ·¹µå½ÃÆ®, ³ë¼Ç µî)ÀÌ °¡´ÉÇÏ½Å ºÐ 
+? À½¼º/¿µ»ó °ü·Ã µ¥ÀÌÅÍ ÀÛ¾÷¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ 
+? ÁÖµµÀûÀÎ ÇÐ½À°ú ¾÷¹« ¼öÇà ´É·ÂÀÌ ÀÖÀ¸½Å ºÐ 
+? ¾÷¹«¿¡ ´ëÇÑ Ã¥ÀÓ°¨ÀÌ °­ÇÏ°í, ²Ä²ÄÇÏ½Å ºÐ 
+? ÇØ¿Ü¿©ÇàÀÇ °á°Ý»çÀ¯°¡ ¾øÀ¸½Å ºÐ","? IT ½ºÅ¸Æ®¾÷¿¡¼­ÀÇ ÇØ´ç ¾÷¹« °æÇèÀÌ ÀÖÀ¸½Å ºÐ 
+? »ý¼ºAI¿¡ ´ëÇÑ Áö½Ä È¤Àº °ü½ÉÀÌ ¸¹À¸½Å ºÐ",
+ÁÖ´Ï¾î ºí·ÏÃ¼ÀÎ °³¹ßÀÚ (Jr.Blockchain Engineer),´õ¾²¸®·ê½º,"-±¹ÀûÀÌ ´Ù¾çÇÏ°í ÀÎÁ¾Àû ¹è°æÀÌ ´Ù¸¥ ºñ¼Ò³ªÀÌ Å©·çµé°ú ¿øÈ°ÇÏ°Ô ¼ÒÅëÇÒ ¼ö ÀÖ´Â ´É·ÂÀÌ ÀÖ¾î¾ß ÇÕ´Ï´Ù.
 
--ì»´í“¨í„° ê´€ë ¨ í•™ê³¼, ìˆ˜í•™, í†µê³„í•™ ë˜ëŠ” ì´ì™€ ê´€ë ¨ëœ ì „ê³µ ë¶„ì•¼ì˜ í•™ì‚¬, ì„ì‚¬ ë˜ëŠ” ë°•ì‚¬ í•™ìœ„ê°€ ìš”êµ¬ë©ë‹ˆë‹¤.
+-ÄÄÇ»ÅÍ °ü·Ã ÇÐ°ú, ¼öÇÐ, Åë°èÇÐ ¶Ç´Â ÀÌ¿Í °ü·ÃµÈ Àü°ø ºÐ¾ßÀÇ ÇÐ»ç, ¼®»ç ¶Ç´Â ¹Ú»ç ÇÐÀ§°¡ ¿ä±¸µË´Ï´Ù.
 
--ì´ì „ì— NFT í”„ë¡œì íŠ¸ì˜ ê¸°ìˆ  ê°œë°œì„ ì²˜ìŒë¶€í„° ëê¹Œì§€ ì§„í–‰í•œ ê²½í—˜ì´ í•„ìš”í•©ë‹ˆë‹¤.
+-ÀÌÀü¿¡ NFT ÇÁ·ÎÁ§Æ®ÀÇ ±â¼ú °³¹ßÀ» Ã³À½ºÎÅÍ ³¡±îÁö ÁøÇàÇÑ °æÇèÀÌ ÇÊ¿äÇÕ´Ï´Ù.
 
--ë¸”ë¡ì²´ì¸, í•©ì˜ ì•Œê³ ë¦¬ì¦˜, ìŠ¤ë§ˆíŠ¸ ì»¨íŠ¸ëž™íŠ¸, EVM, ERC ë° EIP í‘œì¤€, íƒˆì¤‘ì•™í™” í”„ë¡œí† ì½œ, í¬ë¡œìŠ¤ì²´ì¸ ìƒí˜¸ ìš´ìš©ì„±ì— ëŒ€í•œ ì´í•´ë„ê°€ ìš”êµ¬ë©ë‹ˆë‹¤.
+-ºí·ÏÃ¼ÀÎ, ÇÕÀÇ ¾Ë°í¸®Áò, ½º¸¶Æ® ÄÁÆ®·¢Æ®, EVM, ERC ¹× EIP Ç¥ÁØ, Å»Áß¾ÓÈ­ ÇÁ·ÎÅäÄÝ, Å©·Î½ºÃ¼ÀÎ »óÈ£ ¿î¿ë¼º¿¡ ´ëÇÑ ÀÌÇØµµ°¡ ¿ä±¸µË´Ï´Ù.
 
--ìŠ¤ë§ˆíŠ¸ ì»¨íŠ¸ëž™íŠ¸ ê°œë°œ, ê°ì‚¬(Audit), ì½”ë“œ ê²€í† , ë³´ì•ˆ ëª¨ë²” ì‚¬ë¡€, íš¨ê³¼ì ì¸ ê°œë°œ ë¬¸ì„œí™”, CI/CDì— ê´€í•œ ê²½í—˜ì´ í•„ìš”í•©ë‹ˆë‹¤.
+-½º¸¶Æ® ÄÁÆ®·¢Æ® °³¹ß, °¨»ç(Audit), ÄÚµå °ËÅä, º¸¾È ¸ð¹ü »ç·Ê, È¿°úÀûÀÎ °³¹ß ¹®¼­È­, CI/CD¿¡ °üÇÑ °æÇèÀÌ ÇÊ¿äÇÕ´Ï´Ù.
 
--ìµœì‹  ë¸”ë¡ì²´ì¸ ê¸°ìˆ , ì›¹3.0, ë””íŒŒì´ í”„ë¡œí† ì½œì— ëŒ€í•œ ê°•í•œ ì—´ë§ê³¼ í•™ìŠµ ì˜ì§€ê°€ í•„ìš”í•©ë‹ˆë‹¤.
+-ÃÖ½Å ºí·ÏÃ¼ÀÎ ±â¼ú, À¥3.0, µðÆÄÀÌ ÇÁ·ÎÅäÄÝ¿¡ ´ëÇÑ °­ÇÑ ¿­¸Á°ú ÇÐ½À ÀÇÁö°¡ ÇÊ¿äÇÕ´Ï´Ù.
 
--í•œ ê°€ì§€ ì´ìƒì˜ í”„ë¡œê·¸ëž˜ë° ì–¸ì–´(e.g. Rust, Python)ì— ëŠ¥ìˆ™í•˜ê³  ìƒˆë¡œìš´ ì–¸ì–´ì™€ í”„ë ˆìž„ì›Œí¬ë¥¼ ìŠµë“í•˜ê³ ìž í•˜ëŠ” ê°•í•œ ì—´ë§ì´ í•„ìš”í•©ë‹ˆë‹¤.
+-ÇÑ °¡Áö ÀÌ»óÀÇ ÇÁ·Î±×·¡¹Ö ¾ð¾î(e.g. Rust, Python)¿¡ ´É¼÷ÇÏ°í »õ·Î¿î ¾ð¾î¿Í ÇÁ·¹ÀÓ¿öÅ©¸¦ ½ÀµæÇÏ°íÀÚ ÇÏ´Â °­ÇÑ ¿­¸ÁÀÌ ÇÊ¿äÇÕ´Ï´Ù.
 
--ì‹¤ë¬´ ê²½í—˜ì„ í†µí•œ ë²„ì „ ê´€ë¦¬ ì‹œìŠ¤í…œ(git)ì— ëŒ€í•œ ìˆ™ë ¨ë„ê°€ ìš”êµ¬ë©ë‹ˆë‹¤.","-ë¸”ë¡ì²´ì¸ (e.g. í´ë ˆì´íŠ¼, í´ì¹´ë‹·, í´ë¦¬ê³¤, ë“±) ë° ë¸”ë¡ì²´ì¸ ê°œë°œ íˆ´ (e.g. Hardhat, Truffle, Foundry, Substrate)ì— ëŒ€í•œ ì§€ì‹.
+-½Ç¹« °æÇèÀ» ÅëÇÑ ¹öÀü °ü¸® ½Ã½ºÅÛ(git)¿¡ ´ëÇÑ ¼÷·Ãµµ°¡ ¿ä±¸µË´Ï´Ù.","-ºí·ÏÃ¼ÀÎ (e.g. Å¬·¹ÀÌÆ°, ÆúÄ«´å, Æú¸®°ï, µî) ¹× ºí·ÏÃ¼ÀÎ °³¹ß Åø (e.g. Hardhat, Truffle, Foundry, Substrate)¿¡ ´ëÇÑ Áö½Ä.
 
--ë³µìž¡í•œ í”„ë¡œì íŠ¸ì˜ ì•„í‚¤í…ì²˜ë¥¼ ì„¤ê³„í•˜ê³  í”„ë¡œë•ì…˜ ë°°í¬ê¹Œì§€ ì§„í–‰í•œ ê²½í—˜.
+-º¹ÀâÇÑ ÇÁ·ÎÁ§Æ®ÀÇ ¾ÆÅ°ÅØÃ³¸¦ ¼³°èÇÏ°í ÇÁ·Î´ö¼Ç ¹èÆ÷±îÁö ÁøÇàÇÑ °æÇè.
 
--ì‘ìš© ì•”í˜¸í•™ì— ëŒ€í•œ ì´í•´ì™€ ì‹¤ë¬´ ê²½í—˜.
+-ÀÀ¿ë ¾ÏÈ£ÇÐ¿¡ ´ëÇÑ ÀÌÇØ¿Í ½Ç¹« °æÇè.
 
--í† í° ì—”ì§€ë‹ˆì–´ë§, íƒˆì¤‘ì•™í™” ê¸ˆìœµ, ê±°ë²„ë„ŒìŠ¤ ì»¤ë®¤ë‹ˆí‹° ë˜ëŠ” ì—ì½”ì‹œìŠ¤í…œì— ëŒ€í•œ ê²½í—˜.
+-ÅäÅ« ¿£Áö´Ï¾î¸µ, Å»Áß¾ÓÈ­ ±ÝÀ¶, °Å¹ö³Í½º Ä¿¹Â´ÏÆ¼ ¶Ç´Â ¿¡ÄÚ½Ã½ºÅÛ¿¡ ´ëÇÑ °æÇè.
 
--CI/CD íŒŒì´í”„ë¼ì¸ì„ í†µí•œ ìµœì‹  ë°°í¬ ê²½í—˜.
+-CI/CD ÆÄÀÌÇÁ¶óÀÎÀ» ÅëÇÑ ÃÖ½Å ¹èÆ÷ °æÇè.
 
--í´ë¼ìš°ë“œ ì»´í“¨íŒ…(ì˜ˆ: AWS, GCP) ì‚¬ìš© ê²½í—˜.",
-Product Owner,ì¹´ì‚¬ì½”ë¦¬ì•„(Kasa),"â€¢ ê´€ë ¨ ê²½ë ¥ 3ë…„ ì´ìƒìž
-â€¢ Cross-functional ì¡°ì§ì—ì„œ Product Owner ì—­í•  ìˆ˜í–‰ ê²½í—˜
-â€¢ Short-term Sprint ê¸°ë°˜ì˜ Agile í™˜ê²½ì—ì„œ Product Iteration ì‹¤ë¬´ ê²½í—˜ 
-â€¢ MVP ëª¨ë¸ì„ ì •ì˜í•˜ê³  A/B Testë¡œ Productë¥¼ ëŸ°ì¹­í•œ ê²½í—˜
-â€¢ ê°„ê²°í•˜ê³  ëª…ë£Œí•œ Verbal/Written Communication ìŠ¤í‚¬","â€¢ ì•± ì„œë¹„ìŠ¤ Product Owner ê²½í—˜
-â€¢ ê¸°ìˆ  ì œí’ˆì˜ ë””ìžì¸, ì—”ì§€ë‹ˆì–´ë§, ë˜ëŠ” Product Owner ê²½ë ¥  
-â€¢ ì• ìžì¼ ì¡°ì§ì— ëŒ€í•œ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ ê¸ˆìœµ ì‚°ì—…ì— ëŒ€í•œ ì´í•´ê°€ ë†’ì€ ë¶„",
-Android Engineer,ì¹´ì‚¬ì½”ë¦¬ì•„(Kasa),"â€¢ ê´€ë ¨ ê²½ë ¥ 2ë…„ ì´ìƒìž
-â€¢ Android SDK ê¸°ë³¸ ì§€ì‹ ë³´ìœ 
-â€¢ Android ì˜ ë‹¤ì–‘í•œ version / ë‹¤ì–‘í•œ ìŠ¤í¬ë¦° ì‚¬ì´ì¦ˆì— ëŒ€ì‘í•˜ë©° ê°œë°œí•˜ëŠ” ìŠ¤í‚¬ ë³´ìœ 
-â€¢ Android ì˜  Design Principles ì™€ Design Guideline ì˜ ì´í•´
-â€¢ ì›¹ ê¸°ìˆ  ë° RESTful APIì— ëŒ€í•œ ì´í•´","â€¢ Google Play Store ì•± ëŸ°ì¹­ ê²½í—˜ 
-â€¢ ë§ˆì´í¬ë¡œì„œë¹„ìŠ¤ ì•„í‚¤í…ì²˜ì— ëŒ€í•œ ì´í•´ì™€ ê²½í—˜
-â€¢ ì˜¤í”ˆì†ŒìŠ¤ í”„ë¡œì íŠ¸ ìš´ì˜ í˜¹ì€ ì°¸ì—¬ ê²½í—˜
-â€¢ ê¸ˆìœµ ì„œë¹„ìŠ¤ ê°œë°œ ìš´ì˜ ê²½í—˜
-â€¢ ë¹„ì¦ˆë‹ˆìŠ¤ ìˆ˜ì¤€ì˜ ì˜ì–´ ê°€ëŠ¥ìž",
-iOS Engineer,ì¹´ì‚¬ì½”ë¦¬ì•„(Kasa),"â€¢ ê´€ë ¨ ê²½ë ¥ 2ë…„ ì´ìƒìž
-â€¢ Objective-C / Swift ê¸°ë³¸ ì§€ì‹ ë³´ìœ 
-â€¢ App Store ì— ì•± Launching ê²½í—˜ ë³´ìœ 
-â€¢ Apple ì˜ Design Principles ì™€ Design Guideline ì˜ ì´í•´
-â€¢ ì›¹ ê¸°ìˆ  ë° RESTful APIì— ëŒ€í•œ ì´í•´
-â€¢ ìƒˆë¡œìš´ ê¸°ìˆ ì„ ë¹ ë¥´ê²Œ ìµíž ìˆ˜ ìžˆëŠ” í•™ìŠµ ëŠ¥ë ¥","â€¢ App Store ì•± ëŸ°ì¹­ ê²½í—˜
-â€¢ ë§ˆì´í¬ë¡œì„œë¹„ìŠ¤ ì•„í‚¤í…ì²˜ì— ëŒ€í•œ ì´í•´ì™€ ê²½í—˜
-â€¢ ì˜¤í”ˆì†ŒìŠ¤ í”„ë¡œì íŠ¸ ìš´ì˜ í˜¹ì€ ì°¸ì—¬ ê²½í—˜
-â€¢ ê¸ˆìœµ ì„œë¹„ìŠ¤ ê°œë°œ ìš´ì˜ ê²½í—˜
-â€¢ ë¹„ì¦ˆë‹ˆìŠ¤ ìˆ˜ì¤€ì˜ ì˜ì–´ ê°€ëŠ¥ìž",
-SI ê°œë°œíŒ€ (íŒ€ìž¥ê¸‰)_ë¶€ì‚°,ì—ì´ë¹„ì—ì´ì¹˜,"â€¢ ëŒ€ì¡¸(4ë…„ì œ) ì´ìƒ
-â€¢ ê°œë°œ ê²½ë ¥ 4ë…„ ì´ìƒ","â€¢ ì»´í“¨í„° ë° ì „ì‚°ê´€ë ¨ í•™ê³¼ ì „ê³µìž
-â€¢ ì •ë³´ì²˜ë¦¬ê¸°ì‚¬ ì†Œì§€ìž
-â€¢ ì œì•ˆì„œ ë° í”„ë¡œì íŠ¸ ì‚°ì¶œë¬¼ ìž‘ì„± ê²½í—˜ìž
-â€¢ PM/PL ê²½í—˜ìž",
-SI ê°œë°œíŒ€ (ì—°êµ¬ì›/ì„ ìž„ì—°êµ¬ì›ê¸‰)_ë¶€ì‚°,ì—ì´ë¹„ì—ì´ì¹˜,â€¢ ì´ˆëŒ€ì¡¸(2-3ë…„ì œ) ì´ìƒ,"â€¢ ì»´í“¨í„° ë° ì „ì‚°ê´€ë ¨ í•™ê³¼ ì „ê³µìž
-â€¢ ì •ë³´ì²˜ë¦¬ê¸°ì‚¬ ì†Œì§€ìž
-â€¢ ì œì•ˆì„œ ë° í”„ë¡œì íŠ¸ ì‚°ì¶œë¬¼ ìž‘ì„± ê²½í—˜ìž",
-SI ê°œë°œíŒ€ (ì—°êµ¬ì›/ì„ ìž„ì—°êµ¬ì›ê¸‰)_ìš¸ì‚°,ì—ì´ë¹„ì—ì´ì¹˜,â€¢ ì´ˆëŒ€ì¡¸(2-3ë…„ì œ) ì´ìƒ,"â€¢ ì»´í“¨í„° ë° ì „ì‚°ê´€ë ¨ í•™ê³¼ ì „ê³µìž
-â€¢ ì •ë³´ì²˜ë¦¬ê¸°ì‚¬ ì†Œì§€ìž
-â€¢ ì œì•ˆì„œ ë° í”„ë¡œì íŠ¸ ì‚°ì¶œë¬¼ ìž‘ì„± ê²½í—˜ìž",
-SI ê°œë°œíŒ€ (íŒ€ìž¥ê¸‰)_ìš¸ì‚°,ì—ì´ë¹„ì—ì´ì¹˜,"â€¢ ëŒ€ì¡¸(4ë…„ì œ) ì´ìƒ
-â€¢ ê°œë°œ ê²½ë ¥ 4ë…„ ì´ìƒ","â€¢ ì»´í“¨í„° ë° ì „ì‚°ê´€ë ¨ í•™ê³¼ ì „ê³µìž
-â€¢ ì •ë³´ì²˜ë¦¬ê¸°ì‚¬ ì†Œì§€ìž
-â€¢ ì œì•ˆì„œ ë° í”„ë¡œì íŠ¸ ì‚°ì¶œë¬¼ ìž‘ì„± ê²½í—˜ìž
-â€¢ PM/PL ê²½í—˜ìž",
-ì•ˆë“œë¡œì´ë“œ(AOS)ê°œë°œìž,ë² ìŠ¤íŠ¸í•€,"â€¢Flutter ê°œë°œ ê²½ë ¥ 2ë…„ ì´ìƒì´ì‹  ë¶„
-â€¢iOS ë° Android Native ê°œë°œ ê²½ë ¥ 2ë…„ ì´ìƒì´ì‹  ë¶„
-â€¢xCode ë° Android Studio ë° Git, Jira ë“±ì— ëŒ€í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢Back End Engineer ì™€ ì˜ì‚¬ì†Œí†µê³¼ í˜‘ì—…ì´ ê°€ëŠ¥í•˜ì‹  ë¶„","â€¢í•€í…Œí¬ í”„ë¡œì íŠ¸ ë˜ëŠ” ìŠ¤íƒ€íŠ¸ì—… ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ê¸ˆìœµ(ëŒ€ì¶œ) ì—…ë¬´ ë„ë©”ì¸ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„",
-[SWíŒ€] ë°±ì—”ë“œ ê°œë°œìž,ì´ë…¸ë²„ìŠ¤,"â€¢ Java Spring/Spring Boot ê°œë°œ ê²½ë ¥ 3ë…„ ì´ìƒ
-â€¢ AWSë¥¼ ì´ìš©í•œ ì„œë¹„ìŠ¤ ê°œë°œ ê²½í—˜ìž","â€¢ IT ê´€ë ¨ í•™ê³¼ ì „ê³µìž
-â€¢ Java ì´ì™¸ì˜ ì–¸ì–´ë¡œ ë°±ì—”ë“œ ê°œë°œì„ í•´ë³´ì‹  ë¶„ (Python, JS ë“±)
-â€¢ RESTful APIì— ëŒ€í•œ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„
-â€¢ Open APIë¥¼ í™œìš©í•œ ì„œë¹„ìŠ¤ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ëª…í™•í•œ ëª©í‘œ ì„¤ì •ê³¼ ì„±ê³¼ì— ëŒ€í•œ ì±…ìž„ ì˜ì‹ì„ ì§€ë‹Œ ë¶„
-â€¢ ìœ ì—°í•˜ë©´ì„œ ê°€ë…ì„±ì´ ë†’ì€ ì½”ë“œë¥¼ ì§€í–¥í•˜ì‹œëŠ” ë¶„
-â€¢ ì½”ë“œë¦¬ë·° ê²½í—˜ì´ í’ë¶€í•˜ì‹  ë¶„
-â€¢ ëŒ€ìš©ëŸ‰ íŠ¸ëž˜í”½ì— ëŒ€ì‘ì´ ê°€ëŠ¥í•˜ì‹  ë¶„",
-ë°±ì—”ë“œ ê°œë°œ ë¦¬ë“œ,ë¦¬ë“œë„˜ë²„,"ëŒ€ê·œëª¨ ì„œë¹„ìŠ¤ ë˜ëŠ” í”Œëž«í¼ ê°œë°œ/êµ¬ì¶• ì´ê´„ ê²½ë ¥
-íŒ€ ë‹¨ìœ„ ì´ìƒ ê°œë°œì¡°ì§ ë¦¬ë” ê²½í—˜
-System Architecture ì„¤ê³„ ê²½í—˜ìž
-ë‹¤ì–‘í•œ Web ì„œë¹„ìŠ¤ ê°œë°œ/PM ê²½ë ¥ (Back/Front, ì„¤ê³„, ê¸°íš, PM ë“±)","ê¸ˆìœµê¶Œ ì‹œìŠ¤í…œ ê°œë°œ/êµ¬ì¶•/PM
-ì»´í“¨í„° ê´€ë ¨ ì„/ë°•ì‚¬ í•™ìœ„
-ë§ˆì´ë°ì´í„° ì‚¬ì—…ê´€ë ¨ ì‹œìŠ¤í…œ êµ¬ì¶• ê²½í—˜ìž
-AI ìžì—°ì–´ì²˜ë¦¬ ëª¨ë¸ ê°œë°œ ë˜ëŠ” ì—°êµ¬
-AI ì±—ë´‡ ëª¨ë¸ ë˜ëŠ” ì„œë¹„ìŠ¤ ê°œë°œ
-ERP ë˜ëŠ” ì„¸ë¬´ê´€ë ¨ S/W ê°œë°œ ê²½í—˜
-ì„¸ë¬´ê´€ë ¨ ìžê²©ì¦ ì†Œìœ ìž ë° ì—…ë¬´ ê²½ë ¥ìž",
-ì„œë²„/ë°±ì—”ë“œ ê°œë°œìž,ìš°ë¦¬ìš”,"â€¢ ì „ëžµ, ê¸°íš, ë””ìžì¸ íŒŒíŠ¸ì™€ ìœ ê¸°ì ìœ¼ë¡œ ì†Œí†µí•˜ë©° ê°œë°œ êµ¬í˜„
-â€¢ Gitì„ ì´ìš©í•œ ë²„ì „ ê´€ë¦¬ ë° í˜‘ì—…ì— ëŒ€í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ AWS, Linux(Centos) í™˜ê²½ì—ì„œ ê°œë°œ ë° ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„   
-â€¢ Java, Spring Framework, APM(Apache , php , mysql) ê¸°ë°˜ ì„œë²„ ê°œë°œ ê°€ëŠ¥
-â€¢ Ajax, Jquery ê°œë°œ ê²½í—˜
-â€¢ DBì„¤ê³„ ê²½í—˜ (MS-SQL, My-SQL)","â€¢ ì‹¤ì œ ì‹œìž¥ì— ëŸ°ì¹­í•œ ì•±ì„œë¹„ìŠ¤ ê°œë°œ ê²½í—˜
-â€¢ í”Œëž«í¼ì— ëŒ€í•œ ì´í•´
-â€¢ ê°œë°œ/ì½”ë”© ê´€ë ¨ ëŒ€íšŒ ìˆ˜ìƒ ê²½í—˜
-â€¢ ì •ë³´ì²˜ë¦¬ê¸°ì‚¬ ìžê²©ì¦ ë³´ìœ ",
-QA í…ŒìŠ¤í„° ì—”ì§€ë‹ˆì–´(3ë…„ ì´ìƒ),ì™€ì´ì¦ˆìŠ¤í†¤í‹°,"- SW í…ŒìŠ¤íŠ¸ ê²½ë ¥ 3ë…„ ì´ìƒì´ì‹  ë¶„
-  - ìš”êµ¬ì‚¬í•­ ë¶„ì„ ë° í…ŒìŠ¤íŠ¸ì¼€ì´ìŠ¤ ì„¤ê³„ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-  - ë°˜ë³µì ì¸ í…ŒìŠ¤íŠ¸ í™œë™ì—ì„œ ë†’ì€ ì§‘ì¤‘ë ¥ê³¼ ëˆê¸° ìžˆëŠ” ì„±ê²©ì„ ê°€ì§€ì‹  ë¶„ 
-  - íŒ€ì›ë“¤ê³¼ ì›í™œí•œ ì†Œí†µì´ ê°€ëŠ¥í•œ ì˜ì‚¬ì†Œí†µ ëŠ¥ë ¥ì„ ê°–ì¶”ì‹  ë¶„","- ISTQB, CSTS ë“± í…ŒìŠ¤íŒ… ê´€ë ¨ ìžê²©ì¦ ë³´ìœ í•˜ì‹  ë¶„  
- - IT ê´€ë ¨ í•™ê³¼ ì¡¸ì—…ìƒ ë˜ëŠ” IT ê´€ë ¨ êµìœ¡ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
- - BTS Tool(Jira, Redmine, Mantis) ì‚¬ìš© ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„",
-ë””ì§€í„¸ ê´‘ê³  ìš´ì˜/ë¶„ì„ ì†”ë£¨ì…˜ ê°œë°œìž,ê·¸ë¦°ë¸Œë¦­ìŠ¤ì»´í¼ë‹ˆ,"â€¢ í•™ë ¥: ì´ˆëŒ€ì¡¸ ì´ìƒ
-â€¢ ê²½ë ¥: 5ë…„~10ë…„","â€¢ í’€ìŠ¤íƒ ê°œë°œìž ìš°ëŒ€
-â€¢ ë””ì§€í„¸ ë§ˆì¼€íŒ… í”Œëž«í¼ êµ¬ì¶• ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ MsSQL ë“±ì˜ DBí”„ë¡œê·¸ëž˜ë° ì„¤ê³„ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ ëŒ€ìš©ëŸ‰ DB ë°ì´í„° ìš´ì˜ ë° ê´€ë¦¬ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ ë””ì§€í„¸ ê´‘ê³  ë¡œê·¸ë¶„ì„ ê´€ë ¨ ì‹œìŠ¤í…œ ê°œë°œ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ ë¹…ë°ì´í„° ì²˜ë¦¬ ë° ì¿¼ë¦¬ íŠœë‹ì´ ê°€ëŠ¥í•œ ë¶„",
-ì›¹/ì• í”Œë¦¬ì¼€ì´ì…˜ ê°œë°œìž (3~5ë…„),í´ë£¨ë©”í‹±,"- React, Next.js, Typescriptë¡œ ì›¹ ì• í”Œë¦¬ì¼€ì´ì…˜ì„ ê°œë°œí•  ìˆ˜ ìžˆëŠ” ë¶„
-- í”„ë¡ íŠ¸ì—”ë“œ ë¿ë§Œ ì•„ë‹ˆë¼ ë°±ì—”ë“œì— ëŒ€í•œ ì´í•´ê°€ ìžˆëŠ” ë¶„
-- ì›¹ ê°œë°œ ê²½ë ¥ 3ë…„ ì´ìƒ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-- ì»´í“¨í„° ê³µí•™ ë˜ëŠ” ê´€ë ¨ ë¶„ì•¼ í•™ì‚¬ í•™ìœ„ ì´ìƒì„ ë³´ìœ í•˜ì‹  ë¶„","- ReactNativeì— ëŒ€í•œ ê¸°ì´ˆì ì¸ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-- ì›¹ ì„œë¹„ìŠ¤ì—ì„œ ë¡œê·¸ ë° ì‚¬ìš©ìž ì§€í‘œ ì„¤ê³„ ë° êµ¬í˜„ê³¼ ë¶„ì„ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-- Node.js ë¡œ ë°±ì—”ë“œ ê°œë°œ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-- UXì— ëŒ€í•œ ê´€ì‹¬ê³¼ ì´í•´ê°€ ê¹Šì€ ë¶„
-- í™”ìž¥í’ˆ ê´€ë ¨ ì—…ì¢…ì— ê·¼ë¬´í•œ ê²½ë ¥ì´ ìžˆëŠ” ë¶„",
-"ê°œë°œíŒ€ - í”„ë¡ íŠ¸ì—”ë“œ (React, Typescript)",ë²³ì¹­,"â€¢ 4ë…„ì œ ëŒ€í•™ ê´€ë ¨ ì „ê³µ ì¡¸ì—…ìž
-â€¢ ê¸°ìˆ ìŠ¤íƒ (í•„ìˆ˜) : React, Typescript
-â€¢ ê¸°ìˆ  ìŠ¤íƒ (ìš°ëŒ€) : graphQL","â€¢ ìž¬ì‚¬ìš© ê°€ëŠ¥í•œ ì»´í¼ë„ŒíŠ¸ ì„¤ê³„ ë° êµ¬í˜„ ëŠ¥ë ¥ ë³´ìœ 
-â€¢ ë°ì´í„° ì¿¼ë¦¬ ë° ì—°ì‚°ì´ ìµìˆ™í•œ ì‚¬ëžŒ
-â€¢ í´ë¦°ì½”ë“œ ì„¤ê³„ ë° ë¦¬íŒ©í„°ë§ ê²½í—˜ ë³´íœ´
-â€¢ ì„œë¹„ìŠ¤ ì¶œì‹œ ë° ìš´ì˜ ê²½í—˜",
-ë°±ì—”ë“œ ê°œë°œ,ë²³ì¹­,"- ë°±ì—”ë“œ ì—…ë¬´ ê²½ë ¥ 3ë…„ ì´ìƒ
-- RDB, NoSQL ì„¤ê³„ ë° í™œìš© ëŠ¥ë ¥
-- NodeJS, GraphQL í”„ë ˆìž„ì›Œí¬ í™œìš© ëŠ¥ë ¥
-- Web Socket, Message Streaming Service","- ëŒ€ê·œëª¨ ì„œë¹„ìŠ¤ ìš´ì˜ ê²½í—˜
-- GraphQL ìµœì í™”ì™€ Server side cache í™œìš© ëŠ¥ë ¥
-- Database Architecture ëŠ¥ë ¥",
-í’€ìŠ¤íƒ ê°œë°œìž,ë”ì“°ë¦¬ë£°ìŠ¤,"- ì»´í“¨í„° ê´€ë ¨ í•™ê³¼, ìˆ˜í•™, í†µê³„í•™ ë˜ëŠ” ì´ì™€ ê´€ë ¨ëœ ì „ê³µ ë¶„ì•¼ì˜ í•™ì‚¬, ì„ì‚¬ ë˜ëŠ” ë°•ì‚¬ í•™ìœ„.
-- Node.js ê°œë°œ ê²½ë ¥ 3ë…„ ì´ìƒ
-- í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œ ê²½í—˜ 1ë…„ ì´ìƒ
-- ì›¹3 ë¼ì´ë¸ŒëŸ¬ë¦¬ ì‚¬ìš©ê²½í—˜ ë° ì§€ì‹ (e.g. ethers.js, web3.js, etc)
-- ëŒ€ê·œëª¨ ì• í”Œë¦¬ì¼€ì´ì…˜ì„ ìœ„í•œ ë°±ì—”ë“œ ì„œë¹„ìŠ¤ êµ¬ì¶• ê²½í—˜
-- SW ì•„í‚¤í…ì²˜, ë°ì´í„° êµ¬ì¡° ë° ì•Œê³ ë¦¬ì¦˜ì— ëŒ€í•œ ê¹Šì€ ì´í•´
-- ë²„ì „ ê´€ë¦¬ ì‹œìŠ¤í…œ (git) ì— ëŒ€í•œ ì‹¤ë¬´ ê²½í—˜
-- ë›°ì–´ë‚œ ì„œë©´ ë° êµ¬ë‘ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ëŠ¥ë ¥","- ìŠ¤ë§ˆíŠ¸ ì»¨íŠ¸ëž™íŠ¸ ê°œë°œ ê²½í—˜ (e.g. Solidity, Cairo, Move, etc)
-- CI/CD íŒŒì´í”„ë¼ì¸ì„ í†µí•œ ë°°í¬ ê²½í—˜
-- í´ë¼ìš°ë“œ í”Œëž«í¼ ì‚¬ìš© ê²½í—˜ (e.g. AWS, GCP)
-- Rust, C++, Python ê°œë°œ ê²½í—˜
-- ì´ˆê¸° ìŠ¤íƒ€íŠ¸ì—…ì—ì„œ ê·¼ë¬´í•œ ê²½í—˜
-- ì›¹ 3.0 ì—…ê³„ì—ì„œ ê·¼ë¬´í•œ ê²½í—˜",
-ì‚¬ë‚´ ì •ë³´ë³´ì•ˆ ìš´ì˜ ë‹´ë‹¹ìž,í‹°ì—˜ì•„ì´(TLI),"â€¢ ì „ê³µ : ì´ê³µê³„ì—´ ì´ˆëŒ€ì¡¸ì´ìƒ
-â€¢ ê²½ë ¥ 3ë…„ ì´ìƒ
-â€¢ í•´ë‹¹ì—…ë¬´ ê²½í—˜ìž","â€¢ ê´€ë ¨ í•™ìœ„ ë˜ëŠ” ìžê²©ì¦ ì†Œì§€ìž
-â€¢ IT / ë°˜ë„ì²´ ì—…ê³„ ë³´ì•ˆ ì‹œìŠ¤í…œ ê·¼ë¬´ ê²½ë ¥ìž
-â€¢ ë³´ì•ˆ ìž¥ë¹„ ê´€ë ¨ ì§€ì‹, ê²½í—˜ ë³´ìœ ìž",
-ëª¨ë°”ì¼ SDK ê°œë°œìž,ë‹¬ë‹¬í”„ë Œì¦ˆ,"- ê²½ë ¥ 3ë…„ì´ìƒ ëª¨ë°”ì¼(AND ë˜ëŠ” IOS) ê°œë°œ ìˆ™ë ¨ìž
-- SDKë¥¼ í™œìš©í•œ ì»¤ìŠ¤í…€ ê°œë°œ ìˆ™ë ¨ìž
-- ê°œë°œìž, ë””ìžì´ë„ˆì™€ì˜ ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ê°€ëŠ¥ìž
-- í•´ì™¸ ì¶œêµ­ì— ê²°ê²© ì‚¬ìœ ê°€ ì—†ëŠ” ë¶„
-- í¬íŠ¸í´ë¦¬ì˜¤ ì œì¶œ í•„ìˆ˜","- í•´ë‹¹ì§ë¬´ ê·¼ë¬´ ê²½í—˜
-- ì§ë¬´ ê´€ë ¨ ìœ ì‚¬ í¬íŠ¸í´ë¦¬ì˜¤ ë³´ìœ ",
-Android ê°œë°œìž(2ë…„ ì´ìƒ),ë¹„íŠ¸ë°”ì´íŠ¸(í”Œë ˆì´í‚¤ë³´ë“œ),"- ë‹¤ì–‘í•œ ì§êµ°ê³¼ í˜‘ë ¥í•œ 2ë…„ ì´ìƒ ì•ˆë“œë¡œì´ë“œ ì•± ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- Kotlinê³¼ Javaë¡œ ì•ˆë“œë¡œì´ë“œ ì•± ê°œë°œì´ ê°€ëŠ¥í•˜ì‹  ë¶„ (ì „ì²´ í”„ë¡œì íŠ¸ì˜ 86%ê°€ Kotlinìœ¼ë¡œ ìž‘ì„±ë˜ì–´ ìžˆì§€ë§Œ, í‚¤ë³´ë“œ ì˜¤í† ë§ˆíƒ€ ë“± ì¼ë¶€ ì½”ë“œê°€ Javaë¡œ ìž‘ì„±ë˜ì–´ ìžˆìŠµë‹ˆë‹¤.)
-- ì•± í¼ë¸”ë¦¬ì‹±, Firebase, AdMob ë“± ì•± ì„œë¹„ìŠ¤ì— í•„ìš”í•œ ì§€ì‹ê³¼ ê²½í—˜ì´ í’ë¶€í•˜ì‹  ë¶„
-- í™•ìž¥ ê°€ëŠ¥í•œ ê°œë°œì„ ì§€í–¥í•˜ë©°, ë¦¬íŒ©í† ë§, ë²„ì „ê´€ë¦¬(Git)ë“± ì²´ê³„ì ì¸ ì½”ë“œê´€ë¦¬ì— ìµìˆ™í•˜ì‹  ë¶„","- ê°œë°œì¡°ì§ì˜ ì„±ìž¥ê³¼ ì¡°ì§ë¬¸í™”ì— ëŒ€í•œ ë‚¨ë‹¤ë¥¸ ê´€ì‹¬ê³¼ ì² í•™ì„ ê°–ì¶˜ ë¶„
-- ê´‘ê³  ë„ë©”ì¸ì— ëŒ€í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- ì¢‹ì€ UI/UX ê°œë°œ ë° ì•Œê³ ë¦¬ì¦˜, ì„±ëŠ¥ìµœì í™” ë“±ì— ê´€ì‹¬ì´ ë§Žìœ¼ì‹  ë¶„
-- InputMethodServiceì˜ í•µì‹¬ ê¸°ëŠ¥ì„ ëŠ¥ìˆ™í•˜ê²Œ ë‹¤ë£¨ì‹œëŠ” ë¶„
-- CleanCodeì— ëŒ€í•œ ì§€ì‹ì„ ê°–ì¶”ê³  ì‹¤í–‰ ê°€ëŠ¥í•˜ì‹  ë¶„ 
-- Android Composeë¥¼ ì´ìš©í•œ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- CleanArchitecture ì‹¤ì œ ì„œë¹„ìŠ¤ì— ì ìš©í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- ì•ˆë“œë¡œì´ë“œ CI/CD í™˜ê²½ êµ¬ì¶• ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- ë””ìžì¸ ì‹œìŠ¤í…œì˜ ì¤‘ìš”ì„±ì„ ì¸ì‹ê³¼ ê´€ë ¨ ì§€ì‹ì„ ê°–ì¶”ê³  ê°œë°œí•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„",
-ì‘ìš©SWì—”ì§€ë‹ˆì–´ë§ ê°œë°œìž,ì½”ì–´íŠ¸ëŸ¬ìŠ¤íŠ¸,- C/C++ ì„ ì´ìš©í•œ ì›í™œí•œ ê°œë°œ ê°€ëŠ¥ (ì‘ìš© í”„ë¡œê·¸ëž¨ ê°œë°œ ë¶„ì•¼),"- Qt FrameWork ê°œë°œ ê²½í—˜
-- ë™ì˜ìƒ player ê°œë°œ ê²½í—˜
-- Network programmingì— ëŒ€í•œ ì´í•´
-- ë™ì˜ìƒ container ì´í•´
-- embedded programming ê°œë°œ ê²½í—˜",
-Clinical Product Manager,ì•„ì´ì˜¤ë°”ì´ì˜¤,"* ""ì´ëŸ° ë¶„ê³¼ í•¨ê»˜ í•˜ê³  ì‹¶ì–´ìš”.""
+-Å¬¶ó¿ìµå ÄÄÇ»ÆÃ(¿¹: AWS, GCP) »ç¿ë °æÇè.",
+Product Owner,Ä«»çÄÚ¸®¾Æ(Kasa),"? °ü·Ã °æ·Â 3³â ÀÌ»óÀÚ
+? Cross-functional Á¶Á÷¿¡¼­ Product Owner ¿ªÇÒ ¼öÇà °æÇè
+? Short-term Sprint ±â¹ÝÀÇ Agile È¯°æ¿¡¼­ Product Iteration ½Ç¹« °æÇè 
+? MVP ¸ðµ¨À» Á¤ÀÇÇÏ°í A/B Test·Î Product¸¦ ·±ÄªÇÑ °æÇè
+? °£°áÇÏ°í ¸í·áÇÑ Verbal/Written Communication ½ºÅ³","? ¾Û ¼­ºñ½º Product Owner °æÇè
+? ±â¼ú Á¦Ç°ÀÇ µðÀÚÀÎ, ¿£Áö´Ï¾î¸µ, ¶Ç´Â Product Owner °æ·Â  
+? ¾ÖÀÚÀÏ Á¶Á÷¿¡ ´ëÇÑ °æÇèÀÌ ÀÖ´Â ºÐ
+? ±ÝÀ¶ »ê¾÷¿¡ ´ëÇÑ ÀÌÇØ°¡ ³ôÀº ºÐ",
+Android Engineer,Ä«»çÄÚ¸®¾Æ(Kasa),"? °ü·Ã °æ·Â 2³â ÀÌ»óÀÚ
+? Android SDK ±âº» Áö½Ä º¸À¯
+? Android ÀÇ ´Ù¾çÇÑ version / ´Ù¾çÇÑ ½ºÅ©¸° »çÀÌÁî¿¡ ´ëÀÀÇÏ¸ç °³¹ßÇÏ´Â ½ºÅ³ º¸À¯
+? Android ÀÇ  Design Principles ¿Í Design Guideline ÀÇ ÀÌÇØ
+? À¥ ±â¼ú ¹× RESTful API¿¡ ´ëÇÑ ÀÌÇØ","? Google Play Store ¾Û ·±Äª °æÇè 
+? ¸¶ÀÌÅ©·Î¼­ºñ½º ¾ÆÅ°ÅØÃ³¿¡ ´ëÇÑ ÀÌÇØ¿Í °æÇè
+? ¿ÀÇÂ¼Ò½º ÇÁ·ÎÁ§Æ® ¿î¿µ È¤Àº Âü¿© °æÇè
+? ±ÝÀ¶ ¼­ºñ½º °³¹ß ¿î¿µ °æÇè
+? ºñÁî´Ï½º ¼öÁØÀÇ ¿µ¾î °¡´ÉÀÚ",
+iOS Engineer,Ä«»çÄÚ¸®¾Æ(Kasa),"? °ü·Ã °æ·Â 2³â ÀÌ»óÀÚ
+? Objective-C / Swift ±âº» Áö½Ä º¸À¯
+? App Store ¿¡ ¾Û Launching °æÇè º¸À¯
+? Apple ÀÇ Design Principles ¿Í Design Guideline ÀÇ ÀÌÇØ
+? À¥ ±â¼ú ¹× RESTful API¿¡ ´ëÇÑ ÀÌÇØ
+? »õ·Î¿î ±â¼úÀ» ºü¸£°Ô ÀÍÈú ¼ö ÀÖ´Â ÇÐ½À ´É·Â","? App Store ¾Û ·±Äª °æÇè
+? ¸¶ÀÌÅ©·Î¼­ºñ½º ¾ÆÅ°ÅØÃ³¿¡ ´ëÇÑ ÀÌÇØ¿Í °æÇè
+? ¿ÀÇÂ¼Ò½º ÇÁ·ÎÁ§Æ® ¿î¿µ È¤Àº Âü¿© °æÇè
+? ±ÝÀ¶ ¼­ºñ½º °³¹ß ¿î¿µ °æÇè
+? ºñÁî´Ï½º ¼öÁØÀÇ ¿µ¾î °¡´ÉÀÚ",
+SI °³¹ßÆÀ (ÆÀÀå±Þ)_ºÎ»ê,¿¡ÀÌºñ¿¡ÀÌÄ¡,"? ´ëÁ¹(4³âÁ¦) ÀÌ»ó
+? °³¹ß °æ·Â 4³â ÀÌ»ó","? ÄÄÇ»ÅÍ ¹× Àü»ê°ü·Ã ÇÐ°ú Àü°øÀÚ
+? Á¤º¸Ã³¸®±â»ç ¼ÒÁöÀÚ
+? Á¦¾È¼­ ¹× ÇÁ·ÎÁ§Æ® »êÃâ¹° ÀÛ¼º °æÇèÀÚ
+? PM/PL °æÇèÀÚ",
+SI °³¹ßÆÀ (¿¬±¸¿ø/¼±ÀÓ¿¬±¸¿ø±Þ)_ºÎ»ê,¿¡ÀÌºñ¿¡ÀÌÄ¡,? ÃÊ´ëÁ¹(2-3³âÁ¦) ÀÌ»ó,"? ÄÄÇ»ÅÍ ¹× Àü»ê°ü·Ã ÇÐ°ú Àü°øÀÚ
+? Á¤º¸Ã³¸®±â»ç ¼ÒÁöÀÚ
+? Á¦¾È¼­ ¹× ÇÁ·ÎÁ§Æ® »êÃâ¹° ÀÛ¼º °æÇèÀÚ",
+SI °³¹ßÆÀ (¿¬±¸¿ø/¼±ÀÓ¿¬±¸¿ø±Þ)_¿ï»ê,¿¡ÀÌºñ¿¡ÀÌÄ¡,? ÃÊ´ëÁ¹(2-3³âÁ¦) ÀÌ»ó,"? ÄÄÇ»ÅÍ ¹× Àü»ê°ü·Ã ÇÐ°ú Àü°øÀÚ
+? Á¤º¸Ã³¸®±â»ç ¼ÒÁöÀÚ
+? Á¦¾È¼­ ¹× ÇÁ·ÎÁ§Æ® »êÃâ¹° ÀÛ¼º °æÇèÀÚ",
+SI °³¹ßÆÀ (ÆÀÀå±Þ)_¿ï»ê,¿¡ÀÌºñ¿¡ÀÌÄ¡,"? ´ëÁ¹(4³âÁ¦) ÀÌ»ó
+? °³¹ß °æ·Â 4³â ÀÌ»ó","? ÄÄÇ»ÅÍ ¹× Àü»ê°ü·Ã ÇÐ°ú Àü°øÀÚ
+? Á¤º¸Ã³¸®±â»ç ¼ÒÁöÀÚ
+? Á¦¾È¼­ ¹× ÇÁ·ÎÁ§Æ® »êÃâ¹° ÀÛ¼º °æÇèÀÚ
+? PM/PL °æÇèÀÚ",
+¾Èµå·ÎÀÌµå(AOS)°³¹ßÀÚ,º£½ºÆ®ÇÉ,"?Flutter °³¹ß °æ·Â 2³â ÀÌ»óÀÌ½Å ºÐ
+?iOS ¹× Android Native °³¹ß °æ·Â 2³â ÀÌ»óÀÌ½Å ºÐ
+?xCode ¹× Android Studio ¹× Git, Jira µî¿¡ ´ëÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+?Back End Engineer ¿Í ÀÇ»ç¼ÒÅë°ú Çù¾÷ÀÌ °¡´ÉÇÏ½Å ºÐ","?ÇÉÅ×Å© ÇÁ·ÎÁ§Æ® ¶Ç´Â ½ºÅ¸Æ®¾÷ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+?±ÝÀ¶(´ëÃâ) ¾÷¹« µµ¸ÞÀÎ °æÇèÀÌ ÀÖÀ¸½Å ºÐ",
+[SWÆÀ] ¹é¿£µå °³¹ßÀÚ,ÀÌ³ë¹ö½º,"? Java Spring/Spring Boot °³¹ß °æ·Â 3³â ÀÌ»ó
+? AWS¸¦ ÀÌ¿ëÇÑ ¼­ºñ½º °³¹ß °æÇèÀÚ","? IT °ü·Ã ÇÐ°ú Àü°øÀÚ
+? Java ÀÌ¿ÜÀÇ ¾ð¾î·Î ¹é¿£µå °³¹ßÀ» ÇØº¸½Å ºÐ (Python, JS µî)
+? RESTful API¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ
+? Open API¸¦ È°¿ëÇÑ ¼­ºñ½º °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ¸íÈ®ÇÑ ¸ñÇ¥ ¼³Á¤°ú ¼º°ú¿¡ ´ëÇÑ Ã¥ÀÓ ÀÇ½ÄÀ» Áö´Ñ ºÐ
+? À¯¿¬ÇÏ¸é¼­ °¡µ¶¼ºÀÌ ³ôÀº ÄÚµå¸¦ ÁöÇâÇÏ½Ã´Â ºÐ
+? ÄÚµå¸®ºä °æÇèÀÌ Ç³ºÎÇÏ½Å ºÐ
+? ´ë¿ë·® Æ®·¡ÇÈ¿¡ ´ëÀÀÀÌ °¡´ÉÇÏ½Å ºÐ",
+¹é¿£µå °³¹ß ¸®µå,¸®µå³Ñ¹ö,"´ë±Ô¸ð ¼­ºñ½º ¶Ç´Â ÇÃ·§Æû °³¹ß/±¸Ãà ÃÑ°ý °æ·Â
+ÆÀ ´ÜÀ§ ÀÌ»ó °³¹ßÁ¶Á÷ ¸®´õ °æÇè
+System Architecture ¼³°è °æÇèÀÚ
+´Ù¾çÇÑ Web ¼­ºñ½º °³¹ß/PM °æ·Â (Back/Front, ¼³°è, ±âÈ¹, PM µî)","±ÝÀ¶±Ç ½Ã½ºÅÛ °³¹ß/±¸Ãà/PM
+ÄÄÇ»ÅÍ °ü·Ã ¼®/¹Ú»ç ÇÐÀ§
+¸¶ÀÌµ¥ÀÌÅÍ »ç¾÷°ü·Ã ½Ã½ºÅÛ ±¸Ãà °æÇèÀÚ
+AI ÀÚ¿¬¾îÃ³¸® ¸ðµ¨ °³¹ß ¶Ç´Â ¿¬±¸
+AI Ãªº¿ ¸ðµ¨ ¶Ç´Â ¼­ºñ½º °³¹ß
+ERP ¶Ç´Â ¼¼¹«°ü·Ã S/W °³¹ß °æÇè
+¼¼¹«°ü·Ã ÀÚ°ÝÁõ ¼ÒÀ¯ÀÚ ¹× ¾÷¹« °æ·ÂÀÚ",
+¼­¹ö/¹é¿£µå °³¹ßÀÚ,¿ì¸®¿ä,"? Àü·«, ±âÈ¹, µðÀÚÀÎ ÆÄÆ®¿Í À¯±âÀûÀ¸·Î ¼ÒÅëÇÏ¸ç °³¹ß ±¸Çö
+? GitÀ» ÀÌ¿ëÇÑ ¹öÀü °ü¸® ¹× Çù¾÷¿¡ ´ëÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? AWS, Linux(Centos) È¯°æ¿¡¼­ °³¹ß ¹× ¿î¿µ °æÇèÀÌ ÀÖÀ¸½Å ºÐ   
+? Java, Spring Framework, APM(Apache , php , mysql) ±â¹Ý ¼­¹ö °³¹ß °¡´É
+? Ajax, Jquery °³¹ß °æÇè
+? DB¼³°è °æÇè (MS-SQL, My-SQL)","? ½ÇÁ¦ ½ÃÀå¿¡ ·±ÄªÇÑ ¾Û¼­ºñ½º °³¹ß °æÇè
+? ÇÃ·§Æû¿¡ ´ëÇÑ ÀÌÇØ
+? °³¹ß/ÄÚµù °ü·Ã ´ëÈ¸ ¼ö»ó °æÇè
+? Á¤º¸Ã³¸®±â»ç ÀÚ°ÝÁõ º¸À¯",
+QA Å×½ºÅÍ ¿£Áö´Ï¾î(3³â ÀÌ»ó),¿ÍÀÌÁî½ºÅæÆ¼,"- SW Å×½ºÆ® °æ·Â 3³â ÀÌ»óÀÌ½Å ºÐ
+  - ¿ä±¸»çÇ× ºÐ¼® ¹× Å×½ºÆ®ÄÉÀÌ½º ¼³°è °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+  - ¹Ýº¹ÀûÀÎ Å×½ºÆ® È°µ¿¿¡¼­ ³ôÀº ÁýÁß·Â°ú ²ö±â ÀÖ´Â ¼º°ÝÀ» °¡Áö½Å ºÐ 
+  - ÆÀ¿øµé°ú ¿øÈ°ÇÑ ¼ÒÅëÀÌ °¡´ÉÇÑ ÀÇ»ç¼ÒÅë ´É·ÂÀ» °®Ãß½Å ºÐ","- ISTQB, CSTS µî Å×½ºÆÃ °ü·Ã ÀÚ°ÝÁõ º¸À¯ÇÏ½Å ºÐ  
+ - IT °ü·Ã ÇÐ°ú Á¹¾÷»ý ¶Ç´Â IT °ü·Ã ±³À° °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+ - BTS Tool(Jira, Redmine, Mantis) »ç¿ë °æÇèÀÌ ÀÖÀ¸½Å ºÐ",
+µðÁöÅÐ ±¤°í ¿î¿µ/ºÐ¼® ¼Ö·ç¼Ç °³¹ßÀÚ,±×¸°ºê¸¯½ºÄÄÆÛ´Ï,"? ÇÐ·Â: ÃÊ´ëÁ¹ ÀÌ»ó
+? °æ·Â: 5³â~10³â","? Ç®½ºÅÃ °³¹ßÀÚ ¿ì´ë
+? µðÁöÅÐ ¸¶ÄÉÆÃ ÇÃ·§Æû ±¸Ãà °æÇèÀÌ ÀÖ´Â ºÐ
+? MsSQL µîÀÇ DBÇÁ·Î±×·¡¹Ö ¼³°è °æÇèÀÌ ÀÖ´Â ºÐ
+? ´ë¿ë·® DB µ¥ÀÌÅÍ ¿î¿µ ¹× °ü¸® °æÇèÀÌ ÀÖ´Â ºÐ
+? µðÁöÅÐ ±¤°í ·Î±×ºÐ¼® °ü·Ã ½Ã½ºÅÛ °³¹ß °æÇèÀÌ ÀÖ´Â ºÐ
+? ºòµ¥ÀÌÅÍ Ã³¸® ¹× Äõ¸® Æ©´×ÀÌ °¡´ÉÇÑ ºÐ",
+À¥/¾ÖÇÃ¸®ÄÉÀÌ¼Ç °³¹ßÀÚ (3~5³â),Å¬·ç¸ÞÆ½,"- React, Next.js, Typescript·Î À¥ ¾ÖÇÃ¸®ÄÉÀÌ¼ÇÀ» °³¹ßÇÒ ¼ö ÀÖ´Â ºÐ
+- ÇÁ·ÐÆ®¿£µå »Ó¸¸ ¾Æ´Ï¶ó ¹é¿£µå¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖ´Â ºÐ
+- À¥ °³¹ß °æ·Â 3³â ÀÌ»ó °æÇèÀÌ ÀÖ´Â ºÐ
+- ÄÄÇ»ÅÍ °øÇÐ ¶Ç´Â °ü·Ã ºÐ¾ß ÇÐ»ç ÇÐÀ§ ÀÌ»óÀ» º¸À¯ÇÏ½Å ºÐ","- ReactNative¿¡ ´ëÇÑ ±âÃÊÀûÀÎ °æÇèÀÌ ÀÖ´Â ºÐ
+- À¥ ¼­ºñ½º¿¡¼­ ·Î±× ¹× »ç¿ëÀÚ ÁöÇ¥ ¼³°è ¹× ±¸Çö°ú ºÐ¼® °æÇèÀÌ ÀÖ´Â ºÐ
+- Node.js ·Î ¹é¿£µå °³¹ß °æÇèÀÌ ÀÖ´Â ºÐ
+- UX¿¡ ´ëÇÑ °ü½É°ú ÀÌÇØ°¡ ±íÀº ºÐ
+- È­ÀåÇ° °ü·Ã ¾÷Á¾¿¡ ±Ù¹«ÇÑ °æ·ÂÀÌ ÀÖ´Â ºÐ",
+"°³¹ßÆÀ - ÇÁ·ÐÆ®¿£µå (React, Typescript)",ºªÄª,"? 4³âÁ¦ ´ëÇÐ °ü·Ã Àü°ø Á¹¾÷ÀÚ
+? ±â¼ú½ºÅÃ (ÇÊ¼ö) : React, Typescript
+? ±â¼ú ½ºÅÃ (¿ì´ë) : graphQL","? Àç»ç¿ë °¡´ÉÇÑ ÄÄÆÛ³ÍÆ® ¼³°è ¹× ±¸Çö ´É·Â º¸À¯
+? µ¥ÀÌÅÍ Äõ¸® ¹× ¿¬»êÀÌ ÀÍ¼÷ÇÑ »ç¶÷
+? Å¬¸°ÄÚµå ¼³°è ¹× ¸®ÆÑÅÍ¸µ °æÇè º¸ÈÞ
+? ¼­ºñ½º Ãâ½Ã ¹× ¿î¿µ °æÇè",
+¹é¿£µå °³¹ß,ºªÄª,"- ¹é¿£µå ¾÷¹« °æ·Â 3³â ÀÌ»ó
+- RDB, NoSQL ¼³°è ¹× È°¿ë ´É·Â
+- NodeJS, GraphQL ÇÁ·¹ÀÓ¿öÅ© È°¿ë ´É·Â
+- Web Socket, Message Streaming Service","- ´ë±Ô¸ð ¼­ºñ½º ¿î¿µ °æÇè
+- GraphQL ÃÖÀûÈ­¿Í Server side cache È°¿ë ´É·Â
+- Database Architecture ´É·Â",
+Ç®½ºÅÃ °³¹ßÀÚ,´õ¾²¸®·ê½º,"- ÄÄÇ»ÅÍ °ü·Ã ÇÐ°ú, ¼öÇÐ, Åë°èÇÐ ¶Ç´Â ÀÌ¿Í °ü·ÃµÈ Àü°ø ºÐ¾ßÀÇ ÇÐ»ç, ¼®»ç ¶Ç´Â ¹Ú»ç ÇÐÀ§.
+- Node.js °³¹ß °æ·Â 3³â ÀÌ»ó
+- ÇÁ·ÐÆ®¿£µå °³¹ß °æÇè 1³â ÀÌ»ó
+- À¥3 ¶óÀÌºê·¯¸® »ç¿ë°æÇè ¹× Áö½Ä (e.g. ethers.js, web3.js, etc)
+- ´ë±Ô¸ð ¾ÖÇÃ¸®ÄÉÀÌ¼ÇÀ» À§ÇÑ ¹é¿£µå ¼­ºñ½º ±¸Ãà °æÇè
+- SW ¾ÆÅ°ÅØÃ³, µ¥ÀÌÅÍ ±¸Á¶ ¹× ¾Ë°í¸®Áò¿¡ ´ëÇÑ ±íÀº ÀÌÇØ
+- ¹öÀü °ü¸® ½Ã½ºÅÛ (git) ¿¡ ´ëÇÑ ½Ç¹« °æÇè
+- ¶Ù¾î³­ ¼­¸é ¹× ±¸µÎ Ä¿¹Â´ÏÄÉÀÌ¼Ç ´É·Â","- ½º¸¶Æ® ÄÁÆ®·¢Æ® °³¹ß °æÇè (e.g. Solidity, Cairo, Move, etc)
+- CI/CD ÆÄÀÌÇÁ¶óÀÎÀ» ÅëÇÑ ¹èÆ÷ °æÇè
+- Å¬¶ó¿ìµå ÇÃ·§Æû »ç¿ë °æÇè (e.g. AWS, GCP)
+- Rust, C++, Python °³¹ß °æÇè
+- ÃÊ±â ½ºÅ¸Æ®¾÷¿¡¼­ ±Ù¹«ÇÑ °æÇè
+- À¥ 3.0 ¾÷°è¿¡¼­ ±Ù¹«ÇÑ °æÇè",
+»ç³» Á¤º¸º¸¾È ¿î¿µ ´ã´çÀÚ,Æ¼¿¤¾ÆÀÌ(TLI),"? Àü°ø : ÀÌ°ø°è¿­ ÃÊ´ëÁ¹ÀÌ»ó
+? °æ·Â 3³â ÀÌ»ó
+? ÇØ´ç¾÷¹« °æÇèÀÚ","? °ü·Ã ÇÐÀ§ ¶Ç´Â ÀÚ°ÝÁõ ¼ÒÁöÀÚ
+? IT / ¹ÝµµÃ¼ ¾÷°è º¸¾È ½Ã½ºÅÛ ±Ù¹« °æ·ÂÀÚ
+? º¸¾È Àåºñ °ü·Ã Áö½Ä, °æÇè º¸À¯ÀÚ",
+¸ð¹ÙÀÏ SDK °³¹ßÀÚ,´Þ´ÞÇÁ·»Áî,"- °æ·Â 3³âÀÌ»ó ¸ð¹ÙÀÏ(AND ¶Ç´Â IOS) °³¹ß ¼÷·ÃÀÚ
+- SDK¸¦ È°¿ëÇÑ Ä¿½ºÅÒ °³¹ß ¼÷·ÃÀÚ
+- °³¹ßÀÚ, µðÀÚÀÌ³Ê¿ÍÀÇ ¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼Ç °¡´ÉÀÚ
+- ÇØ¿Ü Ãâ±¹¿¡ °á°Ý »çÀ¯°¡ ¾ø´Â ºÐ
+- Æ÷Æ®Æú¸®¿À Á¦Ãâ ÇÊ¼ö","- ÇØ´çÁ÷¹« ±Ù¹« °æÇè
+- Á÷¹« °ü·Ã À¯»ç Æ÷Æ®Æú¸®¿À º¸À¯",
+Android °³¹ßÀÚ(2³â ÀÌ»ó),ºñÆ®¹ÙÀÌÆ®(ÇÃ·¹ÀÌÅ°º¸µå),"- ´Ù¾çÇÑ Á÷±º°ú Çù·ÂÇÑ 2³â ÀÌ»ó ¾Èµå·ÎÀÌµå ¾Û °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- Kotlin°ú Java·Î ¾Èµå·ÎÀÌµå ¾Û °³¹ßÀÌ °¡´ÉÇÏ½Å ºÐ (ÀüÃ¼ ÇÁ·ÎÁ§Æ®ÀÇ 86%°¡ KotlinÀ¸·Î ÀÛ¼ºµÇ¾î ÀÖÁö¸¸, Å°º¸µå ¿ÀÅä¸¶Å¸ µî ÀÏºÎ ÄÚµå°¡ Java·Î ÀÛ¼ºµÇ¾î ÀÖ½À´Ï´Ù.)
+- ¾Û ÆÛºí¸®½Ì, Firebase, AdMob µî ¾Û ¼­ºñ½º¿¡ ÇÊ¿äÇÑ Áö½Ä°ú °æÇèÀÌ Ç³ºÎÇÏ½Å ºÐ
+- È®Àå °¡´ÉÇÑ °³¹ßÀ» ÁöÇâÇÏ¸ç, ¸®ÆÑÅä¸µ, ¹öÀü°ü¸®(Git)µî Ã¼°èÀûÀÎ ÄÚµå°ü¸®¿¡ ÀÍ¼÷ÇÏ½Å ºÐ","- °³¹ßÁ¶Á÷ÀÇ ¼ºÀå°ú Á¶Á÷¹®È­¿¡ ´ëÇÑ ³²´Ù¸¥ °ü½É°ú Ã¶ÇÐÀ» °®Ãá ºÐ
+- ±¤°í µµ¸ÞÀÎ¿¡ ´ëÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- ÁÁÀº UI/UX °³¹ß ¹× ¾Ë°í¸®Áò, ¼º´ÉÃÖÀûÈ­ µî¿¡ °ü½ÉÀÌ ¸¹À¸½Å ºÐ
+- InputMethodServiceÀÇ ÇÙ½É ±â´ÉÀ» ´É¼÷ÇÏ°Ô ´Ù·ç½Ã´Â ºÐ
+- CleanCode¿¡ ´ëÇÑ Áö½ÄÀ» °®Ãß°í ½ÇÇà °¡´ÉÇÏ½Å ºÐ 
+- Android Compose¸¦ ÀÌ¿ëÇÑ °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- CleanArchitecture ½ÇÁ¦ ¼­ºñ½º¿¡ Àû¿ëÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- ¾Èµå·ÎÀÌµå CI/CD È¯°æ ±¸Ãà °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- µðÀÚÀÎ ½Ã½ºÅÛÀÇ Áß¿ä¼ºÀ» ÀÎ½Ä°ú °ü·Ã Áö½ÄÀ» °®Ãß°í °³¹ßÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ",
+ÀÀ¿ëSW¿£Áö´Ï¾î¸µ °³¹ßÀÚ,ÄÚ¾îÆ®·¯½ºÆ®,- C/C++ À» ÀÌ¿ëÇÑ ¿øÈ°ÇÑ °³¹ß °¡´É (ÀÀ¿ë ÇÁ·Î±×·¥ °³¹ß ºÐ¾ß),"- Qt FrameWork °³¹ß °æÇè
+- µ¿¿µ»ó player °³¹ß °æÇè
+- Network programming¿¡ ´ëÇÑ ÀÌÇØ
+- µ¿¿µ»ó container ÀÌÇØ
+- embedded programming °³¹ß °æÇè",
+Clinical Product Manager,¾ÆÀÌ¿À¹ÙÀÌ¿À,"* ""ÀÌ·± ºÐ°ú ÇÔ²² ÇÏ°í ½Í¾î¿ä.""
 
-ã†ì¹˜ê³¼ì˜ì‚¬, ì¹˜ê³¼ìœ„ìƒì‚¬ ë˜ëŠ” ì˜ë£Œë¶„ì•¼ ìžê²©ì¦ì„ ë³´ìœ í•˜ì‹  ë¶„ 
-ã†ë””ì§€í„¸ í—¬ìŠ¤ì¼€ì–´/ì˜ë£Œê¸°ê¸° ë¶„ì•¼ì—ì„œ ì„œë¹„ìŠ¤ ê¸°íš í˜¹ì€ ìœ ì‚¬í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-ã†ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ì„ í†µí•´ ë™ë£Œë“¤ì„ ë¦¬ë“œí•˜ê³ , ì—´ë¦° ìžì„¸ë¡œ í˜‘ì—…ì´ ê°€ëŠ¥í•œ ë¶„
-ã†ë°ì´í„° ê¸°ë°˜ì˜ ì „ëžµì  ì˜ì‚¬ê²°ì •ì„ ì¢‹ì•„í•˜ê³  ìž˜í•˜ì‹œëŠ” ë¶„
-ã†ëŠ¥ë™ì ì¸ ì„±í–¥ê³¼ íƒì›”í•œ ì¶”ì§„ë ¥ì„ ê°–ì¶”ì‹  ë¶„
-ã†í•œêµ­ì–´, ì˜ì–´ì— ëŠ¥í†µí•œ ë¶„","* ""ì´ëŸ° ê²½í—˜ì´ ìžˆìœ¼ì‹œë©´ ë” ì¢‹ì•„ìš”.""
+¤ýÄ¡°úÀÇ»ç, Ä¡°úÀ§»ý»ç ¶Ç´Â ÀÇ·áºÐ¾ß ÀÚ°ÝÁõÀ» º¸À¯ÇÏ½Å ºÐ 
+¤ýµðÁöÅÐ Çï½ºÄÉ¾î/ÀÇ·á±â±â ºÐ¾ß¿¡¼­ ¼­ºñ½º ±âÈ¹ È¤Àº À¯»çÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+¤ý¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼ÇÀ» ÅëÇØ µ¿·áµéÀ» ¸®µåÇÏ°í, ¿­¸° ÀÚ¼¼·Î Çù¾÷ÀÌ °¡´ÉÇÑ ºÐ
+¤ýµ¥ÀÌÅÍ ±â¹ÝÀÇ Àü·«Àû ÀÇ»ç°áÁ¤À» ÁÁ¾ÆÇÏ°í ÀßÇÏ½Ã´Â ºÐ
+¤ý´Éµ¿ÀûÀÎ ¼ºÇâ°ú Å¹¿ùÇÑ ÃßÁø·ÂÀ» °®Ãß½Å ºÐ
+¤ýÇÑ±¹¾î, ¿µ¾î¿¡ ´ÉÅëÇÑ ºÐ","* ""ÀÌ·± °æÇèÀÌ ÀÖÀ¸½Ã¸é ´õ ÁÁ¾Æ¿ä.""
 
-ã†êµ­ë‚´ì™¸ ì†Œí”„íŠ¸ì›¨ì–´ã†ì˜ë£Œê¸°ê¸°ì— ëŒ€í•œ ê·œì œ ìš”ê±´ì„ ì´í•´í•˜ê³  ìžˆìœ¼ì‹  ë¶„
-ã†ìŠ¤íƒ€íŠ¸ì—… ê·¼ë¬´ê²½í—˜ì´ ìžˆìœ¼ì‹ ë¶„",
-ë°±ì—”ë“œ ê°œë°œ íŒ€ìž¥,ëŸ¬ë„ˆìŠ¤,"- ë°±ì—”ë“œ ê°œë°œ ê´€ë ¨ ê²½ë ¥ 6ë…„ ì´ìƒ ìžˆìœ¼ì‹  ë¶„
+¤ý±¹³»¿Ü ¼ÒÇÁÆ®¿þ¾î¤ýÀÇ·á±â±â¿¡ ´ëÇÑ ±ÔÁ¦ ¿ä°ÇÀ» ÀÌÇØÇÏ°í ÀÖÀ¸½Å ºÐ
+¤ý½ºÅ¸Æ®¾÷ ±Ù¹«°æÇèÀÌ ÀÖÀ¸½ÅºÐ",
+¹é¿£µå °³¹ß ÆÀÀå,·¯³Ê½º,"- ¹é¿£µå °³¹ß °ü·Ã °æ·Â 6³â ÀÌ»ó ÀÖÀ¸½Å ºÐ
 
-- NestJS í”„ë ˆìž„ì›Œí¬ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
+- NestJS ÇÁ·¹ÀÓ¿öÅ© °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
 
-- AWS í™˜ê²½ì—ì„œ ì¸í”„ë¼ ë° ì„œë¹„ìŠ¤ë¥¼ ìš´ì˜í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„","- ìŠ¤íƒ€íŠ¸ì—…ì„ ì°½ì—…í•´ ë´¤ê±°ë‚˜ ê°œë°œ ì¡°ì§ ë¦¬ë“œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
+- AWS È¯°æ¿¡¼­ ÀÎÇÁ¶ó ¹× ¼­ºñ½º¸¦ ¿î¿µÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ","- ½ºÅ¸Æ®¾÷À» Ã¢¾÷ÇØ ºÃ°Å³ª °³¹ß Á¶Á÷ ¸®µå °æÇèÀÌ ÀÖÀ¸½Å ºÐ
 
-- í”Œëž«í¼ ì„œë¹„ìŠ¤ ëŸ°ì¹­ ë° ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
+- ÇÃ·§Æû ¼­ºñ½º ·±Äª ¹× ¿î¿µ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
 
-- ìŠ¤ìŠ¤ë¡œ ë¬¸ì œë¥¼ ì°¾ì•„ì„œ í•´ê²°í•˜ê³ , ê·¸ë¡œë¶€í„° ì„±ì·¨ê°ì„ ëŠë¼ì‹œëŠ” ë¶„",
-React í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œìž (Senior),ì•„ì´ì˜¤ë°”ì´ì˜¤,"* ""ì´ëŸ° ë¶„ê³¼ í•¨ê»˜ í•˜ê³  ì‹¶ì–´ìš”.""
+- ½º½º·Î ¹®Á¦¸¦ Ã£¾Æ¼­ ÇØ°áÇÏ°í, ±×·ÎºÎÅÍ ¼ºÃë°¨À» ´À³¢½Ã´Â ºÐ",
+React ÇÁ·ÐÆ®¿£µå °³¹ßÀÚ (Senior),¾ÆÀÌ¿À¹ÙÀÌ¿À,"* ""ÀÌ·± ºÐ°ú ÇÔ²² ÇÏ°í ½Í¾î¿ä.""
 
-â€¢ Computer Science ê´€ë ¨ ì „ê³µìž ë˜ëŠ” ì´ì— ìƒì‘í•˜ëŠ” ê²½ë ¥ ë³´ìœ ìž
-â€¢ React ê°œë°œ 4ë…„ ì´ìƒ ê²½ë ¥ í•„ìˆ˜ 
-â€¢ Restful API, GraphQL, WebSocket ì—°ê³„ ëŠ¥ìˆ™í•œ ë¶„
-â€¢ HTML, CSS, JavaScriptì— ëŒ€í•œ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„
-â€¢ TypeScript ì‚¬ìš© ê²½í—˜ ìžˆìœ¼ì‹  ë¶„ 
-â€¢ 1-2ì£¼ ë‹¨ìœ„ Sprintë¡œ ìš´ì˜ë˜ëŠ” Agile Development í”„ë¡œì„¸ìŠ¤ì— ëŠ¥ìˆ™í•˜ì‹  ë¶„ 
-  (ê° Sprintë§ˆë‹¤ ê°œë°œëœ ë‚´ìš©ì— ëŒ€í•´ ì‚¬ìš©ìž í…ŒìŠ¤íŠ¸ í•„ìˆ˜) 
-â€¢ ì´ì „ Sprintì—ì„œ ê°œë°œì´ ì™„ë£Œë˜ì—ˆì§€ë§Œ, User Validation ê²°ê³¼ ë³´ì™„ì´ í•„ìš”í•˜ë‹¤ê³  íŒë‹¨ì´ ë  ë•Œ, ì ê·¹ì ìœ¼ë¡œ ë³´ì™„ì„ ìˆ˜í–‰í•  ìˆ˜ ìžˆëŠ” ë¶„ 
-â€¢ ê° Sprintë§ˆë‹¤ Product Manager, UX/UI ë””ìžì´ë„ˆ, Backend ê°œë°œìžì™€ ì›í™œí•œ í˜‘ì—…ì´ ê°€ëŠ¥í•œ ë¶„
-â€¢ Gitì„ ì˜¬ë°”ë¥´ê²Œ ì‚¬ìš©í•˜ê³  ì´ë¥¼ í†µí•œ í˜‘ì—…ì´ ê°€ëŠ¥í•˜ì‹  ë¶„
-â€¢ ë””ì§€í„¸ í—¬ìŠ¤ì¼€ì–´ ê´€ë ¨ ê²½í—˜
-   (* í”„ë¡œì íŠ¸ ê²½ë ¥ê¸°ìˆ ì„œ í•„ìˆ˜)","* ""ì´ëŸ° ê²½í—˜ì´ ìžˆìœ¼ì‹œë©´ ë” ì¢‹ì•„ìš”.""
+? Computer Science °ü·Ã Àü°øÀÚ ¶Ç´Â ÀÌ¿¡ »óÀÀÇÏ´Â °æ·Â º¸À¯ÀÚ
+? React °³¹ß 4³â ÀÌ»ó °æ·Â ÇÊ¼ö 
+? Restful API, GraphQL, WebSocket ¿¬°è ´É¼÷ÇÑ ºÐ
+? HTML, CSS, JavaScript¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ
+? TypeScript »ç¿ë °æÇè ÀÖÀ¸½Å ºÐ 
+? 1-2ÁÖ ´ÜÀ§ Sprint·Î ¿î¿µµÇ´Â Agile Development ÇÁ·Î¼¼½º¿¡ ´É¼÷ÇÏ½Å ºÐ 
+  (°¢ Sprint¸¶´Ù °³¹ßµÈ ³»¿ë¿¡ ´ëÇØ »ç¿ëÀÚ Å×½ºÆ® ÇÊ¼ö) 
+? ÀÌÀü Sprint¿¡¼­ °³¹ßÀÌ ¿Ï·áµÇ¾úÁö¸¸, User Validation °á°ú º¸¿ÏÀÌ ÇÊ¿äÇÏ´Ù°í ÆÇ´ÜÀÌ µÉ ¶§, Àû±ØÀûÀ¸·Î º¸¿ÏÀ» ¼öÇàÇÒ ¼ö ÀÖ´Â ºÐ 
+? °¢ Sprint¸¶´Ù Product Manager, UX/UI µðÀÚÀÌ³Ê, Backend °³¹ßÀÚ¿Í ¿øÈ°ÇÑ Çù¾÷ÀÌ °¡´ÉÇÑ ºÐ
+? GitÀ» ¿Ã¹Ù¸£°Ô »ç¿ëÇÏ°í ÀÌ¸¦ ÅëÇÑ Çù¾÷ÀÌ °¡´ÉÇÏ½Å ºÐ
+? µðÁöÅÐ Çï½ºÄÉ¾î °ü·Ã °æÇè
+   (* ÇÁ·ÎÁ§Æ® °æ·Â±â¼ú¼­ ÇÊ¼ö)","* ""ÀÌ·± °æÇèÀÌ ÀÖÀ¸½Ã¸é ´õ ÁÁ¾Æ¿ä.""
 
-â€¢ DevOps ìˆ˜í–‰ ê²½í—˜ìž ìš°ëŒ€  
-â€¢ Next.js ë“± SSR í”„ë ˆìž„ì›Œí¬ ì‚¬ìš© ê²½í—˜ ìžˆìœ¼ì‹  ë¶„
-â€¢ Responsive Web ê°œë°œ ê²½í—˜ìž
-â€¢ Test Driven Developmentì— ëŒ€í•œ ì´í•´ê°€ ë†’ì€ ë¶„
-â€¢ LBS, BLE í™œìš© ê°œë°œì— ì´í•´ê°€ ë†’ì€ ë¶„
-â€¢ ì˜ì–´ë¡œ ì›í™œí•œ ì˜ì‚¬ì†Œí†µì´ ê°€ëŠ¥í•œ ë¶„",
-Bluetooth PHY F/W,í…ŒìŠ¤ì½¤,"ã†í•™ë ¥ : ëŒ€ì¡¸ ì´ìƒ (4ë…„)
-ã†C/C++ í”„ë¡œê·¸ëž˜ë° ê°€ëŠ¥ìž
-ã†FPGA Verilog í”„ë¡œê·¸ëž˜ë° ê°€ëŠ¥ìž
-ã†ì˜ì–´ë¬¸ì„œ ë…í•´ ê°€ëŠ¥ìž",,"['C / C++', 'C++', 'RF', 'FPGA', 'MIMO', 'OFDM']"
-ì†Œí”„íŠ¸ì›¨ì–´ê°œë°œ íŒ€ìž¥,ì—ì´ì˜¤íŒœ,"[í•„ìˆ˜ ê¸°ìˆ ìŠ¤íƒ ìš”ê±´]
-1. íšŒì‚¬/ê³ ê° ìš”êµ¬ì‚¬í•­ì— ë§žê²Œ API ìž‘ì„±
-2. ë””ìžì¸ ê¸°íš(ì§ì ‘ì  UIë””ìžì¸ì€ í•˜ì§€ ì•Šë”ë¼ë„, ë””ìžì¸ ìš©ì—­ì—…ì²´ì™€ì˜ ì»¨íƒ, í˜‘ì—…)
-3. ê°œë°œ ë‹¨ìœ„ ë§¤ë‹ˆì§•, ë¦¬ë“œ ê°€ëŠ¥ (í”„ë¡œì íŠ¸í˜• ê°œë°œ)
-4. ê° ê°œë°œì— ìµœì í™”ëœ ì–¸ì–´ ë° í”„ë ˆìž„ì›Œí¬,ë¼ì´ë¸ŒëŸ¬ë¦¬ ì„ íƒ ê°€ëŠ¥
-5. íŒ€ì› ìœ¡ì„± ë° ê´€ë¦¬
-6. íƒ€ íŒ€ì›ì˜ ì½”ë“œ ë¦¬ë·°","1. ì¸ê³µì§€ëŠ¥ì— ëŒ€í•œ ì´í•´ë„.
-2. ê´€ë ¨í•™ê³¼ ì „ê³µ(ì»´í“¨í„°ê³µí•™/ê³¼í•™, ì „ê¸°ì „ìžê³µí•™, ê¸°íƒ€ ê³µí•™ê³„ì—´, ìžì—°ê³„ì—´ ë“±)
-3. íƒ€ìž„í¬ë¦¬í‹°ì»¬ ì‹œìŠ¤í…œ ê°œë°œ ê²½í—˜
-4. Python ì–¸ì–´ ëŠ¥ìˆ™ìž
-5. ê°œë°œ ë¦¬ë“œ ë° í”„ë¡œì íŠ¸ ë§¤ë‹ˆì§• ê²½í—˜
-6. í’€ìŠ¤íƒ ê°œë°œ ê²½í—˜",
-ì•ˆë“œë¡œì´ë“œ/.Net ê°œë°œìž,ì•„ì´ë””ë¡œ,"â€¢ ì•ˆë“œë¡œì´ë“œ Skill
-â€¢ 4ë…„ì œ ëŒ€í•™êµ ì¡¸ì—…ìž",".Net / Java ê°€ëŠ¥ìž ìš°ëŒ€
-ì „ìžê³„ì‚°í•™ê³¼ ìš°ëŒ€",
-"ëª¨ì˜í•´í‚¹, ì·¨ì•½ì  ì§„ë‹¨ ì»¨ì„¤í„´íŠ¸",ì§€ì—”,â€¢ ê²½ë ¥ : ê´€ë ¨ ë¶„ì•¼ 3ë…„ ì´ìƒ ê²½ë ¥,"â€¢ ì •ë³´ë³´ì•ˆê¸°ì‚¬
- â€¢ í•´ë‹¹ì§ë¬´ ê·¼ë¬´ê²½í—˜
- â€¢ ëª¨ë°”ì¼ ì§„ë‹¨ ì—­ëŸ‰
- â€¢ ë²„ê·¸ë°”ìš´í‹°, ì·¨ì•½ì  ì •ë³´ ì œê³µ
- â€¢ í•´í‚¹ëŒ€íšŒ(CTF) ìˆ˜ìƒ ê²½ë ¥",
-ë³‘ì—­íŠ¹ë¡€ ì „ë¬¸ì—°êµ¬ìš”ì› H/W ì—”ì§€ë‹ˆì–´,ì—í‹°í¬ìŠ¤,"â€¢ Hardware ê°œë°œ
-       - Hardware íšŒë¡œ ì„¤ê³„ (board)
-       - AP system board ì„¤ê³„
-       - ê°œë°œ ê²€ì¦
-       - ì¸ì¦ ì‹œí—˜
+? DevOps ¼öÇà °æÇèÀÚ ¿ì´ë  
+? Next.js µî SSR ÇÁ·¹ÀÓ¿öÅ© »ç¿ë °æÇè ÀÖÀ¸½Å ºÐ
+? Responsive Web °³¹ß °æÇèÀÚ
+? Test Driven Development¿¡ ´ëÇÑ ÀÌÇØ°¡ ³ôÀº ºÐ
+? LBS, BLE È°¿ë °³¹ß¿¡ ÀÌÇØ°¡ ³ôÀº ºÐ
+? ¿µ¾î·Î ¿øÈ°ÇÑ ÀÇ»ç¼ÒÅëÀÌ °¡´ÉÇÑ ºÐ",
+Bluetooth PHY F/W,Å×½ºÄÞ,"¤ýÇÐ·Â : ´ëÁ¹ ÀÌ»ó (4³â)
+¤ýC/C++ ÇÁ·Î±×·¡¹Ö °¡´ÉÀÚ
+¤ýFPGA Verilog ÇÁ·Î±×·¡¹Ö °¡´ÉÀÚ
+¤ý¿µ¾î¹®¼­ µ¶ÇØ °¡´ÉÀÚ",,"['C / C++', 'C++', 'RF', 'FPGA', 'MIMO', 'OFDM']"
+¼ÒÇÁÆ®¿þ¾î°³¹ß ÆÀÀå,¿¡ÀÌ¿ÀÆÊ,"[ÇÊ¼ö ±â¼ú½ºÅÃ ¿ä°Ç]
+1. È¸»ç/°í°´ ¿ä±¸»çÇ×¿¡ ¸Â°Ô API ÀÛ¼º
+2. µðÀÚÀÎ ±âÈ¹(Á÷Á¢Àû UIµðÀÚÀÎÀº ÇÏÁö ¾Ê´õ¶óµµ, µðÀÚÀÎ ¿ë¿ª¾÷Ã¼¿ÍÀÇ ÄÁÅÃ, Çù¾÷)
+3. °³¹ß ´ÜÀ§ ¸Å´ÏÂ¡, ¸®µå °¡´É (ÇÁ·ÎÁ§Æ®Çü °³¹ß)
+4. °¢ °³¹ß¿¡ ÃÖÀûÈ­µÈ ¾ð¾î ¹× ÇÁ·¹ÀÓ¿öÅ©,¶óÀÌºê·¯¸® ¼±ÅÃ °¡´É
+5. ÆÀ¿ø À°¼º ¹× °ü¸®
+6. Å¸ ÆÀ¿øÀÇ ÄÚµå ¸®ºä","1. ÀÎ°øÁö´É¿¡ ´ëÇÑ ÀÌÇØµµ.
+2. °ü·ÃÇÐ°ú Àü°ø(ÄÄÇ»ÅÍ°øÇÐ/°úÇÐ, Àü±âÀüÀÚ°øÇÐ, ±âÅ¸ °øÇÐ°è¿­, ÀÚ¿¬°è¿­ µî)
+3. Å¸ÀÓÅ©¸®Æ¼ÄÃ ½Ã½ºÅÛ °³¹ß °æÇè
+4. Python ¾ð¾î ´É¼÷ÀÚ
+5. °³¹ß ¸®µå ¹× ÇÁ·ÎÁ§Æ® ¸Å´ÏÂ¡ °æÇè
+6. Ç®½ºÅÃ °³¹ß °æÇè",
+¾Èµå·ÎÀÌµå/.Net °³¹ßÀÚ,¾ÆÀÌµð·Î,"? ¾Èµå·ÎÀÌµå Skill
+? 4³âÁ¦ ´ëÇÐ±³ Á¹¾÷ÀÚ",".Net / Java °¡´ÉÀÚ ¿ì´ë
+ÀüÀÚ°è»êÇÐ°ú ¿ì´ë",
+"¸ðÀÇÇØÅ·, Ãë¾àÁ¡ Áø´Ü ÄÁ¼³ÅÏÆ®",Áö¿£,? °æ·Â : °ü·Ã ºÐ¾ß 3³â ÀÌ»ó °æ·Â,"? Á¤º¸º¸¾È±â»ç
+ ? ÇØ´çÁ÷¹« ±Ù¹«°æÇè
+ ? ¸ð¹ÙÀÏ Áø´Ü ¿ª·®
+ ? ¹ö±×¹Ù¿îÆ¼, Ãë¾àÁ¡ Á¤º¸ Á¦°ø
+ ? ÇØÅ·´ëÈ¸(CTF) ¼ö»ó °æ·Â",
+º´¿ªÆ¯·Ê Àü¹®¿¬±¸¿ä¿ø H/W ¿£Áö´Ï¾î,¿¡Æ¼Æ÷½º,"? Hardware °³¹ß
+       - Hardware È¸·Î ¼³°è (board)
+       - AP system board ¼³°è
+       - °³¹ß °ËÁõ
+       - ÀÎÁõ ½ÃÇè
 
-â€¢ RF íšŒë¡œ ì„¤ê³„
-       - RF íšŒë¡œ ì„¤ê³„ (PA, LNA, AD/DA, etc)
-       - Wi-Fi ë˜ëŠ” LTE RF ê°œë°œ
+? RF È¸·Î ¼³°è
+       - RF È¸·Î ¼³°è (PA, LNA, AD/DA, etc)
+       - Wi-Fi ¶Ç´Â LTE RF °³¹ß
 
-â€¢ ë¡œì§ (FPGA) ì„¤ê³„
+? ·ÎÁ÷ (FPGA) ¼³°è
        - Logic design with SystemVerilog or Verilog
-       - ë¬´ì„ í†µì‹  Physical layer ê°œë°œ ê²½í—˜
-       - Xilinx Vivado ì‚¬ìš© ê²½í—˜","â€¢ê³µí†µ
-       - ì˜ì–´ ëŠ¥í†µìž
-       - í•´ë‹¹ ì§ë¬´ ê·¼ë¬´ ê²½í—˜ìž
-       - ê´€ë ¨ í•™ê³¼ ì „ê³µìž
-       - ê´€ë ¨ ìžê²©ì¦ ë³´ìœ ìž
+       - ¹«¼±Åë½Å Physical layer °³¹ß °æÇè
+       - Xilinx Vivado »ç¿ë °æÇè","?°øÅë
+       - ¿µ¾î ´ÉÅëÀÚ
+       - ÇØ´ç Á÷¹« ±Ù¹« °æÇèÀÚ
+       - °ü·Ã ÇÐ°ú Àü°øÀÚ
+       - °ü·Ã ÀÚ°ÝÁõ º¸À¯ÀÚ
 
-â€¢ Hardware ê°œë°œ
-       - Embedded Linux ì‚¬ìš©ê°€ëŠ¥
-       - FPGA board ì„¤ê³„ ê²½í—˜
-       - RF & Analog ì„¤ê³„ ê²½í—˜
-       - ì–‘ì‚°ê²½í—˜
+? Hardware °³¹ß
+       - Embedded Linux »ç¿ë°¡´É
+       - FPGA board ¼³°è °æÇè
+       - RF & Analog ¼³°è °æÇè
+       - ¾ç»ê°æÇè
 
-â€¢ RF íšŒë¡œ ì„¤ê³„
-       - í†µì‹  module ì„¤ê³„ ê²½í—˜
-       - 3GPP Radio conformance test ê²½í—˜
-       - ì–‘ì‚° ê²½í—˜
+? RF È¸·Î ¼³°è
+       - Åë½Å module ¼³°è °æÇè
+       - 3GPP Radio conformance test °æÇè
+       - ¾ç»ê °æÇè
 
-â€¢ ë¡œì§ (FPGA) ì„¤ê³„
-       - ASIC design ê²½í—˜
-       - AXIë¥¼ ì‚¬ìš©í•œ bus ì„¤ê³„ ê²½í—˜
-       - PCIe integration ê²½í—˜",
-ë³‘ì—­íŠ¹ë¡€ ì „ë¬¸ì—°êµ¬ìš”ì› S/W ì—”ì§€ë‹ˆì–´,ì—í‹°í¬ìŠ¤,"â€¢ Software Modem ê°œë°œ
-       - ë„¤íŠ¸ì›Œí¬ í†µì‹  í”„ë¡œí† ì½œ ê°œë°œ ê²½í—˜(WiFi, 4G/5G ë“±)
-       - Cì–¸ì–´ í•„ìˆ˜
-       - Linux í™˜ê²½ ê°œë°œ ê²½í—˜
+? ·ÎÁ÷ (FPGA) ¼³°è
+       - ASIC design °æÇè
+       - AXI¸¦ »ç¿ëÇÑ bus ¼³°è °æÇè
+       - PCIe integration °æÇè",
+º´¿ªÆ¯·Ê Àü¹®¿¬±¸¿ä¿ø S/W ¿£Áö´Ï¾î,¿¡Æ¼Æ÷½º,"? Software Modem °³¹ß
+       - ³×Æ®¿öÅ© Åë½Å ÇÁ·ÎÅäÄÝ °³¹ß °æÇè(WiFi, 4G/5G µî)
+       - C¾ð¾î ÇÊ¼ö
+       - Linux È¯°æ °³¹ß °æÇè
 
-â€¢ Intelligent Transportation System (ITS) Protocol Stack ê°œë°œ
-       - Cì–¸ì–´ í•„ìˆ˜
-       - Linux í™˜ê²½ ê°œë°œ ê²½í—˜
+? Intelligent Transportation System (ITS) Protocol Stack °³¹ß
+       - C¾ð¾î ÇÊ¼ö
+       - Linux È¯°æ °³¹ß °æÇè
 
-â€¢ Intelligent Transportation System (ITS) Service Application ê°œë°œ
-       - ì–¸ì–´ í•„ìˆ˜
-       - Linux í™˜ê²½ ê°œë°œ ê²½í—˜
+? Intelligent Transportation System (ITS) Service Application °³¹ß
+       - ¾ð¾î ÇÊ¼ö
+       - Linux È¯°æ °³¹ß °æÇè
 
-â€¢ BSP (Board Support Package) ê°œë°œ
-       - BSP ê°œë°œ ê²½í—˜
-       - Embedded Linux ê°œë°œ ê²½í—˜
+? BSP (Board Support Package) °³¹ß
+       - BSP °³¹ß °æÇè
+       - Embedded Linux °³¹ß °æÇè
 
-â€¢ ë¬´ì„ í†µì‹  ì•Œê³ ë¦¬ì¦˜ ê°œë°œ
-       - Cì–¸ì–´ í•„ìˆ˜
-       - ë¬´ì„ í†µì‹  ë¬¼ë¦¬ê³„ì¸µ ì‹ í˜¸ì²˜ë¦¬ ì•Œê³ ë¦¬ì¦˜ ê°œë°œ ê²½í—˜
-       - ë¬´ì„ í†µì‹  ë² ì´ìŠ¤ë°´ë“œ ëª¨ëŽ€ ì„¤ê³„ ë° ê°œë°œ ê²½í—˜
-       - ì…€ë£°ëŸ¬ ì´ë™í†µì‹  MAC ì•Œê³ ë¦¬ì¦˜ ê°œë°œ ê²½í—˜","â€¢ê³µí†µ
-       - ì˜ì–´ ëŠ¥í†µìž
-       - í•´ë‹¹ ì§ë¬´ ê·¼ë¬´ ê²½í—˜ìž
-       - ê´€ë ¨ í•™ê³¼ ì „ê³µìž
-       - ê´€ë ¨ ìžê²©ì¦ ë³´ìœ ìž
+? ¹«¼±Åë½Å ¾Ë°í¸®Áò °³¹ß
+       - C¾ð¾î ÇÊ¼ö
+       - ¹«¼±Åë½Å ¹°¸®°èÃþ ½ÅÈ£Ã³¸® ¾Ë°í¸®Áò °³¹ß °æÇè
+       - ¹«¼±Åë½Å º£ÀÌ½º¹êµå ¸ðµ© ¼³°è ¹× °³¹ß °æÇè
+       - ¼¿·ê·¯ ÀÌµ¿Åë½Å MAC ¾Ë°í¸®Áò °³¹ß °æÇè","?°øÅë
+       - ¿µ¾î ´ÉÅëÀÚ
+       - ÇØ´ç Á÷¹« ±Ù¹« °æÇèÀÚ
+       - °ü·Ã ÇÐ°ú Àü°øÀÚ
+       - °ü·Ã ÀÚ°ÝÁõ º¸À¯ÀÚ
 
-â€¢ Software Modem ê°œë°œ
-       - IEEE 3GPP í†µì‹  í‘œì¤€ SW ê°œë°œ ê²½í—˜
-       - Embedded Linux ê°œë°œ ê²½í—˜
-       - RTOS SW ê°œë°œ ê²½í—˜
+? Software Modem °³¹ß
+       - IEEE 3GPP Åë½Å Ç¥ÁØ SW °³¹ß °æÇè
+       - Embedded Linux °³¹ß °æÇè
+       - RTOS SW °³¹ß °æÇè
 
-â€¢ Intelligent Transportation System (ITS) Protocol Stack ê°œë°œ
-       - ë„¤íŠ¸ì›Œí¬ í†µì‹  í”„ë¡œí† ì½œ ê°œë°œ ê²½í—˜(WiFi, 4G/5G ë“±)
-       - V2X í†µì‹  / ì„œë¹„ìŠ¤ ì—°êµ¬ / ê°œë°œ ê²½í—˜
-       - Embedded Linux ê°œë°œ ê²½í—˜
+? Intelligent Transportation System (ITS) Protocol Stack °³¹ß
+       - ³×Æ®¿öÅ© Åë½Å ÇÁ·ÎÅäÄÝ °³¹ß °æÇè(WiFi, 4G/5G µî)
+       - V2X Åë½Å / ¼­ºñ½º ¿¬±¸ / °³¹ß °æÇè
+       - Embedded Linux °³¹ß °æÇè
 
-â€¢ Intelligent Transportation System (ITS) Service Application ê°œë°œ
-       - ë„¤íŠ¸ì›Œí¬ í†µì‹  í”„ë¡œí† ì½œ ê°œë°œ ê²½í—˜(WiFi, 4G/5G ë“±)
-       - V2X í†µì‹  / ì„œë¹„ìŠ¤ ì—°êµ¬ / ê°œë°œ ê²½í—˜
-       - Embedded Linux ê°œë°œ ê²½í—˜
+? Intelligent Transportation System (ITS) Service Application °³¹ß
+       - ³×Æ®¿öÅ© Åë½Å ÇÁ·ÎÅäÄÝ °³¹ß °æÇè(WiFi, 4G/5G µî)
+       - V2X Åë½Å / ¼­ºñ½º ¿¬±¸ / °³¹ß °æÇè
+       - Embedded Linux °³¹ß °æÇè
 
-â€¢ BSP (Board Support Package) ê°œë°œ
-       - ë„¤íŠ¸ì›Œí¬ í†µì‹  í”„ë¡œí† ì½œ ê°œë°œ ê²½í—˜ (WiFi, 4G/5G ë“±)
+? BSP (Board Support Package) °³¹ß
+       - ³×Æ®¿öÅ© Åë½Å ÇÁ·ÎÅäÄÝ °³¹ß °æÇè (WiFi, 4G/5G µî)
 
-â€¢ ë¬´ì„ í†µì‹  ì•Œê³ ë¦¬ì¦˜ ê°œë°œ
-       - LTE/NR ë¬¼ë¦¬ê³„ì¸µ ë¶„ì„ ë° ê°œë°œ ê²½í—˜
-       - LTE/NR MAC ì•Œê³ ë¦¬ì¦˜ ê°œë°œ ê²½í—˜
-       - LTE/NR Layer-2 í”„ë¡œí† ì½œ ìŠ¤íƒ ë¶„ì„ ë° ê°œë°œ ê²½í—˜
-       - FPGA ê°œë°œ ê²½í—˜",
-í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œìž,ë©”íƒ€ì†”ë£¨ì…˜,"â€¢ í¬í•­ ì¶œí‡´ê·¼ ê°€ëŠ¥ìž
-â€¢ HTML, CSS, javascript, Ajax ìˆ™ë ¨ìž
-â€¢ í”„ë ˆìž„ì›Œí¬ ë˜ëŠ” UI ê°œë°œ ë„êµ¬ ì—†ì´ë„ ì›í•˜ëŠ” ì›¹ íŽ˜ì´ì§€ì˜ ìŠ¤í¬ë¦½íŠ¸ ìž‘ì„± ê°€ëŠ¥ìž","â€¢ VUE.JS / REACT.JS ê°œë°œ ê²½í—˜ìž
-â€¢ GRID í˜•íƒœì˜ ê´€ë¦¬ìž ì›¹ íŽ˜ì´ì§€ ê°œë°œ ê²½í—˜ìž",
-ë°±ì—”ë“œ ê°œë°œìž,ë©”íƒ€ì†”ë£¨ì…˜,"â€¢ í¬í•­ ì¶œí‡´ê·¼ ê°€ëŠ¥ìž
-â€¢ ê´€ê³„í˜• ë°ì´í„°ë² ì´ìŠ¤ ì„¤ê³„ ë° íš¨ìœ¨ì ì¸ SQL ì¿¼ë¦¬ ì§ˆì˜ ê°€ëŠ¥ìž
-â€¢ ê°œë°œí™˜ê²½ : Linux (CentOS), PHP, Mysql (Maria DB)
-â€¢ ìœ„ í™˜ê²½ ì™¸ Python, JAVA ë“± ë°±ì—”ë“œ ë‹´ë‹¹ìžë¡œì„œ ìˆ™ë‹¬ëœ ê°œë°œ ì–¸ì–´ê°€ ìžˆìœ¼ì‹  ë¶„","â€¢ ì–´í”Œë¦¬ì¼€ì´ì…˜ì˜ ê°œë°œ ë‹¨ê³„ë¶€í„° ìƒìš©í™”ê¹Œì§€ ì„œë²„ ê°œë°œìž ì‹¤ë¬´ ê²½í—˜ìž
-â€¢ í´ë¼ì´ì–¸íŠ¸ ê°œë°œìžì™€ API ê´€ë ¨ í˜‘ì—…ì— ëŠ¥ìˆ™ìž
-â€¢ NODE.JS ê°œë°œ ê²½í—˜ìž",
-RFë¬´ì„ í†µì‹  ë‹´ë‹¹ìž (3ë…„ì´ìƒ),ìœ ë¸Œë¦¿ì§€,â€¢ RF ì—…ë¬´ ê°œë°œ ê²½ë ¥,"â€¢ ìœ„ì„± í†µì‹  ë¶„ì•¼ ê²½í—˜ìž
-â€¢ ë°©ì‚°ì—…ì²´ ê²½ë ¥ìž ìš°ëŒ€",
-VxWorks OS ì†Œí”„íŠ¸ì›¨ì–´ ë‹´ë‹¹ìž(5ë…„ ì´ìƒ),ìœ ë¸Œë¦¿ì§€,â€¢ VxWorks OS í¬íŒ… ê²½ë ¥,â€¢ ì—…ë¬´ ê°œë°œ ê´€ë ¨ êµìœ¡ ì´ìˆ˜ ë° ê²½ë ¥ ì‚¬í•­,
-[Senior] Backend(Python) Engineer,í”„ë¦¬ë””ì†Œí”„íŠ¸,"â€¢ 7ë…„ ì´ìƒì˜ ì›¹ê°œë°œ ê²½í—˜ (RESTful API, ì›¹ì†Œì¼“ ì„¤ê³„ ë° ê°œë°œê²½í—˜)
-â€¢ python + python framework (django, flask, fastapi ë“± ì‚¬ìš©) 5ë…„ ì´ìƒ ê²½ë ¥ìž
-â€¢ NoSQL, SQL ê¸°ë°˜ DB ëª¨ë¸ë§ ë° ì í•©í•œ ì‚¬ìš©ì´ ê°€ëŠ¥í•˜ì‹  ë¶„
-â€¢ MSA êµ¬ì¶• ê²½í—˜ ë° ì•„í‚¤í…ì²˜ ì„¤ê³„ê°€ ì›í™œí•˜ì‹  ë¶„
-â€¢ Grpc, GraphQL, Websocket API ë“± ì„¤ê³„ ë° ê°œë°œ ê²½í—˜ì´ í’ë¶€í•˜ì‹  ë¶„
-â€¢ Log system, Monitoring System, CI/CD, Web ë³´ì•ˆ ì„¤ê³„ê°€ ê°€ëŠ¥í•˜ì‹  ë¶„","â€¢ ëŠ¥ë™ì ì¸ ë¬¸ì œ í•´ê²° ëŠ¥ë ¥ê³¼ ë¹„ê°œë°œì§êµ°ê³¼ì˜ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ëŠ¥ë ¥ì´ ë›°ì–´ë‚˜ì‹  ë¶„
-â€¢ í° ê·œëª¨ì˜ í”„ë¡œì íŠ¸ ì„¤ê³„ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ì„œë²„ë¦¬ìŠ¤ ìŠ¤íƒì— ëŒ€í•œ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„
-â€¢ ë¦¬ì„œì¹˜í•œ ë‚´ìš©ê³¼ ê²½í—˜ì„ ì ê·¹ ê³µìœ í•˜ì‹œëŠ” ë¶„
-â€¢ ë¬¸ì œ íŒŒì•…ê³¼ í•´ê²°ì— ì ê·¹ì ì´ì‹  ë¶„
-â€¢ waterfallê³¼ agile ë°©ì‹ ëª¨ë‘ ê´€ë¦¬í•´ ë³¸ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ e-commerce ì—…ê³„ì— ì¢…ì‚¬í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
+? ¹«¼±Åë½Å ¾Ë°í¸®Áò °³¹ß
+       - LTE/NR ¹°¸®°èÃþ ºÐ¼® ¹× °³¹ß °æÇè
+       - LTE/NR MAC ¾Ë°í¸®Áò °³¹ß °æÇè
+       - LTE/NR Layer-2 ÇÁ·ÎÅäÄÝ ½ºÅÃ ºÐ¼® ¹× °³¹ß °æÇè
+       - FPGA °³¹ß °æÇè",
+ÇÁ·ÐÆ®¿£µå °³¹ßÀÚ,¸ÞÅ¸¼Ö·ç¼Ç,"? Æ÷Ç× ÃâÅð±Ù °¡´ÉÀÚ
+? HTML, CSS, javascript, Ajax ¼÷·ÃÀÚ
+? ÇÁ·¹ÀÓ¿öÅ© ¶Ç´Â UI °³¹ß µµ±¸ ¾øÀÌµµ ¿øÇÏ´Â À¥ ÆäÀÌÁöÀÇ ½ºÅ©¸³Æ® ÀÛ¼º °¡´ÉÀÚ","? VUE.JS / REACT.JS °³¹ß °æÇèÀÚ
+? GRID ÇüÅÂÀÇ °ü¸®ÀÚ À¥ ÆäÀÌÁö °³¹ß °æÇèÀÚ",
+¹é¿£µå °³¹ßÀÚ,¸ÞÅ¸¼Ö·ç¼Ç,"? Æ÷Ç× ÃâÅð±Ù °¡´ÉÀÚ
+? °ü°èÇü µ¥ÀÌÅÍº£ÀÌ½º ¼³°è ¹× È¿À²ÀûÀÎ SQL Äõ¸® ÁúÀÇ °¡´ÉÀÚ
+? °³¹ßÈ¯°æ : Linux (CentOS), PHP, Mysql (Maria DB)
+? À§ È¯°æ ¿Ü Python, JAVA µî ¹é¿£µå ´ã´çÀÚ·Î¼­ ¼÷´ÞµÈ °³¹ß ¾ð¾î°¡ ÀÖÀ¸½Å ºÐ","? ¾îÇÃ¸®ÄÉÀÌ¼ÇÀÇ °³¹ß ´Ü°èºÎÅÍ »ó¿ëÈ­±îÁö ¼­¹ö °³¹ßÀÚ ½Ç¹« °æÇèÀÚ
+? Å¬¶óÀÌ¾ðÆ® °³¹ßÀÚ¿Í API °ü·Ã Çù¾÷¿¡ ´É¼÷ÀÚ
+? NODE.JS °³¹ß °æÇèÀÚ",
+RF¹«¼±Åë½Å ´ã´çÀÚ (3³âÀÌ»ó),À¯ºê¸´Áö,? RF ¾÷¹« °³¹ß °æ·Â,"? À§¼º Åë½Å ºÐ¾ß °æÇèÀÚ
+? ¹æ»ê¾÷Ã¼ °æ·ÂÀÚ ¿ì´ë",
+VxWorks OS ¼ÒÇÁÆ®¿þ¾î ´ã´çÀÚ(5³â ÀÌ»ó),À¯ºê¸´Áö,? VxWorks OS Æ÷ÆÃ °æ·Â,? ¾÷¹« °³¹ß °ü·Ã ±³À° ÀÌ¼ö ¹× °æ·Â »çÇ×,
+[Senior] Backend(Python) Engineer,ÇÁ¸®µð¼ÒÇÁÆ®,"? 7³â ÀÌ»óÀÇ À¥°³¹ß °æÇè (RESTful API, À¥¼ÒÄÏ ¼³°è ¹× °³¹ß°æÇè)
+? python + python framework (django, flask, fastapi µî »ç¿ë) 5³â ÀÌ»ó °æ·ÂÀÚ
+? NoSQL, SQL ±â¹Ý DB ¸ðµ¨¸µ ¹× ÀûÇÕÇÑ »ç¿ëÀÌ °¡´ÉÇÏ½Å ºÐ
+? MSA ±¸Ãà °æÇè ¹× ¾ÆÅ°ÅØÃ³ ¼³°è°¡ ¿øÈ°ÇÏ½Å ºÐ
+? Grpc, GraphQL, Websocket API µî ¼³°è ¹× °³¹ß °æÇèÀÌ Ç³ºÎÇÏ½Å ºÐ
+? Log system, Monitoring System, CI/CD, Web º¸¾È ¼³°è°¡ °¡´ÉÇÏ½Å ºÐ","? ´Éµ¿ÀûÀÎ ¹®Á¦ ÇØ°á ´É·Â°ú ºñ°³¹ßÁ÷±º°úÀÇ Ä¿¹Â´ÏÄÉÀÌ¼Ç ´É·ÂÀÌ ¶Ù¾î³ª½Å ºÐ
+? Å« ±Ô¸ðÀÇ ÇÁ·ÎÁ§Æ® ¼³°è °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ¼­¹ö¸®½º ½ºÅÃ¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ
+? ¸®¼­Ä¡ÇÑ ³»¿ë°ú °æÇèÀ» Àû±Ø °øÀ¯ÇÏ½Ã´Â ºÐ
+? ¹®Á¦ ÆÄ¾Ç°ú ÇØ°á¿¡ Àû±ØÀûÀÌ½Å ºÐ
+? waterfall°ú agile ¹æ½Ä ¸ðµÎ °ü¸®ÇØ º» °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? e-commerce ¾÷°è¿¡ Á¾»çÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
 
-[ì±„ìš© ì ˆì°¨]
-ì„œë¥˜ ì „í˜• - HR ë©´ì ‘ - ì‹¤ë¬´ì§„ ë©´ì ‘ - íŒ€ë¦¬ë“œ ë©´ì ‘ - ìµœì¢… í•©ê²© (ìž„ì› ë©´ì ‘ì´ ì¶”ê°€ë  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.) 
+[Ã¤¿ë ÀýÂ÷]
+¼­·ù ÀüÇü - HR ¸éÁ¢ - ½Ç¹«Áø ¸éÁ¢ - ÆÀ¸®µå ¸éÁ¢ - ÃÖÁ¾ ÇÕ°Ý (ÀÓ¿ø ¸éÁ¢ÀÌ Ãß°¡µÉ ¼ö ÀÖ½À´Ï´Ù.) 
 
-[ìž…ì‚¬ ìœ ì˜ì‚¬í•­]
-â€¢ ì¸í„´ì„ ì œì™¸í•œ ëª¨ë“  ì§ë¬´ëŠ” 3ê°œì›” ìˆ˜ìŠµê¸°ê°„ì´ ìžˆìŠµë‹ˆë‹¤.
-â€¢ ìˆ˜ìŠµê¸°ê°„ ë™ì•ˆ ê¸‰ì—¬(100%) ë° ë³µì§€ëŠ” ì°¨ë“± ì—†ì´ ì§€ê¸‰ë©ë‹ˆë‹¤.
-â€¢ ìž…ì‚¬ì§€ì› ì„œë¥˜ì—ì„œ í—ˆìœ„ê¸°ìž¬ ì‚¬ì‹¤ì´ ë°œê²¬ë  ê²½ìš°, ìž…ì‚¬ê°€ ì·¨ì†Œë  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.",
-ëª¨ë°”ì¼(Android) ì•± ê°œë°œ,ë©”ë””í”ŒëŸ¬ìŠ¤ì†”ë£¨ì…˜,"[í•„ìˆ˜ìš”ê±´] 
-â€¢ ìµœì†Œ 5ë…„ ì´ìƒì˜ Android ì•± ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ê¸°íš/ë””ìžì¸/QA ë“± íƒ€ íŒŒíŠ¸ì™€ì˜ ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ì´ ê°€ëŠ¥í•˜ì‹  ë¶„
-â€¢ Play Store ì•± ë°°í¬ ë° ì‹¤ ì„œë¹„ìŠ¤ ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„ 
-â€¢ Java, Kotlin ì— ëŒ€í•œ ë†’ì€ ì´í•´ ë° ëŠ¥ìˆ™í•˜ì‹  ë¶„
-â€¢ ê°ì²´ ê°„ ì´ë²¤íŠ¸ ì²˜ë¦¬ì— ëŒ€í•œ ë†’ì€ ì´í•´ ë° ëŠ¥ìˆ™í•˜ì‹  ë¶„
-â€¢ ê´€ë ¨ ì „ê³µ í•™ì‚¬ ì´ìƒ","** ì•„ëž˜ ì¤‘ í•˜ë‚˜ë¼ë„ í•´ë‹¹ë˜ì‹œë©´ ìš°ëŒ€í•©ë‹ˆë‹¤.
-â€¢ ê´€ë ¨ ê²½ë ¥ 8ë…„ ì´ìƒì´ì‹  ë¶„
-â€¢ Android/iOS ê°œë°œ ëª¨ë‘ ê²½í—˜í•˜ì‹  ë¶„
-â€¢ ê¸°íš ë¬¸ì„œ ê¸°ë°˜ ì„¤ê³„ ë„ì¶œ ê°€ëŠ¥í•˜ì‹  ë¶„
-â€¢ 5ì¸ ì´ìƒ í”„ë¡œì íŠ¸ì—ì„œ ê°œë°œ ë¦¬ë” í˜¹ì€ í”„ë¡œì íŠ¸ PM ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„ 
-â€¢ í•˜ì´ë¸Œë¦¬ë“œ ì•± ê°œë°œ ê²½í—˜ ë° Javascript ëŠ¥ìˆ™í•˜ì‹  ë¶„",
-CTO or ê°œë°œë¦¬ë” (10ë…„ì°¨ ì´ìƒ),ë¬¼ë¥˜ëŒ€ìž¥,"- ê´€ë ¨ ê²½ë ¥ 10ë…„ ì´ìƒ ë˜ëŠ” ê·¸ì— ì¤€í•˜ëŠ” ì—­ëŸ‰ì„ ë³´ìœ í•˜ì‹  ë¶„
-- êµ¬ì„±ì›ì˜ ì‹¬ë¦¬ì  ì•ˆì •ê°ì„ ì¤‘ìš”ì‹œí•˜ë©´ì„œ, ê²°ê³¼ë¬¼ ì¤‘ì‹¬ìœ¼ë¡œ ì¼í•˜ì‹œëŠ” ë¶„
-- ê°œë°œ ì¡°ì§ì„ ë¦¬ë”©í•´ ë³¸ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- í”Œëž«í¼ ì„œë¹„ìŠ¤ ê°œë°œê³¼ ì•„í‚¤í…ì³ ì„¤ê³„ë¥¼ ê²½í—˜í•˜ì‹  ë¶„
-- ë¶„ì‚° ì•„í‚¤í…ì²˜ë¡œì˜ ì „í™˜ê³¼ ìž¥ë‹¨ì ì— ëŒ€í•´ ê¹Šì€ ê¸°ìˆ ì  ì´í•´ê°€ ìžˆëŠ” ë¶„
-- ì½”ë“œë¥¼ ì½ê³  ë¶„ì„í•˜ëŠ” ëŠ¥ë ¥ì´ ë›°ì–´ë‚˜ì‹ ë¶„","- B2B&B2C ì„œë¹„ìŠ¤ ì‚¬ì—…ì— ëŒ€í•œ ì´í•´ë„ê°€ ë†’ìœ¼ì‹  ë¶„
-- ë¬¼ë¥˜ ìŠ¤íƒ€íŠ¸ì—…, ëŒ€ê¸°ì—…ì˜ ì¡°ì§ë¬¸í™” ë˜ëŠ” ê¸°ìˆ  ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- ì• ìžì¼ ì¡°ì§ì„ ë¦¬ë”©í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- ëŒ€ê¸°ì—…ê³¼ ìŠ¤íƒ€íŠ¸ì—…ì„ ëª¨ë‘ ê²½í—˜í•˜ì‹  ë¶„",
-FPGA í•˜ë“œì›¨ì–´ ë‹´ë‹¹ìž(5ë…„ ì´ìƒ),ìœ ë¸Œë¦¿ì§€,â–  ê´€ë ¨ ë¶„ì•¼ ê²½ë ¥ 5ë…„ ì´ìƒ,â–  ì—…ë¬´ ê°œë°œ ê´€ë ¨ êµìœ¡ ì´ìˆ˜ ë° ê²½ë ¥ ì‚¬í•­,
-ë°ì´í„° íŒ¨í‚· ë¶„ì„ ì†”ë£¨ì…˜ ê°œë°œ (3ë…„ ì´ìƒ),ì—”ì—ìŠ¤ì›ì†Œí”„íŠ¸,"â€¢ í•™ë ¥: ì´ˆëŒ€ì¡¸ì´ìƒ
-â€¢ ê²½ë ¥ 3ë…„ ì´ìƒ
+[ÀÔ»ç À¯ÀÇ»çÇ×]
+? ÀÎÅÏÀ» Á¦¿ÜÇÑ ¸ðµç Á÷¹«´Â 3°³¿ù ¼ö½À±â°£ÀÌ ÀÖ½À´Ï´Ù.
+? ¼ö½À±â°£ µ¿¾È ±Þ¿©(100%) ¹× º¹Áö´Â Â÷µî ¾øÀÌ Áö±ÞµË´Ï´Ù.
+? ÀÔ»çÁö¿ø ¼­·ù¿¡¼­ ÇãÀ§±âÀç »ç½ÇÀÌ ¹ß°ßµÉ °æ¿ì, ÀÔ»ç°¡ Ãë¼ÒµÉ ¼ö ÀÖ½À´Ï´Ù.",
+¸ð¹ÙÀÏ(Android) ¾Û °³¹ß,¸ÞµðÇÃ·¯½º¼Ö·ç¼Ç,"[ÇÊ¼ö¿ä°Ç] 
+? ÃÖ¼Ò 5³â ÀÌ»óÀÇ Android ¾Û °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ±âÈ¹/µðÀÚÀÎ/QA µî Å¸ ÆÄÆ®¿ÍÀÇ ¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼ÇÀÌ °¡´ÉÇÏ½Å ºÐ
+? Play Store ¾Û ¹èÆ÷ ¹× ½Ç ¼­ºñ½º ¿î¿µ °æÇèÀÌ ÀÖÀ¸½Å ºÐ 
+? Java, Kotlin ¿¡ ´ëÇÑ ³ôÀº ÀÌÇØ ¹× ´É¼÷ÇÏ½Å ºÐ
+? °´Ã¼ °£ ÀÌº¥Æ® Ã³¸®¿¡ ´ëÇÑ ³ôÀº ÀÌÇØ ¹× ´É¼÷ÇÏ½Å ºÐ
+? °ü·Ã Àü°ø ÇÐ»ç ÀÌ»ó","** ¾Æ·¡ Áß ÇÏ³ª¶óµµ ÇØ´çµÇ½Ã¸é ¿ì´ëÇÕ´Ï´Ù.
+? °ü·Ã °æ·Â 8³â ÀÌ»óÀÌ½Å ºÐ
+? Android/iOS °³¹ß ¸ðµÎ °æÇèÇÏ½Å ºÐ
+? ±âÈ¹ ¹®¼­ ±â¹Ý ¼³°è µµÃâ °¡´ÉÇÏ½Å ºÐ
+? 5ÀÎ ÀÌ»ó ÇÁ·ÎÁ§Æ®¿¡¼­ °³¹ß ¸®´õ È¤Àº ÇÁ·ÎÁ§Æ® PM °æÇèÀÌ ÀÖÀ¸½Å ºÐ 
+? ÇÏÀÌºê¸®µå ¾Û °³¹ß °æÇè ¹× Javascript ´É¼÷ÇÏ½Å ºÐ",
+CTO or °³¹ß¸®´õ (10³âÂ÷ ÀÌ»ó),¹°·ù´ëÀå,"- °ü·Ã °æ·Â 10³â ÀÌ»ó ¶Ç´Â ±×¿¡ ÁØÇÏ´Â ¿ª·®À» º¸À¯ÇÏ½Å ºÐ
+- ±¸¼º¿øÀÇ ½É¸®Àû ¾ÈÁ¤°¨À» Áß¿ä½ÃÇÏ¸é¼­, °á°ú¹° Áß½ÉÀ¸·Î ÀÏÇÏ½Ã´Â ºÐ
+- °³¹ß Á¶Á÷À» ¸®µùÇØ º» °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- ÇÃ·§Æû ¼­ºñ½º °³¹ß°ú ¾ÆÅ°ÅØÃÄ ¼³°è¸¦ °æÇèÇÏ½Å ºÐ
+- ºÐ»ê ¾ÆÅ°ÅØÃ³·ÎÀÇ ÀüÈ¯°ú Àå´ÜÁ¡¿¡ ´ëÇØ ±íÀº ±â¼úÀû ÀÌÇØ°¡ ÀÖ´Â ºÐ
+- ÄÚµå¸¦ ÀÐ°í ºÐ¼®ÇÏ´Â ´É·ÂÀÌ ¶Ù¾î³ª½ÅºÐ","- B2B&B2C ¼­ºñ½º »ç¾÷¿¡ ´ëÇÑ ÀÌÇØµµ°¡ ³ôÀ¸½Å ºÐ
+- ¹°·ù ½ºÅ¸Æ®¾÷, ´ë±â¾÷ÀÇ Á¶Á÷¹®È­ ¶Ç´Â ±â¼ú °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- ¾ÖÀÚÀÏ Á¶Á÷À» ¸®µùÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- ´ë±â¾÷°ú ½ºÅ¸Æ®¾÷À» ¸ðµÎ °æÇèÇÏ½Å ºÐ",
+FPGA ÇÏµå¿þ¾î ´ã´çÀÚ(5³â ÀÌ»ó),À¯ºê¸´Áö,¡á °ü·Ã ºÐ¾ß °æ·Â 5³â ÀÌ»ó,¡á ¾÷¹« °³¹ß °ü·Ã ±³À° ÀÌ¼ö ¹× °æ·Â »çÇ×,
+µ¥ÀÌÅÍ ÆÐÅ¶ ºÐ¼® ¼Ö·ç¼Ç °³¹ß (3³â ÀÌ»ó),¿£¿¡½º¿ø¼ÒÇÁÆ®,"? ÇÐ·Â: ÃÊ´ëÁ¹ÀÌ»ó
+? °æ·Â 3³â ÀÌ»ó
 
 
-[ì „í˜•ì ˆì°¨]
-â€¢ ì„œë¥˜ì „í˜• ï¼ž 1ì°¨ë©´ì ‘ + ìž„ì›ë©´ì ‘ ï¼ž ìµœì¢…í•©ê²©
-â€¢ ë©´ì ‘ì¼ì •ì€ ì¶”í›„ í†µë³´ë©ë‹ˆë‹¤.
-â€¢ ë¶ˆí•©ê²©ìžëŠ” ë³„ë„ í†µë³´í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.",â€¢ ìœ ê´€ì—…ë¬´ ê²½ë ¥ìž (3ë…„),
-ì†”ë£¨ì…˜ ì„œë²„íŒŒíŠ¸ ê°œë°œìž (4ë…„ ì´ìƒ),ì—”ì—ìŠ¤ì›ì†Œí”„íŠ¸,"â€¢ í•™ë ¥: ì´ˆëŒ€ì¡¸ ì´ìƒ
-â€¢ ê²½ë ¥ 4ë…„ ì´ìƒ
+[ÀüÇüÀýÂ÷]
+? ¼­·ùÀüÇü £¾ 1Â÷¸éÁ¢ + ÀÓ¿ø¸éÁ¢ £¾ ÃÖÁ¾ÇÕ°Ý
+? ¸éÁ¢ÀÏÁ¤Àº ÃßÈÄ Åëº¸µË´Ï´Ù.
+? ºÒÇÕ°ÝÀÚ´Â º°µµ Åëº¸ÇÏÁö ¾Ê½À´Ï´Ù.",? À¯°ü¾÷¹« °æ·ÂÀÚ (3³â),
+¼Ö·ç¼Ç ¼­¹öÆÄÆ® °³¹ßÀÚ (4³â ÀÌ»ó),¿£¿¡½º¿ø¼ÒÇÁÆ®,"? ÇÐ·Â: ÃÊ´ëÁ¹ ÀÌ»ó
+? °æ·Â 4³â ÀÌ»ó
 
-[ì „í˜•ì ˆì°¨]
+[ÀüÇüÀýÂ÷]
 
-â€¢ ì„œë¥˜ì „í˜• ï¼ž 1ì°¨ë©´ì ‘ + ìž„ì›ë©´ì ‘ ï¼ž ìµœì¢…í•©ê²©
-â€¢ ë©´ì ‘ì¼ì •ì€ ì¶”í›„ í†µë³´ë©ë‹ˆë‹¤.
-â€¢ ë¶ˆí•©ê²©ìžëŠ” ë³„ë„ í†µë³´í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.","â€¢ ì»´í“¨í„°ê³µí•™ ì „ê³µìž
-â€¢ ì „ë¬¸êµìœ¡ ì´ìˆ˜ìž(6ê°œì›” ì´ìƒ)
-â€¢ ìœ ê´€ì—…ë¬´ ê²½ë ¥ìž(4ë…„ì´ìƒ)
-â€¢ ì¸ê·¼ê±°ì£¼ìž
-â€¢ ì¦‰ì‹œì¶œê·¼ ê°€ëŠ¥ìž
-â€¢ ìž¥ê¸°ê·¼ë¬´ ê°€ëŠ¥ìž",
-PHP ì›¹ê°œë°œìž,ë¦¬ì–¼ë¹„ì¦ˆ,"â€¢ 3ë…„ì´ìƒì˜ ìœ ê´€ ê²½ë ¥
-â€¢ PHP Framework(Codeigniter, Laravel ë“±) ê°œë°œê²½í—˜
-â€¢ RDBMS(Oracle, Mysql, Postgresql ë“±) ê°œë°œê²½í—˜
-â€¢ Javascript(jQuery, Vue), CSSë“± í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œì´ ê°€ëŠ¥í•œ ë¶„
-â€¢ ì„œë¹„ìŠ¤ ê¸°íš ë° ê°œë°œ ê³¼ì •ì— ëŒ€í•œ ì´í•´ë„","â€¢ í”„ë¡œë•íŠ¸ ì„œë¹„ìŠ¤ ì¶œì‹œë¶€í„° ìš´ì˜ê¹Œì§€ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ë…¼ë¦¬ì ì´ê³  ìœ¤ë¦¬ì ì¸ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ê³¼ ì—…ë¬´íƒœë„ë¥¼ ì§€ë‹ˆì‹  ë¶„
-â€¢ ë¹„ê°œë°œë¶€ì„œì™€ ì ê·¹ì ì´ê³  ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ì´ ê°€ëŠ¥í•œ ë¶„",
-ARM ê¸°ë°˜ ì‹œìŠ¤í…œ í•˜ë“œì›¨ì–´ ë‹´ë‹¹ìž(5ë…„ ì´ìƒ),ìœ ë¸Œë¦¿ì§€,â–  ê´€ë ¨ ë¶„ì•¼ ê²½ë ¥ 5ë…„ ì´ìƒ,â–  ì—…ë¬´ ê°œë°œ ê´€ë ¨ êµìœ¡ ì´ìˆ˜ ë° ê²½ë ¥ ì‚¬í•­,
-ê·¸ë¡œìš°ë§µìŠ¤ ì•± ê°œë°œìž,í”„ë¦¬ê·¸ë¡œìš°,"â€¢ ê·¸ë¡œìš°ë§µìŠ¤ì˜ ê¸°ìˆ ì  â€˜ì„±ìž¥â€™ì„ í•¨ê»˜ í•  ë‹¤ìˆ˜ì˜ ê²½ë ¥ì„ ë³´ìœ í•œ ì•± ê°œë°œìžë‹˜
+? ¼­·ùÀüÇü £¾ 1Â÷¸éÁ¢ + ÀÓ¿ø¸éÁ¢ £¾ ÃÖÁ¾ÇÕ°Ý
+? ¸éÁ¢ÀÏÁ¤Àº ÃßÈÄ Åëº¸µË´Ï´Ù.
+? ºÒÇÕ°ÝÀÚ´Â º°µµ Åëº¸ÇÏÁö ¾Ê½À´Ï´Ù.","? ÄÄÇ»ÅÍ°øÇÐ Àü°øÀÚ
+? Àü¹®±³À° ÀÌ¼öÀÚ(6°³¿ù ÀÌ»ó)
+? À¯°ü¾÷¹« °æ·ÂÀÚ(4³âÀÌ»ó)
+? ÀÎ±Ù°ÅÁÖÀÚ
+? Áï½ÃÃâ±Ù °¡´ÉÀÚ
+? Àå±â±Ù¹« °¡´ÉÀÚ",
+PHP À¥°³¹ßÀÚ,¸®¾óºñÁî,"? 3³âÀÌ»óÀÇ À¯°ü °æ·Â
+? PHP Framework(Codeigniter, Laravel µî) °³¹ß°æÇè
+? RDBMS(Oracle, Mysql, Postgresql µî) °³¹ß°æÇè
+? Javascript(jQuery, Vue), CSSµî ÇÁ·ÐÆ®¿£µå °³¹ßÀÌ °¡´ÉÇÑ ºÐ
+? ¼­ºñ½º ±âÈ¹ ¹× °³¹ß °úÁ¤¿¡ ´ëÇÑ ÀÌÇØµµ","? ÇÁ·Î´öÆ® ¼­ºñ½º Ãâ½ÃºÎÅÍ ¿î¿µ±îÁö °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ³í¸®ÀûÀÌ°í À±¸®ÀûÀÎ Ä¿¹Â´ÏÄÉÀÌ¼Ç°ú ¾÷¹«ÅÂµµ¸¦ Áö´Ï½Å ºÐ
+? ºñ°³¹ßºÎ¼­¿Í Àû±ØÀûÀÌ°í ¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼ÇÀÌ °¡´ÉÇÑ ºÐ",
+ARM ±â¹Ý ½Ã½ºÅÛ ÇÏµå¿þ¾î ´ã´çÀÚ(5³â ÀÌ»ó),À¯ºê¸´Áö,¡á °ü·Ã ºÐ¾ß °æ·Â 5³â ÀÌ»ó,¡á ¾÷¹« °³¹ß °ü·Ã ±³À° ÀÌ¼ö ¹× °æ·Â »çÇ×,
+±×·Î¿ì¸Ê½º ¾Û °³¹ßÀÚ,ÇÁ¸®±×·Î¿ì,"? ±×·Î¿ì¸Ê½ºÀÇ ±â¼úÀû ¡®¼ºÀå¡¯À» ÇÔ²² ÇÒ ´Ù¼öÀÇ °æ·ÂÀ» º¸À¯ÇÑ ¾Û °³¹ßÀÚ´Ô
 
-â€¢ Android, iOS, Flutter ë“±ì˜ ì½”ë“œ ê°œì„ ê³¼ ë¦¬ë·°ë¥¼ ë¦¬ë”©(leading)í•  ìˆ˜ ìžˆëŠ” ê°œë°œìžë‹˜
+? Android, iOS, Flutter µîÀÇ ÄÚµå °³¼±°ú ¸®ºä¸¦ ¸®µù(leading)ÇÒ ¼ö ÀÖ´Â °³¹ßÀÚ´Ô
 
-â€¢ Notion ë“± í˜‘ì—…Tool ê¸°ë°˜ìœ¼ë¡œ ë™ë£Œì™€ì˜ ì›í™œí•œ ì˜ì‚¬ì†Œí†µì´ ê°€ëŠ¥í•˜ì‹  ê°œë°œìžë‹˜
+? Notion µî Çù¾÷Tool ±â¹ÝÀ¸·Î µ¿·á¿ÍÀÇ ¿øÈ°ÇÑ ÀÇ»ç¼ÒÅëÀÌ °¡´ÉÇÏ½Å °³¹ßÀÚ´Ô
 
-â€¢ í”„ë¦¬ê·¸ë¡œìš°ëŠ” â€˜ì„±ìž¥â€™ì— ì§‘ì¤‘í•©ë‹ˆë‹¤. í”„ë¦¬ê·¸ë¡œìš°ì˜ â€˜ì„±ìž¥â€™ ë¬¸í™”ì— ë™ê°í•˜ì‹œëŠ” ê°œë°œìžë‹˜","â€¢ ì‹¤ë‚´ ìœ„ì¹˜ ì¸¡ìœ„ ì„œë¹„ìŠ¤ì— ëŒ€í•œ ê´€ì‹¬ê³¼ ì´í•´ê°€ ìžˆìœ¼ì‹  ê°œë°œìžë‹˜
+? ÇÁ¸®±×·Î¿ì´Â ¡®¼ºÀå¡¯¿¡ ÁýÁßÇÕ´Ï´Ù. ÇÁ¸®±×·Î¿ìÀÇ ¡®¼ºÀå¡¯ ¹®È­¿¡ µ¿°¨ÇÏ½Ã´Â °³¹ßÀÚ´Ô","? ½Ç³» À§Ä¡ ÃøÀ§ ¼­ºñ½º¿¡ ´ëÇÑ °ü½É°ú ÀÌÇØ°¡ ÀÖÀ¸½Å °³¹ßÀÚ´Ô
 
-â€¢ ì„¼ì„œ ë°ì´í„° ê¸°ë°˜ ìœ„ì¹˜ ì¸¡ìœ„ ì•Œê³ ë¦¬ì¦˜ì„ ì„¤ê³„í•´ë³´ì‹  ê°œë°œìžë‹˜
+? ¼¾¼­ µ¥ÀÌÅÍ ±â¹Ý À§Ä¡ ÃøÀ§ ¾Ë°í¸®ÁòÀ» ¼³°èÇØº¸½Å °³¹ßÀÚ´Ô
 
-â€¢ CrossPlatformì¸ Flutterë¥¼ ì‚¬ìš©í•´ë³´ì‹  ê°œë°œìžë‹˜
+? CrossPlatformÀÎ Flutter¸¦ »ç¿ëÇØº¸½Å °³¹ßÀÚ´Ô
 
-â€¢ ë‹¤ë¥¸ ê°œë°œìžì™€ì˜ í˜‘ì—… ë° ì½”ë“œ ë¦¬ë·° ê²½í—˜ì´ ìžˆìœ¼ì‹  ê°œë°œìžë‹˜
+? ´Ù¸¥ °³¹ßÀÚ¿ÍÀÇ Çù¾÷ ¹× ÄÚµå ¸®ºä °æÇèÀÌ ÀÖÀ¸½Å °³¹ßÀÚ´Ô
 
-â€¢ ë¹ ë¥´ê²Œ â€˜ì„±ìž¥â€™í•˜ê³  ë³€í™”í•˜ëŠ” í™˜ê²½ì—ì„œ â€˜íš¨ìœ¨â€™ì ìœ¼ë¡œ ì—…ë¬´ ìˆ˜í–‰ì´ ê°€ëŠ¥í•˜ì‹  ê°œë°œìžë‹˜",
-ë¸”ë¡ì²´ì¸ Back-end ê°œë°œìž,ë¼ë””ìš°ìŠ¤ëž©ìŠ¤,"â€¢ RESTful API ì„¤ê³„ ë° ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ í…ŒìŠ¤íŠ¸ ì½”ë“œë¥¼ ì ê·¹ì ìœ¼ë¡œ ìž‘ì„±í•˜ì‹œëŠ” ë¶„
-â€¢ Git flow í˜•ìƒê´€ë¦¬ì— ìµìˆ™í•˜ì‹  ë¶„
-â€¢ ë¦¬ëˆ…ìŠ¤ í™˜ê²½ì— ìµìˆ™í•˜ì‹  ë¶„
-â€¢ ë¹„ëŒ€ì¹­í‚¤, Hash ë“± ê¸°ì´ˆì ì¸ ì•”í˜¸í•™ì— ëŒ€í•œ ì´í•´ê°€ ìžˆìœ¼ì‹ ë¶„
+? ºü¸£°Ô ¡®¼ºÀå¡¯ÇÏ°í º¯È­ÇÏ´Â È¯°æ¿¡¼­ ¡®È¿À²¡¯ÀûÀ¸·Î ¾÷¹« ¼öÇàÀÌ °¡´ÉÇÏ½Å °³¹ßÀÚ´Ô",
+ºí·ÏÃ¼ÀÎ Back-end °³¹ßÀÚ,¶óµð¿ì½º·¦½º,"? RESTful API ¼³°è ¹× °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? Å×½ºÆ® ÄÚµå¸¦ Àû±ØÀûÀ¸·Î ÀÛ¼ºÇÏ½Ã´Â ºÐ
+? Git flow Çü»ó°ü¸®¿¡ ÀÍ¼÷ÇÏ½Å ºÐ
+? ¸®´ª½º È¯°æ¿¡ ÀÍ¼÷ÇÏ½Å ºÐ
+? ºñ´ëÄªÅ°, Hash µî ±âÃÊÀûÀÎ ¾ÏÈ£ÇÐ¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖÀ¸½ÅºÐ
 
-â€¢ íš¨ê³¼ì ì¸ ì˜ì‚¬ì „ë‹¬ ë° í˜‘ì—… ëŠ¥ë ¥ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ìƒˆë¡œìš´ ë°°ì›€ì„ í†µí•´ ëŠìž„ì—†ì´ ì„±ìž¥í•˜ëŠ” ê²ƒì„ ì¦ê¸°ëŠ” ë¶„
-â€¢ ë…¼ë¦¬ì ì´ê³  ì²´ê³„ì ì¸ ë¬¸ì œí•´ê²° ëŠ¥ë ¥ì´ ìžˆìœ¼ì‹  ë¶„
+? È¿°úÀûÀÎ ÀÇ»çÀü´Þ ¹× Çù¾÷ ´É·ÂÀÌ ÀÖÀ¸½Å ºÐ
+? »õ·Î¿î ¹è¿òÀ» ÅëÇØ ²÷ÀÓ¾øÀÌ ¼ºÀåÇÏ´Â °ÍÀ» Áñ±â´Â ºÐ
+? ³í¸®ÀûÀÌ°í Ã¼°èÀûÀÎ ¹®Á¦ÇØ°á ´É·ÂÀÌ ÀÖÀ¸½Å ºÐ
 
-â€¢ ê¸°ìˆ  ìŠ¤íƒ
-â€¢ ZK-Rollupì— í•„ìš”í•œ ê¸°ëŠ¥ì„ ê°œë°œ: Rust
-â€¢ DB: Neo4j, PostgresSQL
-â€¢ ê¸°ë°˜ ê¸°ìˆ : Git, AWS, Docker, Linux","â€¢ í™•ìž¥ ê°€ëŠ¥í•œ ì›¹ ì„œë¹„ìŠ¤ë¥¼ ìœ„í•œ ë°±ì—”ë“œ ë””ìžì¸ ë° ê°œë°œì„ í•  ìˆ˜ ìžˆìœ¼ì‹  ë¶„
-â€¢ ë¸”ë¡ì²´ì¸ì„ í™œìš©í•œ ì„œë¹„ìŠ¤ ê°œë°œì— ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ìŠ¤íƒ€í¬ì›¨ì–´ ë„¤íŠ¸ì›Œí¬ì— ëŒ€í•œ ê´€ì‹¬ê³¼ ì´í•´ë¥¼ ê°€ì§€ì‹  ë¶„
-â€¢ ì•”í˜¸í•™ ê´€ë ¨ ê°œë°œì— ì´í•´ë„ê°€ ìžˆìœ¼ì‹  ë¶„
-â€¢ ë³´ì•ˆ ë° ë„¤íŠ¸ì›Œí¬ì— ëŒ€í•œ ì´í•´ë¥¼ ê°€ì§€ì‹  ë¶„
-â€¢ ì˜¤í”ˆì†ŒìŠ¤ contribution ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„",
-ìœ ë‹ˆí‹° (Unity) ê°œë°œìž (ì‹ ìž…/ì£¼ë‹ˆì–´),ë¨¸í”Œ,"â€¢ í•˜ë‚˜ ì´ìƒì˜ í”„ë¡œê·¸ëž˜ë° ì–¸ì–´ì— ëŠ¥ìˆ™(C# - 1ìˆœìœ„, Java, Python, C++ ë“±)
-â€¢ 1ê°œ ì´ìƒì˜ ìœ ë‹ˆí‹° í”„ë¡œì íŠ¸ í¬íŠ¸í´ë¦¬ì˜¤
-â€¢ ëª…í™•í•œ ì˜ì‚¬ì†Œí†µ ëŠ¥ë ¥ ë° ì˜¤í”ˆ ë§ˆì¸ë“œ
-â€¢ ì‹ ìž… í˜¹ì€ ê²½ë ¥ ëª¨ë‘ ì§€ì› ê°€ëŠ¥","â€¢ (ê²½ë ¥ìž í•´ë‹¹ì‹œ) ìœ ë‹ˆí‹° ì—”ì§€ë‹ˆì–´ ì—…ë¬´ ê²½ë ¥
-â€¢ SW ê°œë°œ í˜‘ì—… ê²½í—˜(ì˜ˆ: Github, Gitlab)
-â€¢ ê²Œìž„ ê°œë°œ ê²½í—˜ (ìœ ë‹ˆí‹°ê°€ ì•„ë‹ˆì–´ë„ ì¢‹ìœ¼ë©°, ê°œë°œ ê·œëª¨ë¥¼ ë”°ì§€ì§€ ì•ŠìŒ)
-â€¢ ê²Œìž„ ì‚°ì—…ì— ëŒ€í•œ ê´€ì‹¬ë„ ìžˆìœ¼ì‹  ë¶„: ê²Œìž„ì— ëŒ€í•œ ë°°ê²½ ì§€ì‹ ë° ê²Œìž„ í”Œë ˆì´ ê²½í—˜",
-AppSuit Web ë³´ì•ˆ ì†”ë£¨ì…˜ì•± (ì•±ìˆ˜íŠ¸íŒ€),ìŠ¤í‹¸ë¦¬ì–¸,"ã†Web ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„  (ê²½ë ¥ìž ìš°ëŒ€)
-ã†ë‚œë…í™”, ë¬´ê²°ì„± ê²€ì¦ì— ëŒ€í•œ ì´í•´ë„ê°€ ìžˆìœ¼ì‹  ë¶„
-ã†javascript êµ¬ì¡°ì— ëŒ€í•œ ì´í•´ë„ê°€ ë†’ìœ¼ì‹  ë¶„
-ã†í•´ì™¸ ì—¬í–‰ ê²°ê²© ì‚¬ìœ ê°€ ì—†ìœ¼ì‹  ë¶„","ã†javascript Obfucation, Uglfy ë“± ë‚œë…í™” ì†”ë£¨ì…˜ ì‚¬ìš© ë° ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-ã†ì•± ë³´ì•ˆì— ëŒ€í•œ ì´í•´ë„ê°€ ìžˆìœ¼ì‹  ë¶„
-ã†ë³‘ì—­íŠ¹ë¡€ ì „ë¬¸ì—°êµ¬ìš”ì›ì˜ ê²½ìš°, ì‹ ìž…ë„ ì§€ì› ê°€ëŠ¥",
-ë°±ì—”ë“œê°œë°œ(ë¹„ë”),í¼í¬ë¨¼ìŠ¤ë°”ì´í‹°ë¹„ë”ë¸”ìœ ì—ì´(PTBWA),"- êµ­ë‚´ì™¸ 4ë…„ì œ í•™ì‚¬ ì´ìƒ í˜¹ì€ ì¡¸ì—…ì˜ˆì •ìž
-- C# ë˜ëŠ” Java ê°œë°œ 7ë…„ ì´ìƒ ê²½ë ¥ìž
-- AWS Cloud Infra ì— ëŒ€í•œ ì´í•´ê°€ ìžˆëŠ”ìž
-- í¬íŠ¸í´ë¦¬ì˜¤ ì œì¶œ í•„ìˆ˜(Github ëŒ€ì²´ ê°€ëŠ¥)","- ì»´í“¨í„° ê´€ë ¨í•™ê³¼ ìˆ˜ë£Œìž
-- ê´‘ê³ ê´€ë ¨ ì†¡ì¶œ, ì—°ë™, íŠ¸ëž˜í‚¹ ì‹œìŠ¤í…œ êµ¬ì¶• ê²½í—˜ìž
-- Java ë˜ëŠ” Python í™œìš© ê°€ëŠ¥ìž",
-Windows TCP Server ê°œë°œìž(C# or C+),ìŠ¤íŒŒì´ë”í¬ëž˜í”„íŠ¸,"- Windows í˜¹ì€ Linux TCP/IP Socket ì„œë²„ ê°œë°œ í˜¹ì€ ê´€ë¦¬ ê²½í—˜ì´ ìžˆìœ¼ì‹ ë¶„ 
-- IOCP ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- í´ë¼ìš°ë“œ ì„œë²„ê´€ë¦¬ ë° ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹ ë¶„
-- ì„œë²„ ìš´ì˜ ë° ì„œë²„ í”„ë¡œê·¸ëž¨ ê°œë°œì— ê´€ì‹¬ ìžˆìœ¼ì‹  ë¶„","- ê¸°ì¡´ ì½”ë“œì— ëŒ€í•œ ì´í•´ê°€ ë¹ ë¥´ê³ , ë¬¸ì œ í•´ê²° ëŠ¥ë ¥ê³¼ ë‹¤ë¥¸ íŒŒíŠ¸ì™€ì˜ ì›í™œí•œ í˜‘ì—…ì´ ê°€ëŠ¥í•˜ì‹  ë¶„",
-Windows Client ê°œë°œìž,ìŠ¤íŒŒì´ë”í¬ëž˜í”„íŠ¸,"- Winform í˜¹ì€ WPF ê°œë°œ ê²½í—˜ìž
-- C# UI Library ì´ìš©í•œ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- USB, Serial í†µì‹  ëŒ€í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„","- ê¸°ì¡´ ì½”ë“œì— ëŒ€í•œ ì´í•´ê°€ ë¹ ë¥´ê³ , ë¬¸ì œ í•´ê²° ëŠ¥ë ¥ê³¼ ë‹¤ë¥¸ íŒŒíŠ¸ì™€ì˜ ì›í™œí•œ í˜‘ì—…ì´ ê°€ëŠ¥í•˜ì‹  ë¶„",
-ë°±ì—”ë“œ ì—”ì§€ë‹ˆì–´,ë¦¬ë“œë„˜ë²„,"â€¢ ë°±ì—”ë“œ ê°œë°œ ê¸°ìˆ ì— ëŒ€í•´ì„œ ìµìˆ™í•˜ê²Œ ì‚¬ìš© ê°€ëŠ¥í•˜ì‹  ë¶„
-â€¢ í´ë¼ìš°ë“œ í™˜ê²½ì—ì„œ ì œí’ˆ ë˜ëŠ” ì„œë¹„ìŠ¤ë¥¼ ê°œë°œí•˜ê³  ë°°í¬í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ì£¼ì–´ì§„ ë¹„ì¦ˆë‹ˆìŠ¤ì— ëŒ€í•œ ì´í•´ê°€ ë¹ ë¥´ê³ , ì´ì— í•„ìš”í•œ ì‹œìŠ¤í…œì˜ ì„¤ê³„ê°€ ê°€ëŠ¥í•˜ì‹  ë¶„
-â€¢ í˜‘ì—…ì„ í†µí•´ ì œí’ˆ ë˜ëŠ” ì„œë¹„ìŠ¤ê°€ ë§Œë“¤ì–´ì§€ëŠ” ê³¼ì •ì„ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ë™ë£Œì—ê²Œ í•„ìš”í•œ ì§€ì‹ì„ ì „íŒŒí•˜ê³  í˜‘ì—…ì„ ì¦ê¸°ëŠ” ë¶„","â€¢ Kotlin/Spring/JPA ì— ëŒ€í•œ ì´í•´ê°€ ê¹Šìœ¼ì‹ ë¶„
-â€¢ ë°±ì—”ë“œ ì—”ì§€ë‹ˆì–´ë§ ì—­ëŸ‰(OOP/TDD/Refactoring/Pair Programming)ì„ ë³´ìœ í•˜ì‹  ë¶„
-â€¢ Redisì™€ Kafkaë¥¼ ì‚¬ìš©í•œ ê²½í—˜ì„ ë³´ìœ í•˜ì‹  ë¶„
-â€¢ AWS, GCPë¥¼ í†µí•œ ì„œë¹„ìŠ¤ ë°°í¬ ë° ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ Infrastructure as Code(Kubernetes, Terraform, etcâ€¦)ë¥¼ ëŠ¥ìˆ™í•˜ê²Œ ì‚¬ìš©í•˜ì‹œëŠ” ë¶„
-â€¢ ëŒ€ìš©ëŸ‰ ì‹œìŠ¤í…œì„ ê°œë°œí•˜ê³  ìš´ì˜í•´ë³¸ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ ë³€í™”ë¥¼ ë‘ë ¤ì›Œí•˜ì§€ ì•Šê³  ìƒˆë¡œìš´ ê¸°ìˆ ì„ í•™ìŠµí•˜ë©° ê¾¸ì¤€ížˆ ì„±ìž¥í•  ìˆ˜ ìžˆëŠ” ë¶„",
-Senior Software Engineer (Media C/C++),ëŸ­ìŠ¤ì†Œí”„íŠ¸ì½”ë¦¬ì•„,"â€¢ Extensive experience in GStreamer at an expert level
-â€¢ C/C++
-â€¢ Yocto experience
-â€¢ Deep understanding of audio/video architecture based on Linux
-â€¢ Media framework/application development
-â€¢ Experience with audio/video encoder, decoder, demuxer, color format, and media container","â€¢ Debugging skills (Strace, GDB, Valgrind, Heaptrack, ...)
-â€¢ Experience in architecture design
-â€¢ Experience and knowledge of media containers(MP4, AVI, MKV, ...) and media codecs(H.264, AAC, MP3, ...)
-â€¢ Understanding multi-thread and event loop software architecture
-â€¢ Experience multimedia frameworks(GStreamer, FFmpeg) and multimedia framework pipeline",
-JAVA ê°œë°œìž,ë¯¸ë¥´ì´ì¦ˆ,"â€¢ í•™ë ¥ : ëŒ€ì¡¸(2~3ë…„)ì´ìƒ
-â€¢ ê²½ë ¥ : 6ë…„ ì´ìƒ (ëŒ€ë¦¬ ì´ìƒ )ë¶€í„°, ì¤‘ê¸‰ì´ìƒ
-â€¢ ê¸°ìˆ ì •ë„
+? ±â¼ú ½ºÅÃ
+? ZK-Rollup¿¡ ÇÊ¿äÇÑ ±â´ÉÀ» °³¹ß: Rust
+? DB: Neo4j, PostgresSQL
+? ±â¹Ý ±â¼ú: Git, AWS, Docker, Linux","? È®Àå °¡´ÉÇÑ À¥ ¼­ºñ½º¸¦ À§ÇÑ ¹é¿£µå µðÀÚÀÎ ¹× °³¹ßÀ» ÇÒ ¼ö ÀÖÀ¸½Å ºÐ
+? ºí·ÏÃ¼ÀÎÀ» È°¿ëÇÑ ¼­ºñ½º °³¹ß¿¡ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ½ºÅ¸Å©¿þ¾î ³×Æ®¿öÅ©¿¡ ´ëÇÑ °ü½É°ú ÀÌÇØ¸¦ °¡Áö½Å ºÐ
+? ¾ÏÈ£ÇÐ °ü·Ã °³¹ß¿¡ ÀÌÇØµµ°¡ ÀÖÀ¸½Å ºÐ
+? º¸¾È ¹× ³×Æ®¿öÅ©¿¡ ´ëÇÑ ÀÌÇØ¸¦ °¡Áö½Å ºÐ
+? ¿ÀÇÂ¼Ò½º contribution °æÇèÀÌ ÀÖÀ¸½Å ºÐ",
+À¯´ÏÆ¼ (Unity) °³¹ßÀÚ (½ÅÀÔ/ÁÖ´Ï¾î),¸ÓÇÃ,"? ÇÏ³ª ÀÌ»óÀÇ ÇÁ·Î±×·¡¹Ö ¾ð¾î¿¡ ´É¼÷(C# - 1¼øÀ§, Java, Python, C++ µî)
+? 1°³ ÀÌ»óÀÇ À¯´ÏÆ¼ ÇÁ·ÎÁ§Æ® Æ÷Æ®Æú¸®¿À
+? ¸íÈ®ÇÑ ÀÇ»ç¼ÒÅë ´É·Â ¹× ¿ÀÇÂ ¸¶ÀÎµå
+? ½ÅÀÔ È¤Àº °æ·Â ¸ðµÎ Áö¿ø °¡´É","? (°æ·ÂÀÚ ÇØ´ç½Ã) À¯´ÏÆ¼ ¿£Áö´Ï¾î ¾÷¹« °æ·Â
+? SW °³¹ß Çù¾÷ °æÇè(¿¹: Github, Gitlab)
+? °ÔÀÓ °³¹ß °æÇè (À¯´ÏÆ¼°¡ ¾Æ´Ï¾îµµ ÁÁÀ¸¸ç, °³¹ß ±Ô¸ð¸¦ µûÁöÁö ¾ÊÀ½)
+? °ÔÀÓ »ê¾÷¿¡ ´ëÇÑ °ü½Éµµ ÀÖÀ¸½Å ºÐ: °ÔÀÓ¿¡ ´ëÇÑ ¹è°æ Áö½Ä ¹× °ÔÀÓ ÇÃ·¹ÀÌ °æÇè",
+AppSuit Web º¸¾È ¼Ö·ç¼Ç¾Û (¾Û¼öÆ®ÆÀ),½ºÆ¿¸®¾ð,"¤ýWeb °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ  (°æ·ÂÀÚ ¿ì´ë)
+¤ý³­µ¶È­, ¹«°á¼º °ËÁõ¿¡ ´ëÇÑ ÀÌÇØµµ°¡ ÀÖÀ¸½Å ºÐ
+¤ýjavascript ±¸Á¶¿¡ ´ëÇÑ ÀÌÇØµµ°¡ ³ôÀ¸½Å ºÐ
+¤ýÇØ¿Ü ¿©Çà °á°Ý »çÀ¯°¡ ¾øÀ¸½Å ºÐ","¤ýjavascript Obfucation, Uglfy µî ³­µ¶È­ ¼Ö·ç¼Ç »ç¿ë ¹× °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+¤ý¾Û º¸¾È¿¡ ´ëÇÑ ÀÌÇØµµ°¡ ÀÖÀ¸½Å ºÐ
+¤ýº´¿ªÆ¯·Ê Àü¹®¿¬±¸¿ä¿øÀÇ °æ¿ì, ½ÅÀÔµµ Áö¿ø °¡´É",
+¹é¿£µå°³¹ß(ºñ´õ),ÆÛÆ÷¸Õ½º¹ÙÀÌÆ¼ºñ´õºíÀ¯¿¡ÀÌ(PTBWA),"- ±¹³»¿Ü 4³âÁ¦ ÇÐ»ç ÀÌ»ó È¤Àº Á¹¾÷¿¹Á¤ÀÚ
+- C# ¶Ç´Â Java °³¹ß 7³â ÀÌ»ó °æ·ÂÀÚ
+- AWS Cloud Infra ¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖ´ÂÀÚ
+- Æ÷Æ®Æú¸®¿À Á¦Ãâ ÇÊ¼ö(Github ´ëÃ¼ °¡´É)","- ÄÄÇ»ÅÍ °ü·ÃÇÐ°ú ¼ö·áÀÚ
+- ±¤°í°ü·Ã ¼ÛÃâ, ¿¬µ¿, Æ®·¡Å· ½Ã½ºÅÛ ±¸Ãà °æÇèÀÚ
+- Java ¶Ç´Â Python È°¿ë °¡´ÉÀÚ",
+Windows TCP Server °³¹ßÀÚ(C# or C+),½ºÆÄÀÌ´õÅ©·¡ÇÁÆ®,"- Windows È¤Àº Linux TCP/IP Socket ¼­¹ö °³¹ß È¤Àº °ü¸® °æÇèÀÌ ÀÖÀ¸½ÅºÐ 
+- IOCP °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- Å¬¶ó¿ìµå ¼­¹ö°ü¸® ¹× ¿î¿µ °æÇèÀÌ ÀÖÀ¸½ÅºÐ
+- ¼­¹ö ¿î¿µ ¹× ¼­¹ö ÇÁ·Î±×·¥ °³¹ß¿¡ °ü½É ÀÖÀ¸½Å ºÐ","- ±âÁ¸ ÄÚµå¿¡ ´ëÇÑ ÀÌÇØ°¡ ºü¸£°í, ¹®Á¦ ÇØ°á ´É·Â°ú ´Ù¸¥ ÆÄÆ®¿ÍÀÇ ¿øÈ°ÇÑ Çù¾÷ÀÌ °¡´ÉÇÏ½Å ºÐ",
+Windows Client °³¹ßÀÚ,½ºÆÄÀÌ´õÅ©·¡ÇÁÆ®,"- Winform È¤Àº WPF °³¹ß °æÇèÀÚ
+- C# UI Library ÀÌ¿ëÇÑ °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- USB, Serial Åë½Å ´ëÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ","- ±âÁ¸ ÄÚµå¿¡ ´ëÇÑ ÀÌÇØ°¡ ºü¸£°í, ¹®Á¦ ÇØ°á ´É·Â°ú ´Ù¸¥ ÆÄÆ®¿ÍÀÇ ¿øÈ°ÇÑ Çù¾÷ÀÌ °¡´ÉÇÏ½Å ºÐ",
+¹é¿£µå ¿£Áö´Ï¾î,¸®µå³Ñ¹ö,"? ¹é¿£µå °³¹ß ±â¼ú¿¡ ´ëÇØ¼­ ÀÍ¼÷ÇÏ°Ô »ç¿ë °¡´ÉÇÏ½Å ºÐ
+? Å¬¶ó¿ìµå È¯°æ¿¡¼­ Á¦Ç° ¶Ç´Â ¼­ºñ½º¸¦ °³¹ßÇÏ°í ¹èÆ÷ÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ÁÖ¾îÁø ºñÁî´Ï½º¿¡ ´ëÇÑ ÀÌÇØ°¡ ºü¸£°í, ÀÌ¿¡ ÇÊ¿äÇÑ ½Ã½ºÅÛÀÇ ¼³°è°¡ °¡´ÉÇÏ½Å ºÐ
+? Çù¾÷À» ÅëÇØ Á¦Ç° ¶Ç´Â ¼­ºñ½º°¡ ¸¸µé¾îÁö´Â °úÁ¤À» °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? µ¿·á¿¡°Ô ÇÊ¿äÇÑ Áö½ÄÀ» ÀüÆÄÇÏ°í Çù¾÷À» Áñ±â´Â ºÐ","? Kotlin/Spring/JPA ¿¡ ´ëÇÑ ÀÌÇØ°¡ ±íÀ¸½ÅºÐ
+? ¹é¿£µå ¿£Áö´Ï¾î¸µ ¿ª·®(OOP/TDD/Refactoring/Pair Programming)À» º¸À¯ÇÏ½Å ºÐ
+? Redis¿Í Kafka¸¦ »ç¿ëÇÑ °æÇèÀ» º¸À¯ÇÏ½Å ºÐ
+? AWS, GCP¸¦ ÅëÇÑ ¼­ºñ½º ¹èÆ÷ ¹× ¿î¿µ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? Infrastructure as Code(Kubernetes, Terraform, etc¡¦)¸¦ ´É¼÷ÇÏ°Ô »ç¿ëÇÏ½Ã´Â ºÐ
+? ´ë¿ë·® ½Ã½ºÅÛÀ» °³¹ßÇÏ°í ¿î¿µÇØº» °æÇèÀÌ ÀÖ´Â ºÐ
+? º¯È­¸¦ µÎ·Á¿öÇÏÁö ¾Ê°í »õ·Î¿î ±â¼úÀ» ÇÐ½ÀÇÏ¸ç ²ÙÁØÈ÷ ¼ºÀåÇÒ ¼ö ÀÖ´Â ºÐ",
+Senior Software Engineer (Media C/C++),·°½º¼ÒÇÁÆ®ÄÚ¸®¾Æ,"? Extensive experience in GStreamer at an expert level
+? C/C++
+? Yocto experience
+? Deep understanding of audio/video architecture based on Linux
+? Media framework/application development
+? Experience with audio/video encoder, decoder, demuxer, color format, and media container","? Debugging skills (Strace, GDB, Valgrind, Heaptrack, ...)
+? Experience in architecture design
+? Experience and knowledge of media containers(MP4, AVI, MKV, ...) and media codecs(H.264, AAC, MP3, ...)
+? Understanding multi-thread and event loop software architecture
+? Experience multimedia frameworks(GStreamer, FFmpeg) and multimedia framework pipeline",
+JAVA °³¹ßÀÚ,¹Ì¸£ÀÌÁî,"? ÇÐ·Â : ´ëÁ¹(2~3³â)ÀÌ»ó
+? °æ·Â : 6³â ÀÌ»ó (´ë¸® ÀÌ»ó )ºÎÅÍ, Áß±ÞÀÌ»ó
+? ±â¼úÁ¤µµ
   - Java, JavaScrip, JSP
   - Oracle
-  - Framework","â€¢ Proworks / WebSquare ê²½í—˜ìž
-â€¢ ê³ ê¸‰/íŠ¹ê¸‰ - PM, PL ìœ ê²½í—˜ìž",
-ì„œë¹„ìŠ¤ í”Œëž«í¼ ê°œë°œìž (3~5ë…„),ì—í”¼ì¹´,"â€¢ ì›¹ ì„œë¹„ìŠ¤ ê°œë°œ ê´€ë ¨ ê²½ë ¥ ***3ë…„ ì´ìƒ 5ë…„ ì´í•˜***
-â€¢ í”„ë¡ íŠ¸ ì—”ì§€ë‹ˆì–´ë§ì„ ìœ„í•œ Vue, React ë“±ì˜ í…Œí¬ìŠ¤íƒì„ ë³´ìœ í•˜ì‹  ë¶„
-â€¢ ë°±ì—”ë“œ ì—”ì§€ë‹ˆì–´ë§ì„ ìœ„í•œ Java (Spring Boot), Node.js ë“±ì˜ ê¸°ìˆ ìŠ¤íƒì„ ë³´ìœ í•˜ì‹  ë¶„
-â€¢ ì ê·¹ì ì´ê³  ì£¼ë„ì ìœ¼ë¡œ ë¬¸ì œ í•´ê²°ì„ í•´ë³´ì‹  ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ ìƒˆë¡œìš´ ê¸°ìˆ ì— ëŒ€í•œ ì ê·¹ì ì¸ í•™ìŠµ íƒœë„","â€¢ Spring Boot ê¸°ë°˜ MSA ë° ìœ ì‚¬ ê¸°ìˆ ìŠ¤íƒ ê¸°ë°˜ì˜ ì„¤ê³„/êµ¬ì¶• ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ NoSQL-MongoDB Atlas ì‚¬ìš© ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ Product Manager/Owner ìˆ˜í–‰ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ Mobile (iOS, Android) Navtive App ê°œë°œ ê²½ë ¥ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ AWS, Azure ë˜ëŠ” ìœ ì‚¬í•œ ìµœì‹  í´ë¼ìš°ë“œ ì»´í“¨íŒ… í™œìš© ì—­ëŸ‰ì„ ë³´ìœ í•˜ì‹  ë¶„
-â€¢ ì• ìžì¼ í™˜ê²½ì—ì„œ ëŒ€ê·œëª¨ë¡œ ìž‘ì—…í•  ìˆ˜ ìžˆëŠ” ì—­ëŸ‰ì„ ë³´ìœ í•˜ì‹  ë¶„
-â€¢ ìŠ¤íƒ€íŠ¸ì—… ê²½í—˜ ë˜ëŠ” ì—­ëŸ‰ì„ ë³´ìœ í•˜ì‹  ë¶„",
-Java ê°œë°œìž(3ë…„ ì´ìƒ),í•œêµ­í•´ì–‘ê¸°ìƒê¸°ìˆ ,"â€¢ Java, Spring framework(Boot) ê¸°ë°˜ì˜ ì›¹ í”„ë¡œì íŠ¸ ê°œë°œ ê²½ë ¥
-â€¢ Oracle, Postgresql, Mysql, Mariadb ë“± DBMS ì§€ì‹ì„ ë³´ìœ  í•˜ì‹  ë¶„
-â€¢ í•˜ë‚˜ ì´ìƒì˜ ì›¹ í”„ë¡œì íŠ¸ë¥¼ ìˆ˜í–‰í•´ ë³´ì‹  ë¶„","â€¢ 2D/3D ê³µê°„ ì •ë³´ì— ëŒ€í•œ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„
-â€¢ Geoserver, QGIS, Openlayers, Cesium, GDAL ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ DDD, Agile, JPA, React, Docker, MSA, Kafka, Elastic Search ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„ 
-â€¢ í´ë¼ìš°ë“œ ê¸°ë°˜ ì„œë¹„ìŠ¤(AWS, Azure, â€¦) ì„œë¹„ìŠ¤ í™˜ê²½ì—ì„œì˜ ê°œë°œ ê²½í—˜",
-Cloud Native ì—”ì§€ë‹ˆì–´,ì•„ì½˜ì†Œí”„íŠ¸,"- ìžê²©ìš”ê±´
+  - Framework","? Proworks / WebSquare °æÇèÀÚ
+? °í±Þ/Æ¯±Þ - PM, PL À¯°æÇèÀÚ",
+¼­ºñ½º ÇÃ·§Æû °³¹ßÀÚ (3~5³â),¿¡ÇÇÄ«,"? À¥ ¼­ºñ½º °³¹ß °ü·Ã °æ·Â ***3³â ÀÌ»ó 5³â ÀÌÇÏ***
+? ÇÁ·ÐÆ® ¿£Áö´Ï¾î¸µÀ» À§ÇÑ Vue, React µîÀÇ Å×Å©½ºÅÃÀ» º¸À¯ÇÏ½Å ºÐ
+? ¹é¿£µå ¿£Áö´Ï¾î¸µÀ» À§ÇÑ Java (Spring Boot), Node.js µîÀÇ ±â¼ú½ºÅÃÀ» º¸À¯ÇÏ½Å ºÐ
+? Àû±ØÀûÀÌ°í ÁÖµµÀûÀ¸·Î ¹®Á¦ ÇØ°áÀ» ÇØº¸½Å °æÇèÀÌ ÀÖ´Â ºÐ
+? »õ·Î¿î ±â¼ú¿¡ ´ëÇÑ Àû±ØÀûÀÎ ÇÐ½À ÅÂµµ","? Spring Boot ±â¹Ý MSA ¹× À¯»ç ±â¼ú½ºÅÃ ±â¹ÝÀÇ ¼³°è/±¸Ãà °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? NoSQL-MongoDB Atlas »ç¿ë °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? Product Manager/Owner ¼öÇà °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? Mobile (iOS, Android) Navtive App °³¹ß °æ·ÂÀÌ ÀÖÀ¸½Å ºÐ
+? AWS, Azure ¶Ç´Â À¯»çÇÑ ÃÖ½Å Å¬¶ó¿ìµå ÄÄÇ»ÆÃ È°¿ë ¿ª·®À» º¸À¯ÇÏ½Å ºÐ
+? ¾ÖÀÚÀÏ È¯°æ¿¡¼­ ´ë±Ô¸ð·Î ÀÛ¾÷ÇÒ ¼ö ÀÖ´Â ¿ª·®À» º¸À¯ÇÏ½Å ºÐ
+? ½ºÅ¸Æ®¾÷ °æÇè ¶Ç´Â ¿ª·®À» º¸À¯ÇÏ½Å ºÐ",
+Java °³¹ßÀÚ(3³â ÀÌ»ó),ÇÑ±¹ÇØ¾ç±â»ó±â¼ú,"? Java, Spring framework(Boot) ±â¹ÝÀÇ À¥ ÇÁ·ÎÁ§Æ® °³¹ß °æ·Â
+? Oracle, Postgresql, Mysql, Mariadb µî DBMS Áö½ÄÀ» º¸À¯ ÇÏ½Å ºÐ
+? ÇÏ³ª ÀÌ»óÀÇ À¥ ÇÁ·ÎÁ§Æ®¸¦ ¼öÇàÇØ º¸½Å ºÐ","? 2D/3D °ø°£ Á¤º¸¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ
+? Geoserver, QGIS, Openlayers, Cesium, GDAL °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? DDD, Agile, JPA, React, Docker, MSA, Kafka, Elastic Search °æÇèÀÌ ÀÖÀ¸½Å ºÐ 
+? Å¬¶ó¿ìµå ±â¹Ý ¼­ºñ½º(AWS, Azure, ¡¦) ¼­ºñ½º È¯°æ¿¡¼­ÀÇ °³¹ß °æÇè",
+Cloud Native ¿£Áö´Ï¾î,¾ÆÄÜ¼ÒÇÁÆ®,"- ÀÚ°Ý¿ä°Ç
 
-â€¢ í•™ë ¥ : ì „ë¬¸í•™ì‚¬(ì´ˆëŒ€ì¡¸) ì´ìƒ
-â€¢ ì‹ ìž… : 2023ë…„ 03ì›” ì´ì „ ì¡¸ì—…ìž
-â€¢ ê²½ë ¥ : ë™ì¢… ì—…ì¢… ê²½ë ¥ 2ë…„ ì´ìƒ
+? ÇÐ·Â : Àü¹®ÇÐ»ç(ÃÊ´ëÁ¹) ÀÌ»ó
+? ½ÅÀÔ : 2023³â 03¿ù ÀÌÀü Á¹¾÷ÀÚ
+? °æ·Â : µ¿Á¾ ¾÷Á¾ °æ·Â 2³â ÀÌ»ó
 
-- ê¸°ìˆ ìŠ¤íƒ
+- ±â¼ú½ºÅÃ
 
-â€¢ LINUX OS ë° Networkì— ëŒ€í•œ ê¸°ë³¸ ì§€ì‹ì´ ìžˆëŠ”ìž
-â€¢ Shell Script ì‚¬ìš©ì´ ê°€ëŠ¥í•œ ìž
-â€¢ Office ì‚¬ìš©ì´ ëŠ¥ìˆ™í•œìž
-â€¢ DB(RDBMS) DML/DDLì— ëŒ€í•œ ì§€ì‹ì´ ìžˆëŠ”ìž.
-â€¢ Hypervisor ë° Containerì— ëŒ€í•œ ì§€ì‹ì´ ìžˆëŠ”ìž.
-â€¢ ê¸°ìˆ ì§€ì›ì— ëŒ€í•œ ê¸ì •ì ì´ê³  ì ê·¹ì ì¸ ë§ˆì¸ë“œ ì†Œìœ ìž","â€¢ Public Cloud(AWS, GCP, Azure) ìžê²©ì¦ ì†Œì§€ìž
-â€¢ CKA ìžê²©ì¦ ì†Œì§€ìž
-â€¢ Pythonì— ëŒ€í•œ ì´í•´ ë° ê°œë°œì´ ê°€ëŠ¥í•œ ìž
-â€¢ APM ë° ê¸°íƒ€ Opensourceì— ëŒ€í•´ ì´í•´ë¥¼ í•˜ê³  ìžˆëŠ”ìž.
-â€¢ ì˜ë¬¸ ITê¸°ìˆ ë¬¸ì„œ ì´í•´ì— ì–´ë ¤ì›€ì´ ì—†ëŠ”ìž.",
-Senior Back End Developer,ë¶€ë¯¼ë³‘ì›,"â€¢ Spring Boot ê¸°ë°˜ ë°±ì—”ë“œ ê°œë°œ ê²½í—˜ 5ë…„ ì´ìƒ
-â€¢ Docker, AWS ì‚¬ìš©ì— ìµìˆ™í•œ ë¶„
-â€¢ Computer Science ê´€ë ¨ í•™ê³¼ í•™ì‚¬ í•™ìœ„ ì´ìƒ ë³´ìœ ìž","â€¢ Hadoop, Spark, Elasticsearch, NoSQL ë“± ë¹…ë°ì´í„° ì†”ë£¨ì…˜ ì‚¬ìš© ê²½í—˜
-â€¢ í´ë¦°ì½”ë“œ ë°©ì‹ì˜ ê°œë°œì„ ì„ í˜¸í•˜ì‹œëŠ” ë¶„
-â€¢ í”„ë¡œê·¸ëž˜ë¨¸ìŠ¤, í•´ì»¤ëž­í¬, ë¦¬íŠ¸ì½”ë“œ ë“±ì—ì„œ ì¤‘ê¸‰ ì´ìƒì˜ ë¬¸ì œë¥¼ ë‹¤ìˆ˜ í’€ì–´ë³´ì‹  ë¶„
-â€¢ í˜‘ì—… ë„êµ¬(Jira, Confluence, Slack, Git) ì‚¬ìš©ì— ìµìˆ™í•˜ì‹  ë¶„
-â€¢ ì˜ë£Œ ì •ë³´ ê¸°ìˆ  ê´€ë ¨ ì—…ë¬´ ê²½í—˜
-â€¢ ìž˜ ì•Œë ¤ì§„ Open Sourceì— ì»¤ë°‹ì„ í•´ë³´ì‹  ë¶„",
-ê²Œìž„ ë°±ì—”ë“œ ì—”ì§€ë‹ˆì–´,ë‚˜ì¸ì½”í¼ë ˆì´ì…˜,"â€¢ í•™ë ¥ ë° ì„±ë³„ ë¬´ê´€
-â€¢ ê´€ë ¨ ê²½ë ¥ 2ë…„ ì´ìƒ ë° ê·¸ì— ì¤€í•˜ëŠ” ê²½ë ¥
+? LINUX OS ¹× Network¿¡ ´ëÇÑ ±âº» Áö½ÄÀÌ ÀÖ´ÂÀÚ
+? Shell Script »ç¿ëÀÌ °¡´ÉÇÑ ÀÚ
+? Office »ç¿ëÀÌ ´É¼÷ÇÑÀÚ
+? DB(RDBMS) DML/DDL¿¡ ´ëÇÑ Áö½ÄÀÌ ÀÖ´ÂÀÚ.
+? Hypervisor ¹× Container¿¡ ´ëÇÑ Áö½ÄÀÌ ÀÖ´ÂÀÚ.
+? ±â¼úÁö¿ø¿¡ ´ëÇÑ ±àÁ¤ÀûÀÌ°í Àû±ØÀûÀÎ ¸¶ÀÎµå ¼ÒÀ¯ÀÚ","? Public Cloud(AWS, GCP, Azure) ÀÚ°ÝÁõ ¼ÒÁöÀÚ
+? CKA ÀÚ°ÝÁõ ¼ÒÁöÀÚ
+? Python¿¡ ´ëÇÑ ÀÌÇØ ¹× °³¹ßÀÌ °¡´ÉÇÑ ÀÚ
+? APM ¹× ±âÅ¸ Opensource¿¡ ´ëÇØ ÀÌÇØ¸¦ ÇÏ°í ÀÖ´ÂÀÚ.
+? ¿µ¹® IT±â¼ú¹®¼­ ÀÌÇØ¿¡ ¾î·Á¿òÀÌ ¾ø´ÂÀÚ.",
+Senior Back End Developer,ºÎ¹Îº´¿ø,"? Spring Boot ±â¹Ý ¹é¿£µå °³¹ß °æÇè 5³â ÀÌ»ó
+? Docker, AWS »ç¿ë¿¡ ÀÍ¼÷ÇÑ ºÐ
+? Computer Science °ü·Ã ÇÐ°ú ÇÐ»ç ÇÐÀ§ ÀÌ»ó º¸À¯ÀÚ","? Hadoop, Spark, Elasticsearch, NoSQL µî ºòµ¥ÀÌÅÍ ¼Ö·ç¼Ç »ç¿ë °æÇè
+? Å¬¸°ÄÚµå ¹æ½ÄÀÇ °³¹ßÀ» ¼±È£ÇÏ½Ã´Â ºÐ
+? ÇÁ·Î±×·¡¸Ó½º, ÇØÄ¿·©Å©, ¸®Æ®ÄÚµå µî¿¡¼­ Áß±Þ ÀÌ»óÀÇ ¹®Á¦¸¦ ´Ù¼ö Ç®¾îº¸½Å ºÐ
+? Çù¾÷ µµ±¸(Jira, Confluence, Slack, Git) »ç¿ë¿¡ ÀÍ¼÷ÇÏ½Å ºÐ
+? ÀÇ·á Á¤º¸ ±â¼ú °ü·Ã ¾÷¹« °æÇè
+? Àß ¾Ë·ÁÁø Open Source¿¡ Ä¿¹ÔÀ» ÇØº¸½Å ºÐ",
+°ÔÀÓ ¹é¿£µå ¿£Áö´Ï¾î,³ªÀÎÄÚÆÛ·¹ÀÌ¼Ç,"? ÇÐ·Â ¹× ¼ºº° ¹«°ü
+? °ü·Ã °æ·Â 2³â ÀÌ»ó ¹× ±×¿¡ ÁØÇÏ´Â °æ·Â
 
-[ìš”êµ¬ ì‚¬í•­]
-Python ë˜ëŠ” C# ëŠ¥ìˆ™í•˜ê²Œ ì‚¬ìš©
-í”„ë¡œì íŠ¸ ìžë™í™” ê²½í—˜
-í…ŒìŠ¤íŠ¸ ì‹œë‚˜ë¦¬ì˜¤ ì„¤ê³„ ë° êµ¬í˜„ ê²½í—˜
-ì›¹ ë°±ì—”ë“œ ì•„í‚¤í…ì³ ê²½í—˜
-Kubernetes ì‚¬ìš© ê²½í—˜","â€¢ CI ì‚¬ìš© ê²½í—˜
-â€¢ ORM (e.g., SQLAlchemy, Entity Framework Core) ì‚¬ìš© ê²½í—˜
-â€¢ ë§ˆì´í¬ë¡œ ì„œë¹„ìŠ¤ ì•„í‚¤í…ì³(MSA) ì„¤ê³„ ê²½í—˜",
-ìž„ë² ë””ë“œ ë¦¬ëˆ…ìŠ¤ C/C++ SW ê°œë°œ/ê¸°ìˆ ì§€ì›,ë„¥ìŠ¤ë²„(Nexber),"â€¢ Linux ê¸°ë°˜ C/C++ ê°œë°œ, ê²½ë ¥ 3ë…„
-â€¢ ì´ˆëŒ€ì¡¸ ì´ìƒ","ìž„ë² ë””ë“œ(Linux OS) ê´€ë ¨ ê°œë°œ ë˜ëŠ” í”„ë¡œì íŠ¸ ì§„í–‰ ê²½í—˜ìž
-ìž„ë² ë””ë“œ ì¹´ë©”ë¼ ê´€ë ¨ SW ì‚¬ìš© / ê°œë°œ ê²½í—˜ìž
-gcc, g++ ì»´íŒŒì¼ í™˜ê²½ ê°œë°œ ê²½í—˜ìž 
-ì»´íŒŒì¼ëŸ¬ì— ëŒ€í•œ ì´í•´ ë° makefile ìž‘ì„±
-Qt Framework ì‚¬ìš© ê²½í—˜ìž",
-ê¸°ìˆ ì—°êµ¬ì†Œ í”„ë¡œê·¸ëž¨ ê°œë°œ ë° ê°œë°œ ì§€ì› (C++),ë„¥ìŠ¤ë²„(Nexber),"ã†í•™ë ¥ : ì´ˆëŒ€ì¡¸ì´ìƒ 
+[¿ä±¸ »çÇ×]
+Python ¶Ç´Â C# ´É¼÷ÇÏ°Ô »ç¿ë
+ÇÁ·ÎÁ§Æ® ÀÚµ¿È­ °æÇè
+Å×½ºÆ® ½Ã³ª¸®¿À ¼³°è ¹× ±¸Çö °æÇè
+À¥ ¹é¿£µå ¾ÆÅ°ÅØÃÄ °æÇè
+Kubernetes »ç¿ë °æÇè","? CI »ç¿ë °æÇè
+? ORM (e.g., SQLAlchemy, Entity Framework Core) »ç¿ë °æÇè
+? ¸¶ÀÌÅ©·Î ¼­ºñ½º ¾ÆÅ°ÅØÃÄ(MSA) ¼³°è °æÇè",
+ÀÓº£µðµå ¸®´ª½º C/C++ SW °³¹ß/±â¼úÁö¿ø,³Ø½º¹ö(Nexber),"? Linux ±â¹Ý C/C++ °³¹ß, °æ·Â 3³â
+? ÃÊ´ëÁ¹ ÀÌ»ó","ÀÓº£µðµå(Linux OS) °ü·Ã °³¹ß ¶Ç´Â ÇÁ·ÎÁ§Æ® ÁøÇà °æÇèÀÚ
+ÀÓº£µðµå Ä«¸Þ¶ó °ü·Ã SW »ç¿ë / °³¹ß °æÇèÀÚ
+gcc, g++ ÄÄÆÄÀÏ È¯°æ °³¹ß °æÇèÀÚ 
+ÄÄÆÄÀÏ·¯¿¡ ´ëÇÑ ÀÌÇØ ¹× makefile ÀÛ¼º
+Qt Framework »ç¿ë °æÇèÀÚ",
+±â¼ú¿¬±¸¼Ò ÇÁ·Î±×·¥ °³¹ß ¹× °³¹ß Áö¿ø (C++),³Ø½º¹ö(Nexber),"¤ýÇÐ·Â : ÃÊ´ëÁ¹ÀÌ»ó 
 
-ã†ê²½ë ¥ : 3ë…„ ì´ìƒ
+¤ý°æ·Â : 3³â ÀÌ»ó
 
-ã†C ê´€ë ¨ ì–¸ì–´ ì´í•´
+¤ýC °ü·Ã ¾ð¾î ÀÌÇØ
 
-ã†ìš´ì „ë©´í—ˆ ì†Œì§€ìž","ã†ë¹„ì „ ê²€ì‚¬ ê°œë°œ ê²½í—˜ìž(OpenCV, MIL, HALCON ë“±)
+¤ý¿îÀü¸éÇã ¼ÒÁöÀÚ","¤ýºñÀü °Ë»ç °³¹ß °æÇèÀÚ(OpenCV, MIL, HALCON µî)
 
-ã†PCê¸°ë°˜ ëª¨ì…˜ ì œì–´ ê°€ëŠ¥ìž
+¤ýPC±â¹Ý ¸ð¼Ç Á¦¾î °¡´ÉÀÚ
 
-ã†ê´€ë ¨ í•™ê³¼(ê³µí•™ ê³„ì—´) ì „ê³µìž
+¤ý°ü·Ã ÇÐ°ú(°øÇÐ °è¿­) Àü°øÀÚ
 
-ã†ì˜ìƒ ì²˜ë¦¬ ë¼ì´ë¸ŒëŸ¬ë¦¬ ì‚¬ìš© ê°€ëŠ¥ìž
+¤ý¿µ»ó Ã³¸® ¶óÀÌºê·¯¸® »ç¿ë °¡´ÉÀÚ
 
-ã†ê¸°ë³¸ ì˜ìƒ ì²˜ë¦¬ ë° PCê¸°ë°˜ ë¹„ì „ ì‹œìŠ¤í…œì— ëŒ€í•œ ì „ë°˜ì ì¸ ì´í•´",
-Tech Lead (Web Application),ìŠ¤ëˆ„ì•„ì´ëž©,"â€¢ ì»´í“¨í„°ê³µí•™ ë° ì „ê¸°ì „ìžê³µí•™ ê´€ë ¨ ì „ê³µìž
-â€¢ 5ë…„ ì´ìƒ ì†Œí”„íŠ¸ì›¨ì–´ ì—”ì§€ë‹ˆì–´ë¡œì„œ ê·¼ë¬´í•œ ê²½í—˜ í˜¹ì€ ê·¸ì— ì¤€í•˜ëŠ” ì—­ëŸ‰ ë³´ìœ ìž
-â€¢ ë°ì´í„°ë² ì´ìŠ¤ë¥¼ ì´ìš©í•œ ê°œë°œ ê²½í—˜ (Spark, Kafka, MongoDB, PostgreSQL, SQLite ë“±)
-â€¢ AWS ë“± í´ë¼ìš°ë“œ ì»´í“¨íŒ… ì†”ë£¨ì…˜ ê²½í—˜","â€¢ SW ì œí’ˆ ë˜ëŠ” ì„œë¹„ìŠ¤ ì¶œì‹œ ê²½í—˜ (python, c++, c#)
-â€¢ ì»´í“¨í„° ë¹„ì „ í”Œëž«í¼ í™œìš© ê²½í—˜ (Deepstream, openCV ë“±)
-â€¢ ë¨¸ì‹ ëŸ¬ë‹ íŒŒì´í”„ë¼ì¸ ê°œë°œ ë° ìš´ì˜ ê²½í—˜ (k8s, Kubeflow, MLflow ë“±)
-â€¢ ë¨¸ì‹ ëŸ¬ë‹ ëª¨ë¸ í•™ìŠµ ë° êµ¬í˜„ ê²½í—˜ (pytorch ë“±)",
-ì •ë³´ë³´ì•ˆ ë‹´ë‹¹ìž,ì±”í”„ìŠ¤í„°ë””,"â€¢ í¼ë¸”ë¦­ í´ë¼ìš°ë“œ ë° ë„¤íŠ¸ì›Œí¬/ì‹œìŠ¤í…œ/ì–´í”Œë¦¬ì¼€ì´ì…˜ ë“± ì „ë°˜ì ì¸ ìš´ì˜ ê´€ë ¨ ì‹¤ë¬´ ê²½í—˜
-â€¢ ì˜¤í”ˆì†ŒìŠ¤ ê¸°ë°˜ ê¸°ìˆ ì„ í†µí•œ ë³´ì•ˆ ì¸í”„ë¼ í™˜ê²½ êµ¬ì„± ê²½í—˜","â€¢ ì •ë³´ë³´í˜¸ê´€ë¦¬ì²´ê³„(ISMS) ê¸°ìˆ ì  ë³´ì•ˆ ëŒ€ì‘ ê²½í—˜ ë° ìœ ê´€ ë²•ë ¹ì— ëŒ€í•œ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„
-â€¢ ë…¼ë¦¬ì  ì‚¬ê³  ë° ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ì´ ê°€ëŠ¥í•œ ë¶„",
-ì‚¬ì´ë²„ë³´ì•ˆ ì†Œí”„íŠ¸ì›¨ì–´ ì„œë²„/ë°±ì—”ë“œ ê°œë°œìž(5ë…„ ì´ìƒ),ë””ì—ìŠ¤ëž©ì»´í¼ë‹ˆ,"â€¢  ì „ë¬¸í•™ì‚¬ ë˜ëŠ” í•™ì‚¬ ì´ìƒì„ ì¡¸ì—…í•˜ì‹  ë¶„
-â€¢  ì„œë²„(ë°±ì—”ë“œ) ê°œë°œ ê²½ë ¥ 5ë…„ ì´ìƒì˜ ê²½í—˜ì„ ê°–ì¶”ê±°ë‚˜ ê·¸ì— ì¤€í•˜ëŠ” ì‹¤ë ¥ì„ ê°–ì¶”ì‹  ë¶„","â€¢  JAVAë¥¼ í™œìš©í•œ ì‹œìŠ¤í…œ ì„¤ê³„ ë° í”„ë¡œê·¸ëž˜ë°ì— ìµìˆ™í•˜ì‹  ë¶„
-â€¢  í•´ì–‘ ë˜ëŠ” ì‚¬ì´ë²„ë³´ì•ˆ ê´€ë ¨ ì§€ì‹ì„ ìˆ˜í•™í•˜ì…¨ê±°ë‚˜, ìžê²©ì„ ê°–ì¶”ì‹  ë¶„
-â€¢  ìŠ¤íƒ€íŠ¸ì—… ê·¼ë¬´ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„(ZEROtoONE)",
-ASP.NET ì„œë²„ê°œë°œìž,ì´ì›ƒë‹·ì»´(eì•Œë¦¬ë¯¸),"ã†í•™ë ¥ : ì´ˆëŒ€ì¡¸ì´ìƒ
+¤ý±âº» ¿µ»ó Ã³¸® ¹× PC±â¹Ý ºñÀü ½Ã½ºÅÛ¿¡ ´ëÇÑ Àü¹ÝÀûÀÎ ÀÌÇØ",
+Tech Lead (Web Application),½º´©¾ÆÀÌ·¦,"? ÄÄÇ»ÅÍ°øÇÐ ¹× Àü±âÀüÀÚ°øÇÐ °ü·Ã Àü°øÀÚ
+? 5³â ÀÌ»ó ¼ÒÇÁÆ®¿þ¾î ¿£Áö´Ï¾î·Î¼­ ±Ù¹«ÇÑ °æÇè È¤Àº ±×¿¡ ÁØÇÏ´Â ¿ª·® º¸À¯ÀÚ
+? µ¥ÀÌÅÍº£ÀÌ½º¸¦ ÀÌ¿ëÇÑ °³¹ß °æÇè (Spark, Kafka, MongoDB, PostgreSQL, SQLite µî)
+? AWS µî Å¬¶ó¿ìµå ÄÄÇ»ÆÃ ¼Ö·ç¼Ç °æÇè","? SW Á¦Ç° ¶Ç´Â ¼­ºñ½º Ãâ½Ã °æÇè (python, c++, c#)
+? ÄÄÇ»ÅÍ ºñÀü ÇÃ·§Æû È°¿ë °æÇè (Deepstream, openCV µî)
+? ¸Ó½Å·¯´× ÆÄÀÌÇÁ¶óÀÎ °³¹ß ¹× ¿î¿µ °æÇè (k8s, Kubeflow, MLflow µî)
+? ¸Ó½Å·¯´× ¸ðµ¨ ÇÐ½À ¹× ±¸Çö °æÇè (pytorch µî)",
+Á¤º¸º¸¾È ´ã´çÀÚ,Ã¨ÇÁ½ºÅÍµð,"? ÆÛºí¸¯ Å¬¶ó¿ìµå ¹× ³×Æ®¿öÅ©/½Ã½ºÅÛ/¾îÇÃ¸®ÄÉÀÌ¼Ç µî Àü¹ÝÀûÀÎ ¿î¿µ °ü·Ã ½Ç¹« °æÇè
+? ¿ÀÇÂ¼Ò½º ±â¹Ý ±â¼úÀ» ÅëÇÑ º¸¾È ÀÎÇÁ¶ó È¯°æ ±¸¼º °æÇè","? Á¤º¸º¸È£°ü¸®Ã¼°è(ISMS) ±â¼úÀû º¸¾È ´ëÀÀ °æÇè ¹× À¯°ü ¹ý·É¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ
+? ³í¸®Àû »ç°í ¹× ¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼ÇÀÌ °¡´ÉÇÑ ºÐ",
+»çÀÌ¹öº¸¾È ¼ÒÇÁÆ®¿þ¾î ¼­¹ö/¹é¿£µå °³¹ßÀÚ(5³â ÀÌ»ó),µð¿¡½º·¦ÄÄÆÛ´Ï,"?  Àü¹®ÇÐ»ç ¶Ç´Â ÇÐ»ç ÀÌ»óÀ» Á¹¾÷ÇÏ½Å ºÐ
+?  ¼­¹ö(¹é¿£µå) °³¹ß °æ·Â 5³â ÀÌ»óÀÇ °æÇèÀ» °®Ãß°Å³ª ±×¿¡ ÁØÇÏ´Â ½Ç·ÂÀ» °®Ãß½Å ºÐ","?  JAVA¸¦ È°¿ëÇÑ ½Ã½ºÅÛ ¼³°è ¹× ÇÁ·Î±×·¡¹Ö¿¡ ÀÍ¼÷ÇÏ½Å ºÐ
+?  ÇØ¾ç ¶Ç´Â »çÀÌ¹öº¸¾È °ü·Ã Áö½ÄÀ» ¼öÇÐÇÏ¼Ì°Å³ª, ÀÚ°ÝÀ» °®Ãß½Å ºÐ
+?  ½ºÅ¸Æ®¾÷ ±Ù¹« °æÇèÀÌ ÀÖÀ¸½Å ºÐ(ZEROtoONE)",
+ASP.NET ¼­¹ö°³¹ßÀÚ,ÀÌ¿ô´åÄÄ(e¾Ë¸®¹Ì),"¤ýÇÐ·Â : ÃÊ´ëÁ¹ÀÌ»ó
 
-ã†ê²½ë ¥ : ê²½ë ¥ 4ë…„ ~ 6ë…„
+¤ý°æ·Â : °æ·Â 4³â ~ 6³â
 
-ã†.Net, ASP.NET, ASP.NET MVC ê°œë°œ ê°€ëŠ¥ìž","ã†ìžë…€ê°€ ìžˆìœ¼ì‹  í•™ë¶€ëª¨ë‹˜ 
+¤ý.Net, ASP.NET, ASP.NET MVC °³¹ß °¡´ÉÀÚ","¤ýÀÚ³à°¡ ÀÖÀ¸½Å ÇÐºÎ¸ð´Ô 
 
-ã†êµìœ¡ì— ê´€ì‹¬ìžˆê³ , ì•„ì´ë“¤ì˜ ê±´ê°•í•˜ê³  ì˜¬ë°”ë¥¸ ì„±ìž¥ì„ ë•ê³  ì‹¶ìœ¼ì‹  ë¶„ 
+¤ý±³À°¿¡ °ü½ÉÀÖ°í, ¾ÆÀÌµéÀÇ °Ç°­ÇÏ°í ¿Ã¹Ù¸¥ ¼ºÀåÀ» µ½°í ½ÍÀ¸½Å ºÐ 
 
-ã†í•™êµ ê´€ë ¨ ì„œë¹„ìŠ¤, WEB ê¸°ë°˜ ìœ ê´€ì—…ë¬´ ê²½ë ¥ìž
+¤ýÇÐ±³ °ü·Ã ¼­ºñ½º, WEB ±â¹Ý À¯°ü¾÷¹« °æ·ÂÀÚ
 
-ã†APP ê°œë°œ ê´€ë ¨ ê¸°ë³¸ ì§€ì‹ ë³´ìœ ìž 
+¤ýAPP °³¹ß °ü·Ã ±âº» Áö½Ä º¸À¯ÀÚ 
 
-ã†ì¦‰ì‹œì¶œê·¼ ê°€ëŠ¥ìž
+¤ýÁï½ÃÃâ±Ù °¡´ÉÀÚ
 
-ã†ìž¥ê¸°ê·¼ë¬´ ê°€ëŠ¥ìž",
-AWS(Devops) ì—”ì§€ë‹ˆì–´(ì „ë¬¸ì—°êµ¬ìš”ì›/ì „ì§ ê°€ëŠ¥),ì”¨ì•Œì—ìŠ¤íë¸Œ(CRScube),"â€¢ ì•„ëž˜ì˜ ê²½í—˜ì„ 2ë…„ ì´ìƒ ë³´ìœ í•˜ì‹  ë¶„
-1) AWS ê¸°ë°˜ì˜ ì„œë¹„ìŠ¤ ìš´ìš© ê²½í—˜
-2) Docker/Container ê¸°ë°˜ ì„œë¹„ìŠ¤ í™˜ê²½ ê²½í—˜
-3) Terraformìœ¼ë¡œ ì„œë¹„ìŠ¤ í™˜ê²½ ìš´ì˜ ê²½í—˜
-â€¢ ì „ë¬¸ì—°êµ¬ìš”ì›ì˜ ê²½ìš°, íŽ¸ìž…ìš”ê±´ì„ ê°–ì¶”ì‹  ë¶„","â€¢ ì»´í“¨í„°/ì‹œìŠ¤í…œ ê³µí•™ ì „ê³µ(í•™ì  ìš°ìˆ˜ìž)
-â€¢ APM(RUM) ì—…ë¬´ ìˆ˜í–‰ ê²½í—˜
+¤ýÀå±â±Ù¹« °¡´ÉÀÚ",
+AWS(Devops) ¿£Áö´Ï¾î(Àü¹®¿¬±¸¿ä¿ø/ÀüÁ÷ °¡´É),¾¾¾Ë¿¡½ºÅ¥ºê(CRScube),"? ¾Æ·¡ÀÇ °æÇèÀ» 2³â ÀÌ»ó º¸À¯ÇÏ½Å ºÐ
+1) AWS ±â¹ÝÀÇ ¼­ºñ½º ¿î¿ë °æÇè
+2) Docker/Container ±â¹Ý ¼­ºñ½º È¯°æ °æÇè
+3) TerraformÀ¸·Î ¼­ºñ½º È¯°æ ¿î¿µ °æÇè
+? Àü¹®¿¬±¸¿ä¿øÀÇ °æ¿ì, ÆíÀÔ¿ä°ÇÀ» °®Ãß½Å ºÐ","? ÄÄÇ»ÅÍ/½Ã½ºÅÛ °øÇÐ Àü°ø(ÇÐÁ¡ ¿ì¼öÀÚ)
+? APM(RUM) ¾÷¹« ¼öÇà °æÇè
    - Pinpoint, ELK, Raygun
-â€¢ Python ë“±ì˜ ìŠ¤í¬ë¦½íŠ¸ ì–¸ì–´ í”„ë¡œê·¸ëž˜ë°",
-ì¸ìƒë„¤ì»·/í¬í† ë“œë§í¬ Windows Application ê°œë°œìž,ì—˜ì¼€ì´ë²¤ì³ìŠ¤,"- 2ë…„ ì´ìƒ C#, WPF ê°œë°œ ëŠ¥ë ¥ì„ ë³´ìœ í•œ ë¶„
+? Python µîÀÇ ½ºÅ©¸³Æ® ¾ð¾î ÇÁ·Î±×·¡¹Ö",
+ÀÎ»ý³×ÄÆ/Æ÷Åäµå¸µÅ© Windows Application °³¹ßÀÚ,¿¤ÄÉÀÌº¥ÃÄ½º,"- 2³â ÀÌ»ó C#, WPF °³¹ß ´É·ÂÀ» º¸À¯ÇÑ ºÐ
 
-- MVVM Pattern ë° XAMLë¡œ UI ê°œë°œì— ëŒ€í•œ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„
+- MVVM Pattern ¹× XAML·Î UI °³¹ß¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ
 
-- íŒ€ê³¼ í•¨ê»˜ ì„±ìž¥í•˜ê¸°ë¥¼ ì›í•˜ì‹œëŠ” ë¶„","- WPF ìƒìš© ì„œë¹„ìŠ¤ ê°œë°œ, ë°°í¬ ë° ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
+- ÆÀ°ú ÇÔ²² ¼ºÀåÇÏ±â¸¦ ¿øÇÏ½Ã´Â ºÐ","- WPF »ó¿ë ¼­ºñ½º °³¹ß, ¹èÆ÷ ¹× ¿î¿µ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
 
-- UI Library(Dev Express, Teleric ë“±) ì—†ì´ Custom Control ê°œë°œ ê°€ëŠ¥í•˜ì‹ ë¶„
+- UI Library(Dev Express, Teleric µî) ¾øÀÌ Custom Control °³¹ß °¡´ÉÇÏ½ÅºÐ
 
-- DB, ë„¤íŠ¸ì›Œí¬ ê´€ë ¨ í”„ë¡œê·¸ëž˜ë°ì— ê´€ì‹¬ì´ ìžˆìœ¼ì‹  ë¶„
+- DB, ³×Æ®¿öÅ© °ü·Ã ÇÁ·Î±×·¡¹Ö¿¡ °ü½ÉÀÌ ÀÖÀ¸½Å ºÐ
 
-- Git ë“± ë¶„ì‚° ë²„ì „ ê´€ë¦¬ ì‹œìŠ¤í…œì„ ì‚¬ìš©í•´ ë³´ì‹  ë¶„
+- Git µî ºÐ»ê ¹öÀü °ü¸® ½Ã½ºÅÛÀ» »ç¿ëÇØ º¸½Å ºÐ
 
-- ì˜ìƒì²˜ë¦¬ ê´€ë ¨ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
+- ¿µ»óÃ³¸® °ü·Ã °æÇèÀÌ ÀÖÀ¸½Å ºÐ
 
-- WPF ì™¸ Winform, Web ë“± ë‹¤ì–‘í•œ IT ê¸°ìˆ ì— ëŒ€í•˜ì—¬ ê´€ì‹¬ì´ ìžˆìœ¼ì‹  ë¶„",
-"ë„¤ì´í‹°ë¸Œ ì•± ê°œë°œìž(React Native, 3ë…„ ì´ìƒ)",ë¬¼ë¥˜ëŒ€ìž¥,"â€¢ React ë˜ëŠ” React-Native ê°œë°œ ê²½í—˜ ë˜ëŠ” ê²½ë ¥ 3ë…„ ì´ìƒ, ë˜ëŠ” ì´ì— ì¤€í•˜ì‹œëŠ” ì—­ëŸ‰ì„ ê°–ì¶”ì‹  ë¶„(ì‹ ìž… ì§€ì›ê°€ëŠ¥)
-â€¢ React, State ê´€ë¦¬ ë“± ê¸°ë³¸ ì§€ì‹ì„ ê°–ì¶”ì‹  ë¶„
-â€¢ Modern JavaScript(ES6) ë¬¸ë²•ì— ìµìˆ™í•˜ì‹  ë¶„
-â€¢ RESTFul API ì—°ë™ì— ê²½í—˜ì´ ìžˆê±°ë‚˜ ì´ì— ì´í•´í•˜ì‹œëŠ” ë¶„
-â€¢ Mobx, Redux ë“± State ê´€ë¦¬ ë¼ì´ë¸ŒëŸ¬ë¦¬ë¥¼ í™œìš©í•œ ê°œë°œ ë° ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ëª¨ë°”ì¼ UI/UXì— ëŒ€í•œ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„","â€¢ React-Nativeë¥¼ ì‚¬ìš©í•œ í•˜ì´ë¸Œë¦¬ë“œ ë§ˆì¼“ ì¶œì‹œ ê²½í—˜ ë° ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ì‚¬ìš©ìž ì¤‘ì‹¬ì˜ UI/UX ê°œë°œì„ ìˆ˜í–‰í•´ë³¸ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ì•± í…ŒìŠ¤íŠ¸ ë° ë°°í¬ ìžë™í™”ì— ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ë‹¤ë¥¸ ê°œë°œìžì™€ í˜‘ì—… í”„ë¡œì„¸ìŠ¤ êµ¬ì¶• ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ CodePush ë“±ì„ ì´ìš©í•œ íš¨ìœ¨ì ì¸ ë°°í¬ ê´€ë¦¬ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ Slack, Git í™˜ê²½ì—ì„œ ì—…ë¬´í•˜ëŠ”ë° ìµìˆ™í•˜ì‹  ë¶„",
-Senior Front End Developer,ë¶€ë¯¼ë³‘ì›,"â€¢ ì›¹ í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œ ê²½ë ¥ 5ë…„ ì´ìƒ
-â€¢ React ë˜ëŠ” Vue.js ê°œë°œ ê²½ë ¥ 2ë…„ ì´ìƒ
-â€¢ TypeScript ë¥¼ ì‚¬ìš©í•œ ê°œë°œ
-â€¢ Computer Science ê´€ë ¨ í•™ê³¼ í•™ì‚¬ í•™ìœ„ ì´ìƒ ë³´ìœ ìž
-â€¢ ìµœì‹  ì›¹ í”„ë ˆìž„ì›Œí¬ ë° ë¼ì´ë¸ŒëŸ¬ë¦¬ë¥¼ ì ê·¹ì ìœ¼ë¡œ íŒŒì•…í•˜ë©° ìŠ¤ìŠ¤ë¡œ ì„±ìž¥ì´ ê°€ëŠ¥í•œ ë¶„","â€¢ ê³ ê°ì„ ìœ„í•œ ì£¼ìš” ë””ìžì¸ ì›ì¹™ì— ëŒ€í•œ ì´í•´ë¥¼ ë³´ìœ í•˜ì‹  ë¶„
-â€¢ í”„ë¡œê·¸ëž˜ë¨¸ìŠ¤, í•´ì»¤ëž­í¬, ë¦¬íŠ¸ì½”ë“œ ë“±ì—ì„œ ë‹¤ìˆ˜ì˜ ë¬¸ì œë¥¼ í’€ì–´ë³´ì‹  ë¶„
-â€¢ í˜‘ì—… ë„êµ¬(Jira, Confluence, Slack, Git) ì‚¬ìš©ì— ìµìˆ™í•˜ì‹  ë¶„
-â€¢ ì˜ë£Œ ì •ë³´ ê¸°ìˆ  ê´€ë ¨ ì—…ë¬´ ê²½í—˜",
-ë¦¬ë”ê¸‰ 3D ê°œë°œìž,í‰í–‰ê³µê°„,"â€¢ Computer Graphicsì— ëŒ€í•œ ì „ë¬¸ì ì¸ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„
-â€¢ Unity(C#) ê°œë°œ ê²½ë ¥ì´ 3ë…„ ì´ìƒì´ì‹  ë¶„
-â€¢ ë„¤íŠ¸ì›Œí¬ë¥¼ í†µí•˜ì—¬ ì„œë²„ì™€ í†µì‹ ì— ëŒ€í•´ ì´í•´ê°€ ë†’ìœ¼ì‹  ë¶„
-â€¢ ìž‘ë™í™•ì¸ ê°€ëŠ¥í•œ Unity ìž‘ì—…ë¬¼ í¬íŠ¸í´ë¦¬ì˜¤ ì œì¶œ ë¶€íƒë“œë¦½ë‹ˆë‹¤. 
-â€¢ scanì„ í†µí•œ í¬ì¸íŠ¸í´ë¼ìš°ë“œì— ëŒ€í•´ ì´í•´ë„ê°€ ë†’ê³  ë‹¤ë£° ìˆ˜ ìžˆìœ¼ì‹  ë¶„
-â€¢ Unity 3Dë¥¼ ëª¨ë°”ì¼ì•±ì— ì—°ë™ ê°€ëŠ¥í•˜ì‹  ë¶„
-â€¢ VRê³¼ ARì— ëŒ€í•œ ì´í•´ì™€ ì‚¬ì—…í™”ì— ëŒ€í•œ ì§ê°„ì ‘ì ì¸ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„ 
-â€¢ ì£¼ë‹ˆì–´ ê°œë°œìžë¡œ ì´ë£¨ì–´ì§„ ê°œë°œíŒ€ì„ ë¦¬ë“œí•˜ì‹¤ ìˆ˜ ìžˆìœ¼ì‹  ë¶„
-â€¢ ê¸°ìˆ ë¬¸ì„œ ìž‘ì„±ì— ëŠ¥ìˆ™í•˜ì‹  ë¶„
-â€¢ í•´ì™¸ì—¬í–‰ ê²°ê²© ì‚¬ìœ  ì—†ëŠ” ë¶„
+- WPF ¿Ü Winform, Web µî ´Ù¾çÇÑ IT ±â¼ú¿¡ ´ëÇÏ¿© °ü½ÉÀÌ ÀÖÀ¸½Å ºÐ",
+"³×ÀÌÆ¼ºê ¾Û °³¹ßÀÚ(React Native, 3³â ÀÌ»ó)",¹°·ù´ëÀå,"? React ¶Ç´Â React-Native °³¹ß °æÇè ¶Ç´Â °æ·Â 3³â ÀÌ»ó, ¶Ç´Â ÀÌ¿¡ ÁØÇÏ½Ã´Â ¿ª·®À» °®Ãß½Å ºÐ(½ÅÀÔ Áö¿ø°¡´É)
+? React, State °ü¸® µî ±âº» Áö½ÄÀ» °®Ãß½Å ºÐ
+? Modern JavaScript(ES6) ¹®¹ý¿¡ ÀÍ¼÷ÇÏ½Å ºÐ
+? RESTFul API ¿¬µ¿¿¡ °æÇèÀÌ ÀÖ°Å³ª ÀÌ¿¡ ÀÌÇØÇÏ½Ã´Â ºÐ
+? Mobx, Redux µî State °ü¸® ¶óÀÌºê·¯¸®¸¦ È°¿ëÇÑ °³¹ß ¹× ¿î¿µ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ¸ð¹ÙÀÏ UI/UX¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ","? React-Native¸¦ »ç¿ëÇÑ ÇÏÀÌºê¸®µå ¸¶ÄÏ Ãâ½Ã °æÇè ¹× °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? »ç¿ëÀÚ Áß½ÉÀÇ UI/UX °³¹ßÀ» ¼öÇàÇØº» °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ¾Û Å×½ºÆ® ¹× ¹èÆ÷ ÀÚµ¿È­¿¡ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ´Ù¸¥ °³¹ßÀÚ¿Í Çù¾÷ ÇÁ·Î¼¼½º ±¸Ãà °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? CodePush µîÀ» ÀÌ¿ëÇÑ È¿À²ÀûÀÎ ¹èÆ÷ °ü¸® °æÇèÀÌ ÀÖ´Â ºÐ
+? Slack, Git È¯°æ¿¡¼­ ¾÷¹«ÇÏ´Âµ¥ ÀÍ¼÷ÇÏ½Å ºÐ",
+Senior Front End Developer,ºÎ¹Îº´¿ø,"? À¥ ÇÁ·ÐÆ®¿£µå °³¹ß °æ·Â 5³â ÀÌ»ó
+? React ¶Ç´Â Vue.js °³¹ß °æ·Â 2³â ÀÌ»ó
+? TypeScript ¸¦ »ç¿ëÇÑ °³¹ß
+? Computer Science °ü·Ã ÇÐ°ú ÇÐ»ç ÇÐÀ§ ÀÌ»ó º¸À¯ÀÚ
+? ÃÖ½Å À¥ ÇÁ·¹ÀÓ¿öÅ© ¹× ¶óÀÌºê·¯¸®¸¦ Àû±ØÀûÀ¸·Î ÆÄ¾ÇÇÏ¸ç ½º½º·Î ¼ºÀåÀÌ °¡´ÉÇÑ ºÐ","? °í°´À» À§ÇÑ ÁÖ¿ä µðÀÚÀÎ ¿øÄ¢¿¡ ´ëÇÑ ÀÌÇØ¸¦ º¸À¯ÇÏ½Å ºÐ
+? ÇÁ·Î±×·¡¸Ó½º, ÇØÄ¿·©Å©, ¸®Æ®ÄÚµå µî¿¡¼­ ´Ù¼öÀÇ ¹®Á¦¸¦ Ç®¾îº¸½Å ºÐ
+? Çù¾÷ µµ±¸(Jira, Confluence, Slack, Git) »ç¿ë¿¡ ÀÍ¼÷ÇÏ½Å ºÐ
+? ÀÇ·á Á¤º¸ ±â¼ú °ü·Ã ¾÷¹« °æÇè",
+¸®´õ±Þ 3D °³¹ßÀÚ,ÆòÇà°ø°£,"? Computer Graphics¿¡ ´ëÇÑ Àü¹®ÀûÀÎ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ
+? Unity(C#) °³¹ß °æ·ÂÀÌ 3³â ÀÌ»óÀÌ½Å ºÐ
+? ³×Æ®¿öÅ©¸¦ ÅëÇÏ¿© ¼­¹ö¿Í Åë½Å¿¡ ´ëÇØ ÀÌÇØ°¡ ³ôÀ¸½Å ºÐ
+? ÀÛµ¿È®ÀÎ °¡´ÉÇÑ Unity ÀÛ¾÷¹° Æ÷Æ®Æú¸®¿À Á¦Ãâ ºÎÅ¹µå¸³´Ï´Ù. 
+? scanÀ» ÅëÇÑ Æ÷ÀÎÆ®Å¬¶ó¿ìµå¿¡ ´ëÇØ ÀÌÇØµµ°¡ ³ô°í ´Ù·ê ¼ö ÀÖÀ¸½Å ºÐ
+? Unity 3D¸¦ ¸ð¹ÙÀÏ¾Û¿¡ ¿¬µ¿ °¡´ÉÇÏ½Å ºÐ
+? VR°ú AR¿¡ ´ëÇÑ ÀÌÇØ¿Í »ç¾÷È­¿¡ ´ëÇÑ Á÷°£Á¢ÀûÀÎ °æÇèÀÌ ÀÖÀ¸½Å ºÐ 
+? ÁÖ´Ï¾î °³¹ßÀÚ·Î ÀÌ·ç¾îÁø °³¹ßÆÀÀ» ¸®µåÇÏ½Ç ¼ö ÀÖÀ¸½Å ºÐ
+? ±â¼ú¹®¼­ ÀÛ¼º¿¡ ´É¼÷ÇÏ½Å ºÐ
+? ÇØ¿Ü¿©Çà °á°Ý »çÀ¯ ¾ø´Â ºÐ
 
-[í•„ìˆ˜ ì œì¶œ ì„œë¥˜]
-â€¢ í¬ì¸íŠ¸í´ë¼ìš°ë“œë¥¼ ì‚¬ìš©í•˜ì—¬ ìˆ˜í–‰í•œ í”„ë¡œì íŠ¸ ì„¤ëª…ì„œ
-â€¢ ìž‘ì—…ë¬¼ì„ í™•ì¸í•  ìˆ˜ ìžˆëŠ” í¬íŠ¸í´ë¦¬ì˜¤ 
-â€¢ ì§ì ‘ êµ¬í˜„í•œ í”„ë¡œì íŠ¸ ì†ŒìŠ¤ ë§í¬ (Github or else )
-â€¢ ê²½ë ¥ì¦ëª…ì„œ",,"['Git', 'Linux', 'MongoDB', 'JavaScript', 'Node.js', 'Python', 'SQL', 'TypeScript', 'NoSQL', 'Docker', 'RESTful WebServices', 'RESTful Architecture']"
-Android ë³´ì•ˆ ì†”ë£¨ì…˜ ê°œë°œì§ B (ì•±ìˆ˜íŠ¸íŒ€),ìŠ¤í‹¸ë¦¬ì–¸,"[ìžê²© ìš”ê±´]
-ã†ì•ˆë“œë¡œì´ë“œ ê°œë°œ ê²½ë ¥ì´ 3ë…„ ì´ìƒì´ê±°ë‚˜ ê·¸ì— ì¤€í•˜ëŠ” ì‹¤ë ¥ì„ ë³´ìœ í•˜ì‹  ë¶„  (ê²½ë ¥ìž ìš°ëŒ€)
-ã†Python3, C/C++ ì–¸ì–´ ì¤‘ê¸‰ ì´ìƒ ì´ì‹  ë¶„
-ã†Android app ë¦¬ë²„ì‹± ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-ã†í•´ì™¸ ì—¬í–‰ ê²°ê²© ì‚¬ìœ ê°€ ì—†ìœ¼ì‹  ë¶„","[ìš°ëŒ€ ì‚¬í•­]
-ã†Android app ë™ì  ë¶„ì„ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-ã†Android app ë¶„ì„ ë„êµ¬ì˜ ì œìž‘ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-ã†ë³‘ì—­íŠ¹ë¡€ ì „ë¬¸ì—°êµ¬ìš”ì›ì˜ ê²½ìš°, ì‹ ìž…ë„ ì§€ì› ê°€ëŠ¥",
-Android ë³´ì•ˆ ì†”ë£¨ì…˜ ê°œë°œì§ A (ì•±ìˆ˜íŠ¸íŒ€),ìŠ¤í‹¸ë¦¬ì–¸,"[ìžê²© ìš”ê±´]
-ã†ì•ˆë“œë¡œì´ë“œ ê°œë°œ ê²½ë ¥ì´ 3ë…„ ì´ìƒì´ê±°ë‚˜ ê·¸ì— ì¤€í•˜ëŠ” ì‹¤ë ¥ì„ ë³´ìœ  í•˜ì‹  ë¶„  (ê²½ë ¥ìž ìš°ëŒ€)
-ã†apk, aab êµ¬ì¡°ì— ëŒ€í•œ ì´í•´ë„ê°€ ë†’ì€ì‹  ë¶„
-ã†dex ë° Java ByteCodeì— ëŒ€í•œ ì´í•´ë„ê°€ ë†’ìœ¼ì‹  ë¶„
-ã†Android app ë¦¬ë²„ì‹± ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-ã†í•´ì™¸ ì—¬í–‰ ê²°ê²© ì‚¬ìœ ê°€ ì—†ëŠ” ë¶„","[ìš°ëŒ€ ì‚¬í•­]
-ã†IDE Plugin ê°œë°œ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-ã†Proguard ë“± ë‚œë…í™” ì†”ë£¨ì…˜ ì‚¬ìš© ë° ê°œë°œ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-ã†ë³‘ì—­íŠ¹ë¡€ ì „ë¬¸ì—°êµ¬ìš”ì›ì˜ ê²½ìš°, ì‹ ìž…ë„ ì§€ì› ê°€ëŠ¥",
-ê°œë°œ PM,ë¹„í‹°ì†Œí”„íŠ¸,"â€¢ ì‹œìŠ¤í…œ ê°œë°œ í˜¹ì€ ìš´ì˜ í”„ë¡œì íŠ¸ ê²½í—˜ìž
+[ÇÊ¼ö Á¦Ãâ ¼­·ù]
+? Æ÷ÀÎÆ®Å¬¶ó¿ìµå¸¦ »ç¿ëÇÏ¿© ¼öÇàÇÑ ÇÁ·ÎÁ§Æ® ¼³¸í¼­
+? ÀÛ¾÷¹°À» È®ÀÎÇÒ ¼ö ÀÖ´Â Æ÷Æ®Æú¸®¿À 
+? Á÷Á¢ ±¸ÇöÇÑ ÇÁ·ÎÁ§Æ® ¼Ò½º ¸µÅ© (Github or else )
+? °æ·ÂÁõ¸í¼­",,"['Git', 'Linux', 'MongoDB', 'JavaScript', 'Node.js', 'Python', 'SQL', 'TypeScript', 'NoSQL', 'Docker', 'RESTful WebServices', 'RESTful Architecture']"
+Android º¸¾È ¼Ö·ç¼Ç °³¹ßÁ÷ B (¾Û¼öÆ®ÆÀ),½ºÆ¿¸®¾ð,"[ÀÚ°Ý ¿ä°Ç]
+¤ý¾Èµå·ÎÀÌµå °³¹ß °æ·ÂÀÌ 3³â ÀÌ»óÀÌ°Å³ª ±×¿¡ ÁØÇÏ´Â ½Ç·ÂÀ» º¸À¯ÇÏ½Å ºÐ  (°æ·ÂÀÚ ¿ì´ë)
+¤ýPython3, C/C++ ¾ð¾î Áß±Þ ÀÌ»ó ÀÌ½Å ºÐ
+¤ýAndroid app ¸®¹ö½Ì °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+¤ýÇØ¿Ü ¿©Çà °á°Ý »çÀ¯°¡ ¾øÀ¸½Å ºÐ","[¿ì´ë »çÇ×]
+¤ýAndroid app µ¿Àû ºÐ¼® °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+¤ýAndroid app ºÐ¼® µµ±¸ÀÇ Á¦ÀÛ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+¤ýº´¿ªÆ¯·Ê Àü¹®¿¬±¸¿ä¿øÀÇ °æ¿ì, ½ÅÀÔµµ Áö¿ø °¡´É",
+Android º¸¾È ¼Ö·ç¼Ç °³¹ßÁ÷ A (¾Û¼öÆ®ÆÀ),½ºÆ¿¸®¾ð,"[ÀÚ°Ý ¿ä°Ç]
+¤ý¾Èµå·ÎÀÌµå °³¹ß °æ·ÂÀÌ 3³â ÀÌ»óÀÌ°Å³ª ±×¿¡ ÁØÇÏ´Â ½Ç·ÂÀ» º¸À¯ ÇÏ½Å ºÐ  (°æ·ÂÀÚ ¿ì´ë)
+¤ýapk, aab ±¸Á¶¿¡ ´ëÇÑ ÀÌÇØµµ°¡ ³ôÀº½Å ºÐ
+¤ýdex ¹× Java ByteCode¿¡ ´ëÇÑ ÀÌÇØµµ°¡ ³ôÀ¸½Å ºÐ
+¤ýAndroid app ¸®¹ö½Ì °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+¤ýÇØ¿Ü ¿©Çà °á°Ý »çÀ¯°¡ ¾ø´Â ºÐ","[¿ì´ë »çÇ×]
+¤ýIDE Plugin °³¹ß °æÇèÀÌ ÀÖ´Â ºÐ
+¤ýProguard µî ³­µ¶È­ ¼Ö·ç¼Ç »ç¿ë ¹× °³¹ß °æÇèÀÌ ÀÖ´Â ºÐ
+¤ýº´¿ªÆ¯·Ê Àü¹®¿¬±¸¿ä¿øÀÇ °æ¿ì, ½ÅÀÔµµ Áö¿ø °¡´É",
+°³¹ß PM,ºñÆ¼¼ÒÇÁÆ®,"? ½Ã½ºÅÛ °³¹ß È¤Àº ¿î¿µ ÇÁ·ÎÁ§Æ® °æÇèÀÚ
 
-â€¢ í”„ë¡œì íŠ¸ ì‹¤ë¬´ìˆ˜í–‰(ìµœì†Œ) 6ë…„ ì´ìƒ
+? ÇÁ·ÎÁ§Æ® ½Ç¹«¼öÇà(ÃÖ¼Ò) 6³â ÀÌ»ó
 
-â€¢ í”„ë¡œì íŠ¸ PM ê²½í—˜ (ìµœì†Œ) 2ë…„ ì´ìƒ
+? ÇÁ·ÎÁ§Æ® PM °æÇè (ÃÖ¼Ò) 2³â ÀÌ»ó
 
-â€¢ í”„ë¡œì íŠ¸ ì „ë°˜ì— ê±¸ì¹œ ê³µì •ìƒì˜ ì£¼ìš”ì—…ë¬´ë¥¼ ì£¼ë„ì ìœ¼ë¡œ ë¦¬ë”©","â€¢ ê³ ê°ì˜ ë‹ˆì¦ˆì™€ í˜‘ì—…ì„ ì£¼ë„ì ìœ¼ë¡œ ì´ëŒì–´ ë‚´ì‹œëŠ” ë¶„
+? ÇÁ·ÎÁ§Æ® Àü¹Ý¿¡ °ÉÄ£ °øÁ¤»óÀÇ ÁÖ¿ä¾÷¹«¸¦ ÁÖµµÀûÀ¸·Î ¸®µù","? °í°´ÀÇ ´ÏÁî¿Í Çù¾÷À» ÁÖµµÀûÀ¸·Î ÀÌ²ø¾î ³»½Ã´Â ºÐ
 
-â€¢ ë™ë£Œì™€ì˜ í˜‘ì—…ì´ ì›í™œí•˜ì‹  ë¶„
+? µ¿·á¿ÍÀÇ Çù¾÷ÀÌ ¿øÈ°ÇÏ½Å ºÐ
 
-â€¢  í”„ë¡œì íŠ¸ ê°œë°œ ë°©ë²•ë¡  ì‚¬ìš© ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„(ì• ìžì¼ ë“±)
+?  ÇÁ·ÎÁ§Æ® °³¹ß ¹æ¹ý·Ð »ç¿ë °æÇèÀÌ ÀÖÀ¸½Å ºÐ(¾ÖÀÚÀÏ µî)
 
-â€¢  ìœ í†µ ë° ì»¤ë¨¸ìŠ¤ êµ¬ì¶•/ìˆ˜í–‰ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
+?  À¯Åë ¹× Ä¿¸Ó½º ±¸Ãà/¼öÇà °æÇèÀÌ ÀÖÀ¸½Å ºÐ
 
-â€¢  ITê´€ë ¨ ì „ê³µìž í˜¹ì€ ê·¸ì— ìƒì‘í•˜ëŠ” ê¸°ì´ˆì§€ì‹ì„ ê°€ì§€ì‹  ë¶„
+?  IT°ü·Ã Àü°øÀÚ È¤Àº ±×¿¡ »óÀÀÇÏ´Â ±âÃÊÁö½ÄÀ» °¡Áö½Å ºÐ
 
-â€¢  ê³ ê°ì‚¬ ê·¼ë¬´ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„",
-[ë³‘ì—­íŠ¹ë¡€ ì§€ì› ê°€ëŠ¥] ì†Œí”„íŠ¸ì›¨ì–´ ê°œë°œ (BSP),ë“œë¦¼ì—ì´ìŠ¤,â€¢ Embedded(Linux) ì‹œìŠ¤í…œ ê°œë°œ ê´€ë ¨ ê²½ë ¥ìž,"â€¢ Qualcomm, NVIDIA, NXP, Infineon chipset BSP ê°œë°œ ê²½í—˜ìž
-â€¢ WiFi, Bluetooth, GNSS(GPS), Touch sensor, Camera, Lidar ë“± ì—°ë™ìž¥ì¹˜ ê²½í—˜ìž
-
-
-[ì´ëŸ¬í•œ ë™ë£Œì™€ í•¨ê»˜ í•˜ê³  ì‹¶ìŠµë‹ˆë‹¤!]
-
-â€¢ ê°ì¢… í˜‘ì—…ë„êµ¬ì™€ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ë„êµ¬ë¥¼ ì‚¬ìš©í•  ìˆ˜ ìžˆëŠ” ì´í•´ê°€ í•„ìš”í•´ìš”.
-â€¢ ê¸°ìˆ  íŠ¸ë Œë“œ ë³€í™”ì— ì§€ì†ì ìœ¼ë¡œ ê´€ì‹¬ì„ ë‚˜íƒ€ë‚´ìš”.
-â€¢ ìƒˆë¡œìš´ ê¸°ìˆ ì— ëŒ€í•´ ë¹ ë¥¸ ì ì‘ë ¥ì´ í•„ìš”í•´ìš”.
+?  °í°´»ç ±Ù¹« °æÇèÀÌ ÀÖÀ¸½Å ºÐ",
+[º´¿ªÆ¯·Ê Áö¿ø °¡´É] ¼ÒÇÁÆ®¿þ¾î °³¹ß (BSP),µå¸²¿¡ÀÌ½º,? Embedded(Linux) ½Ã½ºÅÛ °³¹ß °ü·Ã °æ·ÂÀÚ,"? Qualcomm, NVIDIA, NXP, Infineon chipset BSP °³¹ß °æÇèÀÚ
+? WiFi, Bluetooth, GNSS(GPS), Touch sensor, Camera, Lidar µî ¿¬µ¿ÀåÄ¡ °æÇèÀÚ
 
 
-[ì œì¶œì„œë¥˜]
+[ÀÌ·¯ÇÑ µ¿·á¿Í ÇÔ²² ÇÏ°í ½Í½À´Ï´Ù!]
 
-â€¢ ìž…ì‚¬ì§€ì›ì„œ (í•„ìˆ˜)
-â€¢ ê²½ë ¥ê¸°ìˆ ì„œ (í•„ìˆ˜)
-â€¢ í¬íŠ¸í´ë¦¬ì˜¤ (ì„ íƒ)
-**í¬íŠ¸í´ë¦¬ì˜¤ ì œì¶œ ì‹œ ë¯¼ê°ì •ë³´ ë“±ì€ ì‚¬ì „ì— ì œì™¸í•˜ì—¬ ì£¼ì‹œê¸° ë°”ëžë‹ˆë‹¤.",
-DW/DM êµ¬ì¶• ë° ë¹„ì§€ë‹ˆìŠ¤ ë¶„ì„ ë‹´ë‹¹ìž,ì¼€ì´í¬,"- SQL,Pythonì— ìµìˆ™í•˜ê³  ìƒˆë¡œìš´ ê°œë°œ ì–¸ì–´ë¥¼ ì‚¬ìš©í•˜ëŠ”ë° ëŠ¥ìˆ™í•˜ì‹  ë¶„
+? °¢Á¾ Çù¾÷µµ±¸¿Í Ä¿¹Â´ÏÄÉÀÌ¼Ç µµ±¸¸¦ »ç¿ëÇÒ ¼ö ÀÖ´Â ÀÌÇØ°¡ ÇÊ¿äÇØ¿ä.
+? ±â¼ú Æ®·»µå º¯È­¿¡ Áö¼ÓÀûÀ¸·Î °ü½ÉÀ» ³ªÅ¸³»¿ä.
+? »õ·Î¿î ±â¼ú¿¡ ´ëÇØ ºü¸¥ ÀûÀÀ·ÂÀÌ ÇÊ¿äÇØ¿ä.
 
-- ë¶„ì„ ì£¼ì œì— ë§žëŠ” DW/DM ì„¤ê³„ ë° êµ¬ì¶• ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
 
-- ë¹„ì§€ë‹ˆìŠ¤ ì˜ì‚¬ê²°ì •ì— ì‹¤ì œ ë°˜ì˜ëœ ë¶„ì„ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
+[Á¦Ãâ¼­·ù]
 
-- ë…¼ë¦¬ì ì¸ ë¶„ì„ê³¼ ìœ ì—°í•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ìœ¼ë¡œ êµ¬ì„±ì›ë“¤ì„ ì„¤ë“í•˜ê³  í˜‘ì—…í•œ ê²½í—˜ì´ ìžˆëŠ” ë¶„
+? ÀÔ»çÁö¿ø¼­ (ÇÊ¼ö)
+? °æ·Â±â¼ú¼­ (ÇÊ¼ö)
+? Æ÷Æ®Æú¸®¿À (¼±ÅÃ)
+**Æ÷Æ®Æú¸®¿À Á¦Ãâ ½Ã ¹Î°¨Á¤º¸ µîÀº »çÀü¿¡ Á¦¿ÜÇÏ¿© ÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.",
+DW/DM ±¸Ãà ¹× ºñÁö´Ï½º ºÐ¼® ´ã´çÀÚ,ÄÉÀÌÅ©,"- SQL,Python¿¡ ÀÍ¼÷ÇÏ°í »õ·Î¿î °³¹ß ¾ð¾î¸¦ »ç¿ëÇÏ´Âµ¥ ´É¼÷ÇÏ½Å ºÐ
 
-- ë³¸ì¸ì´ ë§¡ì€ ì—…ë¬´ì— ëŒ€í•´ì„œ ì£¼ë„ì ì´ê³  ì±…ìž„ê° ìžˆê²Œ ìˆ˜í–‰í•˜ì‹¤ ìˆ˜ ìžˆëŠ” ë¶„
+- ºÐ¼® ÁÖÁ¦¿¡ ¸Â´Â DW/DM ¼³°è ¹× ±¸Ãà °æÇèÀÌ ÀÖÀ¸½Å ºÐ
 
-- ìµœì†Œ 3ë…„ ì´ìƒ í•´ë‹¹ ì§êµ°ì„ ê²½í—˜í•˜ì‹  ë¶„","- í†µê³„,ì»´í“¨í„° ê³µí•™, ë°ì´í„° ê´€ë ¨ ë¶„ì•¼ í•™,ì„ì‚¬í•™ìœ„ ì†Œìœ ìž
+- ºñÁö´Ï½º ÀÇ»ç°áÁ¤¿¡ ½ÇÁ¦ ¹Ý¿µµÈ ºÐ¼® °æÇèÀÌ ÀÖÀ¸½Å ºÐ
 
-- AWS,DataBricks ë“± Public cloud í™œìš© ê²½í—˜
+- ³í¸®ÀûÀÎ ºÐ¼®°ú À¯¿¬ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼ÇÀ¸·Î ±¸¼º¿øµéÀ» ¼³µæÇÏ°í Çù¾÷ÇÑ °æÇèÀÌ ÀÖ´Â ºÐ
 
-- Bigquerry í™œìš© ê²½í—˜",
-ë°±ì—”ë“œ ê°œë°œìž,ì”¨ë„ˆì§€,"â€¢ ê´€ë ¨ê²½ë ¥ 5ë…„ì´ìƒ
-â€¢ í˜¸ê¸°ì‹¬ë§Žê³  ê¸ì •ì ì¸ë¶„
-â€¢ ì›í• í•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜(í˜‘ì—…, ì§€ì‹ê³µìœ , ì½”ë“œë¦¬ë·°)
-â€¢ ì• ìžì¼ ê²½í—˜
-â€¢ Spring-Bootë¥¼ ì‚¬ìš©í•œ REST API ê°œë°œì— ëŠ¥ìˆ™í•˜ì‹  ë¶„
-â€¢ ORMì‚¬ìš©ì— ëŠ¥ìˆ™í•˜ì‹  ë¶„
-â€¢ DB SQLìž‘ì„±ì— ëŠ¥ìˆ™í•˜ì‹  ë¶„
-â€¢ MSAì— ëŒ€í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ Kubernetesê¸°ë°˜ì˜ í´ë¼ìš°ë“œ ì¸í”„ë¼ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ê¸°ìˆ ìŠ¤íƒ: Java, Spring-Boot, maven, gradle, MySQL, Redis, RabbitMQ, websocket
-â€¢ Tool: Intellij, Github, Notion, Figma","â€¢ AWS í˜¹ì€ GCP ì‚¬ìš©ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ CI/CD êµ¬ì¶• ê²½í—˜ì´ ìžˆìœ¼ì‹ ë¶„",
-í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œìž,ì”¨ë„ˆì§€,"â€¢ ê´€ë ¨ê²½ë ¥ 5ë…„ì´ìƒ
-â€¢ í˜¸ê¸°ì‹¬ë§Žê³  ê¸ì •ì ì¸ë¶„
-â€¢ ì›í• í•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜(í˜‘ì—…, ì§€ì‹ê³µìœ , ì½”ë“œë¦¬ë·°)
-â€¢ ì• ìžì¼ ê²½í—˜
-â€¢ Javascript framework(React, Vueë“±)ë¥¼ ì‚¬ìš©í•œ Web Application ê°œë°œì— ëŠ¥ìˆ™í•˜ì‹  ë¶„
-â€¢ Publishing(UI customizing)ì— ëŠ¥ìˆ™í•˜ì‹  ë¶„
-â€¢ Webpack, Babel, ESLintë“±ì— ëŒ€í•œ middlewareì‚¬ìš©ì— ëŒ€í•´ ëŠ¥ìˆ™í•˜ì‹  ë¶„
-â€¢ ê¸°ìˆ ìŠ¤íƒ: Javascript, React, Typescript, css, websocket
-â€¢ Tool: Visual Studio Code, Github, Notion, Figma","â€¢ Mobile(hybrid, native) ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ Kubernetesê¸°ë°˜ì˜ í´ë¼ìš°ë“œ ì¸í”„ë¼ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ AWS í˜¹ì€ GCP ì‚¬ìš©ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„",
-í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œìž (3ë…„ì´ìƒ),ì†¡ì•„ë¦¬ì•„ì´í‹°,"- Javascript ES 5/6 í™œìš©ì— ëŠ¥ìˆ™í•˜ì‹  ë¶„ 
+- º»ÀÎÀÌ ¸ÃÀº ¾÷¹«¿¡ ´ëÇØ¼­ ÁÖµµÀûÀÌ°í Ã¥ÀÓ°¨ ÀÖ°Ô ¼öÇàÇÏ½Ç ¼ö ÀÖ´Â ºÐ
 
-- AngularJS,  Vue.JS,  React   ì¤‘ í”„ë ˆìž„ì›Œí¬ ì‚¬ìš© ê²½í—˜","- Flutter ë¥¼ ì‚¬ìš©í•˜ì—¬ ê°œë°œí•œ ê²½í—˜ì´ ìžˆëŠ” ë¶„
+- ÃÖ¼Ò 3³â ÀÌ»ó ÇØ´ç Á÷±ºÀ» °æÇèÇÏ½Å ºÐ","- Åë°è,ÄÄÇ»ÅÍ °øÇÐ, µ¥ÀÌÅÍ °ü·Ã ºÐ¾ß ÇÐ,¼®»çÇÐÀ§ ¼ÒÀ¯ÀÚ
 
-- Ionic5 ë¥¼ ì‚¬ìš©í•œ í•˜ì´ë¸Œë¦¬ë“œì•± ê°œë°œ ê²½í—˜ì´ ìžˆëŠ” ë¶„
+- AWS,DataBricks µî Public cloud È°¿ë °æÇè
+
+- Bigquerry È°¿ë °æÇè",
+¹é¿£µå °³¹ßÀÚ,¾¾³ÊÁö,"? °ü·Ã°æ·Â 5³âÀÌ»ó
+? È£±â½É¸¹°í ±àÁ¤ÀûÀÎºÐ
+? ¿øÇÒÇÑ Ä¿¹Â´ÏÄÉÀÌ¼Ç(Çù¾÷, Áö½Ä°øÀ¯, ÄÚµå¸®ºä)
+? ¾ÖÀÚÀÏ °æÇè
+? Spring-Boot¸¦ »ç¿ëÇÑ REST API °³¹ß¿¡ ´É¼÷ÇÏ½Å ºÐ
+? ORM»ç¿ë¿¡ ´É¼÷ÇÏ½Å ºÐ
+? DB SQLÀÛ¼º¿¡ ´É¼÷ÇÏ½Å ºÐ
+? MSA¿¡ ´ëÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? Kubernetes±â¹ÝÀÇ Å¬¶ó¿ìµå ÀÎÇÁ¶ó °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ±â¼ú½ºÅÃ: Java, Spring-Boot, maven, gradle, MySQL, Redis, RabbitMQ, websocket
+? Tool: Intellij, Github, Notion, Figma","? AWS È¤Àº GCP »ç¿ë°æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? CI/CD ±¸Ãà °æÇèÀÌ ÀÖÀ¸½ÅºÐ",
+ÇÁ·ÐÆ®¿£µå °³¹ßÀÚ,¾¾³ÊÁö,"? °ü·Ã°æ·Â 5³âÀÌ»ó
+? È£±â½É¸¹°í ±àÁ¤ÀûÀÎºÐ
+? ¿øÇÒÇÑ Ä¿¹Â´ÏÄÉÀÌ¼Ç(Çù¾÷, Áö½Ä°øÀ¯, ÄÚµå¸®ºä)
+? ¾ÖÀÚÀÏ °æÇè
+? Javascript framework(React, Vueµî)¸¦ »ç¿ëÇÑ Web Application °³¹ß¿¡ ´É¼÷ÇÏ½Å ºÐ
+? Publishing(UI customizing)¿¡ ´É¼÷ÇÏ½Å ºÐ
+? Webpack, Babel, ESLintµî¿¡ ´ëÇÑ middleware»ç¿ë¿¡ ´ëÇØ ´É¼÷ÇÏ½Å ºÐ
+? ±â¼ú½ºÅÃ: Javascript, React, Typescript, css, websocket
+? Tool: Visual Studio Code, Github, Notion, Figma","? Mobile(hybrid, native) °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? Kubernetes±â¹ÝÀÇ Å¬¶ó¿ìµå ÀÎÇÁ¶ó °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? AWS È¤Àº GCP »ç¿ë°æÇèÀÌ ÀÖÀ¸½Å ºÐ",
+ÇÁ·ÐÆ®¿£µå °³¹ßÀÚ (3³âÀÌ»ó),¼Û¾Æ¸®¾ÆÀÌÆ¼,"- Javascript ES 5/6 È°¿ë¿¡ ´É¼÷ÇÏ½Å ºÐ 
+
+- AngularJS,  Vue.JS,  React   Áß ÇÁ·¹ÀÓ¿öÅ© »ç¿ë °æÇè","- Flutter ¸¦ »ç¿ëÇÏ¿© °³¹ßÇÑ °æÇèÀÌ ÀÖ´Â ºÐ
+
+- Ionic5 ¸¦ »ç¿ëÇÑ ÇÏÀÌºê¸®µå¾Û °³¹ß °æÇèÀÌ ÀÖ´Â ºÐ
  
-- Typescript ê°œë°œ ê²½í—˜ì´ ìžˆëŠ” ë¶„
+- Typescript °³¹ß °æÇèÀÌ ÀÖ´Â ºÐ
 
-- ë°˜ì‘í˜• ë””ìžì¸, ì›¹ì ‘ê·¼ì„±ì„ ê³ ë ¤í•œ UI ê°œë°œ ê²½í—˜ ìžˆìœ¼ì‹  ë¶„",
-OBD-II/ì°¨ëŸ‰ CAN ë°ì´í„° ë¶„ì„ ì—”ì§€ë‹ˆì–´,ì•Œí‹°ëª¨ë¹Œë¦¬í‹°,"â€¢ ìœ ê´€ ê²½í—˜/ê²½ë ¥ 2ë…„ ì´ìƒì´ì‹  ë¶„
-â€¢ C, C++ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ì°¨ëŸ‰ Network/ì§„ë‹¨ ë°ì´í„° ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„","â€¢ AUTOSAR í˜¹ì€ ì°¨ëŸ‰ network/ì§„ë‹¨ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ì°¨ëŸ‰ ì§„ë‹¨ê¸° ìž¥ë¹„ ìˆ™ë ¨ ì‚¬ìš©ì´ ê°€ëŠ¥í•˜ì‹  ë¶„",
-ë¡œë³´í‹±ìŠ¤ & ì œì–´ ì—”ì§€ë‹ˆì–´,ì•Œì§€ì—ì´ì•„ì´ì—”ì”¨(RGA Inc.),"â€¢ ë¡œë³´í‹±ìŠ¤/ë©”ì¹´íŠ¸ë¡œë‹‰ìŠ¤/ê¸°ê³„ê³µí•™/ì „ê¸°ì „ìžê³µí•™ ë“± ì´ Â· ê³µ ê³„ì—´ í•™ì„ì‚¬ ì´ìƒ ë˜ëŠ” 
-   ê·¸ì— ìƒì‘í•˜ëŠ” ê²½ë ¥ì˜ ì†Œì§€ìž
-â€¢ Robot Control SW / Embedded SW /Device í†µì‹ / Robot ì„¤ê³„ ë° ì œì–´
-â€¢ Embedded System í•¸ë“¤ë§ ëŠ¥ë ¥(Data Processing/CAN/SPI/LAN/GPIO)
-â€¢ RTOS ê¸°ë°˜ ë©”ì¸ ì»¨íŠ¸ë¡¤ SW ê°œë°œ ë° êµ¬í˜„ ëŠ¥ë ¥(Multi-task ê¸°ë°˜ì˜ Motion Control)
-â€¢ MATLAB, C++, C#, 3D CAD, ROS ë“±ì„ í™œìš©í•œ Robot ê°œë°œ ë° ì œí’ˆ êµ¬í˜„ ëŠ¥ë ¥
-â€¢ ë…¼ë¬¸ì´ë‚˜ ê¸°ìˆ ê´€ë ¨ ë¬¸ì„œë¥¼ ì´í•´í•˜ê³  ì´ë¥¼ ë°”íƒ•ìœ¼ë¡œ System êµ¬í˜„ì´ ê°€ëŠ¥í•œ ëŠ¥ë ¥
-â€¢ Gitì„ í†µí•œ í”„ë¡œì íŠ¸ í˜‘ì—… ëŠ¥ë ¥
-â€¢ êµ¬ì„±ì›ë“¤ê³¼ì˜ í˜‘ì—…ì´ ê°€ëŠ¥í•œ ì˜ì‚¬ì†Œí†µ ëŠ¥ë ¥ê³¼ ì´ë¥¼ í†µí•œ ê¸°ìˆ ì  ë¬¸ì œ í•´ê²° ëŠ¥ë ¥
+- ¹ÝÀÀÇü µðÀÚÀÎ, À¥Á¢±Ù¼ºÀ» °í·ÁÇÑ UI °³¹ß °æÇè ÀÖÀ¸½Å ºÐ",
+OBD-II/Â÷·® CAN µ¥ÀÌÅÍ ºÐ¼® ¿£Áö´Ï¾î,¾ËÆ¼¸ðºô¸®Æ¼,"? À¯°ü °æÇè/°æ·Â 2³â ÀÌ»óÀÌ½Å ºÐ
+? C, C++ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? Â÷·® Network/Áø´Ü µ¥ÀÌÅÍ °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ","? AUTOSAR È¤Àº Â÷·® network/Áø´Ü °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? Â÷·® Áø´Ü±â Àåºñ ¼÷·Ã »ç¿ëÀÌ °¡´ÉÇÏ½Å ºÐ",
+·Îº¸Æ½½º & Á¦¾î ¿£Áö´Ï¾î,¾ËÁö¿¡ÀÌ¾ÆÀÌ¿£¾¾(RGA Inc.),"? ·Îº¸Æ½½º/¸ÞÄ«Æ®·Î´Ð½º/±â°è°øÇÐ/Àü±âÀüÀÚ°øÇÐ µî ÀÌ ¡¤ °ø °è¿­ ÇÐ¼®»ç ÀÌ»ó ¶Ç´Â 
+   ±×¿¡ »óÀÀÇÏ´Â °æ·ÂÀÇ ¼ÒÁöÀÚ
+? Robot Control SW / Embedded SW /Device Åë½Å/ Robot ¼³°è ¹× Á¦¾î
+? Embedded System ÇÚµé¸µ ´É·Â(Data Processing/CAN/SPI/LAN/GPIO)
+? RTOS ±â¹Ý ¸ÞÀÎ ÄÁÆ®·Ñ SW °³¹ß ¹× ±¸Çö ´É·Â(Multi-task ±â¹ÝÀÇ Motion Control)
+? MATLAB, C++, C#, 3D CAD, ROS µîÀ» È°¿ëÇÑ Robot °³¹ß ¹× Á¦Ç° ±¸Çö ´É·Â
+? ³í¹®ÀÌ³ª ±â¼ú°ü·Ã ¹®¼­¸¦ ÀÌÇØÇÏ°í ÀÌ¸¦ ¹ÙÅÁÀ¸·Î System ±¸ÇöÀÌ °¡´ÉÇÑ ´É·Â
+? GitÀ» ÅëÇÑ ÇÁ·ÎÁ§Æ® Çù¾÷ ´É·Â
+? ±¸¼º¿øµé°úÀÇ Çù¾÷ÀÌ °¡´ÉÇÑ ÀÇ»ç¼ÒÅë ´É·Â°ú ÀÌ¸¦ ÅëÇÑ ±â¼úÀû ¹®Á¦ ÇØ°á ´É·Â
 
-( ìžê²©ìš”ê±´ê³¼ ì—…ë¬´ ê²½í—˜ì€ ì‹ ìž…/ê²½ë ¥ì— ë”°ë¼ or ë˜ëŠ” and ì¡°ê±´ì´ ë  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.)","â€¢ ë¡œë³´í‹±ìŠ¤/ë©”ì¹´íŠ¸ë¡œë‹‰ìŠ¤/ê¸°ê³„ê³µí•™/ì „ê¸°ì „ìžê³µí•™ ë“± ì´ Â· ê³µ ê³„ì—´ ë°•ì‚¬ ì´ìƒ
-   ë˜ëŠ” 5ë…„ ì´ìƒì˜ ì‹¤ë¬´ ê²½ë ¥
-â€¢ ë¡œë´‡ ì œì–´/ì„¤ê³„/ RTOSê¸°ë°˜ ì œì–´ SW/Firmware/Device í†µì‹ /Locomotion(ë³´í–‰ë¡œë´‡) ë° 
-   Field Test ê²½í—˜
-â€¢ ë¡œë´‡ì— ëŒ€í•œ Control(position, velocity, impedance control)ì— ê´€í•œ ì´í•´ì™€ êµ¬í˜„ ê²½í—˜
-â€¢ ë¡œë´‡ Kinematics/Robotics ë° êµ¬ë™ ë©”ì»¤ë‹ˆì¦˜ì— ëŒ€í•œ ë†’ì€ ì´í•´
-â€¢ Vision/Lidar ë“±ì˜ ì„¼ì„œ í“¨ì „ì„ í™œìš©í•œ í™˜ê²½ì¸ì‹ ë° ê²½ë¡œ ìƒì„±
-â€¢ Slack, Confluence, JIRA ë“± í˜‘ì—… íˆ´ ê²½í—˜",
-DevOps/ì¸í”„ë¼ ê°œë°œìž,ë”ì“°ë¦¬ë£°ìŠ¤,"â€¢ Computer Science, ìˆ˜í•™, í†µê³„í•™ ë˜ëŠ” ì´ì™€ ë™ë“±í•œ ë¶„ì•¼ì˜ í•™ì‚¬, ì„ì‚¬ ë˜ëŠ” ë°•ì‚¬ í•™ìœ„.
-â€¢ DevOps í˜¹ì€ ì¸í”„ë¼ ë¶„ì•¼ 3ë…„ ì´ìƒ ê²½ë ¥
-â€¢ Bash, Python, Go ë˜ëŠ” ì´ì™€ ìœ ì‚¬í•œ ì–¸ì–´ì— ëŒ€í•œ ë†’ì€ ì´í•´ë„ ë° ê²½í—˜
-â€¢ CI/CD, Amazon S3, EC2, IAM, CloudFormation ë° Route 53ì— ëŒ€í•œ íƒ„íƒ„í•œ ì´í•´ë¥¼ í¬í•¨í•˜ì—¬ AWSì— ëŒ€í•œ í¬ê´„ì ì¸ ê²½í—˜.
-â€¢ ì‚¬ìš©ìž ì•¡ì„¸ìŠ¤, ì¸ì¦, ì‚¬ìš©ìž ê¶Œí•œ ê´€ë¦¬ ë° ë³´ì•ˆì— ëŒ€í•œ ê²½í—˜.
-â€¢ ë‹¤ì–‘í•œ ìœ í˜•ì˜ ë¡œë“œ ë°¸ëŸ°ì„œë¥¼ ì‚¬ìš©í•˜ì—¬ AWSë¥¼ í†µí•œ ë³´ì•ˆ ì¸í”„ë¼ ë„¤íŠ¸ì›Œí‚¹, VPC, ì„œë¸Œë„· ë° ë¼ìš°íŒ… í…Œì´ë¸” ì„¤ì • ê²½í—˜.
-â€¢ ì»¨í…Œì´ë„ˆí™” ë° ìŠ¤ì¼€ì¤„ë§ ê²½í—˜, Docker, ì½”ì¸í…Œì´ë„ˆ ë° Kubernetes ì‚¬ìš© ê²½í—˜.
-â€¢ ìžë™ í™•ìž¥, ì„±ëŠ¥ í…ŒìŠ¤íŠ¸ ë° ìš©ëŸ‰ ê³„íšì— ëŒ€í•œ ê²½í—˜.
-â€¢ ìžë™í™”, CI/CD, ì…€í”„ ì„œë¹„ìŠ¤ íŒŒì´í”„ë¼ì¸ì„ êµ¬ì¶•í•˜ê¸° ìœ„í•œ Jenkins, Argo CD ë“±ì˜ ë„êµ¬ ì‚¬ìš© ê²½í—˜.
-â€¢ í”„ë¡œë•ì…˜ ì¸í”„ë¼ë¥¼ ì†Œìœ í•˜ê³  CloudFormation/Terraformì„ ì‚¬ìš©í•˜ì—¬ ë¹Œë“œ/ë°°í¬ ë° ëª¨ë‹ˆí„°ë§/ë³´ê³  ì‹œìŠ¤í…œì„ ì„¤ê³„ ë° ìƒì„±í•œ ê²½í—˜ì´ ìžˆì–´ì•¼ í•©ë‹ˆë‹¤.
-â€¢ RESTful ì„œë¹„ìŠ¤, Pub/Sub í†µì‹  ëª¨ë¸, ì„œë¹„ìŠ¤ ì§€í–¥ ì•„í‚¤í…ì²˜, ë¶„ì‚° ì‹œìŠ¤í…œ, í´ë¼ìš°ë“œ ì‹œìŠ¤í…œ(AWS) ë° ë§ˆì´í¬ë¡œ ì„œë¹„ìŠ¤ ì•„í‚¤í…ì²˜ íŒ¨í„´ì— ëŒ€í•œ ê²½í—˜.
-â€¢ ë²„ì „ ê´€ë¦¬ ì‹œìŠ¤í…œ(git)ì— ëŒ€í•œ ì‹¤ë¬´ ê²½í—˜.
-â€¢ ê°•ë ¥í•œ ì„œë©´ ë° êµ¬ë‘ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ëŠ¥ë ¥.","â€¢ ipfs ë° ê·¸ëž˜í”„ ë…¸ë“œì™€ ê°™ì€ ë¸”ë¡ì²´ì¸ ê´€ë ¨ ê¸°ìˆ  ìž‘ë™ ê²½í—˜.
-â€¢ ë¸”ë¡ì²´ì¸ ë…¸ë“œ ìš´ì˜ ê²½í—˜.
-â€¢ ìŠ¤íƒ€íŠ¸ì—…ì—ì„œ ê·¼ë¬´í•œ ê²½í—˜.
-â€¢ ì›¹ 3.0 ì—…ê³„ì—ì„œ ì¼í•œ ê²½í—˜.",
-ë°±ì—”ë“œ ê°œë°œìž (ì‹œë‹ˆì–´ / 5ë…„ ì´ìƒ),íŒ¨ì“°,"â€¢ ì‹ ê·œ ì„œë¹„ìŠ¤ ëŸ°ì¹­ ë° ê°œë°œ (ê³ ë„í™”) ê²½ë ¥ 5ë…„ ì´ìƒ
-â€¢ Java, Kotlin, Spring í”„ë ˆìž„ì›Œí¬
-â€¢ AWSì˜ ì„œë¹„ìŠ¤(EC2, S3, CloudFront, RDS ë“±)ë¥¼ ë°”íƒ•ìœ¼ë¡œ í•œ ê°œë°œ ê²½í—˜
-â€¢ MySQL DB ì„¤ê³„, ê´€ë¦¬ ê²½í—˜ (í…Œì´ë¸” ì„¤ê³„, ìµœì í™”, ë°±ì—… ë° ë³µêµ¬)
-â€¢ ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ë° í˜‘ì—… ëŠ¥ë ¥
-â€¢ ìƒˆë¡œìš´ ê¸°ìˆ , í™˜ê²½ì— ëŒ€í•œ ì˜¤í”ˆ ë§ˆì¸ë“œë¥¼ ê°€ì§€ì‹  ë¶„","â€¢ êµìœ¡ ë„ë©”ì¸ (ì„œë¹„ìŠ¤ ë˜ëŠ” í”Œëž«í¼)ì— ëŒ€í•œ ê²½í—˜
-â€¢ ëŒ€ìš©ëŸ‰ íŠ¸ë ˆí”½ ì²˜ë¦¬ ê²½í—˜",
-C/C++ê°œë°œìž,ë³´ì´ìŠ¤ì•„ì´,"â€¢ C/C++
-â€¢ Visual Studio / Linux ë¹Œë“œ íˆ´ ì²´ì¸ (GCC, Makefile ë“±)
-â€¢ MFC",â€¢QTê²½í—˜,
-JAVAê¸°ë°˜ Web application ê°œë°œìž,ë””ë©”íƒ€,"ã†í•™ë ¥: ë¬´ê´€
-ã†ê²½ë ¥: 5ë…„ ~ 10ë…„
-ã†í•„ìˆ˜ ì—…ë¬´ì§€ì‹ ë° ê²½í—˜:
- - HTML, CSS, Javascriptì— ëŒ€í•œ ì´í•´ ë° ì´ë¥¼ í™œìš©í•œ UI ê°œë°œ ê²½í—˜
- - React.js, Vue.js, Angular ë“± UI Framework ë˜ëŠ” Library í™œìš© ê²½í—˜
- - Java ê¸°ë°˜ Web Application ê°œë°œ/ìš´ì˜ ê²½í—˜
- - Spring Framework(Spring Boot) ë˜ëŠ” ì „ìžì •ë¶€ Framework ê¸°ë°˜ ê°œë°œ ê²½í—˜
- - RESTful API ì„¤ê³„ ë° ê°œë°œ ê²½í—˜
- - RDBMS(Oracle/MySQL ë“±) ê¸°ë°˜ DB ì„¤ê³„ ë° SQL ê°œë°œ ê²½í—˜
- - Mybatis ë“± SQLMap ë˜ëŠ” JPA, Hibernate ë“± ORMì˜ í™œìš© ê²½í—˜
- - Git ë“± SCM Toolì„ í†µí•œ í˜•ìƒê´€ë¦¬ ê²½í—˜
- - Programming ê´€ë ¨ ì§€ì‹, Network, OS ë“± ì „ì‚°í•™ ê¸°ë³¸ ì§€ì‹
- - ì‹ ê¸°ìˆ  ë° ìµœì‹  íŠ¸ë Œë“œì— ëŒ€í•œ ê´€ì‹¬
- - ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ê³¼ í˜‘ì—… ëŠ¥ë ¥","- Netty ë“±ì„ í™œìš©í•œ Network Programmingì— ëŒ€í•œ ì´í•´ ë° í™œìš© ê²½í—˜
- - RxJava, Reactor, Spring WebFlux ë“± Reactive Programmingì— ëŒ€í•œ ì´í•´ ë° í™œìš© ê²½í—˜
- - ITê´€ë ¨ ìžê²©ì¦",
-ì „ê¸°ì°¨ ì¶©ì „ê¸° FWê°œë°œ,ë¸Œë¦¬ì¸ í…Œí¬ë†€ë¡œì§€,". MCU ì œì–´ ê°€ëŠ¥ìž 
-. C/C++ì–¸ì–´ ì‚¬ìš© ê°€ëŠ¥ìž",". ISO15118, DIN70121, CHAdeMO ê·œê²© ê²½í—˜ìž",
-ìž„ë² ë””ë“œ í”„ë¡œê·¸ëž¨ ê°œë°œìž,ìƒˆì˜í…Œí¬ë†€ë¡œì§€,"â€¢ ì£¼ìš”ì—…ë¬´ ìˆ˜í–‰ ëŠ¥ë ¥ ê°€ëŠ¥ í•˜ì‹  ë¶„
-â€¢ í•´ì™¸ì—¬í–‰ ê²°ê²© ì‚¬ìœ  ì—†ëŠ” ë¶„","ì»´í“¨í„° ê³µí•™ ë° ê´€ë ¨ í•™ê³¼ ì „ê³µ í•˜ì‹  ë¶„
-ì˜ì–´ ì†Œí†µ ê°€ëŠ¥ í•˜ì‹  ë¶„
-ìœ ë¬´ì„  í†µì‹  ë„¤íŠ¸ì›Œí¬ ë° í†µì‹  í”„ë¡œí† ì½œ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„
-ì—”ì½”ë” ë° ì„¼ì„œë¥¼ í™œìš©í•œ ëª¨í„° ë“œë¦¬ì´ë¸Œ ì œì–´íšŒë¡œ ì„¤ê³„ ê°€ëŠ¥í•˜ì‹  ë¶„
-ì¹´ë©”ë¼ ë“±ì„ í™œìš©í•œ ì˜ìƒ ì´¬ì˜ ì œì–´ ê°€ëŠ¥ í•˜ì‹  ë¶„",
-ì „ê¸°ì°¨ ì¶©ì „ê¸° íšŒë¡œ ì„¤ê³„,ë¸Œë¦¬ì¸ í…Œí¬ë†€ë¡œì§€,"- íšŒë¡œ ì„¤ê³„ íˆ´ í™œìš© ê°€ëŠ¥ìž(OrCAD)
-- ì•„ë‚ ë¡œê·¸/ë””ì§€í„¸ íšŒë¡œ ì„¤ê³„ ê°€ëŠ¥ìž
-- EMC ë””ë²„ê¹… ê²½í—˜ìž
-- ìš´ì „ ê°€ëŠ¥ìž
-- í•´ì™¸ ì—¬í–‰ì— ê²°ê²© ì‚¬ìœ  ì—†ëŠ”ìž","- ì˜ì–´/ì¼ì–´ ì†Œí†µ ê°€ëŠ¥ìž
-- ì „ê¸°ê¸°ì‚¬/ì‚°ì—…ê¸°ì‚¬",
-AI Language Engineer,ì•Œì§€ì—ì´ì•„ì´ì—”ì”¨(RGA Inc.),"[What the essential qualifications are for this role]
-- ìžì—°ì–´ ì²˜ë¦¬ì— ê´€ë ¨ëœ ML / DL ëª¨ë¸ ì„¤ê³„ ë° í…ŒìŠ¤íŠ¸
-- ê¸°ë³¸ì ì¸ ë°ì´í„° ì „ì²˜ë¦¬ì— ëŒ€í•œ ì´í•´ì™€ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- ëŒ€ìš©ëŸ‰ì˜ ë°ì´í„°ì— ëŒ€í•œ ìµœì í™”ë¥¼ ê³ ë¯¼í•´ë³´ì‹  ë¶„
-- API, docker í™œìš©ì„ ê²½í—˜í•˜ì‹  ë¶„
-- Artificial Intelligence / Computer Science / Data Science / Statistics / Electric Engineering ë“± ì´ Â· ê³µ ê³„ì—´ ì„ì‚¬ ì´ìƒ ë˜ëŠ” ê·¸ì— ìƒì‘í•˜ëŠ” ê²½ë ¥ì˜ ì†Œì§€ìž 
-- Python, C++ coding ëŠ¥ë ¥
-- PyTorch, Tensorflow, Keras, MXNet ë“± deep learning framework í™œìš© ëŠ¥ë ¥
-- Gitì„ í†µí•œ í”„ë¡œì íŠ¸ í˜‘ì—… ëŠ¥ë ¥
-- ìµœì‹  ì—°êµ¬ ë…¼ë¬¸ì— ëŒ€í•œ ë¦¬ì„œì¹˜ ë° ì•„ì´ë””ì–´ í† ë¡ 
-- êµ¬ì„±ì›ë“¤ê³¼ì˜ í˜‘ì—…ì´ ê°€ëŠ¥í•œ ì˜ì‚¬ì†Œí†µê³¼ ì´ë¥¼ í†µí•œ ë¹„ì¦ˆë‹ˆìŠ¤ ë¬¸ì œ í•´ê²° ëŠ¥ë ¥","[What will give candidates an advantage are these additional qualifications]
-- Artificial Intelligence / Computer Science / Data Science / Statistics / Electric Engineering ë“± ì´ Â· ê³µ ê³„ì—´ ë°•ì‚¬ ì´ìƒ í•™ìœ„ ë³´ìœ í•˜ì‹ ë¶„ì´ë‚˜ ì‹¤ë¬´ ê²½í—˜ 5ë…„ ì´ìƒ ì´ì‹  ë¶„
-- Model Compression (Quantization / Pruning / Knowledge Distillation) ë° Optimization ê²½í—˜
-- Noise Robust / Data Imbalanced Problemì— ê´€í•œ ì´í•´ë„ì™€ ê·¹ë³µ ê²½í—˜
-- ì œí•œëœ ë¦¬ì†ŒìŠ¤ í™˜ê²½ì—ì„œ ëª¨ë¸ Inference ë° Deployment ê²½í—˜
-- êµ­ì œí•™ìˆ ëŒ€íšŒ (CVPR, ICCV, ECCV, AAAI, IJCAI, ICML, IROS) ë“±ì— ë…¼ë¬¸ì„ ê²Œìž¬í•œ ê²½í—˜
-- ROS, ROS 2ë¥¼ ì‚¬ìš©í•œ ê¸°ìˆ  ê°œë°œ ê²½í—˜
-- ìŠ¤íƒ€íŠ¸ì—… ê²½í—˜
-- OSì— ëŒ€í•œ ë†’ì€ ì´í•´
-- CUDA, OpenCLì— ëŒ€í•œ ê²½í—˜
-- Slack, Confluence, JIRA ë“± í˜‘ì—… íˆ´ ê²½í—˜
-- Jenkins, Docker, AWS ë“±ë“± ì „ë°˜ì ì¸ í˜‘ì—…ê³¼ ë°°í¬ ê²½í—˜
-- ìˆ˜í•™ì  ì‚¬ê³ ì™€ í†µê³„, ìµœì í™” ë“± ìˆ˜í•™ ì´ë¡ ì— ëŒ€í•œ ë†’ì€ ì´í•´
-- ê¸°ê³„Â·ë©”ì¹´íŠ¸ë¡œë‹‰ìŠ¤ ê´€ë ¨ ë³µìˆ˜ ì „ê³µìž (ì„ì‚¬ ë˜ëŠ” ë°•ì‚¬ í•™ìœ„ ì†Œì§€ìž)
-- ì˜ì–´ ëŠ¥í†µìž",
-Backend ê°œë°œìž(10ë…„ ì´ìƒ),í‚¤ë…¸ë¼ì´ì¸ ,"- 10ë…„ì°¨ ì´ìƒì˜ ê°œë°œ ê²½ë ¥ ë˜ëŠ” ê·¸ì— ì¤€í•˜ëŠ” ê°œë°œ ì‹¤ë ¥(ì–¸ì–´ ë¬´ê´€)
-- ì›¹ ì„œë¹„ìŠ¤ì— ëŒ€í•œ ì´í•´
-- RDB, NoSQL ë“± ë°ì´í„°ë² ì´ìŠ¤ ì„¤ê³„ ê²½í—˜
-- GraphQL ë˜ëŠ” Rest API ì„¤ê³„ ê²½í—˜
-- Gitì— ëŒ€í•œ ì´í•´","- Typescript ë˜ëŠ” Node.js ì‚¬ìš© ê²½í—˜
-- Nest.js ë“±ì˜ framework ì‚¬ìš© ê²½í—˜
-- ëŒ€ìš©ëŸ‰ DB ì„¤ê³„ ê²½í—˜
-- Kafka, RabbitMQ, SQS ë“± MQ ì‚¬ìš© ê²½í—˜
-- ì›¹ í¬ë¡¤ëŸ¬ ê°œë°œ ê²½í—˜
-- í…ŒìŠ¤íŠ¸ ìžë™í™” ë˜ëŠ” TDD ê²½í—˜",
-[ê°œë°œì§êµ°] Laravel ë°±ì—”ë“œ ê°œë°œìž,ë”ì—ìŠ¤ì— ì”¨ê·¸ë£¹,"â€¢ ìœ ê´€ ê²½ë ¥ 3ë…„ ì´ìƒ
-â€¢ PHP ì›¹ì–´í”Œë¦¬ì¼€ì´ì…˜ ê°œë°œ ê°€ëŠ¥
-â€¢ Mysql(MariaDB), Linux ê²½í—˜ ë³´ìœ 
-â€¢ RestAPIì— ëŒ€í•œ ì§€ì‹ì´ë‚˜ ê²½í—˜ ë³´ìœ ","â€¢ Laravel ì›¹í”„ë ˆìž„ì›Œí¬ ê°œë°œ ê²½í—˜ ë³´ìœ 
-â€¢ AWS í™˜ê²½ ê²½í—˜ ë³´ìœ 
-â€¢ Redis ë“±ì˜ ë©”ëª¨ë¦¬ ë°ì´í„° ìŠ¤í† ì–´ ì‚¬ìš© ê²½í—˜ ë³´ìœ 
-â€¢ Git ì‚¬ìš© ê²½í—˜ ë³´ìœ ",
-Unity ê°œë°œìž,ì—‘ìŠ¤íˆ¬ë¹„,"- ì—°ë´‰ : í˜‘ì˜ í›„, ê²°ì • (ê²½ë ¥ìžì˜ ê²½ìš°, ì§ì „ ì—°ë´‰ ëŒ€ë¹„ ì¸ìƒë¥  í˜‘ì˜)
-- ë™ì¢…ì—…ê³„ ê²½ë ¥ 3ë…„ ì´ìƒ
-- Unity ê°œë°œìž
-- ìœ ì‚¬ í”„ë¡œì íŠ¸ ê²½í—˜ ìš°ëŒ€
-- ë³´ìˆ˜ì ì´ê³  ë°©ì–´ì ì¸ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ì„ ì§€ì–‘í•˜ê³ , ì ê·¹ì ì¸ ì˜ê²¬ì„ ì œì‹œí•  ìˆ˜ ìžˆëŠ” ì¸ìž¬",- ìœ ì‚¬ í”„ë¡œì íŠ¸ ê²½í—˜ ìš°ëŒ€,
-ì‘ìš©í”„ë¡œê·¸ëž¨ ê°œë°œìž,í”ŒëŸ¬ìŠ¤íŒŒí¬,"â€¢ ê²½ë ¥ 1ë…„ ì´ìƒ(ì‹ ìž…ë„ ì§€ì› ê°€ëŠ¥)
-â€¢ C# / WPF ê°œë°œ 1ë…„ì´ìƒ ê²½ë ¥ìž
-â€¢ Socket í†µì‹  ìœ ê²½í—˜ìž
-â€¢ PostgreSQL ë“± DB ìœ ê²½í—˜ìž","â€¢ TCP / IP Socket í†µì‹ ì— ëŒ€í•œ ì´í•´ë„ê°€ ë†’ìœ¼ì‹  ë¶„
-â€¢ Windows Event ì— ëŒ€í•œ ì´í•´ë„ê°€ ë†’ìœ¼ì‹  ë¶„
-â€¢ PostgreSQL ì‚¬ìš©ì´ ìžìœ ë¡œìš°ë©° Stored Procedure ì„ ìž˜ ì‚¬ìš©í•˜ëŠ” ë¶„
-â€¢ DevExpress Library ì‚¬ìš© ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ MVVM Pattern ì— ì´í•´ë„ê°€ ìžˆìœ¼ì‹  ë¶„
-â€¢ ê³µí•™ê³„ì—´
-â€¢ í•´ë‹¹ì§ë¬´ ê·¼ë¬´ê²½í—˜",
-[ì†”ë£¨ì…˜ë³¸ë¶€] í”„ë¡ íŠ¸ì—”ë“œ(Frontend) ê°œë°œìž,ì¼€ì´ìŠ¤ë§ˆí…,"â€¢ Vuejs or React or Jquery ê°œë°œ ê²½ë ¥
-â€¢ HTML/CSS(SCSS)/Javascript  ì´í•´ë„ 
-â€¢ RESTFull API  í´ë¼ì´ì–¸íŠ¸ Jsonì—°ë™ ê²½í—˜ 
-â€¢ Gitì˜ ì´í•´ ë° ì‚¬ìš© ê²½í—˜ 
-â€¢ í˜‘ì—… ë° ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ëŠ¥ë ¥","â€¢ ì›¹ë·° ë‚´ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹ ë¶„ 
-â€¢ SPA í”„ë ˆìž„ì›Œí¬ì— ì‚¬ìš©ì— ëŠ¥ìˆ™í•œ ë¶„ 
-â€¢ ì›¹ ì„œë¹„ìŠ¤ ì„±ëŠ¥ ê°œì„  ê²½í—˜ ìžˆìœ¼ì‹  ë¶„ 
-â€¢ Typescript ê¸°ë°˜ì˜ ì„œë¹„ìŠ¤ ê°œë°œê³¼ ìµœì í™” ê²½í—˜ìžˆëŠ” ë¶„ 
-â€¢ PC/Mobile ë°˜ì‘í˜• í¬ë¡œìŠ¤ ë¸Œë¼ìš°ì§• ê°œë°œ ê²½í—˜",
-ê°œë°œíŒ€ìž¥,í•Œì•„ì‹œì•„,"1. ì´ ê°œë°œ ê²½ë ¥ 10ë…„ ì´ìƒì´ì‹  ë¶„
-2. ìœ ì—°í•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ëŠ¥ë ¥ì„ ë³´ìœ í•œ ë¶„
-3. ê°œë°œíŒ€ ìš´ì˜ ëŠ¥ë ¥ì„ ë³´ìœ í•œ ë¶„
-4. ì´ì»¤ë¨¸ìŠ¤ ì†”ë£¨ì…˜ ê²½ë ¥ì„ ë³´ìœ í•œ ë¶„","â€¢ ë‹¤ì–‘í•œ ê°œë°œ ì–¸ì–´ ë° í”„ë¡œì íŠ¸ ìˆ˜í–‰ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ ëŒ€ìš©ëŸ‰ íŠ¸ëž˜í”½ ì²˜ë¦¬ì— ëŒ€í•œ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ ì´ì»¤ë¨¸ìŠ¤ ë¶„ì•¼ì— ëŒ€í•œ ë†’ì€ ì´í•´ë„ì™€ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ ì¢‹ì€ ê°œë°œ ë¬¸í™”ì— ê´€ì‹¬ì´ ê¹Šê±°ë‚˜ ë„ìž…ì‹œí‚¨ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ íŒ€ì— í•„ìš”í•œ ì‹ ê¸°ìˆ  ë„ìž…ì„ ê²€í† í•˜ê³  ì ìš©í•´ë³¸ ê²½í—˜ì´ ìžˆëŠ” ë¶„",
-ë°±ì—”ë“œ Spring ê°œë°œìž(ëŒ€êµ¬ë³¸ì‚¬),ì¸í„°ë¹„ì ¼,"[ì´ëŸ° ë¶„ì„ ì°¾ê³  ìžˆì–´ìš”!]
+( ÀÚ°Ý¿ä°Ç°ú ¾÷¹« °æÇèÀº ½ÅÀÔ/°æ·Â¿¡ µû¶ó or ¶Ç´Â and Á¶°ÇÀÌ µÉ ¼ö ÀÖ½À´Ï´Ù.)","? ·Îº¸Æ½½º/¸ÞÄ«Æ®·Î´Ð½º/±â°è°øÇÐ/Àü±âÀüÀÚ°øÇÐ µî ÀÌ ¡¤ °ø °è¿­ ¹Ú»ç ÀÌ»ó
+   ¶Ç´Â 5³â ÀÌ»óÀÇ ½Ç¹« °æ·Â
+? ·Îº¿ Á¦¾î/¼³°è/ RTOS±â¹Ý Á¦¾î SW/Firmware/Device Åë½Å/Locomotion(º¸Çà·Îº¿) ¹× 
+   Field Test °æÇè
+? ·Îº¿¿¡ ´ëÇÑ Control(position, velocity, impedance control)¿¡ °üÇÑ ÀÌÇØ¿Í ±¸Çö °æÇè
+? ·Îº¿ Kinematics/Robotics ¹× ±¸µ¿ ¸ÞÄ¿´ÏÁò¿¡ ´ëÇÑ ³ôÀº ÀÌÇØ
+? Vision/Lidar µîÀÇ ¼¾¼­ Ç»ÀüÀ» È°¿ëÇÑ È¯°æÀÎ½Ä ¹× °æ·Î »ý¼º
+? Slack, Confluence, JIRA µî Çù¾÷ Åø °æÇè",
+DevOps/ÀÎÇÁ¶ó °³¹ßÀÚ,´õ¾²¸®·ê½º,"? Computer Science, ¼öÇÐ, Åë°èÇÐ ¶Ç´Â ÀÌ¿Í µ¿µîÇÑ ºÐ¾ßÀÇ ÇÐ»ç, ¼®»ç ¶Ç´Â ¹Ú»ç ÇÐÀ§.
+? DevOps È¤Àº ÀÎÇÁ¶ó ºÐ¾ß 3³â ÀÌ»ó °æ·Â
+? Bash, Python, Go ¶Ç´Â ÀÌ¿Í À¯»çÇÑ ¾ð¾î¿¡ ´ëÇÑ ³ôÀº ÀÌÇØµµ ¹× °æÇè
+? CI/CD, Amazon S3, EC2, IAM, CloudFormation ¹× Route 53¿¡ ´ëÇÑ ÅºÅºÇÑ ÀÌÇØ¸¦ Æ÷ÇÔÇÏ¿© AWS¿¡ ´ëÇÑ Æ÷°ýÀûÀÎ °æÇè.
+? »ç¿ëÀÚ ¾×¼¼½º, ÀÎÁõ, »ç¿ëÀÚ ±ÇÇÑ °ü¸® ¹× º¸¾È¿¡ ´ëÇÑ °æÇè.
+? ´Ù¾çÇÑ À¯ÇüÀÇ ·Îµå ¹ë·±¼­¸¦ »ç¿ëÇÏ¿© AWS¸¦ ÅëÇÑ º¸¾È ÀÎÇÁ¶ó ³×Æ®¿öÅ·, VPC, ¼­ºê³Ý ¹× ¶ó¿ìÆÃ Å×ÀÌºí ¼³Á¤ °æÇè.
+? ÄÁÅ×ÀÌ³ÊÈ­ ¹× ½ºÄÉÁÙ¸µ °æÇè, Docker, ÄÚÀÎÅ×ÀÌ³Ê ¹× Kubernetes »ç¿ë °æÇè.
+? ÀÚµ¿ È®Àå, ¼º´É Å×½ºÆ® ¹× ¿ë·® °èÈ¹¿¡ ´ëÇÑ °æÇè.
+? ÀÚµ¿È­, CI/CD, ¼¿ÇÁ ¼­ºñ½º ÆÄÀÌÇÁ¶óÀÎÀ» ±¸ÃàÇÏ±â À§ÇÑ Jenkins, Argo CD µîÀÇ µµ±¸ »ç¿ë °æÇè.
+? ÇÁ·Î´ö¼Ç ÀÎÇÁ¶ó¸¦ ¼ÒÀ¯ÇÏ°í CloudFormation/TerraformÀ» »ç¿ëÇÏ¿© ºôµå/¹èÆ÷ ¹× ¸ð´ÏÅÍ¸µ/º¸°í ½Ã½ºÅÛÀ» ¼³°è ¹× »ý¼ºÇÑ °æÇèÀÌ ÀÖ¾î¾ß ÇÕ´Ï´Ù.
+? RESTful ¼­ºñ½º, Pub/Sub Åë½Å ¸ðµ¨, ¼­ºñ½º ÁöÇâ ¾ÆÅ°ÅØÃ³, ºÐ»ê ½Ã½ºÅÛ, Å¬¶ó¿ìµå ½Ã½ºÅÛ(AWS) ¹× ¸¶ÀÌÅ©·Î ¼­ºñ½º ¾ÆÅ°ÅØÃ³ ÆÐÅÏ¿¡ ´ëÇÑ °æÇè.
+? ¹öÀü °ü¸® ½Ã½ºÅÛ(git)¿¡ ´ëÇÑ ½Ç¹« °æÇè.
+? °­·ÂÇÑ ¼­¸é ¹× ±¸µÎ Ä¿¹Â´ÏÄÉÀÌ¼Ç ´É·Â.","? ipfs ¹× ±×·¡ÇÁ ³ëµå¿Í °°Àº ºí·ÏÃ¼ÀÎ °ü·Ã ±â¼ú ÀÛµ¿ °æÇè.
+? ºí·ÏÃ¼ÀÎ ³ëµå ¿î¿µ °æÇè.
+? ½ºÅ¸Æ®¾÷¿¡¼­ ±Ù¹«ÇÑ °æÇè.
+? À¥ 3.0 ¾÷°è¿¡¼­ ÀÏÇÑ °æÇè.",
+¹é¿£µå °³¹ßÀÚ (½Ã´Ï¾î / 5³â ÀÌ»ó),ÆÐ¾²,"? ½Å±Ô ¼­ºñ½º ·±Äª ¹× °³¹ß (°íµµÈ­) °æ·Â 5³â ÀÌ»ó
+? Java, Kotlin, Spring ÇÁ·¹ÀÓ¿öÅ©
+? AWSÀÇ ¼­ºñ½º(EC2, S3, CloudFront, RDS µî)¸¦ ¹ÙÅÁÀ¸·Î ÇÑ °³¹ß °æÇè
+? MySQL DB ¼³°è, °ü¸® °æÇè (Å×ÀÌºí ¼³°è, ÃÖÀûÈ­, ¹é¾÷ ¹× º¹±¸)
+? ¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼Ç ¹× Çù¾÷ ´É·Â
+? »õ·Î¿î ±â¼ú, È¯°æ¿¡ ´ëÇÑ ¿ÀÇÂ ¸¶ÀÎµå¸¦ °¡Áö½Å ºÐ","? ±³À° µµ¸ÞÀÎ (¼­ºñ½º ¶Ç´Â ÇÃ·§Æû)¿¡ ´ëÇÑ °æÇè
+? ´ë¿ë·® Æ®·¹ÇÈ Ã³¸® °æÇè",
+C/C++°³¹ßÀÚ,º¸ÀÌ½º¾ÆÀÌ,"? C/C++
+? Visual Studio / Linux ºôµå Åø Ã¼ÀÎ (GCC, Makefile µî)
+? MFC",?QT°æÇè,
+JAVA±â¹Ý Web application °³¹ßÀÚ,µð¸ÞÅ¸,"¤ýÇÐ·Â: ¹«°ü
+¤ý°æ·Â: 5³â ~ 10³â
+¤ýÇÊ¼ö ¾÷¹«Áö½Ä ¹× °æÇè:
+ - HTML, CSS, Javascript¿¡ ´ëÇÑ ÀÌÇØ ¹× ÀÌ¸¦ È°¿ëÇÑ UI °³¹ß °æÇè
+ - React.js, Vue.js, Angular µî UI Framework ¶Ç´Â Library È°¿ë °æÇè
+ - Java ±â¹Ý Web Application °³¹ß/¿î¿µ °æÇè
+ - Spring Framework(Spring Boot) ¶Ç´Â ÀüÀÚÁ¤ºÎ Framework ±â¹Ý °³¹ß °æÇè
+ - RESTful API ¼³°è ¹× °³¹ß °æÇè
+ - RDBMS(Oracle/MySQL µî) ±â¹Ý DB ¼³°è ¹× SQL °³¹ß °æÇè
+ - Mybatis µî SQLMap ¶Ç´Â JPA, Hibernate µî ORMÀÇ È°¿ë °æÇè
+ - Git µî SCM ToolÀ» ÅëÇÑ Çü»ó°ü¸® °æÇè
+ - Programming °ü·Ã Áö½Ä, Network, OS µî Àü»êÇÐ ±âº» Áö½Ä
+ - ½Å±â¼ú ¹× ÃÖ½Å Æ®·»µå¿¡ ´ëÇÑ °ü½É
+ - ¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼Ç°ú Çù¾÷ ´É·Â","- Netty µîÀ» È°¿ëÇÑ Network Programming¿¡ ´ëÇÑ ÀÌÇØ ¹× È°¿ë °æÇè
+ - RxJava, Reactor, Spring WebFlux µî Reactive Programming¿¡ ´ëÇÑ ÀÌÇØ ¹× È°¿ë °æÇè
+ - IT°ü·Ã ÀÚ°ÝÁõ",
+Àü±âÂ÷ ÃæÀü±â FW°³¹ß,ºê¸®Ã÷Å×Å©³î·ÎÁö,". MCU Á¦¾î °¡´ÉÀÚ 
+. C/C++¾ð¾î »ç¿ë °¡´ÉÀÚ",". ISO15118, DIN70121, CHAdeMO ±Ô°Ý °æÇèÀÚ",
+ÀÓº£µðµå ÇÁ·Î±×·¥ °³¹ßÀÚ,»õ¿µÅ×Å©³î·ÎÁö,"? ÁÖ¿ä¾÷¹« ¼öÇà ´É·Â °¡´É ÇÏ½Å ºÐ
+? ÇØ¿Ü¿©Çà °á°Ý »çÀ¯ ¾ø´Â ºÐ","ÄÄÇ»ÅÍ °øÇÐ ¹× °ü·Ã ÇÐ°ú Àü°ø ÇÏ½Å ºÐ
+¿µ¾î ¼ÒÅë °¡´É ÇÏ½Å ºÐ
+À¯¹«¼± Åë½Å ³×Æ®¿öÅ© ¹× Åë½Å ÇÁ·ÎÅäÄÝ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ
+¿£ÄÚ´õ ¹× ¼¾¼­¸¦ È°¿ëÇÑ ¸ðÅÍ µå¸®ÀÌºê Á¦¾îÈ¸·Î ¼³°è °¡´ÉÇÏ½Å ºÐ
+Ä«¸Þ¶ó µîÀ» È°¿ëÇÑ ¿µ»ó ÃÔ¿µ Á¦¾î °¡´É ÇÏ½Å ºÐ",
+Àü±âÂ÷ ÃæÀü±â È¸·Î ¼³°è,ºê¸®Ã÷Å×Å©³î·ÎÁö,"- È¸·Î ¼³°è Åø È°¿ë °¡´ÉÀÚ(OrCAD)
+- ¾Æ³¯·Î±×/µðÁöÅÐ È¸·Î ¼³°è °¡´ÉÀÚ
+- EMC µð¹ö±ë °æÇèÀÚ
+- ¿îÀü °¡´ÉÀÚ
+- ÇØ¿Ü ¿©Çà¿¡ °á°Ý »çÀ¯ ¾ø´ÂÀÚ","- ¿µ¾î/ÀÏ¾î ¼ÒÅë °¡´ÉÀÚ
+- Àü±â±â»ç/»ê¾÷±â»ç",
+AI Language Engineer,¾ËÁö¿¡ÀÌ¾ÆÀÌ¿£¾¾(RGA Inc.),"[What the essential qualifications are for this role]
+- ÀÚ¿¬¾î Ã³¸®¿¡ °ü·ÃµÈ ML / DL ¸ðµ¨ ¼³°è ¹× Å×½ºÆ®
+- ±âº»ÀûÀÎ µ¥ÀÌÅÍ ÀüÃ³¸®¿¡ ´ëÇÑ ÀÌÇØ¿Í °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- ´ë¿ë·®ÀÇ µ¥ÀÌÅÍ¿¡ ´ëÇÑ ÃÖÀûÈ­¸¦ °í¹ÎÇØº¸½Å ºÐ
+- API, docker È°¿ëÀ» °æÇèÇÏ½Å ºÐ
+- Artificial Intelligence / Computer Science / Data Science / Statistics / Electric Engineering µî ÀÌ ¡¤ °ø °è¿­ ¼®»ç ÀÌ»ó ¶Ç´Â ±×¿¡ »óÀÀÇÏ´Â °æ·ÂÀÇ ¼ÒÁöÀÚ 
+- Python, C++ coding ´É·Â
+- PyTorch, Tensorflow, Keras, MXNet µî deep learning framework È°¿ë ´É·Â
+- GitÀ» ÅëÇÑ ÇÁ·ÎÁ§Æ® Çù¾÷ ´É·Â
+- ÃÖ½Å ¿¬±¸ ³í¹®¿¡ ´ëÇÑ ¸®¼­Ä¡ ¹× ¾ÆÀÌµð¾î Åä·Ð
+- ±¸¼º¿øµé°úÀÇ Çù¾÷ÀÌ °¡´ÉÇÑ ÀÇ»ç¼ÒÅë°ú ÀÌ¸¦ ÅëÇÑ ºñÁî´Ï½º ¹®Á¦ ÇØ°á ´É·Â","[What will give candidates an advantage are these additional qualifications]
+- Artificial Intelligence / Computer Science / Data Science / Statistics / Electric Engineering µî ÀÌ ¡¤ °ø °è¿­ ¹Ú»ç ÀÌ»ó ÇÐÀ§ º¸À¯ÇÏ½ÅºÐÀÌ³ª ½Ç¹« °æÇè 5³â ÀÌ»ó ÀÌ½Å ºÐ
+- Model Compression (Quantization / Pruning / Knowledge Distillation) ¹× Optimization °æÇè
+- Noise Robust / Data Imbalanced Problem¿¡ °üÇÑ ÀÌÇØµµ¿Í ±Øº¹ °æÇè
+- Á¦ÇÑµÈ ¸®¼Ò½º È¯°æ¿¡¼­ ¸ðµ¨ Inference ¹× Deployment °æÇè
+- ±¹Á¦ÇÐ¼ú´ëÈ¸ (CVPR, ICCV, ECCV, AAAI, IJCAI, ICML, IROS) µî¿¡ ³í¹®À» °ÔÀçÇÑ °æÇè
+- ROS, ROS 2¸¦ »ç¿ëÇÑ ±â¼ú °³¹ß °æÇè
+- ½ºÅ¸Æ®¾÷ °æÇè
+- OS¿¡ ´ëÇÑ ³ôÀº ÀÌÇØ
+- CUDA, OpenCL¿¡ ´ëÇÑ °æÇè
+- Slack, Confluence, JIRA µî Çù¾÷ Åø °æÇè
+- Jenkins, Docker, AWS µîµî Àü¹ÝÀûÀÎ Çù¾÷°ú ¹èÆ÷ °æÇè
+- ¼öÇÐÀû »ç°í¿Í Åë°è, ÃÖÀûÈ­ µî ¼öÇÐ ÀÌ·Ð¿¡ ´ëÇÑ ³ôÀº ÀÌÇØ
+- ±â°è¡¤¸ÞÄ«Æ®·Î´Ð½º °ü·Ã º¹¼ö Àü°øÀÚ (¼®»ç ¶Ç´Â ¹Ú»ç ÇÐÀ§ ¼ÒÁöÀÚ)
+- ¿µ¾î ´ÉÅëÀÚ",
+Backend °³¹ßÀÚ(10³â ÀÌ»ó),Å°³ë¶óÀÌÃ÷,"- 10³âÂ÷ ÀÌ»óÀÇ °³¹ß °æ·Â ¶Ç´Â ±×¿¡ ÁØÇÏ´Â °³¹ß ½Ç·Â(¾ð¾î ¹«°ü)
+- À¥ ¼­ºñ½º¿¡ ´ëÇÑ ÀÌÇØ
+- RDB, NoSQL µî µ¥ÀÌÅÍº£ÀÌ½º ¼³°è °æÇè
+- GraphQL ¶Ç´Â Rest API ¼³°è °æÇè
+- Git¿¡ ´ëÇÑ ÀÌÇØ","- Typescript ¶Ç´Â Node.js »ç¿ë °æÇè
+- Nest.js µîÀÇ framework »ç¿ë °æÇè
+- ´ë¿ë·® DB ¼³°è °æÇè
+- Kafka, RabbitMQ, SQS µî MQ »ç¿ë °æÇè
+- À¥ Å©·Ñ·¯ °³¹ß °æÇè
+- Å×½ºÆ® ÀÚµ¿È­ ¶Ç´Â TDD °æÇè",
+[°³¹ßÁ÷±º] Laravel ¹é¿£µå °³¹ßÀÚ,´õ¿¡½º¿¥¾¾±×·ì,"? À¯°ü °æ·Â 3³â ÀÌ»ó
+? PHP À¥¾îÇÃ¸®ÄÉÀÌ¼Ç °³¹ß °¡´É
+? Mysql(MariaDB), Linux °æÇè º¸À¯
+? RestAPI¿¡ ´ëÇÑ Áö½ÄÀÌ³ª °æÇè º¸À¯","? Laravel À¥ÇÁ·¹ÀÓ¿öÅ© °³¹ß °æÇè º¸À¯
+? AWS È¯°æ °æÇè º¸À¯
+? Redis µîÀÇ ¸Þ¸ð¸® µ¥ÀÌÅÍ ½ºÅä¾î »ç¿ë °æÇè º¸À¯
+? Git »ç¿ë °æÇè º¸À¯",
+Unity °³¹ßÀÚ,¿¢½ºÅõºñ,"- ¿¬ºÀ : ÇùÀÇ ÈÄ, °áÁ¤ (°æ·ÂÀÚÀÇ °æ¿ì, Á÷Àü ¿¬ºÀ ´ëºñ ÀÎ»ó·ü ÇùÀÇ)
+- µ¿Á¾¾÷°è °æ·Â 3³â ÀÌ»ó
+- Unity °³¹ßÀÚ
+- À¯»ç ÇÁ·ÎÁ§Æ® °æÇè ¿ì´ë
+- º¸¼öÀûÀÌ°í ¹æ¾îÀûÀÎ Ä¿¹Â´ÏÄÉÀÌ¼ÇÀ» Áö¾çÇÏ°í, Àû±ØÀûÀÎ ÀÇ°ßÀ» Á¦½ÃÇÒ ¼ö ÀÖ´Â ÀÎÀç",- À¯»ç ÇÁ·ÎÁ§Æ® °æÇè ¿ì´ë,
+ÀÀ¿ëÇÁ·Î±×·¥ °³¹ßÀÚ,ÇÃ·¯½ºÆÄÅ©,"? °æ·Â 1³â ÀÌ»ó(½ÅÀÔµµ Áö¿ø °¡´É)
+? C# / WPF °³¹ß 1³âÀÌ»ó °æ·ÂÀÚ
+? Socket Åë½Å À¯°æÇèÀÚ
+? PostgreSQL µî DB À¯°æÇèÀÚ","? TCP / IP Socket Åë½Å¿¡ ´ëÇÑ ÀÌÇØµµ°¡ ³ôÀ¸½Å ºÐ
+? Windows Event ¿¡ ´ëÇÑ ÀÌÇØµµ°¡ ³ôÀ¸½Å ºÐ
+? PostgreSQL »ç¿ëÀÌ ÀÚÀ¯·Î¿ì¸ç Stored Procedure À» Àß »ç¿ëÇÏ´Â ºÐ
+? DevExpress Library »ç¿ë °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? MVVM Pattern ¿¡ ÀÌÇØµµ°¡ ÀÖÀ¸½Å ºÐ
+? °øÇÐ°è¿­
+? ÇØ´çÁ÷¹« ±Ù¹«°æÇè",
+[¼Ö·ç¼Çº»ºÎ] ÇÁ·ÐÆ®¿£µå(Frontend) °³¹ßÀÚ,ÄÉÀÌ½º¸¶ÅØ,"? Vuejs or React or Jquery °³¹ß °æ·Â
+? HTML/CSS(SCSS)/Javascript  ÀÌÇØµµ 
+? RESTFull API  Å¬¶óÀÌ¾ðÆ® Json¿¬µ¿ °æÇè 
+? GitÀÇ ÀÌÇØ ¹× »ç¿ë °æÇè 
+? Çù¾÷ ¹× ¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼Ç ´É·Â","? À¥ºä ³» °³¹ß °æÇèÀÌ ÀÖÀ¸½ÅºÐ 
+? SPA ÇÁ·¹ÀÓ¿öÅ©¿¡ »ç¿ë¿¡ ´É¼÷ÇÑ ºÐ 
+? À¥ ¼­ºñ½º ¼º´É °³¼± °æÇè ÀÖÀ¸½Å ºÐ 
+? Typescript ±â¹ÝÀÇ ¼­ºñ½º °³¹ß°ú ÃÖÀûÈ­ °æÇèÀÖ´Â ºÐ 
+? PC/Mobile ¹ÝÀÀÇü Å©·Î½º ºê¶ó¿ìÂ¡ °³¹ß °æÇè",
+°³¹ßÆÀÀå,ÇË¾Æ½Ã¾Æ,"1. ÃÑ °³¹ß °æ·Â 10³â ÀÌ»óÀÌ½Å ºÐ
+2. À¯¿¬ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼Ç ´É·ÂÀ» º¸À¯ÇÑ ºÐ
+3. °³¹ßÆÀ ¿î¿µ ´É·ÂÀ» º¸À¯ÇÑ ºÐ
+4. ÀÌÄ¿¸Ó½º ¼Ö·ç¼Ç °æ·ÂÀ» º¸À¯ÇÑ ºÐ","? ´Ù¾çÇÑ °³¹ß ¾ð¾î ¹× ÇÁ·ÎÁ§Æ® ¼öÇà °æÇèÀÌ ÀÖ´Â ºÐ
+? ´ë¿ë·® Æ®·¡ÇÈ Ã³¸®¿¡ ´ëÇÑ °æÇèÀÌ ÀÖ´Â ºÐ
+? ÀÌÄ¿¸Ó½º ºÐ¾ß¿¡ ´ëÇÑ ³ôÀº ÀÌÇØµµ¿Í °æÇèÀÌ ÀÖ´Â ºÐ
+? ÁÁÀº °³¹ß ¹®È­¿¡ °ü½ÉÀÌ ±í°Å³ª µµÀÔ½ÃÅ² °æÇèÀÌ ÀÖ´Â ºÐ
+? ÆÀ¿¡ ÇÊ¿äÇÑ ½Å±â¼ú µµÀÔÀ» °ËÅäÇÏ°í Àû¿ëÇØº» °æÇèÀÌ ÀÖ´Â ºÐ",
+¹é¿£µå Spring °³¹ßÀÚ(´ë±¸º»»ç),ÀÎÅÍºñÁ¯,"[ÀÌ·± ºÐÀ» Ã£°í ÀÖ¾î¿ä!]
 
-â€¢ ì „ê³µ : ê´€ë ¨í•™ê³¼ ì „ê³µìž
-â€¢ Spring ê°œë°œê²½ë ¥ 5ë…„ ì´ìƒ
-â€¢ oracle ê²½í—˜ìž
-â€¢ JSP, JavaScript, Jquery, Ajax ê°œë°œ ê°€ëŠ¥
-â€¢ Mybatis ì‚¬ìš© ê°€ëŠ¥
-â€¢ Rest API ê°œë°œê²½í—˜ ë³´ìœ ","[ì´ëŸ° ë¶„ì„ ì„ í˜¸í•´ìš”!]
+? Àü°ø : °ü·ÃÇÐ°ú Àü°øÀÚ
+? Spring °³¹ß°æ·Â 5³â ÀÌ»ó
+? oracle °æÇèÀÚ
+? JSP, JavaScript, Jquery, Ajax °³¹ß °¡´É
+? Mybatis »ç¿ë °¡´É
+? Rest API °³¹ß°æÇè º¸À¯","[ÀÌ·± ºÐÀ» ¼±È£ÇØ¿ä!]
 
-â€¢ PL ì§ë¬´ê²½í—˜ ë³´ìœ ìž ìš°ëŒ€
-â€¢ SI í”„ë¡œì íŠ¸ ìœ ê²½í—˜ìž ìš°ëŒ€
-â€¢ MVC íŒ¨í„´ ê²½ë ¥ë³´ìœ ìž ìš°ëŒ€
-â€¢ Git ë“± ë¶„ì‚°ë²„ì „ ê´€ë¦¬ ëŠ¥ë ¥ ë³´ìœ ìž ìš°ëŒ€",
-í’€ìŠ¤íƒ ê°œë°œìž,ë¦¬ì¦ˆí—¬ìŠ¤ì¼€ì–´,"ì–¸ì–´ JAVA
+? PL Á÷¹«°æÇè º¸À¯ÀÚ ¿ì´ë
+? SI ÇÁ·ÎÁ§Æ® À¯°æÇèÀÚ ¿ì´ë
+? MVC ÆÐÅÏ °æ·Âº¸À¯ÀÚ ¿ì´ë
+? Git µî ºÐ»ê¹öÀü °ü¸® ´É·Â º¸À¯ÀÚ ¿ì´ë",
+Ç®½ºÅÃ °³¹ßÀÚ,¸®ÁîÇï½ºÄÉ¾î,"¾ð¾î JAVA
 
-í”„ë¡ íŠ¸ì—”ë“œ CSS, HTML5, jQuery
+ÇÁ·ÐÆ®¿£µå CSS, HTML5, jQuery
 
-ëª¨ë°”ì¼ React Native
+¸ð¹ÙÀÏ React Native
 
-ë°±ì—”íŠ¸ Spring Boot, MyBatis, Tomcat, Thymeleaf
+¹é¿£Æ® Spring Boot, MyBatis, Tomcat, Thymeleaf
 
-í´ë¼ìš°ë“œ AWS EC2
+Å¬¶ó¿ìµå AWS EC2
 
-ë°ì´íƒ€ë² ì´ìŠ¤ MySQL
+µ¥ÀÌÅ¸º£ÀÌ½º MySQL
 
 OS Linux
 
-ê¸°ìˆ ë°ë„ë©”ì¸ REST API","â€¢ ê°œë°œ ê²½ë ¥ 3ë…„ ì´ìƒ
-â€¢ ì¸ê³µì§€ëŠ¥ ë° ë¨¸ì‹ ëŸ¬ë‹ ê°œë°œ ê²½í—˜ ë³´ìœ ",
-SAP ë‹´ë‹¹ìž,ì½œë§ˆë¹„ì•¤ì—ì´ì¹˜,"â€¢ í•™ì‚¬ ì´ìƒ
-â€¢ ê²½ì˜ì •ë³´í•™, ì»´í“¨í„°ê³µí•™, ì‚°ì—…ê³µí•™, ì •ë³´í†µì‹  ë“± ìœ ê´€ ì „ê³µ ì´ìˆ˜","â€¢ ì •ë³´ì²˜ë¦¬ ê¸°ì‚¬ ë³´ìœ ìž, ì „ì‚°íšŒê³„ ìžê²© ë³´ìœ 
-â€¢SAP ëª¨ë“ˆ ì»¨ì„¤í„´íŠ¸ ìžê²© ë³´ìœ ìž
-â€¢SAP í”„ë¡œì íŠ¸ ìˆ˜í–‰ ê²½í—˜ìž
-â€¢SAP ìš´ì˜ ê²½í—˜ìž
-â€¢ì œì•½/ê±´ê¸°ì‹ ì‚°ì—… ê²½í—˜ìž",
-DBMS ì—”ì§„ ê°œë°œ(ì „ë¬¸ì—°êµ¬ìš”ì›),íë¸Œë¦¬ë“œ,"â€¢ Linux í™˜ê²½ì—ì„œ C/C++/JAVAë¥¼ ì´ìš©í•œ ê°œë°œ ê²½í—˜ 
-â€¢ ì‹œìŠ¤í…œ ì†Œí”„íŠ¸ì›¨ì–´ì— ëŒ€í•œ ì´í•´
-â€¢ ì „ë¬¸ì—°êµ¬ìš”ì› ìš”ê±´
-    - ë³‘ì—­ ë¯¸í•„ìžë¡œ ì„ì‚¬ ì´ìƒ ì¡¸ì—… ë° ì¡¸ì—… ì˜ˆì •ì¸ ë¶„
-    - íƒ€ê¸°ê´€ì— ì „ë¬¸ì—°êµ¬ìš”ì› ìž¬ì§ ì¤‘ ì´ì§ ê°€ëŠ¥í•œ ë¶„","â€¢ CUBRID DBMS ì‚¬ìš© ê²½í—˜
-â€¢ DBMS ê°œë°œ ê²½í—˜
-â€¢ ì‹œìŠ¤í…œ ì†Œí”„íŠ¸ì›¨ì–´ ë˜ëŠ” íŒ¨í‚¤ì§€ ì†Œí”„íŠ¸ì›¨ì–´ ë¶„ì•¼ì—ì„œ 6ê°œì›” ì´ìƒì˜ ì¤‘ìž¥ê¸° ê°œë°œ í”„ë¡œì íŠ¸ ì°¸ì—¬ ê²½í—˜
-â€¢ DBMS ë˜ëŠ” ì»´íŒŒì¼ëŸ¬ ì „ê³µ(ì„ì‚¬ ì´ìƒ)
-â€¢ C/C++/JAVA ì™¸ì— ë‹¤ë¥¸ ì–¸ì–´(PHP, Python, HTML5, JavaScript ë“±) ê°œë°œ ê²½í—˜
-â€¢ ì˜ì–´ë¡œ ê¸°ìˆ  ë¬¸ì„œ ìž‘ì„± ë° íšŒí™” ê°€ëŠ¥ìž",
-DWëª¨ë¸ëŸ¬,ì—ì´ë¸”ì• ë„ë¦¬í‹±ìŠ¤,"â€¢ DW/BI ë¶„ì•¼ ê²½ë ¥ 3ë…„ ì´ìƒ ì´ì‹ ë¶„
-â€¢ DW ê°œë… ë° RDBMSì— ëŒ€í•œ ì´í•´ë„ ë†’ìœ¼ì‹  ë¶„
-â€¢ í’ë¶€í•œ SQL ìž‘ì„± ëŠ¥ë ¥ ë³´ìœ  í•˜ì‹ ë¶„","â€¢ OLAP/ETL íˆ´ ì»¨ì…‰ì— ëŒ€í•œ ì´í•´
-â€¢ Cloud í™˜ê²½ ê²½í—˜
-â€¢ ë°ì´í„° í’ˆì§ˆê´€ë¦¬ ê´€ë ¨ ê²½í—˜
-â€¢ ë°ì´í„° ë¶„ì„ ê´€ë ¨ ìžê²©ì¦ ì†Œì§€ìž
-â€¢ ë°ì´í„° ê¸°ë°˜ ë¬¸ì œí•´ê²°ëŠ¥ë ¥ ë³´ìœ í•˜ì‹  ë¶„
-â€¢ ì˜ì–´ê°€ëŠ¥ìž, í†µê³„ë¶„ì„ëŠ¥ìˆ™ìž, í•´ë‹¹ì§ë¬´ ê·¼ë¬´ê²½í—˜, ì„ì‚¬í•™ìœ„ ìˆ˜ì—¬ìž, ë°•ì‚¬í•™ìœ„ ìˆ˜ì—¬ìž",
-í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œìž,ê°€ì˜¨ì†Œí”„íŠ¸ëž©,â€¢ ê²½ë ¥ 5ë…„ ì´ìƒ í”„ë¡œì íŠ¸ ê²½í—˜ì´ ë§Žìœ¼ì‹  ë¶„,"â€¢ ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ê°€ëŠ¥ìž
-â€¢ ë‹¤ì–‘í•œ ê¸°ìˆ  ë¶„ì•¼ì— ëŒ€í•œ ê´€ì‹¬ê³¼ ê²½í—˜ ë³´ìœ ìž
-â€¢ ìš°ë¦¬ íšŒì‚¬ì˜ ìœ¤ë¦¬ê´€ì€ ""ìƒí˜¸ ê°„ì˜ ì˜ˆì˜""ìž…ë‹ˆë‹¤. ì„œë¡œ ì¡´ì¤‘í•˜ê³ , ì•„ë¼ëŠ” íƒœë„ë¥¼ ë³´ì—¬ì£¼ì‹ ë‹¤ë©´ í™˜ì˜í•©ë‹ˆë‹¤.",
-í´ë¼ì´ì–¸íŠ¸ ê°œë°œìž,ë”ë§ˆë¥´ìŠ¤,"â€¢ Unityë¥¼ ì´ìš©í•œ 3Dê²Œìž„ ê°œë°œ ê²½í—˜
-â€¢ uGUI ê°œë°œ ê²½í—˜","â€¢ MMORPG ê°œë°œ ê²½í—˜
-â€¢ UniRx ì‚¬ìš© ê²½í—˜
-â€¢ê²½ë ¥ 3ë…„ ì´ìƒ",
-í’€ìŠ¤í… ê°œë°œìž(ë³´ì•ˆ),ì§€ì—”,"â€¢ í”„ë¡ íŠ¸ì—”ë“œ or ë°±ì—”ë“œ or í’€ìŠ¤íƒ ê°œë°œ 3ë…„ ì´ìƒì˜ ì‹¤ë¬´ ê²½í—˜
- â€¢ ì£¼ì²´ì ìœ¼ë¡œ ì¼ì„ ë§Œë“¤ê³  ì±…ìž„ê° ìžˆê²Œ ì£¼ë„ í•˜ëŠ” ë¶„
- â€¢ ë™ë£Œì™€ì˜ í˜‘ì—…ì— ëŠ¥ë™ì ì´ê³  í˜‘ì—… íš¨ìœ¨ì— ëŒ€í•´ ì‹ ê²½ ì“°ëŠ” ë¶„","â€¢ IoT ë¶„ì•¼ì— ëŒ€í•œ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„
- â€¢ IT ë³´ì•ˆ ë¶„ì•¼ì— ëŒ€í•œ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„
- â€¢ ê¸°ìˆ /ëª©ì  ì¡°ì§ ë¦¬ë”© ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
- â€¢ ì„œë¹„ìŠ¤ ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„",
-í’€ìŠ¤íƒ ì›¹ ê°œë°œìž (Python/Django),ì›œë¸”ëŸ¬ë“œ,"â€¢ ë°±ì—”ë“œì™€ í”„ë¡ íŠ¸ì—”ë“œë¥¼ êµ¬ë¶„í•˜ì§€ ì•Šê³  ë‘ë£¨ë‘ë£¨ ê´€ì‹¬ì´ ìžˆëŠ” ë¶„
-â€¢ ìœ í–‰í•˜ëŠ” ê¸°ìˆ ì„ ì¶”ì¢…í•˜ê¸°ë³´ë‹¤ëŠ”, ë¬¸ì œë¥¼ í•´ê²°í•˜ëŠ” ì ì • ê¸°ìˆ ì´ë¼ë©´ ìµœì‹ ì´ë“  ì˜¤ëž˜ëœ ê²ƒì´ë“  ê°€ì¹˜ë¥¼ ë‘ëŠ” ë¶„
-â€¢ ê¸°ë³¸ì ì¸ ì˜¤í”ˆ ë§ˆì¼“ì— í•„ìš”í•œ DB ëª¨ë¸ë§ì„ í•˜ì‹¤ ìˆ˜ ìžˆëŠ” ë¶„
-â€¢ Server-side Django, Front-side Javascriptì´ í˜¼í•©ë˜ì–´ ì‚¬ìš©ë˜ëŠ” ë™ìž‘ì„ ì´í•´í•˜ê³  ì‚¬ìš©í•  ìˆ˜ ìžˆëŠ” ë¶„
-â€¢ TailwindCSS ë“± ì—¬ëŸ¬ CSS ë„êµ¬ì˜ ë„ì›€ì„ ë°›ì•„ì„œ, ê¸°íšëœ UI/UXë¥¼ êµ¬í˜„í•  ìˆ˜ ìžˆëŠ” ë¶„
+±â¼ú¹×µµ¸ÞÀÎ REST API","? °³¹ß °æ·Â 3³â ÀÌ»ó
+? ÀÎ°øÁö´É ¹× ¸Ó½Å·¯´× °³¹ß °æÇè º¸À¯",
+SAP ´ã´çÀÚ,ÄÝ¸¶ºñ¾Ø¿¡ÀÌÄ¡,"? ÇÐ»ç ÀÌ»ó
+? °æ¿µÁ¤º¸ÇÐ, ÄÄÇ»ÅÍ°øÇÐ, »ê¾÷°øÇÐ, Á¤º¸Åë½Å µî À¯°ü Àü°ø ÀÌ¼ö","? Á¤º¸Ã³¸® ±â»ç º¸À¯ÀÚ, Àü»êÈ¸°è ÀÚ°Ý º¸À¯
+?SAP ¸ðµâ ÄÁ¼³ÅÏÆ® ÀÚ°Ý º¸À¯ÀÚ
+?SAP ÇÁ·ÎÁ§Æ® ¼öÇà °æÇèÀÚ
+?SAP ¿î¿µ °æÇèÀÚ
+?Á¦¾à/°Ç±â½Ä »ê¾÷ °æÇèÀÚ",
+DBMS ¿£Áø °³¹ß(Àü¹®¿¬±¸¿ä¿ø),Å¥ºê¸®µå,"? Linux È¯°æ¿¡¼­ C/C++/JAVA¸¦ ÀÌ¿ëÇÑ °³¹ß °æÇè 
+? ½Ã½ºÅÛ ¼ÒÇÁÆ®¿þ¾î¿¡ ´ëÇÑ ÀÌÇØ
+? Àü¹®¿¬±¸¿ä¿ø ¿ä°Ç
+    - º´¿ª ¹ÌÇÊÀÚ·Î ¼®»ç ÀÌ»ó Á¹¾÷ ¹× Á¹¾÷ ¿¹Á¤ÀÎ ºÐ
+    - Å¸±â°ü¿¡ Àü¹®¿¬±¸¿ä¿ø ÀçÁ÷ Áß ÀÌÁ÷ °¡´ÉÇÑ ºÐ","? CUBRID DBMS »ç¿ë °æÇè
+? DBMS °³¹ß °æÇè
+? ½Ã½ºÅÛ ¼ÒÇÁÆ®¿þ¾î ¶Ç´Â ÆÐÅ°Áö ¼ÒÇÁÆ®¿þ¾î ºÐ¾ß¿¡¼­ 6°³¿ù ÀÌ»óÀÇ ÁßÀå±â °³¹ß ÇÁ·ÎÁ§Æ® Âü¿© °æÇè
+? DBMS ¶Ç´Â ÄÄÆÄÀÏ·¯ Àü°ø(¼®»ç ÀÌ»ó)
+? C/C++/JAVA ¿Ü¿¡ ´Ù¸¥ ¾ð¾î(PHP, Python, HTML5, JavaScript µî) °³¹ß °æÇè
+? ¿µ¾î·Î ±â¼ú ¹®¼­ ÀÛ¼º ¹× È¸È­ °¡´ÉÀÚ",
+DW¸ðµ¨·¯,¿¡ÀÌºí¾Ö³Î¸®Æ½½º,"? DW/BI ºÐ¾ß °æ·Â 3³â ÀÌ»ó ÀÌ½ÅºÐ
+? DW °³³ä ¹× RDBMS¿¡ ´ëÇÑ ÀÌÇØµµ ³ôÀ¸½Å ºÐ
+? Ç³ºÎÇÑ SQL ÀÛ¼º ´É·Â º¸À¯ ÇÏ½ÅºÐ","? OLAP/ETL Åø ÄÁ¼Á¿¡ ´ëÇÑ ÀÌÇØ
+? Cloud È¯°æ °æÇè
+? µ¥ÀÌÅÍ Ç°Áú°ü¸® °ü·Ã °æÇè
+? µ¥ÀÌÅÍ ºÐ¼® °ü·Ã ÀÚ°ÝÁõ ¼ÒÁöÀÚ
+? µ¥ÀÌÅÍ ±â¹Ý ¹®Á¦ÇØ°á´É·Â º¸À¯ÇÏ½Å ºÐ
+? ¿µ¾î°¡´ÉÀÚ, Åë°èºÐ¼®´É¼÷ÀÚ, ÇØ´çÁ÷¹« ±Ù¹«°æÇè, ¼®»çÇÐÀ§ ¼ö¿©ÀÚ, ¹Ú»çÇÐÀ§ ¼ö¿©ÀÚ",
+ÇÁ·ÐÆ®¿£µå °³¹ßÀÚ,°¡¿Â¼ÒÇÁÆ®·¦,? °æ·Â 5³â ÀÌ»ó ÇÁ·ÎÁ§Æ® °æÇèÀÌ ¸¹À¸½Å ºÐ,"? ¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼Ç °¡´ÉÀÚ
+? ´Ù¾çÇÑ ±â¼ú ºÐ¾ß¿¡ ´ëÇÑ °ü½É°ú °æÇè º¸À¯ÀÚ
+? ¿ì¸® È¸»çÀÇ À±¸®°üÀº ""»óÈ£ °£ÀÇ ¿¹ÀÇ""ÀÔ´Ï´Ù. ¼­·Î Á¸ÁßÇÏ°í, ¾Æ³¢´Â ÅÂµµ¸¦ º¸¿©ÁÖ½Å´Ù¸é È¯¿µÇÕ´Ï´Ù.",
+Å¬¶óÀÌ¾ðÆ® °³¹ßÀÚ,´õ¸¶¸£½º,"? Unity¸¦ ÀÌ¿ëÇÑ 3D°ÔÀÓ °³¹ß °æÇè
+? uGUI °³¹ß °æÇè","? MMORPG °³¹ß °æÇè
+? UniRx »ç¿ë °æÇè
+?°æ·Â 3³â ÀÌ»ó",
+Ç®½ºÅØ °³¹ßÀÚ(º¸¾È),Áö¿£,"? ÇÁ·ÐÆ®¿£µå or ¹é¿£µå or Ç®½ºÅÃ °³¹ß 3³â ÀÌ»óÀÇ ½Ç¹« °æÇè
+ ? ÁÖÃ¼ÀûÀ¸·Î ÀÏÀ» ¸¸µé°í Ã¥ÀÓ°¨ ÀÖ°Ô ÁÖµµ ÇÏ´Â ºÐ
+ ? µ¿·á¿ÍÀÇ Çù¾÷¿¡ ´Éµ¿ÀûÀÌ°í Çù¾÷ È¿À²¿¡ ´ëÇØ ½Å°æ ¾²´Â ºÐ","? IoT ºÐ¾ß¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ
+ ? IT º¸¾È ºÐ¾ß¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ
+ ? ±â¼ú/¸ñÀû Á¶Á÷ ¸®µù °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+ ? ¼­ºñ½º ¿î¿µ °æÇèÀÌ ÀÖÀ¸½Å ºÐ",
+Ç®½ºÅÃ À¥ °³¹ßÀÚ (Python/Django),¿úºí·¯µå,"? ¹é¿£µå¿Í ÇÁ·ÐÆ®¿£µå¸¦ ±¸ºÐÇÏÁö ¾Ê°í µÎ·çµÎ·ç °ü½ÉÀÌ ÀÖ´Â ºÐ
+? À¯ÇàÇÏ´Â ±â¼úÀ» ÃßÁ¾ÇÏ±âº¸´Ù´Â, ¹®Á¦¸¦ ÇØ°áÇÏ´Â ÀûÁ¤ ±â¼úÀÌ¶ó¸é ÃÖ½ÅÀÌµç ¿À·¡µÈ °ÍÀÌµç °¡Ä¡¸¦ µÎ´Â ºÐ
+? ±âº»ÀûÀÎ ¿ÀÇÂ ¸¶ÄÏ¿¡ ÇÊ¿äÇÑ DB ¸ðµ¨¸µÀ» ÇÏ½Ç ¼ö ÀÖ´Â ºÐ
+? Server-side Django, Front-side JavascriptÀÌ È¥ÇÕµÇ¾î »ç¿ëµÇ´Â µ¿ÀÛÀ» ÀÌÇØÇÏ°í »ç¿ëÇÒ ¼ö ÀÖ´Â ºÐ
+? TailwindCSS µî ¿©·¯ CSS µµ±¸ÀÇ µµ¿òÀ» ¹Þ¾Æ¼­, ±âÈ¹µÈ UI/UX¸¦ ±¸ÇöÇÒ ¼ö ÀÖ´Â ºÐ
 
-[ê¸°ìˆ  ìŠ¤íƒ]
-â€¢ Pythonê³¼ Django, Javascriptë¥¼ ì‚¬ìš©í•©ë‹ˆë‹¤.
-â€¢â€¢ ì‚¬ì—… ì´ˆë°˜ì˜ ë¹ ë¥¸ ê°œë°œì„ ìœ„í•´ REST API + SPA êµ¬ì¡° ëŒ€ì‹ , Django template + HTMxë¥¼ ì‚¬ìš©í•©ë‹ˆë‹¤.
-â€¢â€¢ ë¹ ë¥¸ í¼ë¸”ë¦¬ì‹±ì„ ìœ„í•´ TailwindCSSë¥¼ í™œìš©í•©ë‹ˆë‹¤.
-â€¢â€¢ í•˜ì§€ë§Œ, ì‚¬ì—…ì´ ì „ê°œë˜ë©´ì„œ ë‹¤ë¥¸ êµ¬ì¡°ë¡œ ë³€í™”í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
+[±â¼ú ½ºÅÃ]
+? Python°ú Django, Javascript¸¦ »ç¿ëÇÕ´Ï´Ù.
+?? »ç¾÷ ÃÊ¹ÝÀÇ ºü¸¥ °³¹ßÀ» À§ÇØ REST API + SPA ±¸Á¶ ´ë½Å, Django template + HTMx¸¦ »ç¿ëÇÕ´Ï´Ù.
+?? ºü¸¥ ÆÛºí¸®½ÌÀ» À§ÇØ TailwindCSS¸¦ È°¿ëÇÕ´Ï´Ù.
+?? ÇÏÁö¸¸, »ç¾÷ÀÌ Àü°³µÇ¸é¼­ ´Ù¸¥ ±¸Á¶·Î º¯È­ÇÒ ¼ö ÀÖ½À´Ï´Ù.
 
-â€¢ ì„œë¹„ìŠ¤ëŠ” AWS í´ë¼ìš°ë“œìƒì—ì„œ ìš´ì˜í•©ë‹ˆë‹¤.
-â€¢â€¢ ECS, ECR ë“± docker ê¸°ìˆ ê³¼, [GitLab + CodeDeploy]ì„ í†µí•´ CI/CD íŒŒì´í”„ë¼ì¸ì´ êµ¬ì¶•ë˜ì–´ ìžˆìŠµë‹ˆë‹¤.
-â€¢â€¢ DBëŠ” RDS (PostgreSQL)ë¥¼ ì‚¬ìš©í•©ë‹ˆë‹¤.
-â€¢â€¢ ì •ì  ì»¨í…ì¸ ë¥¼ ìœ„í•´ì„œ S3 + CloudFrontë¥¼, ë„ë©”ì¸ ê´€ë¦¬ë¥¼ ìœ„í•´ì„œ Route53 + ACMì„ ì‚¬ìš©í•©ë‹ˆë‹¤.
-â€¢â€¢ ìœ„ ë‚´ìš©ë“¤ì€ CloudFormation (CDK)ì„ ì‚¬ìš©í•˜ì—¬ IaC(Infra-as-a-Code)ê°€ ì ìš©ë˜ì–´ ìžˆìŠµë‹ˆë‹¤.
-â€¢â€¢ ì„œë¹„ìŠ¤ ëª¨ë‹ˆí„°ë§ì„ ìœ„í•´ì„œ Sentryë¥¼ ì‚¬ìš©í•©ë‹ˆë‹¤. (Error monitoring + APM)","[Team Work ê´€ì ì—ì„œ]
-â€¢ ê¸ì •ì ì¸ ë§ˆì¸ë“œì…‹ê³¼ ë°ì€ ì„±ê²©ì„ ê°€ì§€ì‹  ë¶„
-â€¢ ìƒí˜¸ ì¡´ì¤‘í•˜ê³  ë°°ë ¤í•˜ëŠ” ë§ˆìŒì„ ê°€ì§€ì‹  ë¶„
+? ¼­ºñ½º´Â AWS Å¬¶ó¿ìµå»ó¿¡¼­ ¿î¿µÇÕ´Ï´Ù.
+?? ECS, ECR µî docker ±â¼ú°ú, [GitLab + CodeDeploy]À» ÅëÇØ CI/CD ÆÄÀÌÇÁ¶óÀÎÀÌ ±¸ÃàµÇ¾î ÀÖ½À´Ï´Ù.
+?? DB´Â RDS (PostgreSQL)¸¦ »ç¿ëÇÕ´Ï´Ù.
+?? Á¤Àû ÄÁÅÙÃ÷¸¦ À§ÇØ¼­ S3 + CloudFront¸¦, µµ¸ÞÀÎ °ü¸®¸¦ À§ÇØ¼­ Route53 + ACMÀ» »ç¿ëÇÕ´Ï´Ù.
+?? À§ ³»¿ëµéÀº CloudFormation (CDK)À» »ç¿ëÇÏ¿© IaC(Infra-as-a-Code)°¡ Àû¿ëµÇ¾î ÀÖ½À´Ï´Ù.
+?? ¼­ºñ½º ¸ð´ÏÅÍ¸µÀ» À§ÇØ¼­ Sentry¸¦ »ç¿ëÇÕ´Ï´Ù. (Error monitoring + APM)","[Team Work °üÁ¡¿¡¼­]
+? ±àÁ¤ÀûÀÎ ¸¶ÀÎµå¼Â°ú ¹àÀº ¼º°ÝÀ» °¡Áö½Å ºÐ
+? »óÈ£ Á¸ÁßÇÏ°í ¹è·ÁÇÏ´Â ¸¶À½À» °¡Áö½Å ºÐ
 
-[ì—­ëŸ‰ ê´€ì ì—ì„œ]
-â€¢ í° ê·¸ë¦¼ì—ì„œ ì¼ì´ ë˜ê²Œ í•˜ëŠ”, ê³ ê°ì— ëŒ€í•œ í—Œì‹ (commitment)ì˜ ìžì„¸ê°€ ìžˆëŠ” ë¶„
-â€¢ ì„±ìž¥ ë§ˆì¸ë“œì…‹(growth mindset)ì„ ê°€ì§€ì‹  ë¶„
-â€¢ ëŒ€í™”(dialogue)ì™€ í† ë¡ (discusion)ì˜ í•ì´ ë§žëŠ” ë¶„
-â€¢ ì „ë¬¸ì  íƒì›”í•¨(excellency)ì— ëŒ€í•œ ì¶”êµ¬, í˜¸ê¸°ì‹¬ì´ ìžˆëŠ” ë¶„
-â€¢ ì§€ì‹ì— ëŒ€í•œ ê°ˆë§ì„ ê°€ì§€ê³  ì§€ì†ì  í•™ìŠµì„ í•˜ì‹œëŠ” ë¶„
-â€¢ ë©”íƒ€ì¸ì§€ë¥¼ ê°€ì§€ê³  ìžê¸°ì„±ì°°ê³¼ ë‹¤ì‹œ ìƒê°(re-think)í•˜ê³  ê´€ì  ë°”ê¾¸ê¸°ë¥¼ í•˜ì‹¤ ìˆ˜ ìžˆëŠ” ë¶„",
-ë°±ì—”ë“œ ì„œë²„ ê°œë°œìž,ë‹¬ë‹¬í”„ë Œì¦ˆ,"â€¢ ê²½ë ¥ 3ë…„ì´ìƒ ë°±ì—”ë“œ ê°œë°œ ê²½ë ¥ / í•™ë ¥ë¬´ê´€
-â€¢ Java, Spring, Node ë“±ì˜ ë°±ì—”ë“œ ê°œë°œ ìˆ™ë ¨ìž
-â€¢ AWS ë“±ì˜ í´ë¼ìš°ë“œ ê¸°ë°˜ì˜ Server êµ¬ì¶• ê²½í—˜ìž
-â€¢ Git ë“±ì˜ í˜•ìƒê´€ë¦¬íˆ´ì„ í†µí•œ ë²„ì „ ê´€ë¦¬ ìˆ™ë ¨ìž
-â€¢ ê°œë°œìž, ë””ìžì´ë„ˆì™€ì˜ ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ê°€ëŠ¥ìž
-â€¢ í•´ì™¸ ì¶œêµ­ì— ê²°ê²© ì‚¬ìœ ê°€ ì—†ëŠ” ë¶„
-â€¢ í¬íŠ¸í´ë¦¬ì˜¤ ì œì¶œ í•„ìˆ˜","â€¢ í•´ë‹¹ì§ë¬´ ê·¼ë¬´ ê²½í—˜
-â€¢ ì§ë¬´ ê´€ë ¨ ìœ ì‚¬ í¬íŠ¸í´ë¦¬ì˜¤ ë³´ìœ ",
-QA ì—”ì§€ë‹ˆì–´,ì•„ì´ì— ì§€ë² ì´ìŠ¤,"â€¢ ëª¨ë°”ì¼ ì•± 3ë…„ ì´ìƒì˜ QA ì—…ë¬´ ê²½í—˜ í˜¹ì€ ê·¸ì— ì¤€í•˜ëŠ” ì‹¤ë ¥
-â€¢ ë‹¤ì–‘í•œ ì‚¬ìš© ì‹œë‚˜ë¦¬ì˜¤ë¥¼ ì˜ˆìƒí•˜ì—¬ ê¸°íš ë‹¨ê³„ ì„¤ê³„ ì˜¤ë¥˜ì— ëŒ€í•´ ë„ì¶œì´ ê°€ëŠ¥í•˜ì‹  ë¶„
-â€¢ ë™ë£Œì™€ ì†Œí†µí•˜ë©° ì§€ì†ì ìœ¼ë¡œ ì•± ê°œì„ í•˜ëŠ” ê²ƒì„ ì¦ê¸°ì‹œëŠ” ë¶„
-â€¢ ê³„íšì ìœ¼ë¡œ ì¼ì„ ì§„í–‰í•˜ì—¬ ê¼¼ê¼¼í•˜ê²Œ ì²˜ë¦¬í•  ìˆ˜ ìžˆëŠ” ë¶„
-â€¢ ìžì‹ ì´ ë§¡ì€ ë¶„ì•¼ë¥¼ ì£¼ë„ì ìœ¼ë¡œ ì´ëŒì–´ ë‚˜ê°ˆ ìˆ˜ ìžˆëŠ” ë¶„","â€¢ ìžë™í™”ëœ í…ŒìŠ¤íŠ¸ í™˜ê²½ì„ êµ¬ì¶•í•´ë³´ì‹  ë¶„
-â€¢ ë™ì˜ìƒ íŽ¸ì§‘ í”„ë¡œê·¸ëž¨ì— ëŒ€í•œ ì´í•´ë„ê°€ ë†’ì€ ë¶„
-â€¢ Asana, Slack, Notion ì‚¬ìš© ê²½í—˜
-â€¢ ì˜¨ë¼ì¸ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ëŠ¥ë ¥ì´ ë†’ì€ ë¶„
-â€¢ ëª¨ë°”ì¼ ìœ í‹¸ë¦¬í‹° ì•± ê´€ë ¨ ì—…ë¬´ ê²½í—˜",
-ë°ì´í„°ë² ì´ìŠ¤ ì—”ì§€ë‹ˆì–´,ë¯¸ë””ì–´ì›¹,"ã†í•™ë ¥ : í•™ë ¥ë¬´ê´€
+[¿ª·® °üÁ¡¿¡¼­]
+? Å« ±×¸²¿¡¼­ ÀÏÀÌ µÇ°Ô ÇÏ´Â, °í°´¿¡ ´ëÇÑ Çå½Å(commitment)ÀÇ ÀÚ¼¼°¡ ÀÖ´Â ºÐ
+? ¼ºÀå ¸¶ÀÎµå¼Â(growth mindset)À» °¡Áö½Å ºÐ
+? ´ëÈ­(dialogue)¿Í Åä·Ð(discusion)ÀÇ ÇÍÀÌ ¸Â´Â ºÐ
+? Àü¹®Àû Å¹¿ùÇÔ(excellency)¿¡ ´ëÇÑ Ãß±¸, È£±â½ÉÀÌ ÀÖ´Â ºÐ
+? Áö½Ä¿¡ ´ëÇÑ °¥¸ÁÀ» °¡Áö°í Áö¼ÓÀû ÇÐ½ÀÀ» ÇÏ½Ã´Â ºÐ
+? ¸ÞÅ¸ÀÎÁö¸¦ °¡Áö°í ÀÚ±â¼ºÂû°ú ´Ù½Ã »ý°¢(re-think)ÇÏ°í °üÁ¡ ¹Ù²Ù±â¸¦ ÇÏ½Ç ¼ö ÀÖ´Â ºÐ",
+¹é¿£µå ¼­¹ö °³¹ßÀÚ,´Þ´ÞÇÁ·»Áî,"? °æ·Â 3³âÀÌ»ó ¹é¿£µå °³¹ß °æ·Â / ÇÐ·Â¹«°ü
+? Java, Spring, Node µîÀÇ ¹é¿£µå °³¹ß ¼÷·ÃÀÚ
+? AWS µîÀÇ Å¬¶ó¿ìµå ±â¹ÝÀÇ Server ±¸Ãà °æÇèÀÚ
+? Git µîÀÇ Çü»ó°ü¸®ÅøÀ» ÅëÇÑ ¹öÀü °ü¸® ¼÷·ÃÀÚ
+? °³¹ßÀÚ, µðÀÚÀÌ³Ê¿ÍÀÇ ¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼Ç °¡´ÉÀÚ
+? ÇØ¿Ü Ãâ±¹¿¡ °á°Ý »çÀ¯°¡ ¾ø´Â ºÐ
+? Æ÷Æ®Æú¸®¿À Á¦Ãâ ÇÊ¼ö","? ÇØ´çÁ÷¹« ±Ù¹« °æÇè
+? Á÷¹« °ü·Ã À¯»ç Æ÷Æ®Æú¸®¿À º¸À¯",
+QA ¿£Áö´Ï¾î,¾ÆÀÌ¿¥Áöº£ÀÌ½º,"? ¸ð¹ÙÀÏ ¾Û 3³â ÀÌ»óÀÇ QA ¾÷¹« °æÇè È¤Àº ±×¿¡ ÁØÇÏ´Â ½Ç·Â
+? ´Ù¾çÇÑ »ç¿ë ½Ã³ª¸®¿À¸¦ ¿¹»óÇÏ¿© ±âÈ¹ ´Ü°è ¼³°è ¿À·ù¿¡ ´ëÇØ µµÃâÀÌ °¡´ÉÇÏ½Å ºÐ
+? µ¿·á¿Í ¼ÒÅëÇÏ¸ç Áö¼ÓÀûÀ¸·Î ¾Û °³¼±ÇÏ´Â °ÍÀ» Áñ±â½Ã´Â ºÐ
+? °èÈ¹ÀûÀ¸·Î ÀÏÀ» ÁøÇàÇÏ¿© ²Ä²ÄÇÏ°Ô Ã³¸®ÇÒ ¼ö ÀÖ´Â ºÐ
+? ÀÚ½ÅÀÌ ¸ÃÀº ºÐ¾ß¸¦ ÁÖµµÀûÀ¸·Î ÀÌ²ø¾î ³ª°¥ ¼ö ÀÖ´Â ºÐ","? ÀÚµ¿È­µÈ Å×½ºÆ® È¯°æÀ» ±¸ÃàÇØº¸½Å ºÐ
+? µ¿¿µ»ó ÆíÁý ÇÁ·Î±×·¥¿¡ ´ëÇÑ ÀÌÇØµµ°¡ ³ôÀº ºÐ
+? Asana, Slack, Notion »ç¿ë °æÇè
+? ¿Â¶óÀÎ Ä¿¹Â´ÏÄÉÀÌ¼Ç ´É·ÂÀÌ ³ôÀº ºÐ
+? ¸ð¹ÙÀÏ À¯Æ¿¸®Æ¼ ¾Û °ü·Ã ¾÷¹« °æÇè",
+µ¥ÀÌÅÍº£ÀÌ½º ¿£Áö´Ï¾î,¹Ìµð¾îÀ¥,"¤ýÇÐ·Â : ÇÐ·Â¹«°ü
 
-ã†ê²½ë ¥ : ê²½ë ¥2ë…„â†‘","ã†Oracle DBMSì— ëŒ€í•œ ì„¤ì¹˜, ë°±ì—…, ë³µêµ¬, ë§ˆì´ê·¸ë ˆì´ì…˜ë“± ìš´ì˜ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
+¤ý°æ·Â : °æ·Â2³â¡è","¤ýOracle DBMS¿¡ ´ëÇÑ ¼³Ä¡, ¹é¾÷, º¹±¸, ¸¶ÀÌ±×·¹ÀÌ¼Çµî ¿î¿µ°æÇèÀÌ ÀÖÀ¸½Å ºÐ
 
-ã†ê¸°ë³¸ì ì¸ SQLë¬¸ ìž‘ì„±ê³¼ ë¦¬ëˆ…ìŠ¤ ì‰˜ìŠ¤í¬ë¦½íŠ¸ ìž‘ì„±ì´ ê°€ëŠ¥í•˜ì‹  ë¶„
+¤ý±âº»ÀûÀÎ SQL¹® ÀÛ¼º°ú ¸®´ª½º ½©½ºÅ©¸³Æ® ÀÛ¼ºÀÌ °¡´ÉÇÏ½Å ºÐ
 
-ã†Oracle/MySQL/MSSQLë“± DBMS ìš´ì˜ì—…ë¬´ ë‹´ë‹¹",
-AI Engineer / AI Scientist (Senior),ë””ë©”íƒ€,"â€¢ Deep learning, Reinforcement Learning, Computer Vision based Image Processing ê¸°ë°˜ì˜ ì•Œê³ ë¦¬ì¦˜ ë˜ëŠ” ì‹œìŠ¤í…œ ê°œë°œ í”„ë¡œì íŠ¸ ê²½ë ¥ì´ 5ë…„ ì´ìƒì´ì‹  ë¶„(ìœ ê´€ ì „ê³µ ì„ì‚¬ ì´ìƒì¸ ê²½ìš° 3ë…„ ì´ìƒì´ì‹  ë¶„)
-â€¢ PyTorch, TensorFlow ì™€ ê°™ì€ ë¨¸ì‹ ëŸ¬ë‹ í”„ë ˆìž„ì›Œí¬ë¥¼ í•œ ê°€ì§€ ì´ìƒ ëŠ¥ìˆ™í•˜ê²Œ ì‚¬ìš©í•  ìˆ˜ ìžˆìœ¼ì‹  ë¶„
-â€¢ ìµœì‹  ë…¼ë¬¸ì— ëŒ€í•œ ë¹ ë¥¸ ì´í•´ ë° êµ¬í˜„ ëŠ¥ë ¥ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ í˜‘ì—… ë° ì˜ì‚¬ì†Œí†µì´ ì›í™œí•˜ì‹  ë¶„","â€¢ Artificial Intelligence / Computer Science / Data Science / Statistics / Electric Engineering ë“± ì´ Â· ê³µ ê³„ì—´ ë°•ì‚¬ ì´ìƒ í•™ìœ„ ë³´ìœ í•˜ì‹  ë¶„
-â€¢ Deep learning, Reinforcement Learning, Computer Vision based Image Processing ê¸°ë°˜ì˜ ì•Œê³ ë¦¬ì¦˜ ë˜ëŠ” ì‹œìŠ¤í…œ ê°œë°œ í”„ë¡œì íŠ¸ ê²½ë ¥ì´ 7ë…„ ì´ìƒì´ì‹  ë¶„(ìœ ê´€ ì „ê³µ ì„ì‚¬ ì´ìƒì¸ ê²½ìš° 5ë…„ ì´ìƒì´ì‹  ë¶„)
-â€¢ AI, Deep Learning, Machine Learning ê´€ë ¨ ë¶„ì•¼ í•™íšŒ ë…¼ë¬¸ 3íŽ¸ ì´ìƒ ë³´ìœ í•˜ì‹  ë¶„
-â€¢ OpenAI Gym, Rayì™€ ê°™ì€ ê°•í™”í•™ìŠµ í”„ë ˆìž„ì›Œí¬ì— ëŒ€í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ êµí†µ/ë¬¼ë¥˜ ê´€ë ¨ ì˜ˆì¸¡ ë° ìµœì í™” í”„ë¡œì íŠ¸ ê²½í—˜ í˜¹ì€ ì˜ìƒ ê´€ë ¨ í”„ë¡œì íŠ¸ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ë³¸ì¸ì˜ ì˜ì‚¬í‘œí˜„ì„ ê¸€ë¡œì¨ ìž˜ í‘œí˜„í•  ìˆ˜ ìžˆìœ¼ì‹  ë¶„",
-[ì†”ë£¨ì…˜ë³¸ë¶€] IOS ëª¨ë°”ì¼ ì•± ê°œë°œìž,ì¼€ì´ìŠ¤ë§ˆí…,"â€¢ IOS ê°œë°œ 4ë…„ ì´ìƒ
-â€¢ Switft ì–¸ì–´ ë° IOS í”Œëž«í¼ì— ëŒ€í•œ ì´í•´ë„ í•„ìš”
-â€¢ AutoLayoutì— ëŒ€í•œ ì´í•´ë„ í•„ìš”
-â€¢ ëª¨ë°”ì¼ UI/UXì— ëŒ€í•œ ê°œë°œ ê²½í—˜
-â€¢ ìƒˆë¡œìš´ ê¸°ìˆ  íŠ¸ëžœë“œì— ëŒ€í•œ ì§€ì†ì ì¸ ê´€ì‹¬ê³¼ ë°°ì›€ì˜ ìžì„¸","â€¢ Git, Zeplin ë“± í˜‘ì—… íˆ´ ì‚¬ìš© ê²½í—˜
-â€¢ ì•±ìŠ¤í† ì–´ì— IOS ìƒìš© ì–´í”Œë¦¬ì¼€ì´ì…˜ ë°°í¬ ê²½í—˜
-â€¢ ë³´ì•ˆ ê´€ë ¨ ì§€ì‹ ë° ì•”í˜¸ì™€ ì•Œê³ ë¦¬ì¦˜ì— ëŒ€í•œ ì´í•´
-â€¢BLE ê¸°ëŠ¥ ê°œë°œ ìœ ê²½í—˜ìž",
-"C/C++ ê°œë°œìž, ì‘ìš©SWê°œë°œìž",ìš”íŠ¸,"â€¢ í•™ë ¥: ëŒ€ì¡¸ì´ìƒ
-â€¢ ê²½ë ¥: 3ë…„ ì´ìƒ",â€¢ ìœ ê´€ ì†Œí”„íŠ¸ì›¨ì–´ ê°œë°œ ê²½í—˜,
-ASP.NET ê°œë°œìž,ìŠ¤íŒŒì´ë”í¬ëž˜í”„íŠ¸,"- ì¸ì¦ì‹œìŠ¤í…œ(OAuth2)ê°œë°œ ê²½í—˜ìž 
-- ì—°ë™ API ê°œë°œ ê²½í—˜ìž
-- MS-SQL ì‚¬ìš© ê²½í—˜ìž","- ê¸°ì¡´ ì½”ë“œì— ëŒ€í•œ ì´í•´ê°€ ë¹ ë¥´ê³ , ë¬¸ì œ í•´ê²° ëŠ¥ë ¥ê³¼ ë‹¤ë¥¸ íŒŒíŠ¸ì™€ì˜ ì›í™œí•œ í˜‘ì—…ì´ ê°€ëŠ¥í•˜ì‹  ë¶„",
-ëª¨ë°”ì¼ í¼ì¦ê²Œìž„ Server Programmer,í¼ì¦ì›ìŠ¤íŠœë””ì˜¤,"- ê°œë°œ ê²½ë ¥ 4ë…„ ì´ìƒì´ì‹  ë¶„
-- ì£¼ë„ì ìœ¼ë¡œ ë°±ì—”ë“œ ê°œë°œì„ í•œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- RDB ë° nosqlì— ëŒ€í•œ ì´í•´ ë° ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- Docker, kubernetes ë¥¼ ì‚¬ìš©í•œ ì„œë¹„ìŠ¤ ê°œë°œ ë° êµ¬ì¶•, ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„","- ì‚¬ë‚´ìš© í”„ë¡ íŠ¸ìž‘ì—… ê²½í—˜ìž
-- node.js ì‚¬ìš©ìž",
-SW ì‹œí—˜ì¸ì¦ì›,ì—ìŠ¤í‹°ì—ì´í…ŒìŠ¤íŒ…ì»¨ì„¤íŒ…(STA),"â€¢ í•™ë ¥ : ì´ˆëŒ€ì¡¸ ì´ìƒ(2,3ë…„)
-â€¢ ì„±ë³„ : ë¬´ê´€
-â€¢ í•™ë ¥ : ë¬´ê´€","â€¢ ì†Œí”„íŠ¸ì›¨ì–´ ì‹œí—˜ ë° ì¸ì¦ ì—…ë¬´ ê²½í—˜ìž
-â€¢ ì†Œí”„íŠ¸ì›¨ì–´ í…ŒìŠ¤íŠ¸ ê²½í—˜ìž
-â€¢ ISTQB ë° QA ê´€ë ¨ ìžê²©ì¦ ì†Œì§€ìž
-â€¢ ë¦¬ë”(íŒ€ìž¥, ë§¤ë‹ˆì €, íŒŒíŠ¸ ë¦¬ë”) ê²½í—˜ìž",
-Frontend ê°œë°œìž(5ë…„ ì´ìƒ),í‚¤ë…¸ë¼ì´ì¸ ,"- 5ë…„ì°¨ ì´ìƒì˜ ê°œë°œ ê²½ë ¥ ë˜ëŠ” ê·¸ì— ì¤€í•˜ëŠ” ê°œë°œ ì‹¤ë ¥
-- ì›¹ ì„œë¹„ìŠ¤ì— ëŒ€í•œ ì´í•´
-- UI/UXì— ëŒ€í•œ ì´í•´
-- ì›¹ ì‚¬ì´íŠ¸ ìµœì í™”ì— ëŒ€í•œ ì´í•´
-- React ë“±ì˜ framework ì‚¬ìš© ê²½í—˜
-- Recoil, Redux ë“± ìƒíƒœ ê´€ë¦¬ library ì‚¬ìš© ê²½í—˜
-- í…ŒìŠ¤íŠ¸ ìžë™í™” ë˜ëŠ” TDD ê²½í—˜
-- Gitì— ëŒ€í•œ ì´í•´","- Typescript ì‚¬ìš© ê²½í—˜
-- GraphQL ë˜ëŠ” Rest API ì‚¬ìš© ê²½í—˜
-- React native í˜¹ì€ native app ê°œë°œ ê²½í—˜
-- ë°±ì—”ë“œì— ëŒ€í•œ ì´í•´",
-AI Engineer / AI Scientist (Junior),ë””ë©”íƒ€,"â€¢ Python, C++ ë¥¼ ì‚¬ìš©í•˜ì—¬ ì•Œê³ ë¦¬ì¦˜ ë˜ëŠ” ì‹œìŠ¤í…œ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ Artificial Intelligence / Computer Science / Data Science / Statistics / Electric Engineering ë“± ì´ Â· ê³µ ê³„ì—´ í•™ì‚¬ ì´ìƒ í•™ìœ„ ë³´ìœ í•˜ì‹  ë¶„
-â€¢ PyTorch, TensorFlow ì™€ ê°™ì€ ë¨¸ì‹ ëŸ¬ë‹ í”„ë ˆìž„ì›Œí¬ ì‚¬ìš© ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ í˜‘ì—… ë° ì˜ì‚¬ì†Œí†µì´ ì›í™œí•˜ì‹  ë¶„","â€¢ Artificial Intelligence / Computer Science / Data Science / Statistics / Electric Engineering ë“± ì´ Â· ê³µ ê³„ì—´ ì„ì‚¬ ì´ìƒ í•™ìœ„ ë³´ìœ í•˜ì‹  ë¶„ 
-â€¢ Deep learning, Reinforcement Learning, Computer Vision based Image Processing ê¸°ë°˜ì˜ ì•Œê³ ë¦¬ì¦˜ ë˜ëŠ” ì‹œìŠ¤í…œ ê°œë°œ í”„ë¡œì íŠ¸ ê²½ë ¥ì´ ìžˆìœ¼ì‹  ë¶„ 
-â€¢ AI, Deep Learning, Machine Learning ê´€ë ¨ ë¶„ì•¼ í•™íšŒ ë…¼ë¬¸ 1íŽ¸ ì´ìƒ ë³´ìœ í•˜ì‹  ë¶„ 
-â€¢ ìµœì‹  ë…¼ë¬¸ì— ëŒ€í•œ ë¹ ë¥¸ ì´í•´ ë° êµ¬í˜„ ëŠ¥ë ¥ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ êµí†µ/ë¬¼ë¥˜ ê´€ë ¨ ì˜ˆì¸¡ ë° ìµœì í™” í”„ë¡œì íŠ¸ ê²½í—˜ í˜¹ì€ ì˜ìƒ ê´€ë ¨ í”„ë¡œì íŠ¸ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„",
-Back-end ê°œë°œìž,í”¤ë””(ì–´ì¹´ìš´ì¦ˆ),"â€¢   5ë…„ ì´ìƒ Back-end ê°œë°œê²½í—˜ê³¼ í”„ë¡œì íŠ¸ë¥¼ ì²˜ìŒë¶€í„° ëê¹Œì§€ êµ¬ì¶•í•´ ë³´ì‹  ë¶„
-â€¢  JAVA, node.js Spring boot, Spring WebFlux ëŠ¥ìˆ™í•˜ì‹  ë¶„â€¢
-â€¢  Asnyc, Non-blockingì˜ ì´í•´ê°€ ë†’ìœ¼ì‹  ë¶„
-â€¢  AWS Cloud, MSA ì— ëŒ€í•œ ê²½í—˜ ë° ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„
-â€¢ ë°ì´í„° ë² ì´ìŠ¤ ì„¤ê³„ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ìƒˆë¡œìš´ ê¸°ìˆ ì— ê´€ì‹¬ì´ ë§Žê³  ì ìš©í•´ ë³´ëŠ” ê²ƒì„ ì¢‹ì•„í•˜ì‹œëŠ” ë¶„
-â€¢ ê¸°íš/ë””ìžì¸/ê°œë°œ/ìš´ì˜ ë“± ë‹¤ì–‘í•œ ì§êµ°ê³¼ í˜‘ì—…ëŠ¥ë ¥ì„ ê°–ì¶”ì‹  ë¶„",,"['Java', 'Node.js', 'AWS', 'Spring Boot']"
-Backend Developer,ì´ë…¸ë°”ì´ë“œ,"â€¢ ê°œë°œ ê²½ë ¥ì´ 4ë…„ ì´ìƒì´ë©° í˜¹ì€ ì´ì— ì¤€í•˜ëŠ” ì—­ëŸ‰ì„ ê°–ì¶”ì‹  ë¶„
-â€¢ Java(Kotlin), Spring Frameworkë¥¼ í™œìš©í•˜ì—¬ ì›¹ì„œë¹„ìŠ¤ ë° API ì„œë²„ë¥¼ ê°œë°œí•œ ê²½í—˜ì´ ìžˆëŠ” ë¶„ 
-â€¢ Gitì„ ì´ìš©í•˜ì—¬ í˜•ìƒ ê´€ë¦¬ì˜ ê²½í—˜ì´ ìžˆìœ¼ë©°, ë‹¨ìœ„/í†µí•© í…ŒìŠ¤íŠ¸ì— ëŠ¥í•˜ì‹  ë¶„
-â€¢ ë°ì´í„° ë¶„ì„ì„ ìœ„í•œ ì„¤ê³„ì— ëŒ€í•´ ì´í•´ë„ê°€ ë†’ìœ¼ì‹  ë¶„
-â€¢ DDD, í´ë¦° ì•„í‚¤í…ì³, DI, ë””ìžì¸ íŒ¨í„´ì— ê´€ì‹¬ì´ ìžˆëŠ” ë¶„","â€¢ ì˜¨ë¼ì¸ ê²°ì œ ì‹œìŠ¤í…œ ì—°ë™ ë° ìš´ì˜ í˜¹ì€ ì •ì‚° ì‹œìŠ¤í…œ ê°œë°œ ë° ìš´ì˜ ìžˆëŠ” ë¶„
-â€¢ Data Visualization í”„ë¡œì íŠ¸ ìžˆëŠ” ë¶„
-â€¢ ëŒ€ìš©ëŸ‰ íŠ¸ëž˜í”½ ì²˜ë¦¬ë¥¼ ìœ„í•œ Server Architecture ì„¤ê³„ë¥¼ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ ë‹¤ì–‘í•œ ìƒìš© ì„œë¹„ìŠ¤ ê°œë°œ / ìš´ì˜ / íŠ¸ëŸ¬ë¸”ìŠˆíŒ… ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ ë°ì´í„°ë² ì´ìŠ¤ ë“± ì„œë¹„ìŠ¤ ì„±ëŠ¥ ìµœì í™” ê²½í—˜ì´ ìžˆìœ¼ë©´ ì¢‹ì•„ìš”
-â€¢ Github Action, AWS ê¸°ë°˜ì˜ DevOps ê²½í—˜ì´ ìžˆìœ¼ë©´ ì¢‹ì•„ìš”",
-HW ê°œë°œìž,ë„¥ìŠ¤íŠ¸ì˜¨,"â€¢ í†µì‹ (485,TCP/IP ë“± ë‹¤ì–‘í•œ í”„ë¡œí† ì½œ ê²½í—˜ìž)
-â€¢ PLCì—°ë™ í”„ë¡œì íŠ¸ ê²½í—˜ìž","â€¢  ë¼ì´ë¸ŒëŸ¬ë¦¬ ì œìž‘ ê°€ëŠ¥ìž
-â€¢ ìŠ¤ë§ˆíŠ¸íŒœ, ìŠ¤ë§ˆíŠ¸íŒ©í† ë¦¬ ê°œë°œ ê²½í—˜ìž",
-ë°˜ë„ì²´ í†µì‹  í‘œì¤€ ê¸°ë°˜ ë°ì´í„° ìˆ˜ì§‘/ë¶„ì„ ì†”ë£¨ì…˜ ê°œë°œìž - Java ê³ ê¸‰,ë‘í”Œ,"â€¢ Java ê³ ê¸‰
-â€¢ Sprint Boot (Spring Framework)
-â€¢ JVM / GC ì´í•´
-â€¢ Linux ì„œë²„ ìƒíƒœ ë¶„ì„ / ê´€ë¦¬
-â€¢ ë°ì´í„° íŒŒì´í”„ë¼ì¸ êµ¬ì¶• ê²½í—˜ ìš°ëŒ€
-â€¢ Open API ì„¤ê³„ / ê°œë°œ ê²½í—˜ ìš°ëŒ€
-â€¢ MSA ì„¤ê³„ / êµ¬ì¶• ê²½í—˜ ìš°ëŒ€
-â€¢ ë¹Œë“œ / ë°°í¬ ìžë™í™” ê²½í—˜ ìš°ëŒ€
+¤ýOracle/MySQL/MSSQLµî DBMS ¿î¿µ¾÷¹« ´ã´ç",
+AI Engineer / AI Scientist (Senior),µð¸ÞÅ¸,"? Deep learning, Reinforcement Learning, Computer Vision based Image Processing ±â¹ÝÀÇ ¾Ë°í¸®Áò ¶Ç´Â ½Ã½ºÅÛ °³¹ß ÇÁ·ÎÁ§Æ® °æ·ÂÀÌ 5³â ÀÌ»óÀÌ½Å ºÐ(À¯°ü Àü°ø ¼®»ç ÀÌ»óÀÎ °æ¿ì 3³â ÀÌ»óÀÌ½Å ºÐ)
+? PyTorch, TensorFlow ¿Í °°Àº ¸Ó½Å·¯´× ÇÁ·¹ÀÓ¿öÅ©¸¦ ÇÑ °¡Áö ÀÌ»ó ´É¼÷ÇÏ°Ô »ç¿ëÇÒ ¼ö ÀÖÀ¸½Å ºÐ
+? ÃÖ½Å ³í¹®¿¡ ´ëÇÑ ºü¸¥ ÀÌÇØ ¹× ±¸Çö ´É·ÂÀÌ ÀÖÀ¸½Å ºÐ
+? Çù¾÷ ¹× ÀÇ»ç¼ÒÅëÀÌ ¿øÈ°ÇÏ½Å ºÐ","? Artificial Intelligence / Computer Science / Data Science / Statistics / Electric Engineering µî ÀÌ ¡¤ °ø °è¿­ ¹Ú»ç ÀÌ»ó ÇÐÀ§ º¸À¯ÇÏ½Å ºÐ
+? Deep learning, Reinforcement Learning, Computer Vision based Image Processing ±â¹ÝÀÇ ¾Ë°í¸®Áò ¶Ç´Â ½Ã½ºÅÛ °³¹ß ÇÁ·ÎÁ§Æ® °æ·ÂÀÌ 7³â ÀÌ»óÀÌ½Å ºÐ(À¯°ü Àü°ø ¼®»ç ÀÌ»óÀÎ °æ¿ì 5³â ÀÌ»óÀÌ½Å ºÐ)
+? AI, Deep Learning, Machine Learning °ü·Ã ºÐ¾ß ÇÐÈ¸ ³í¹® 3Æí ÀÌ»ó º¸À¯ÇÏ½Å ºÐ
+? OpenAI Gym, Ray¿Í °°Àº °­È­ÇÐ½À ÇÁ·¹ÀÓ¿öÅ©¿¡ ´ëÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ±³Åë/¹°·ù °ü·Ã ¿¹Ãø ¹× ÃÖÀûÈ­ ÇÁ·ÎÁ§Æ® °æÇè È¤Àº ¿µ»ó °ü·Ã ÇÁ·ÎÁ§Æ® °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? º»ÀÎÀÇ ÀÇ»çÇ¥ÇöÀ» ±Û·Î½á Àß Ç¥ÇöÇÒ ¼ö ÀÖÀ¸½Å ºÐ",
+[¼Ö·ç¼Çº»ºÎ] IOS ¸ð¹ÙÀÏ ¾Û °³¹ßÀÚ,ÄÉÀÌ½º¸¶ÅØ,"? IOS °³¹ß 4³â ÀÌ»ó
+? Switft ¾ð¾î ¹× IOS ÇÃ·§Æû¿¡ ´ëÇÑ ÀÌÇØµµ ÇÊ¿ä
+? AutoLayout¿¡ ´ëÇÑ ÀÌÇØµµ ÇÊ¿ä
+? ¸ð¹ÙÀÏ UI/UX¿¡ ´ëÇÑ °³¹ß °æÇè
+? »õ·Î¿î ±â¼ú Æ®·£µå¿¡ ´ëÇÑ Áö¼ÓÀûÀÎ °ü½É°ú ¹è¿òÀÇ ÀÚ¼¼","? Git, Zeplin µî Çù¾÷ Åø »ç¿ë °æÇè
+? ¾Û½ºÅä¾î¿¡ IOS »ó¿ë ¾îÇÃ¸®ÄÉÀÌ¼Ç ¹èÆ÷ °æÇè
+? º¸¾È °ü·Ã Áö½Ä ¹× ¾ÏÈ£¿Í ¾Ë°í¸®Áò¿¡ ´ëÇÑ ÀÌÇØ
+?BLE ±â´É °³¹ß À¯°æÇèÀÚ",
+"C/C++ °³¹ßÀÚ, ÀÀ¿ëSW°³¹ßÀÚ",¿äÆ®,"? ÇÐ·Â: ´ëÁ¹ÀÌ»ó
+? °æ·Â: 3³â ÀÌ»ó",? À¯°ü ¼ÒÇÁÆ®¿þ¾î °³¹ß °æÇè,
+ASP.NET °³¹ßÀÚ,½ºÆÄÀÌ´õÅ©·¡ÇÁÆ®,"- ÀÎÁõ½Ã½ºÅÛ(OAuth2)°³¹ß °æÇèÀÚ 
+- ¿¬µ¿ API °³¹ß °æÇèÀÚ
+- MS-SQL »ç¿ë °æÇèÀÚ","- ±âÁ¸ ÄÚµå¿¡ ´ëÇÑ ÀÌÇØ°¡ ºü¸£°í, ¹®Á¦ ÇØ°á ´É·Â°ú ´Ù¸¥ ÆÄÆ®¿ÍÀÇ ¿øÈ°ÇÑ Çù¾÷ÀÌ °¡´ÉÇÏ½Å ºÐ",
+¸ð¹ÙÀÏ ÆÛÁñ°ÔÀÓ Server Programmer,ÆÛÁñ¿ø½ºÆ©µð¿À,"- °³¹ß °æ·Â 4³â ÀÌ»óÀÌ½Å ºÐ
+- ÁÖµµÀûÀ¸·Î ¹é¿£µå °³¹ßÀ» ÇÑ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- RDB ¹× nosql¿¡ ´ëÇÑ ÀÌÇØ ¹× °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- Docker, kubernetes ¸¦ »ç¿ëÇÑ ¼­ºñ½º °³¹ß ¹× ±¸Ãà, ¿î¿µ °æÇèÀÌ ÀÖÀ¸½Å ºÐ","- »ç³»¿ë ÇÁ·ÐÆ®ÀÛ¾÷ °æÇèÀÚ
+- node.js »ç¿ëÀÚ",
+SW ½ÃÇèÀÎÁõ¿ø,¿¡½ºÆ¼¿¡ÀÌÅ×½ºÆÃÄÁ¼³ÆÃ(STA),"? ÇÐ·Â : ÃÊ´ëÁ¹ ÀÌ»ó(2,3³â)
+? ¼ºº° : ¹«°ü
+? ÇÐ·Â : ¹«°ü","? ¼ÒÇÁÆ®¿þ¾î ½ÃÇè ¹× ÀÎÁõ ¾÷¹« °æÇèÀÚ
+? ¼ÒÇÁÆ®¿þ¾î Å×½ºÆ® °æÇèÀÚ
+? ISTQB ¹× QA °ü·Ã ÀÚ°ÝÁõ ¼ÒÁöÀÚ
+? ¸®´õ(ÆÀÀå, ¸Å´ÏÀú, ÆÄÆ® ¸®´õ) °æÇèÀÚ",
+Frontend °³¹ßÀÚ(5³â ÀÌ»ó),Å°³ë¶óÀÌÃ÷,"- 5³âÂ÷ ÀÌ»óÀÇ °³¹ß °æ·Â ¶Ç´Â ±×¿¡ ÁØÇÏ´Â °³¹ß ½Ç·Â
+- À¥ ¼­ºñ½º¿¡ ´ëÇÑ ÀÌÇØ
+- UI/UX¿¡ ´ëÇÑ ÀÌÇØ
+- À¥ »çÀÌÆ® ÃÖÀûÈ­¿¡ ´ëÇÑ ÀÌÇØ
+- React µîÀÇ framework »ç¿ë °æÇè
+- Recoil, Redux µî »óÅÂ °ü¸® library »ç¿ë °æÇè
+- Å×½ºÆ® ÀÚµ¿È­ ¶Ç´Â TDD °æÇè
+- Git¿¡ ´ëÇÑ ÀÌÇØ","- Typescript »ç¿ë °æÇè
+- GraphQL ¶Ç´Â Rest API »ç¿ë °æÇè
+- React native È¤Àº native app °³¹ß °æÇè
+- ¹é¿£µå¿¡ ´ëÇÑ ÀÌÇØ",
+AI Engineer / AI Scientist (Junior),µð¸ÞÅ¸,"? Python, C++ ¸¦ »ç¿ëÇÏ¿© ¾Ë°í¸®Áò ¶Ç´Â ½Ã½ºÅÛ °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? Artificial Intelligence / Computer Science / Data Science / Statistics / Electric Engineering µî ÀÌ ¡¤ °ø °è¿­ ÇÐ»ç ÀÌ»ó ÇÐÀ§ º¸À¯ÇÏ½Å ºÐ
+? PyTorch, TensorFlow ¿Í °°Àº ¸Ó½Å·¯´× ÇÁ·¹ÀÓ¿öÅ© »ç¿ë °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? Çù¾÷ ¹× ÀÇ»ç¼ÒÅëÀÌ ¿øÈ°ÇÏ½Å ºÐ","? Artificial Intelligence / Computer Science / Data Science / Statistics / Electric Engineering µî ÀÌ ¡¤ °ø °è¿­ ¼®»ç ÀÌ»ó ÇÐÀ§ º¸À¯ÇÏ½Å ºÐ 
+? Deep learning, Reinforcement Learning, Computer Vision based Image Processing ±â¹ÝÀÇ ¾Ë°í¸®Áò ¶Ç´Â ½Ã½ºÅÛ °³¹ß ÇÁ·ÎÁ§Æ® °æ·ÂÀÌ ÀÖÀ¸½Å ºÐ 
+? AI, Deep Learning, Machine Learning °ü·Ã ºÐ¾ß ÇÐÈ¸ ³í¹® 1Æí ÀÌ»ó º¸À¯ÇÏ½Å ºÐ 
+? ÃÖ½Å ³í¹®¿¡ ´ëÇÑ ºü¸¥ ÀÌÇØ ¹× ±¸Çö ´É·ÂÀÌ ÀÖÀ¸½Å ºÐ
+? ±³Åë/¹°·ù °ü·Ã ¿¹Ãø ¹× ÃÖÀûÈ­ ÇÁ·ÎÁ§Æ® °æÇè È¤Àº ¿µ»ó °ü·Ã ÇÁ·ÎÁ§Æ® °æÇèÀÌ ÀÖÀ¸½Å ºÐ",
+Back-end °³¹ßÀÚ,Àgµð(¾îÄ«¿îÁî),"?   5³â ÀÌ»ó Back-end °³¹ß°æÇè°ú ÇÁ·ÎÁ§Æ®¸¦ Ã³À½ºÎÅÍ ³¡±îÁö ±¸ÃàÇØ º¸½Å ºÐ
+?  JAVA, node.js Spring boot, Spring WebFlux ´É¼÷ÇÏ½Å ºÐ?
+?  Asnyc, Non-blockingÀÇ ÀÌÇØ°¡ ³ôÀ¸½Å ºÐ
+?  AWS Cloud, MSA ¿¡ ´ëÇÑ °æÇè ¹× ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ
+? µ¥ÀÌÅÍ º£ÀÌ½º ¼³°è °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? »õ·Î¿î ±â¼ú¿¡ °ü½ÉÀÌ ¸¹°í Àû¿ëÇØ º¸´Â °ÍÀ» ÁÁ¾ÆÇÏ½Ã´Â ºÐ
+? ±âÈ¹/µðÀÚÀÎ/°³¹ß/¿î¿µ µî ´Ù¾çÇÑ Á÷±º°ú Çù¾÷´É·ÂÀ» °®Ãß½Å ºÐ",,"['Java', 'Node.js', 'AWS', 'Spring Boot']"
+Backend Developer,ÀÌ³ë¹ÙÀÌµå,"? °³¹ß °æ·ÂÀÌ 4³â ÀÌ»óÀÌ¸ç È¤Àº ÀÌ¿¡ ÁØÇÏ´Â ¿ª·®À» °®Ãß½Å ºÐ
+? Java(Kotlin), Spring Framework¸¦ È°¿ëÇÏ¿© À¥¼­ºñ½º ¹× API ¼­¹ö¸¦ °³¹ßÇÑ °æÇèÀÌ ÀÖ´Â ºÐ 
+? GitÀ» ÀÌ¿ëÇÏ¿© Çü»ó °ü¸®ÀÇ °æÇèÀÌ ÀÖÀ¸¸ç, ´ÜÀ§/ÅëÇÕ Å×½ºÆ®¿¡ ´ÉÇÏ½Å ºÐ
+? µ¥ÀÌÅÍ ºÐ¼®À» À§ÇÑ ¼³°è¿¡ ´ëÇØ ÀÌÇØµµ°¡ ³ôÀ¸½Å ºÐ
+? DDD, Å¬¸° ¾ÆÅ°ÅØÃÄ, DI, µðÀÚÀÎ ÆÐÅÏ¿¡ °ü½ÉÀÌ ÀÖ´Â ºÐ","? ¿Â¶óÀÎ °áÁ¦ ½Ã½ºÅÛ ¿¬µ¿ ¹× ¿î¿µ È¤Àº Á¤»ê ½Ã½ºÅÛ °³¹ß ¹× ¿î¿µ ÀÖ´Â ºÐ
+? Data Visualization ÇÁ·ÎÁ§Æ® ÀÖ´Â ºÐ
+? ´ë¿ë·® Æ®·¡ÇÈ Ã³¸®¸¦ À§ÇÑ Server Architecture ¼³°è¸¦ °æÇèÀÌ ÀÖ´Â ºÐ
+? ´Ù¾çÇÑ »ó¿ë ¼­ºñ½º °³¹ß / ¿î¿µ / Æ®·¯ºí½´ÆÃ °æÇèÀÌ ÀÖ´Â ºÐ
+? µ¥ÀÌÅÍº£ÀÌ½º µî ¼­ºñ½º ¼º´É ÃÖÀûÈ­ °æÇèÀÌ ÀÖÀ¸¸é ÁÁ¾Æ¿ä
+? Github Action, AWS ±â¹ÝÀÇ DevOps °æÇèÀÌ ÀÖÀ¸¸é ÁÁ¾Æ¿ä",
+HW °³¹ßÀÚ,³Ø½ºÆ®¿Â,"? Åë½Å(485,TCP/IP µî ´Ù¾çÇÑ ÇÁ·ÎÅäÄÝ °æÇèÀÚ)
+? PLC¿¬µ¿ ÇÁ·ÎÁ§Æ® °æÇèÀÚ","?  ¶óÀÌºê·¯¸® Á¦ÀÛ °¡´ÉÀÚ
+? ½º¸¶Æ®ÆÊ, ½º¸¶Æ®ÆÑÅä¸® °³¹ß °æÇèÀÚ",
+¹ÝµµÃ¼ Åë½Å Ç¥ÁØ ±â¹Ý µ¥ÀÌÅÍ ¼öÁý/ºÐ¼® ¼Ö·ç¼Ç °³¹ßÀÚ - Java °í±Þ,µÎÇÃ,"? Java °í±Þ
+? Sprint Boot (Spring Framework)
+? JVM / GC ÀÌÇØ
+? Linux ¼­¹ö »óÅÂ ºÐ¼® / °ü¸®
+? µ¥ÀÌÅÍ ÆÄÀÌÇÁ¶óÀÎ ±¸Ãà °æÇè ¿ì´ë
+? Open API ¼³°è / °³¹ß °æÇè ¿ì´ë
+? MSA ¼³°è / ±¸Ãà °æÇè ¿ì´ë
+? ºôµå / ¹èÆ÷ ÀÚµ¿È­ °æÇè ¿ì´ë
 
-â€¢ TCP/IP, HTTP, Web í™˜ê²½ì— ëŒ€í•œ ì´í•´
-â€¢ ìžë£Œêµ¬ì¡°, ì•Œê³ ë¦¬ì¦˜ ë“± ì „ì‚°í•™ ê¸°ë³¸ ì§€ì‹
-â€¢ ë¹…ë°ì´í„° ë¶„ì„ ì‹œìŠ¤í…œ ê°œë°œ ê²½í—˜ìž
-â€¢ ë°˜ë„ì²´, ë””ìŠ¤í”Œë ˆì´ ê³µìž¥ ìžë™í™”, MES ë° ë¶„ì„ì‹œìŠ¤í…œ êµ¬ì¶• ê²½í—˜ìž ìš°ëŒ€
-â€¢ ë¬¸ì œ ë¶„ì„ ë° í•´ê²°ì— ëŒ€í•œ ì ê·¹ì„±
-â€¢ í˜‘ë ¥ì  ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ëŠ¥ë ¥",,"['Linux', 'Java', 'Spring Framework']"
-React Native í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œìž (2ë…„ ì´ìƒ),í”Œë ˆì ¸,"- CS ê¸°ë³¸ ì§€ì‹ ë³´ìœ 
-- React Native ê°œë°œ ê²½ë ¥ 2ë…„ ì´ìƒ (ì„œë¹„ìŠ¤ ì•± 1ê°œ ì´ìƒ ì¶œì‹œ ê²½í—˜ í•„ìˆ˜)
-- javascript ë“±ì— ëŒ€í•œ ê¸°ë³¸ ì§€ì‹ ë³´ìœ í”Œëž«í¼ ë³„ ì°¨ì´ ë° íë¦„ì„ ì´í•´í•˜ê³  ê·¸ì— ë§žëŠ” íŽ˜ì´ì§€ë¥¼ êµ¬ì„±í•  ìˆ˜ ìžˆëŠ” ë¶„
-- ë‹¤ìŒ í•­ëª© ë“±ì— ëŒ€í•œ ì´í•´ ë³´ìœ  (React hook flow / State, redux / Immutability)
-- ì»´í¬ë„ŒíŠ¸ ì„±ëŠ¥ ìµœì í™”ê°€ ê°€ëŠ¥í•˜ì‹  ë¶„
-- ë¹„ë™ê¸° ì²˜ë¦¬ (async) ì— ëŒ€í•œ ì´í•´ ë³´ìœ 
-- ìƒì†Œí•˜ê±°ë‚˜ ë‚œí•´í•œ ë¬¸ì œì— í˜¸ê¸°ì‹¬ì„ ê°–ê³  ì ê·¹ì ìœ¼ë¡œ ì°¸ì—¬í•˜ì‹œëŠ” ë¶„
-- Gitì„ ì‚¬ìš©í•œ ë²„ì „ ê´€ë¦¬ ë° í˜‘ì—… ê²½í—˜","- Native App ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„ (Android, iOS Native App)
-- Android, IOS ìŠ¤í† ì–´ ë°°í¬ ê²½í—˜
+? TCP/IP, HTTP, Web È¯°æ¿¡ ´ëÇÑ ÀÌÇØ
+? ÀÚ·á±¸Á¶, ¾Ë°í¸®Áò µî Àü»êÇÐ ±âº» Áö½Ä
+? ºòµ¥ÀÌÅÍ ºÐ¼® ½Ã½ºÅÛ °³¹ß °æÇèÀÚ
+? ¹ÝµµÃ¼, µð½ºÇÃ·¹ÀÌ °øÀå ÀÚµ¿È­, MES ¹× ºÐ¼®½Ã½ºÅÛ ±¸Ãà °æÇèÀÚ ¿ì´ë
+? ¹®Á¦ ºÐ¼® ¹× ÇØ°á¿¡ ´ëÇÑ Àû±Ø¼º
+? Çù·ÂÀû Ä¿¹Â´ÏÄÉÀÌ¼Ç ´É·Â",,"['Linux', 'Java', 'Spring Framework']"
+React Native ÇÁ·ÐÆ®¿£µå °³¹ßÀÚ (2³â ÀÌ»ó),ÇÃ·¹Á®,"- CS ±âº» Áö½Ä º¸À¯
+- React Native °³¹ß °æ·Â 2³â ÀÌ»ó (¼­ºñ½º ¾Û 1°³ ÀÌ»ó Ãâ½Ã °æÇè ÇÊ¼ö)
+- javascript µî¿¡ ´ëÇÑ ±âº» Áö½Ä º¸À¯ÇÃ·§Æû º° Â÷ÀÌ ¹× Èå¸§À» ÀÌÇØÇÏ°í ±×¿¡ ¸Â´Â ÆäÀÌÁö¸¦ ±¸¼ºÇÒ ¼ö ÀÖ´Â ºÐ
+- ´ÙÀ½ Ç×¸ñ µî¿¡ ´ëÇÑ ÀÌÇØ º¸À¯ (React hook flow / State, redux / Immutability)
+- ÄÄÆ÷³ÍÆ® ¼º´É ÃÖÀûÈ­°¡ °¡´ÉÇÏ½Å ºÐ
+- ºñµ¿±â Ã³¸® (async) ¿¡ ´ëÇÑ ÀÌÇØ º¸À¯
+- »ý¼ÒÇÏ°Å³ª ³­ÇØÇÑ ¹®Á¦¿¡ È£±â½ÉÀ» °®°í Àû±ØÀûÀ¸·Î Âü¿©ÇÏ½Ã´Â ºÐ
+- GitÀ» »ç¿ëÇÑ ¹öÀü °ü¸® ¹× Çù¾÷ °æÇè","- Native App °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ (Android, iOS Native App)
+- Android, IOS ½ºÅä¾î ¹èÆ÷ °æÇè
 
-[ì¸ìž¬ì˜ìž… í”„ë¡œì„¸ìŠ¤] 
-â€¢ ì„œë¥˜ì „í˜• - 1ì°¨ ì¸í„°ë·° - 2ì°¨ ì¸í„°ë·°(í•„ìš”ì‹œ) - ì²˜ìš°í˜‘ì˜ - ìµœì¢…í•©ê²©
-â€¢ 1ì°¨ ì¸í„°ë·°ëŠ” ì§ë¬´ ì—­ëŸ‰ì„ í™•ì¸í•˜ëŠ” ê¸°ìˆ , ì¡°ì§ ì í•©ì„±ì„ í™•ì¸í•˜ëŠ” ì¸ì„± ì§ˆë¬¸ë“¤ë¡œ êµ¬ì„±ë˜ì–´ìžˆìŠµë‹ˆë‹¤.",
-ë°±ì—”ë“œ ê°œë°œ,ë§Œë‚˜í”Œëž˜ë‹›,"ã†3ë…„ì´ìƒ C# ê°œë°œ ê²½í—˜ì„ ê°€ì§€ì‹  ë¶„
+[ÀÎÀç¿µÀÔ ÇÁ·Î¼¼½º] 
+? ¼­·ùÀüÇü - 1Â÷ ÀÎÅÍºä - 2Â÷ ÀÎÅÍºä(ÇÊ¿ä½Ã) - Ã³¿ìÇùÀÇ - ÃÖÁ¾ÇÕ°Ý
+? 1Â÷ ÀÎÅÍºä´Â Á÷¹« ¿ª·®À» È®ÀÎÇÏ´Â ±â¼ú, Á¶Á÷ ÀûÇÕ¼ºÀ» È®ÀÎÇÏ´Â ÀÎ¼º Áú¹®µé·Î ±¸¼ºµÇ¾îÀÖ½À´Ï´Ù.",
+¹é¿£µå °³¹ß,¸¸³ªÇÃ·¡´Ö,"¤ý3³âÀÌ»ó C# °³¹ß °æÇèÀ» °¡Áö½Å ºÐ
 
-ã†íŒ€ì›ë“¤ê³¼ ì›í• í•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ì´ ê°€ëŠ¥í•˜ì‹  ë¶„
+¤ýÆÀ¿øµé°ú ¿øÇÒÇÑ Ä¿¹Â´ÏÄÉÀÌ¼ÇÀÌ °¡´ÉÇÏ½Å ºÐ
 
-ã†ìŠ¤ìŠ¤ë¡œ í• ì¼ì„ ì •í•˜ê³  ë¬¸ì œë¥¼ í•´ê²°í•  ìˆ˜ ìžˆìœ¼ì‹  ë¶„","ã†Rest APIë¥¼ ì´í•´í•˜ê³  APIë¥¼ ê°œë°œí•  ìˆ˜ ìžˆëŠ” ë¶„
+¤ý½º½º·Î ÇÒÀÏÀ» Á¤ÇÏ°í ¹®Á¦¸¦ ÇØ°áÇÒ ¼ö ÀÖÀ¸½Å ºÐ","¤ýRest API¸¦ ÀÌÇØÇÏ°í API¸¦ °³¹ßÇÒ ¼ö ÀÖ´Â ºÐ
 
-ã†Git, redmine ë“±ì˜ í˜‘ì—… ë„êµ¬ ì‚¬ìš©ì— ìµìˆ™í•˜ì‹  ë¶„
+¤ýGit, redmine µîÀÇ Çù¾÷ µµ±¸ »ç¿ë¿¡ ÀÍ¼÷ÇÏ½Å ºÐ
 
-ã†ë‹¤ì–‘í•œ ì–¸ì–´ì™€ í”„ë ˆìž„ì›Œí¬ë¥¼ ê²½í—˜í•´ ë³´ì‹  ë¶„ 
+¤ý´Ù¾çÇÑ ¾ð¾î¿Í ÇÁ·¹ÀÓ¿öÅ©¸¦ °æÇèÇØ º¸½Å ºÐ 
 
-ã†ìµœì‹  ê¸°ìˆ  íŠ¸ë Œë“œ ì ìš© ë° ê³µìœ ì— ê´€ì‹¬ì´ ë§Žìœ¼ì‹  ë¶„ 
+¤ýÃÖ½Å ±â¼ú Æ®·»µå Àû¿ë ¹× °øÀ¯¿¡ °ü½ÉÀÌ ¸¹À¸½Å ºÐ 
 
-ã†ì½”ë“œ ë¦¬ë·°ì— ì ê·¹ ì°¸ì—¬í•˜ì‹œëŠ” ë¶„",
-í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œìž (3ë…„ ì´ìƒ),ì´í¼ì›ìŠ¤,"ã†ëª¨ë°”ì¼ ì›¹ íŠ¹ì„±ì„ ìž˜ í™œìš©í•œ ê°œë°œê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-ã†HTML5 Canvas ê¸°ë°˜ì˜ íˆ´ì œìž‘ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-ã†JWTë¥¼ ì´ìš©í•œ REST API ì‚¬ìš© ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-ã†React ê¸°ë°˜ì˜ í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œ 3ë…„ ì´ìƒ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„",ã†HTML í¼ë¸”ë¦¬ì‹±ì´ ê°€ëŠ¥í•˜ì‹  ë¶„,
-í•˜ì´ë¸Œë¦¬ë“œì•± Java ì›¹ê°œë°œ,ì—í”„ì—ìŠ¤ì—” ì¹´ìš¸ë¦¬(FSN ì¹´ìš¸ë¦¬),"â€¢ Java, Spring framework (Spring boot í¬í•¨), MyBatis ê²½í—˜ìž
-â€¢ SPA í”„ë ˆìž„ì›Œí¬ (Angular, React) ê²½í—˜ìž
-â€¢ Hybrid/Native App ì„œë¹„ìŠ¤ ê²½í—˜ìž
-â€¢ AWS í™˜ê²½ ê²½í—˜ìž","â€¢ ëª¨ë°”ì¼ UI í”„ë ˆìž„ì›Œí¬ ê²½í—˜ìž
-â€¢ iOS ì•± ê°œë°œ ê²½í—˜ìž",
-ë¦¬ë“œê°œë°œìž,ë„¥ì„œìŠ¤ì›,"* í•„ìš” ê¸°ìˆ  ìŠ¤íƒ
-1. í”„ë¡ íŠ¸ ì—”ë“œ
-    - ì–¸ì–´ Javascript, Typescript, Python
-    - í”„ë ˆìž„ ì›Œí¬ React, NestJS
-    - ë°ì´í„° Visualization
-2. ë°± ì—”ë“œ
-    - AWS lambda í•¨ìˆ˜ ê°œë°œ (Go, Python)
-    - MongoDBë¥¼ í†µí•œ ë°ì´í„° ì²˜ë¦¬
+¤ýÄÚµå ¸®ºä¿¡ Àû±Ø Âü¿©ÇÏ½Ã´Â ºÐ",
+ÇÁ·ÐÆ®¿£µå °³¹ßÀÚ (3³â ÀÌ»ó),ÀÌÆû¿÷½º,"¤ý¸ð¹ÙÀÏ À¥ Æ¯¼ºÀ» Àß È°¿ëÇÑ °³¹ß°æÇèÀÌ ÀÖÀ¸½Å ºÐ
+¤ýHTML5 Canvas ±â¹ÝÀÇ ÅøÁ¦ÀÛ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+¤ýJWT¸¦ ÀÌ¿ëÇÑ REST API »ç¿ë °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+¤ýReact ±â¹ÝÀÇ ÇÁ·ÐÆ®¿£µå °³¹ß 3³â ÀÌ»ó °æÇèÀÌ ÀÖÀ¸½Å ºÐ",¤ýHTML ÆÛºí¸®½ÌÀÌ °¡´ÉÇÏ½Å ºÐ,
+ÇÏÀÌºê¸®µå¾Û Java À¥°³¹ß,¿¡ÇÁ¿¡½º¿£ Ä«¿ï¸®(FSN Ä«¿ï¸®),"? Java, Spring framework (Spring boot Æ÷ÇÔ), MyBatis °æÇèÀÚ
+? SPA ÇÁ·¹ÀÓ¿öÅ© (Angular, React) °æÇèÀÚ
+? Hybrid/Native App ¼­ºñ½º °æÇèÀÚ
+? AWS È¯°æ °æÇèÀÚ","? ¸ð¹ÙÀÏ UI ÇÁ·¹ÀÓ¿öÅ© °æÇèÀÚ
+? iOS ¾Û °³¹ß °æÇèÀÚ",
+¸®µå°³¹ßÀÚ,³Ø¼­½º¿ø,"* ÇÊ¿ä ±â¼ú ½ºÅÃ
+1. ÇÁ·ÐÆ® ¿£µå
+    - ¾ð¾î Javascript, Typescript, Python
+    - ÇÁ·¹ÀÓ ¿öÅ© React, NestJS
+    - µ¥ÀÌÅÍ Visualization
+2. ¹é ¿£µå
+    - AWS lambda ÇÔ¼ö °³¹ß (Go, Python)
+    - MongoDB¸¦ ÅëÇÑ µ¥ÀÌÅÍ Ã³¸®
 
-* ìžê²©ìš”ê±´
-1. 5~8ë…„ì˜ ê°œë°œ ê²½í—˜ì„ ë³´ìœ í•˜ì‹  ë¶„
-2. ë°ì´í„° ê¸°ë°˜ ë¬¸ì œ í•´ê²°í•˜ëŠ” ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-3. React + NestJS í™˜ê²½ì—ì„œ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„","* ìš°ëŒ€ì‚¬í•­
-1. AWS ê¸°ë°˜ ì„œë¹„ìŠ¤ ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-2. ë¸”ë¡ì²´ì¸ ë° íˆ¬ìž ê´€ë ¨ ì§€ì‹ì´ ìžˆìœ¼ì‹  ë¶„
-3. ìŠ¤íƒ€íŠ¸ì—… ë¹Œë“œì—… ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„",
-ì›¹ ì†”ë£¨ì…˜ ê°œë°œìž,íœ´ë…¸,â€¢ 2~7ë…„ ê²½ë ¥ì´ ìžˆìœ¼ì‹  ë¶„,"â€¢ ê´€ë ¨ í•™ê³¼ ìš°ëŒ€
-â€¢ ì •ë³´ì²˜ë¦¬ê¸°ì‚¬ ìš°ëŒ€",
-ì›¹ê°œë°œ,ë² ì´ì½˜,"â€¢ ëŒ€ì¡¸(ì „ë¬¸ëŒ€ì¡¸ í¬í•¨)
-â€¢ ê²½ë ¥ 2ë…„ ì´ìƒ
-â€¢ í•„ìš”ìŠ¤í‚¬ : Java, Spring, Javascript, CSS, MS-SQL, Linux ê¸°ì´ˆì§€ì‹
-â€¢ í•´ì™¸ì¶œìž¥ ê°€ëŠ¥ìž","â€¢ ì™¸êµ­ì–´ : ì¼ë³¸ì–´ê°€ëŠ¥ìž ìš°ëŒ€ (JLPT 3ê¸‰ì´ìƒ), ì˜ì–´ ê°€ëŠ¥ìž ìš°ëŒ€
-â€¢ ì»´í“¨í„° ê´€ë ¨í•™ê³¼ ì „ê³µìž ë˜ëŠ” êµìœ¡ì´ìˆ˜ìž (ì •ë³´í†µì‹ ê´€ë ¨) ìš°ëŒ€",
-í•˜ë“œì›¨ì–´ ê°œë°œìž,í´ë¦°ì¼ë ‰ìŠ¤,"â€¢ HW ê°œë°œ ê²½ë ¥ 5ë…„ ì´ìƒ
-â€¢ ìž„ë² ë””ìŠ¤ (STM MCU, ARM CPU) ì„¤ê³„ ìœ  ê²½í—˜ìž
-â€¢ Orcad or PADs ì‚¬ìš© ê°€ëŠ¥ìž
-â€¢ ì œí’ˆ ì–‘ì‚° ìœ  ê²½í—˜ìž","â€¢ ì¶©ì „ê¸° ì—…ì²´ ê·¼ë¬´ ê²½ë ¥ (2ë…„ì´ìƒ)
-â€¢ F/W Coding ìœ  ê²½í—˜  
-â€¢ PM (Project Maniging) ê²½í—˜ìž
-â€¢ ì–´í•™ (ì˜ì–´/ì¤‘êµ­ì–´/ì¼ë³¸ì–´) ì†Œí†µ ê°€ëŠ¥",
-í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œìž,ì—í”¼ì†Œë“ ,"[ì €í¬ê°€ ì°¾ê³ ìžˆëŠ” í”„ë¡ íŠ¸ì—”ë“œ ì‹œë‹ˆì–´ ê°œë°œìž ë¶„ì€]
+* ÀÚ°Ý¿ä°Ç
+1. 5~8³âÀÇ °³¹ß °æÇèÀ» º¸À¯ÇÏ½Å ºÐ
+2. µ¥ÀÌÅÍ ±â¹Ý ¹®Á¦ ÇØ°áÇÏ´Â °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+3. React + NestJS È¯°æ¿¡¼­ °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ","* ¿ì´ë»çÇ×
+1. AWS ±â¹Ý ¼­ºñ½º ¿î¿µ °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+2. ºí·ÏÃ¼ÀÎ ¹× ÅõÀÚ °ü·Ã Áö½ÄÀÌ ÀÖÀ¸½Å ºÐ
+3. ½ºÅ¸Æ®¾÷ ºôµå¾÷ °æÇèÀÌ ÀÖÀ¸½Å ºÐ",
+À¥ ¼Ö·ç¼Ç °³¹ßÀÚ,ÈÞ³ë,? 2~7³â °æ·ÂÀÌ ÀÖÀ¸½Å ºÐ,"? °ü·Ã ÇÐ°ú ¿ì´ë
+? Á¤º¸Ã³¸®±â»ç ¿ì´ë",
+À¥°³¹ß,º£ÀÌÄÜ,"? ´ëÁ¹(Àü¹®´ëÁ¹ Æ÷ÇÔ)
+? °æ·Â 2³â ÀÌ»ó
+? ÇÊ¿ä½ºÅ³ : Java, Spring, Javascript, CSS, MS-SQL, Linux ±âÃÊÁö½Ä
+? ÇØ¿ÜÃâÀå °¡´ÉÀÚ","? ¿Ü±¹¾î : ÀÏº»¾î°¡´ÉÀÚ ¿ì´ë (JLPT 3±ÞÀÌ»ó), ¿µ¾î °¡´ÉÀÚ ¿ì´ë
+? ÄÄÇ»ÅÍ °ü·ÃÇÐ°ú Àü°øÀÚ ¶Ç´Â ±³À°ÀÌ¼öÀÚ (Á¤º¸Åë½Å°ü·Ã) ¿ì´ë",
+ÇÏµå¿þ¾î °³¹ßÀÚ,Å¬¸°ÀÏ·º½º,"? HW °³¹ß °æ·Â 5³â ÀÌ»ó
+? ÀÓº£µð½º (STM MCU, ARM CPU) ¼³°è À¯ °æÇèÀÚ
+? Orcad or PADs »ç¿ë °¡´ÉÀÚ
+? Á¦Ç° ¾ç»ê À¯ °æÇèÀÚ","? ÃæÀü±â ¾÷Ã¼ ±Ù¹« °æ·Â (2³âÀÌ»ó)
+? F/W Coding À¯ °æÇè  
+? PM (Project Maniging) °æÇèÀÚ
+? ¾îÇÐ (¿µ¾î/Áß±¹¾î/ÀÏº»¾î) ¼ÒÅë °¡´É",
+ÇÁ·ÐÆ®¿£µå °³¹ßÀÚ,¿¡ÇÇ¼Òµç,"[ÀúÈñ°¡ Ã£°íÀÖ´Â ÇÁ·ÐÆ®¿£µå ½Ã´Ï¾î °³¹ßÀÚ ºÐÀº]
 
-â€¢ React, NextJSë¡œ ì›¹ì„œë¹„ìŠ¤ë¥¼ 5ë…„ ì´ìƒ ê°œë°œí•œ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ WebRTC ê¸°ìˆ ì„ ì´ìš©í•´ í™”ìƒ ì›¹ì„œë¹„ìŠ¤ë¥¼ ê°œë°œí•œ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ SDP, ICE_CANDIDATE, STUN, TURN ë“± ìŠ¤íŒ©ì„ ì´í•´í•˜ê³  íŠœë‹í•œ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ Reactë¡œ ìŠ¤íŠ¸ë¦¼ ì˜ìƒë¥¼ ìœ„í•œ ì»´í¬ë„ŒíŠ¸ë¥¼ ê°œë°œí•œ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-â€¢ React ì»´í¬ë„ŒíŠ¸ êµ¬ì¡°ë¥¼ ì„¤ê³„í•˜ê³  íŠœë‹í•´ ë³¸ ê²½í—˜ì´ ìžˆëŠ” ë¶„","â€¢ ë§¤ë„ëŸ¬ìš´ í˜‘ì—…, ìžì‹ ì´ ë” ì£¼ë³€ ì‚¬ëžŒë“¤ê³¼ ìž˜ ì†Œí†µí•˜ê³  ì–´ìš¸ë¦°ë‹¤ê³  ìƒê°í•˜ëŠ” ì‚¬ëžŒì´ë©´ ë” ì¢‹ìŠµë‹ˆë‹¤.
-â€¢ Node.js í™˜ê²½ì—ì„œ Next.jsê°™ì€ í”Œëž«í¼ì„ ì‚¬ìš©í•´ ë°±ì—”ë“œ ê°œë°œ ê²½í—˜ì´ ìžˆëŠ” ë¶„ì´ë©´ ë” ì¢‹ìŠµë‹ˆë‹¤.
-â€¢ Webpack, Lint ë“±ì„ ì´ìš©í•œ ê°œë°œ í™˜ê²½ êµ¬ì„± ê²½í—˜ì´ ìžˆëŠ” ë¶„ì´ë©´ ë” ì¢‹ìŠµë‹ˆë‹¤.
-â€¢ íŠ¸ëž˜í”½ì´ ë§Žì€ ì›¹ì„œë¹„ìŠ¤ ë˜ëŠ” ì¸ì•±ë¸Œë¼ìš°ì € ì§€ë©´ ê°œë°œ ê²½í—˜ì´ ìžˆëŠ” ë¶„ì´ë©´ ë” ì¢‹ìŠµë‹ˆë‹¤.
-â€¢ TypeScript ê°œë°œ ë° ìš´ì˜ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„ì´ë©´ ë” ì¢‹ìŠµë‹ˆë‹¤.
-â€¢ íŽ˜ì–´ ì½”ë”© ë° ì½”ë“œ ë¦¬ë·° ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„ì´ë©´ ë” ì¢‹ìŠµë‹ˆë‹¤.
-â€¢ ì›¹ì‚¬ì´íŠ¸ ì„±ëŠ¥ ì¸¡ì • ë° ìµœì í™” ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„ì´ë©´ ë” ì¢‹ìŠµë‹ˆë‹¤.
-â€¢ ì›¹ì‚¬ì´íŠ¸ ë³´ì•ˆì— ëŒ€í•œ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„ì´ë©´ ë” ì¢‹ìŠµë‹ˆë‹¤.
-â€¢ JavaScript ê´€ë ¨ ì˜¤í”ˆ ì†ŒìŠ¤ ê¸°ì—¬ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„ì´ë©´ ë” ì¢‹ìŠµë‹ˆë‹¤.",
-ì‘ìš©ì†Œí”„íŠ¸ì›¨ì–´ ê°œë°œìž,ì‚¼ìš°ì´ë¨¸ì…˜,â€¢ C++ ê¸°ë°˜ ì‘ìš©í”„ë¡œê·¸ëž¨ ê°œë°œ ë˜ëŠ” C# (WinForm ë˜ëŠ”  WPF) ê¸°ë°˜ ê°œë°œ,"â€¢ ì»´í“¨í„° ê³µí•™ ê´€ë ¨ ì „ê³µ
-â€¢ ê²½ë ¥ ìš°ëŒ€
-â€¢ ì‘ìš©ì†Œí”„íŠ¸ì›¨ì–´ ê´€ë ¨ ê°œë°œ ê²½í—˜ ìš°ëŒ€
-â€¢ CAN, OPCê´€ë ¨ í†µì‹  ê°œë°œ ê²½í—˜ ìš°ëŒ€",
-[ì „ë¬¸ì—°êµ¬ìš”ì› ì§€ì›ê°€ëŠ¥] B2B SaaS ì›¹ ê°œë°œìž,ì—”ì¸ ,"- ES6+ Javascript ë° React ê°œë°œ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-- Linux, DB, HTTP, REST API ë“±ì— ëŒ€í•œ ê¸°ë³¸ì ì¸ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„
-- Git ë“± ë¶„ì‚° ë²„ì „ ê´€ë¦¬(SCM) ì‹œìŠ¤í…œì„ ì´ìš©í•œ í˜‘ì—… ê²½í—˜ì´ ìžˆëŠ” ë¶„
-- 1ê°œ ì¢…ë¥˜ ì´ìƒì˜ ë°ì´í„°ë² ì´ìŠ¤ ì‚¬ìš© ê²½í—˜ì„ ê°€ì§€ê³  ê³„ì‹  ë¶„
-- ì›¹ ê¸°ìˆ ì— ëŒ€í•œ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„
-- ìŠ¤íƒ€íŠ¸ì—…ì—ì„œë§Œ í•  ìˆ˜ ìžˆëŠ” ìƒˆë¡œìš´ ê²½í—˜ì„ í†µí•´ í•¨ê»˜ ì„±ìž¥í•˜ê³ ìž í•˜ëŠ” ë¶„
-- [!] ì „ë¬¸ì—°êµ¬ìš”ì› ì§€ì› ê°€ëŠ¥","- TypeScriptë¥¼ ëŠ¥ìˆ™í•˜ê²Œ ë‹¤ë£° ìˆ˜ ìžˆëŠ” ë¶„
-- FastAPI, Sanic ë“± ASGI í”„ë ˆìž„ì›Œí¬ë¥¼ ì‚¬ìš©í•œ ê²½í—˜ì´ ìžˆëŠ” ë¶„
-- ì½”ë“œë¦¬ë·°ì™€ í…ŒìŠ¤íŠ¸ì½”ë“œ ìž‘ì„± ëŠ¥ë ¥ì´ ìžˆìœ¼ì‹  ë¶„
-- ì‹¤ì œ ì œí’ˆ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- IT ê¸°ìˆ ì„ ì´ìš©í•´ íƒ„ì†Œì¤‘ë¦½ ë¬¸ì œë¥¼ í•´ê²°í•˜ëŠ” ë°ì— ê¸°ì—¬í•˜ê³  ì‹¶ìœ¼ì‹  ë¶„
-- ë¬´ì—‡ë³´ë‹¤ ì„±ìž¥í•˜ëŠ” ìŠ¤íƒ€íŠ¸ì—…ì—ì„œ í•¨ê»˜ ì„±ìž¥í•˜ë©° íƒ„ì†Œì¤‘ë¦½ ë¬¸ì œë¥¼ í‘¸ëŠ”ë°ì— ê¸°ì—¬í•˜ê³  ì‹¶ìœ¼ì‹  ê°œë°œìžë¥¼ ì°¾ìŠµë‹ˆë‹¤!",
-ìˆ˜í–‰PM ê¸°ìˆ ì§€ì›,ì„¼ìŠ¤í†¤,"â€¢OS(Linux, Windows), Middlware(tomcat), DBMS(MySQL, MS_SQL)ì— ëŒ€í•œ ê¸°ë³¸ì§€ì‹ ì†Œìœ ìž
-â€¢ PM/PL ìˆ˜í–‰ ê²½ë ¥ìž
-â€¢ ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ëŠ¥ë ¥ ë³´ìœ ìž (ê³ ê°ì‚¬ ê´€ë¦¬)","â€¢ PM/PL ê²½ë ¥ ìš°ëŒ€
-â€¢ë‹¤ì–‘í•œ WAS( JEUS, WebLogic, Jboss, Tomcat, WebSphere ë“± ) ì‚¬ìš© ê²½í—˜ ìš°ëŒ€
-â€¢ë‹¤ì–‘í•œ DBMS( Oracle, Tibero, Mysql, Mssql ë“± ) ì‚¬ìš© ê²½í—˜ ìš°ëŒ€
-â€¢JAVA ê°œë°œ ê²½í—˜ ìš°ëŒ€",
-"AI ì•Œê³ ë¦¬ì¦˜ ì„¤ê³„, ë”¥ëŸ¬ë‹/ë¨¸ë‹ëŸ¬ë‹",í”Œëžœí‹°ë„·,"â€¢ ë”¥ëŸ¬ë‹/ë¨¸ì‹ ëŸ¬ë‹ ë¶„ì•¼ ì•Œê³ ë¦¬ì¦˜ ì—°êµ¬ ê°œë°œ ê²½í—˜
-â€¢ ì´ë¯¸ì§€ ë° í…ìŠ¤íŠ¸ ì¸ì‹ê³¼ ì´í•´ë¥¼ ìœ„í•œ ìµœì‹  ì¸ê³µì§€ëŠ¥ ëª¨ë¸ì˜ ë¶„ì„ ë° êµ¬í˜„ ê²½
-â€¢ ë¨¸ì‹ ëŸ¬ë‹/ë”¥ëŸ¬ë‹ ì‘ìš© í”„ë¡œê·¸ëž¨ ê°œë°œ ê²½í—˜","â€¢ ê´€ë ¨ ë¶„ì•¼ ë˜ëŠ” ìˆ˜í•™ê³¼ í•™ë¶€ ì „ê³µ
-â€¢ ìµœì²¨ë‹¨ ë”¥ ëŸ¬ë‹ ì´ë¡ , ê¸°ìˆ , ì•„í‚¤í…ì²˜ ë° ìµœì í™” ì „ëžµì— ëŒ€í•œ ì´í•´
-â€¢ ë”¥ëŸ¬ë‹ ë¶„ì•¼ ì„ì‚¬ í•™ìœ„
-â€¢ ë¨¸ì‹  ëŸ¬ë‹ ë…¼ë¬¸ ì¶œíŒ ë˜ëŠ” ì½˜í…ŒìŠ¤íŠ¸ ìš°ìŠ¹ ê²½í—˜
-â€¢ Linux í™˜ê²½ì—ì„œ í”„ë¡œê·¸ëž˜ë° ë° í…ŒìŠ¤íŠ¸ ê²½í—˜
-â€¢ ìš°ìˆ˜í•œ ë¬¸ì œ í•´ê²° ë° ì•Œê³ ë¦¬ì¦˜ ì„¤ê³„ ê¸°ìˆ  ê´€ë ¨ í¬íŠ¸í´ë¦¬ì˜¤ ì œì¶œìž",
-ì•…ì„±ì½”ë“œ ë¶„ì„ ì—”ì§€ë‹ˆì–´,í”Œëžœí‹°ë„·,"â€¢ ê´€ë ¨ ë¶„ì•¼ 7ë…„ ì´ìƒ (ì°¨ìž¥, ë¶€ìž¥ ê¸‰) 
-â€¢ ì•…ì„±ì½”ë“œ ë¶„ì„(ì •ì /ë™ì ), ì·¨ì•½ì  ë¶„ì„ ë“± ê´€ë ¨ ì—…ë¬´ ìˆ˜í–‰ ê²½í—˜ìž
-â€¢ ë‹¤ì–‘í•œ íŒŒì¼ í¬ë§·ì˜ ì•…ì„±ì½”ë“œ ë¶„ì„ ê²½í—˜ìž
-â€¢ ë¦¬ë²„ìŠ¤ ì—”ì§€ë‹ˆì–´ë§(OllyDBG, IDA, WinDBG) í™œìš© ê°€ëŠ¥ìž
-â€¢ ìœˆë„ìš° ë° ë¦¬ëˆ…ìŠ¤, ë„¤íŠ¸ì›Œí¬ ê´€ë ¨ ê¸°ë³¸ ì§€ì‹ ë³´ìœ ìž","â€¢ êµ­ë‚´ì™¸ í•´í‚¹ëŒ€íšŒ ìž…ìƒìž
-â€¢ ê´€ë ¨ í”„ë¡œì íŠ¸ íˆ¬ìž… ìœ ê²½í—˜ìž
-â€¢ ì •ë³´ë³´í˜¸ ê´€ë ¨ ì „ë¬¸ êµìœ¡ ìˆ˜ë£Œìž
-â€¢ ìžì²´ ë¶„ì„ ê¸°ìˆ  ë³´ìœ ìž
-â€¢ IT ê´€ë ¨ ìžê²©ì¦ ë³´ìœ 
-â€¢ ëª¨ì˜í•´í‚¹ ê°€ëŠ¥ìž
-â€¢ ì·¨ì•½ì  ì ê²€ ê°€ëŠ¥ìž
-â€¢ ë³´ì•ˆê´€ë ¨ ìžê²©ì¦ (ì •ë³´ë³´ì•ˆê¸°ì‚¬, CISA, CISSP ë“±) ì†Œì§€ìž",
-VRê°œë°œìž,ì‚¼ìš°ì´ë¨¸ì…˜,"â€¢ ì£¼ ì‚¬ìš© ì–¸ì–´ë¥¼ ì´ìš©í•œ SWê°œë°œ ëŠ¥ë ¥
-â€¢ Unity, Unreal Engine ë“± ìƒìš©ì—”ì§„ì„ ì´ìš©í•œ ê°œë°œ ëŠ¥ë ¥
-â€¢ Socket ë˜ëŠ” ìƒìš© ì†”ë£¨ì…˜ì„ ì´ìš©í•œ ë„¤íŠ¸ì›Œí¬ í”„ë¡œê·¸ëž˜ë° ëŠ¥ë ¥",,
-Java ê¸°ë°˜ ë°±ì—”ë“œ ê°œë°œìž,ì—ì´ì—”ë“œ,"â€¢ ì›¹/ì•± ê°œë°œ 7ë…„ ì´ìƒ ê²½ë ¥ìž
-â€¢ SpringBoot, Mybatis, DBMS í™œìš© ê°œë°œ ê°€ëŠ¥ìž
-â€¢ DB ë¶„ì„ ë° ì„¤ê³„ ê°€ëŠ¥ìž
-â€¢ ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ëŠ¥ë ¥ì„ ê°€ì§€ì‹  ë¶„","â€¢ react.js, vue.js ë“± ë‹¤ë¥¸ ê°œë°œ ì–¸ì–´ì— ê´€ì‹¬ ë§Žìœ¼ì‹  ë¶„
-â€¢ WEB, WAS, DB ë“± ì„œë²„ ì„¤ì¹˜ ë° ìš´ì˜ ê°€ëŠ¥í•˜ì‹  ë¶„
-â€¢ ì•„í‚¤í…ì³ ì„¤ê³„ ê°€ëŠ¥í•˜ì‹ ë¶„",
-SI/JAVA/ê³µê³µ ì›¹ ê°œë°œìž (5ë…„ ì´ìƒ),ì—‘ì…ˆ,"â€¢ ê²½ë ¥ : 5ë…„ ì´ìƒ           
-â€¢ JAVA, jsp ê°œë°œ ë° ìœ ì§€ë³´ìˆ˜
-â€¢ HTML, CSS, javascript, jqueryë“±ì˜ ì „ë¬¸ ì§€ì‹ ë³´ìœ  ë° ê°œë°œ ê²½í—˜ìž","â€¢ ì „ìžì •ë¶€í”„ë ˆìž„ì›Œí¬ ê²½í—˜ìž ìš°ëŒ€
-â€¢ ë¶„ì„/ì„¤ê³„ ê²½í—˜ìž ìš°ëŒ€
-â€¢ PM/PL ê²½í—˜ìž ìš°ëŒ€
-â€¢ ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ìŠ¤í‚¬",
-Backend Senior Engineer (Kotlin/Spring),ì½”ë¹„ê·¸ë£¹,"- ê´‘ê³  í”Œëž«í¼ ê°œë°œ ê²½í—˜ í•„ìˆ˜
-- AD-Techì— ëŒ€í•œ ì´í•´ í•„ìˆ˜
-- Java, Kotlin, Spring í”„ë ˆìž„ì›Œí¬, JPAì— ëŒ€í•œ ì´í•´
-- AWSì˜ ì„œë¹„ìŠ¤(EC2, S3, CloudFront, RDS ë“±)ë¥¼ ë°”íƒ•ìœ¼ë¡œ í•œ ê°œë°œ ê²½í—˜
-- MySQL DB ì„¤ê³„, ê´€ë¦¬ ê²½í—˜ (í…Œì´ë¸” ì„¤ê³„, ìµœì í™”, ë°±ì—… ë° ë³µêµ¬)
-- Linux ê¸°ë³¸ì ì¸ ê´€ë¦¬ (ê¸°ë³¸ ëª…ë ¹ì–´, ì‰˜ ìŠ¤í¬ë¦½íŠ¸ ë“±)
-- ì›í™œí•œ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ë° í˜‘ì—… ëŠ¥ë ¥
-- ìƒˆë¡œìš´ ê¸°ìˆ , í™˜ê²½ì— ëŒ€í•œ ì˜¤í”ˆ ë§ˆì¸ë“œë¥¼ ê°€ì§€ì‹  ë¶„","- TDD ê¸°ë°˜ ê°œë°œ ê²½í—˜
-- ëŒ€ìš©ëŸ‰ íŠ¸ë ˆí”½ ì²˜ë¦¬ ê²½í—˜",
-C# ë°±ì—”ë“œ ê°œë°œìž,ì˜¥ì…˜ì›,"â€¢ C# ê¸°ë°˜ ë°ì´í„° ìˆ˜ì§‘ ê²½ë ¥
-â€¢ PHP, SQL ì›¹ê°œë°œ ê²½ë ¥
-â€¢ ì–´í”Œ ê°œë°œ ê²½ë ¥","â€¢ ìžë™ ìˆ˜ì§‘ ì‹œìŠ¤í…œ ê²½ë ¥ìž
-â€¢ ìœˆë„ìš° ê¸°ë°˜ ê°€ìƒ ë¨¸ì‹  ìš´ì˜ ê°€ëŠ¥ìž
-â€¢  SQL ë° ì •ê·œì‹ ê°€ëŠ¥ìž",
-"SW ê°œë°œìž(C, C++)",ë™ìš°ì „ê¸°,"HTTP, RESTful API í´ë¼ì´ì–¸íŠ¸ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-Git, Jira, Confluence ë“±ì˜ í˜‘ì—… ë„êµ¬ ì‚¬ìš© ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-(C , JNI ) ê°œë°œ ê²½í—˜ìžë¡œ ì‹¤ë¬´ 3ë…„ ì´ìƒ ë˜ëŠ” ê·¸ì— ì¤€í•˜ëŠ” ì—­ëŸ‰ì„ ë³´ìœ í•˜ì‹  ë¶„
-ë„¤íŠ¸ì› í”„ë¡œê·¸ëž˜ë° ê²½í—˜ìž","- TCP/IP ì— ëŒ€í•œ ì§€ì‹ì´ í’ë¶€í•˜ì‹  ë¶„
-- Window í™˜ê²½ì—ì„œ ì›¹ ì–´í”Œë¦¬ì¼€ì´ì…˜ ê°œë°œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-- êµ­ì œ í‘œì¤€ì„ ë°”íƒ•ìœ¼ë¡œ Product ë¥¼ ê°œë°œ í•´ ë³´ì‹  ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„",
-ê°œë°œìž,ì›¨ì´ì»¤ìŠ¤,â€¢ ê²½ë ¥ 3ë…„ ì´ìƒ (3ë…„ ë¯¸ë§Œì˜ ê²½ë ¥ìžì˜ ê²½ìš° í˜‘ì˜ í•„ìš”),"â€¢ BLE/Wi-Fiê¸°ë°˜ ìŠ¤ë§ˆíŠ¸í™ˆ ê¸°ê¸° ê°œë°œìž 
-â€¢ R&D ê¸°íš ë° ìš´ì˜ ê²½í—˜ìž",
-ì„œë²„ê°œë°œìž,ë””ì–´ë¼ìš´ë“œ,"#Node.js í•„ìˆ˜ìž…ë‹ˆë‹¤.
-#ë°±ì—”ë“œ ì—…ë¬´ ê²½ë ¥ 1ë…„ ì´ìƒ ë˜ì‹œëŠ” ë¶„ë“¤ ì§€ì› ë¶€íƒë“œë¦½ë‹ˆë‹¤. 
+? React, NextJS·Î À¥¼­ºñ½º¸¦ 5³â ÀÌ»ó °³¹ßÇÑ °æÇèÀÌ ÀÖ´Â ºÐ
+? WebRTC ±â¼úÀ» ÀÌ¿ëÇØ È­»ó À¥¼­ºñ½º¸¦ °³¹ßÇÑ °æÇèÀÌ ÀÖ´Â ºÐ
+? SDP, ICE_CANDIDATE, STUN, TURN µî ½ºÆÑÀ» ÀÌÇØÇÏ°í Æ©´×ÇÑ °æÇèÀÌ ÀÖ´Â ºÐ
+? React·Î ½ºÆ®¸² ¿µ»ó¸¦ À§ÇÑ ÄÄÆ÷³ÍÆ®¸¦ °³¹ßÇÑ °æÇèÀÌ ÀÖ´Â ºÐ
+? React ÄÄÆ÷³ÍÆ® ±¸Á¶¸¦ ¼³°èÇÏ°í Æ©´×ÇØ º» °æÇèÀÌ ÀÖ´Â ºÐ","? ¸Å²ô·¯¿î Çù¾÷, ÀÚ½ÅÀÌ ´õ ÁÖº¯ »ç¶÷µé°ú Àß ¼ÒÅëÇÏ°í ¾î¿ï¸°´Ù°í »ý°¢ÇÏ´Â »ç¶÷ÀÌ¸é ´õ ÁÁ½À´Ï´Ù.
+? Node.js È¯°æ¿¡¼­ Next.js°°Àº ÇÃ·§ÆûÀ» »ç¿ëÇØ ¹é¿£µå °³¹ß °æÇèÀÌ ÀÖ´Â ºÐÀÌ¸é ´õ ÁÁ½À´Ï´Ù.
+? Webpack, Lint µîÀ» ÀÌ¿ëÇÑ °³¹ß È¯°æ ±¸¼º °æÇèÀÌ ÀÖ´Â ºÐÀÌ¸é ´õ ÁÁ½À´Ï´Ù.
+? Æ®·¡ÇÈÀÌ ¸¹Àº À¥¼­ºñ½º ¶Ç´Â ÀÎ¾Ûºê¶ó¿ìÀú Áö¸é °³¹ß °æÇèÀÌ ÀÖ´Â ºÐÀÌ¸é ´õ ÁÁ½À´Ï´Ù.
+? TypeScript °³¹ß ¹× ¿î¿µ °æÇèÀÌ ÀÖÀ¸½Å ºÐÀÌ¸é ´õ ÁÁ½À´Ï´Ù.
+? Æä¾î ÄÚµù ¹× ÄÚµå ¸®ºä °æÇèÀÌ ÀÖÀ¸½Å ºÐÀÌ¸é ´õ ÁÁ½À´Ï´Ù.
+? À¥»çÀÌÆ® ¼º´É ÃøÁ¤ ¹× ÃÖÀûÈ­ °æÇèÀÌ ÀÖÀ¸½Å ºÐÀÌ¸é ´õ ÁÁ½À´Ï´Ù.
+? À¥»çÀÌÆ® º¸¾È¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐÀÌ¸é ´õ ÁÁ½À´Ï´Ù.
+? JavaScript °ü·Ã ¿ÀÇÂ ¼Ò½º ±â¿© °æÇèÀÌ ÀÖÀ¸½Å ºÐÀÌ¸é ´õ ÁÁ½À´Ï´Ù.",
+ÀÀ¿ë¼ÒÇÁÆ®¿þ¾î °³¹ßÀÚ,»ï¿ìÀÌ¸Ó¼Ç,? C++ ±â¹Ý ÀÀ¿ëÇÁ·Î±×·¥ °³¹ß ¶Ç´Â C# (WinForm ¶Ç´Â  WPF) ±â¹Ý °³¹ß,"? ÄÄÇ»ÅÍ °øÇÐ °ü·Ã Àü°ø
+? °æ·Â ¿ì´ë
+? ÀÀ¿ë¼ÒÇÁÆ®¿þ¾î °ü·Ã °³¹ß °æÇè ¿ì´ë
+? CAN, OPC°ü·Ã Åë½Å °³¹ß °æÇè ¿ì´ë",
+[Àü¹®¿¬±¸¿ä¿ø Áö¿ø°¡´É] B2B SaaS À¥ °³¹ßÀÚ,¿£Ã÷,"- ES6+ Javascript ¹× React °³¹ß °æÇèÀÌ ÀÖ´Â ºÐ
+- Linux, DB, HTTP, REST API µî¿¡ ´ëÇÑ ±âº»ÀûÀÎ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ
+- Git µî ºÐ»ê ¹öÀü °ü¸®(SCM) ½Ã½ºÅÛÀ» ÀÌ¿ëÇÑ Çù¾÷ °æÇèÀÌ ÀÖ´Â ºÐ
+- 1°³ Á¾·ù ÀÌ»óÀÇ µ¥ÀÌÅÍº£ÀÌ½º »ç¿ë °æÇèÀ» °¡Áö°í °è½Å ºÐ
+- À¥ ±â¼ú¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ
+- ½ºÅ¸Æ®¾÷¿¡¼­¸¸ ÇÒ ¼ö ÀÖ´Â »õ·Î¿î °æÇèÀ» ÅëÇØ ÇÔ²² ¼ºÀåÇÏ°íÀÚ ÇÏ´Â ºÐ
+- [!] Àü¹®¿¬±¸¿ä¿ø Áö¿ø °¡´É","- TypeScript¸¦ ´É¼÷ÇÏ°Ô ´Ù·ê ¼ö ÀÖ´Â ºÐ
+- FastAPI, Sanic µî ASGI ÇÁ·¹ÀÓ¿öÅ©¸¦ »ç¿ëÇÑ °æÇèÀÌ ÀÖ´Â ºÐ
+- ÄÚµå¸®ºä¿Í Å×½ºÆ®ÄÚµå ÀÛ¼º ´É·ÂÀÌ ÀÖÀ¸½Å ºÐ
+- ½ÇÁ¦ Á¦Ç° °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- IT ±â¼úÀ» ÀÌ¿ëÇØ Åº¼ÒÁß¸³ ¹®Á¦¸¦ ÇØ°áÇÏ´Â µ¥¿¡ ±â¿©ÇÏ°í ½ÍÀ¸½Å ºÐ
+- ¹«¾ùº¸´Ù ¼ºÀåÇÏ´Â ½ºÅ¸Æ®¾÷¿¡¼­ ÇÔ²² ¼ºÀåÇÏ¸ç Åº¼ÒÁß¸³ ¹®Á¦¸¦ Çª´Âµ¥¿¡ ±â¿©ÇÏ°í ½ÍÀ¸½Å °³¹ßÀÚ¸¦ Ã£½À´Ï´Ù!",
+¼öÇàPM ±â¼úÁö¿ø,¼¾½ºÅæ,"?OS(Linux, Windows), Middlware(tomcat), DBMS(MySQL, MS_SQL)¿¡ ´ëÇÑ ±âº»Áö½Ä ¼ÒÀ¯ÀÚ
+? PM/PL ¼öÇà °æ·ÂÀÚ
+? ¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼Ç ´É·Â º¸À¯ÀÚ (°í°´»ç °ü¸®)","? PM/PL °æ·Â ¿ì´ë
+?´Ù¾çÇÑ WAS( JEUS, WebLogic, Jboss, Tomcat, WebSphere µî ) »ç¿ë °æÇè ¿ì´ë
+?´Ù¾çÇÑ DBMS( Oracle, Tibero, Mysql, Mssql µî ) »ç¿ë °æÇè ¿ì´ë
+?JAVA °³¹ß °æÇè ¿ì´ë",
+"AI ¾Ë°í¸®Áò ¼³°è, µö·¯´×/¸Ó´×·¯´×",ÇÃ·£Æ¼³Ý,"? µö·¯´×/¸Ó½Å·¯´× ºÐ¾ß ¾Ë°í¸®Áò ¿¬±¸ °³¹ß °æÇè
+? ÀÌ¹ÌÁö ¹× ÅØ½ºÆ® ÀÎ½Ä°ú ÀÌÇØ¸¦ À§ÇÑ ÃÖ½Å ÀÎ°øÁö´É ¸ðµ¨ÀÇ ºÐ¼® ¹× ±¸Çö °æ
+? ¸Ó½Å·¯´×/µö·¯´× ÀÀ¿ë ÇÁ·Î±×·¥ °³¹ß °æÇè","? °ü·Ã ºÐ¾ß ¶Ç´Â ¼öÇÐ°ú ÇÐºÎ Àü°ø
+? ÃÖÃ·´Ü µö ·¯´× ÀÌ·Ð, ±â¼ú, ¾ÆÅ°ÅØÃ³ ¹× ÃÖÀûÈ­ Àü·«¿¡ ´ëÇÑ ÀÌÇØ
+? µö·¯´× ºÐ¾ß ¼®»ç ÇÐÀ§
+? ¸Ó½Å ·¯´× ³í¹® ÃâÆÇ ¶Ç´Â ÄÜÅ×½ºÆ® ¿ì½Â °æÇè
+? Linux È¯°æ¿¡¼­ ÇÁ·Î±×·¡¹Ö ¹× Å×½ºÆ® °æÇè
+? ¿ì¼öÇÑ ¹®Á¦ ÇØ°á ¹× ¾Ë°í¸®Áò ¼³°è ±â¼ú °ü·Ã Æ÷Æ®Æú¸®¿À Á¦ÃâÀÚ",
+¾Ç¼ºÄÚµå ºÐ¼® ¿£Áö´Ï¾î,ÇÃ·£Æ¼³Ý,"? °ü·Ã ºÐ¾ß 7³â ÀÌ»ó (Â÷Àå, ºÎÀå ±Þ) 
+? ¾Ç¼ºÄÚµå ºÐ¼®(Á¤Àû/µ¿Àû), Ãë¾àÁ¡ ºÐ¼® µî °ü·Ã ¾÷¹« ¼öÇà °æÇèÀÚ
+? ´Ù¾çÇÑ ÆÄÀÏ Æ÷¸ËÀÇ ¾Ç¼ºÄÚµå ºÐ¼® °æÇèÀÚ
+? ¸®¹ö½º ¿£Áö´Ï¾î¸µ(OllyDBG, IDA, WinDBG) È°¿ë °¡´ÉÀÚ
+? À©µµ¿ì ¹× ¸®´ª½º, ³×Æ®¿öÅ© °ü·Ã ±âº» Áö½Ä º¸À¯ÀÚ","? ±¹³»¿Ü ÇØÅ·´ëÈ¸ ÀÔ»óÀÚ
+? °ü·Ã ÇÁ·ÎÁ§Æ® ÅõÀÔ À¯°æÇèÀÚ
+? Á¤º¸º¸È£ °ü·Ã Àü¹® ±³À° ¼ö·áÀÚ
+? ÀÚÃ¼ ºÐ¼® ±â¼ú º¸À¯ÀÚ
+? IT °ü·Ã ÀÚ°ÝÁõ º¸À¯
+? ¸ðÀÇÇØÅ· °¡´ÉÀÚ
+? Ãë¾àÁ¡ Á¡°Ë °¡´ÉÀÚ
+? º¸¾È°ü·Ã ÀÚ°ÝÁõ (Á¤º¸º¸¾È±â»ç, CISA, CISSP µî) ¼ÒÁöÀÚ",
+VR°³¹ßÀÚ,»ï¿ìÀÌ¸Ó¼Ç,"? ÁÖ »ç¿ë ¾ð¾î¸¦ ÀÌ¿ëÇÑ SW°³¹ß ´É·Â
+? Unity, Unreal Engine µî »ó¿ë¿£ÁøÀ» ÀÌ¿ëÇÑ °³¹ß ´É·Â
+? Socket ¶Ç´Â »ó¿ë ¼Ö·ç¼ÇÀ» ÀÌ¿ëÇÑ ³×Æ®¿öÅ© ÇÁ·Î±×·¡¹Ö ´É·Â",,
+Java ±â¹Ý ¹é¿£µå °³¹ßÀÚ,¿¡ÀÌ¿£µå,"? À¥/¾Û °³¹ß 7³â ÀÌ»ó °æ·ÂÀÚ
+? SpringBoot, Mybatis, DBMS È°¿ë °³¹ß °¡´ÉÀÚ
+? DB ºÐ¼® ¹× ¼³°è °¡´ÉÀÚ
+? ¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼Ç ´É·ÂÀ» °¡Áö½Å ºÐ","? react.js, vue.js µî ´Ù¸¥ °³¹ß ¾ð¾î¿¡ °ü½É ¸¹À¸½Å ºÐ
+? WEB, WAS, DB µî ¼­¹ö ¼³Ä¡ ¹× ¿î¿µ °¡´ÉÇÏ½Å ºÐ
+? ¾ÆÅ°ÅØÃÄ ¼³°è °¡´ÉÇÏ½ÅºÐ",
+SI/JAVA/°ø°ø À¥ °³¹ßÀÚ (5³â ÀÌ»ó),¿¢¼À,"? °æ·Â : 5³â ÀÌ»ó           
+? JAVA, jsp °³¹ß ¹× À¯Áöº¸¼ö
+? HTML, CSS, javascript, jqueryµîÀÇ Àü¹® Áö½Ä º¸À¯ ¹× °³¹ß °æÇèÀÚ","? ÀüÀÚÁ¤ºÎÇÁ·¹ÀÓ¿öÅ© °æÇèÀÚ ¿ì´ë
+? ºÐ¼®/¼³°è °æÇèÀÚ ¿ì´ë
+? PM/PL °æÇèÀÚ ¿ì´ë
+? ¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼Ç ½ºÅ³",
+Backend Senior Engineer (Kotlin/Spring),ÄÚºñ±×·ì,"- ±¤°í ÇÃ·§Æû °³¹ß °æÇè ÇÊ¼ö
+- AD-Tech¿¡ ´ëÇÑ ÀÌÇØ ÇÊ¼ö
+- Java, Kotlin, Spring ÇÁ·¹ÀÓ¿öÅ©, JPA¿¡ ´ëÇÑ ÀÌÇØ
+- AWSÀÇ ¼­ºñ½º(EC2, S3, CloudFront, RDS µî)¸¦ ¹ÙÅÁÀ¸·Î ÇÑ °³¹ß °æÇè
+- MySQL DB ¼³°è, °ü¸® °æÇè (Å×ÀÌºí ¼³°è, ÃÖÀûÈ­, ¹é¾÷ ¹× º¹±¸)
+- Linux ±âº»ÀûÀÎ °ü¸® (±âº» ¸í·É¾î, ½© ½ºÅ©¸³Æ® µî)
+- ¿øÈ°ÇÑ Ä¿¹Â´ÏÄÉÀÌ¼Ç ¹× Çù¾÷ ´É·Â
+- »õ·Î¿î ±â¼ú, È¯°æ¿¡ ´ëÇÑ ¿ÀÇÂ ¸¶ÀÎµå¸¦ °¡Áö½Å ºÐ","- TDD ±â¹Ý °³¹ß °æÇè
+- ´ë¿ë·® Æ®·¹ÇÈ Ã³¸® °æÇè",
+C# ¹é¿£µå °³¹ßÀÚ,¿Á¼Ç¿ø,"? C# ±â¹Ý µ¥ÀÌÅÍ ¼öÁý °æ·Â
+? PHP, SQL À¥°³¹ß °æ·Â
+? ¾îÇÃ °³¹ß °æ·Â","? ÀÚµ¿ ¼öÁý ½Ã½ºÅÛ °æ·ÂÀÚ
+? À©µµ¿ì ±â¹Ý °¡»ó ¸Ó½Å ¿î¿µ °¡´ÉÀÚ
+?  SQL ¹× Á¤±Ô½Ä °¡´ÉÀÚ",
+"SW °³¹ßÀÚ(C, C++)",µ¿¿ìÀü±â,"HTTP, RESTful API Å¬¶óÀÌ¾ðÆ® °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+Git, Jira, Confluence µîÀÇ Çù¾÷ µµ±¸ »ç¿ë °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+(C , JNI ) °³¹ß °æÇèÀÚ·Î ½Ç¹« 3³â ÀÌ»ó ¶Ç´Â ±×¿¡ ÁØÇÏ´Â ¿ª·®À» º¸À¯ÇÏ½Å ºÐ
+³×Æ®¿÷ ÇÁ·Î±×·¡¹Ö °æÇèÀÚ","- TCP/IP ¿¡ ´ëÇÑ Áö½ÄÀÌ Ç³ºÎÇÏ½Å ºÐ
+- Window È¯°æ¿¡¼­ À¥ ¾îÇÃ¸®ÄÉÀÌ¼Ç °³¹ß °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+- ±¹Á¦ Ç¥ÁØÀ» ¹ÙÅÁÀ¸·Î Product ¸¦ °³¹ß ÇØ º¸½Å °æÇèÀÌ ÀÖÀ¸½Å ºÐ",
+°³¹ßÀÚ,¿þÀÌÄ¿½º,? °æ·Â 3³â ÀÌ»ó (3³â ¹Ì¸¸ÀÇ °æ·ÂÀÚÀÇ °æ¿ì ÇùÀÇ ÇÊ¿ä),"? BLE/Wi-Fi±â¹Ý ½º¸¶Æ®È¨ ±â±â °³¹ßÀÚ 
+? R&D ±âÈ¹ ¹× ¿î¿µ °æÇèÀÚ",
+¼­¹ö°³¹ßÀÚ,µð¾î¶ó¿îµå,"#Node.js ÇÊ¼öÀÔ´Ï´Ù.
+#¹é¿£µå ¾÷¹« °æ·Â 1³â ÀÌ»ó µÇ½Ã´Â ºÐµé Áö¿ø ºÎÅ¹µå¸³´Ï´Ù. 
 
-  * í˜„ìž¬ ë‹¤ìŒ ìŠ¤íƒ­ì„ ì¤€ë¹„í•˜ë©° Goì™€ rust ìŠ¤í„°ë””ë¥¼ ë™ì‹œì— í•˜ê³  ìžˆìŠµë‹ˆë‹¤. ì†ë„ê°ìžˆëŠ” í•™ìŠµê³¼ ë¹ ë¥¸ ì ìš©, ì• ìžì¼í•œ ê°œë°œì„ ì§€í–¥í•˜ëŠ” ë¶„ë“¤ê³¼ í•¨ê»˜ í•˜ê³  ì‹¶ìŠµë‹ˆë‹¤.
+  * ÇöÀç ´ÙÀ½ ½ºÅÇÀ» ÁØºñÇÏ¸ç Go¿Í rust ½ºÅÍµð¸¦ µ¿½Ã¿¡ ÇÏ°í ÀÖ½À´Ï´Ù. ¼Óµµ°¨ÀÖ´Â ÇÐ½À°ú ºü¸¥ Àû¿ë, ¾ÖÀÚÀÏÇÑ °³¹ßÀ» ÁöÇâÇÏ´Â ºÐµé°ú ÇÔ²² ÇÏ°í ½Í½À´Ï´Ù.
 
-- NodeJS/Express ë¡œ  ì„œë²„ì™€ APIë¥¼ ë§Œë“¤ì–´ë³´ì‹  ê²½í—˜.
-- ì–¸ì–´ì™€ ê¸°ìˆ ìŠ¤íƒì— ì œí•œì„ ë‘ì§€ ì•Šê³  ë¹ ë¥¸ í•™ìŠµê³¼ ì„±ìž¥ì„ ì¶”êµ¬í•˜ì‹œëŠ” ë¶„.
-- Rust, Golang ë“±ì˜ ë¡œìš°ë ˆë²¨ í”„ë¡œê·¸ëž˜ë° ì–¸ì–´ë¥¼ í•™ìŠµí•˜ëŠ”ë° ì‹¬ë¦¬ì  í—ˆë“¤ì´ ì—†ëŠ” ë¶„.
-- htmlê³¼CSSì— ëŒ€í•œ ê¸°ì´ˆì ì¸ ì´í•´(í˜‘ì—…ì„ ìœ„í•œ ìˆ˜ì¤€)
-- ìƒí˜¸ì¡´ì¤‘ì˜ íƒœë„, í˜‘ì—…ê³¼ íš¨ìœ¨ì ì¸ ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ ëŠ¥ë ¥
-- ìžê¸°ì£¼ë„ì ì¸ ì„±í–¥
-- ë…¼ë¦¬ì ì¸ ì‚¬ê³ ë ¥","- Concurrency, ë¦¬ì•¡í‹°ë¸Œ í”„ë¡œê·¸ëž˜ë°, ffi-napi ë“±ì„ í†µí•´ ì„±ëŠ¥ì˜ ê·¹í•œì„ ì¶”êµ¬í•´ë³´ì‹  ë¶„.
-- ìœ íˆ¬ë¸Œê°€ ì•„ë‹ˆë¼ ê³µì‹ë¬¸ì„œë¡œ í•™ìŠµí•˜ì‹œëŠ” ë¶„
-- ë²„ê·¸ë¥¼ ìž¡ê¸° ìœ„í•´ì„œ, ì›ë¦¬ë¥¼ ì•Œê³  ì‹¶ì–´ ë¼ì´ë¸ŒëŸ¬ë¦¬ì˜ ì½”ë“œë¥¼ ì§ì ‘ ì½ì–´ë³´ëŠ” ê²ƒì„ ì¦ê²¨í•˜ëŠ” ë¶„.
-- ë¬¸ì œë¥¼ í‘¸ëŠ” ê²ƒì— í¥ë¯¸ë¥¼ ëŠë¼ê³ , ì–´ë ¤ìš´ ë¬¸ì œë¥¼ ì‰½ê²Œ í‘¸ëŠ” ê²ƒì— ìž¥ì ì„ ê°€ì§€ì‹  ë¶„.
-- Rust, Golang ë“±ì˜ ë¡œìš°ë ˆë²¨ ì–¸ì–´ë¥¼ ì´ìš©í•œ ê°œë°œ ë˜ëŠ” í•™ìŠµ ê²½í—˜ì„ ê°€ì§€ì‹  ë¶„.
-- Electron ë“± ë°ìŠ¤í¬íƒ‘ ì–´í”Œë¦¬ì¼€ì´ì…˜ ê¸°ìˆ  ê°œë°œ ë˜ëŠ” í•™ìŠµ ê²½í—˜ì„ ê°€ì§€ì‹  ë¶„.
-- í”„ë¡ íŠ¸ ì›¹í”„ë ˆìž„ì›Œí¬ reactì— ëŒ€í•œ ê¸°ë³¸ì ì¸ ì´í•´ë¥¼ ê°–ê³  ìžˆëŠ” ë¶„",
-í”„ë¡ íŠ¸ í”„ë¡œê·¸ëž˜ë¨¸,ë””ì–´ë¼ìš´ë“œ,"[ìžê²©ìš”ê±´]
+- NodeJS/Express ·Î  ¼­¹ö¿Í API¸¦ ¸¸µé¾îº¸½Å °æÇè.
+- ¾ð¾î¿Í ±â¼ú½ºÅÃ¿¡ Á¦ÇÑÀ» µÎÁö ¾Ê°í ºü¸¥ ÇÐ½À°ú ¼ºÀåÀ» Ãß±¸ÇÏ½Ã´Â ºÐ.
+- Rust, Golang µîÀÇ ·Î¿ì·¹º§ ÇÁ·Î±×·¡¹Ö ¾ð¾î¸¦ ÇÐ½ÀÇÏ´Âµ¥ ½É¸®Àû ÇãµéÀÌ ¾ø´Â ºÐ.
+- html°úCSS¿¡ ´ëÇÑ ±âÃÊÀûÀÎ ÀÌÇØ(Çù¾÷À» À§ÇÑ ¼öÁØ)
+- »óÈ£Á¸ÁßÀÇ ÅÂµµ, Çù¾÷°ú È¿À²ÀûÀÎ Ä¿¹Â´ÏÄÉÀÌ¼Ç ´É·Â
+- ÀÚ±âÁÖµµÀûÀÎ ¼ºÇâ
+- ³í¸®ÀûÀÎ »ç°í·Â","- Concurrency, ¸®¾×Æ¼ºê ÇÁ·Î±×·¡¹Ö, ffi-napi µîÀ» ÅëÇØ ¼º´ÉÀÇ ±ØÇÑÀ» Ãß±¸ÇØº¸½Å ºÐ.
+- À¯Åõºê°¡ ¾Æ´Ï¶ó °ø½Ä¹®¼­·Î ÇÐ½ÀÇÏ½Ã´Â ºÐ
+- ¹ö±×¸¦ Àâ±â À§ÇØ¼­, ¿ø¸®¸¦ ¾Ë°í ½Í¾î ¶óÀÌºê·¯¸®ÀÇ ÄÚµå¸¦ Á÷Á¢ ÀÐ¾îº¸´Â °ÍÀ» Áñ°ÜÇÏ´Â ºÐ.
+- ¹®Á¦¸¦ Çª´Â °Í¿¡ Èï¹Ì¸¦ ´À³¢°í, ¾î·Á¿î ¹®Á¦¸¦ ½±°Ô Çª´Â °Í¿¡ ÀåÁ¡À» °¡Áö½Å ºÐ.
+- Rust, Golang µîÀÇ ·Î¿ì·¹º§ ¾ð¾î¸¦ ÀÌ¿ëÇÑ °³¹ß ¶Ç´Â ÇÐ½À °æÇèÀ» °¡Áö½Å ºÐ.
+- Electron µî µ¥½ºÅ©Å¾ ¾îÇÃ¸®ÄÉÀÌ¼Ç ±â¼ú °³¹ß ¶Ç´Â ÇÐ½À °æÇèÀ» °¡Áö½Å ºÐ.
+- ÇÁ·ÐÆ® À¥ÇÁ·¹ÀÓ¿öÅ© react¿¡ ´ëÇÑ ±âº»ÀûÀÎ ÀÌÇØ¸¦ °®°í ÀÖ´Â ºÐ",
+ÇÁ·ÐÆ® ÇÁ·Î±×·¡¸Ó,µð¾î¶ó¿îµå,"[ÀÚ°Ý¿ä°Ç]
 
-â€¢ (í•„ìˆ˜)í”„ë¡ íŠ¸ ê°œë°œ ê²½ë ¥ë§Œ 3ë…„ ì°¨ ì´ìƒì´ì‹  ë¶„ë“¤ë§Œ ì§€ì›ë¶€íƒë“œë¦½ë‹ˆë‹¤. 
-â€¢ (í•„ìˆ˜) locofy  ë° ìŠ¤í† ë¦¬ë¶ í™œìš©ì„ í†µí•œ í”¼ê·¸ë§ˆì—°ë™ ê²½í—˜
-â€¢ í•´ë‹¹ ì—…ë¬´ ê´€ë ¨ í”„ë¡œê·¸ëž¨ í™œìš© ëŠ¥ë ¥ì„ ê°–ì¶˜ ë¶„(ë¦¬ì•¡íŠ¸, Html, CSS ë“±)
-â€¢ ë‹¤ì–‘í•œ íŒ€ê³¼ì˜ í˜‘ì—…ì— ëŠ¥í•˜ê³  ì›í™œí•œ ì˜ì‚¬ì†Œí†µ ëŠ¥ë ¥ì„ ê°–ì¶˜ ë¶„","â€¢ ê°œë°œì— ëŒ€í•œ í”„ë¡œì„¸ìŠ¤ì˜ ì´í•´ë„ë¥¼ ê°–ì¶˜ ë¶„
-â€¢ ì ê·¹ì ì´ê³  ì£¼ë„ì ìœ¼ë¡œ í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œ ê²½í—˜ì´ ìžˆê±°ë‚˜ ì˜ì§€ê°€ ìžˆìœ¼ì‹  ë¶„
-â€¢ ìŠ¤íƒ€íŠ¸ì—… ìž¬ì§/í˜‘ì—… ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„",
-AI ê°œë°œìž,í•œêµ­í•´ì–‘ê¸°ìƒê¸°ìˆ ,"â€¢ í•™ë ¥ ëŒ€ì¡¸ ì´ìƒ(ì „ë¬¸ ì—°êµ¬ ìš”ì›ì˜ ê²½ìš° ì„ë°•ì‚¬ ì´ìƒ ì§€ì› ê°€ëŠ¥)
-â€¢ Python ì‚¬ìš© ê°€ëŠ¥
-â€¢ Tensorflow ë˜ëŠ” Pytorch ì‚¬ìš© ê°€ëŠ¥","â€¢ AI ì†”ë£¨ì…˜ ë˜ëŠ” ì„œë¹„ìŠ¤ ì¶œì‹œ ê²½í—˜ì´ ìžˆìœ¼ì‹  ë¶„
-â€¢ ì„ì‚¬, ë°•ì‚¬ í•™ìœ„ ìˆ˜ì—¬ìž ë° ê´€ë ¨ í•™ê³¼ ì „ê³µìž",
-AI Vision Engineer,ì•Œì§€ì—ì´ì•„ì´ì—”ì”¨(RGA Inc.),"[What the essential qualifications are for this role]
-- ì´ Â· ê³µ ê³„ì—´ í•™ì„ì‚¬ ì´ìƒ ë˜ëŠ” ê·¸ì— ìƒì‘í•˜ëŠ” ê²½ë ¥ì˜ ì†Œì§€ìž (Artificial Intelligence / Computer Science / Data Science / Statistics / Electric Engineering ë“±)
-- Facial Emotion Recognition / Gesture Estimation / Pose Estimation / Instance Segmentation / Object Tracking ì¤‘ í•œê°€ì§€ ì´ìƒì˜ Computer Vision í”„ë¡œì íŠ¸ ìˆ˜í–‰ ê²½í—˜
-- Multi-task Learning / Multi-modal Modeling í”„ë¡œì íŠ¸ ìˆ˜í–‰ ê²½í—˜
-- ë…¼ë¬¸ì´ë‚˜ ê¸°ìˆ ê´€ë ¨ ë¬¸ì„œë¥¼ ì´í•´í•˜ê³  ì´ë¥¼ ë°”íƒ•ìœ¼ë¡œ ëª¨ë¸ êµ¬í˜„ì´ ê°€ëŠ¥í•œ ëŠ¥ë ¥
-- Python, C++ coding ëŠ¥ë ¥
-- PyTorch, Tensorflow, Keras, MXNet ë“± Deep Learning Framework í™œìš© ëŠ¥ë ¥
-- Gitì„ í†µí•œ í”„ë¡œì íŠ¸ í˜‘ì—… ëŠ¥ë ¥
-- êµ¬ì„±ì›ë“¤ê³¼ì˜ í˜‘ì—…ì´ ê°€ëŠ¥í•œ ì˜ì‚¬ì†Œí†µê³¼ ì´ë¥¼ í†µí•œ ë¹„ì¦ˆë‹ˆìŠ¤ ë¬¸ì œ í•´ê²° ëŠ¥ë ¥","[What will give candidates an advantage are these additional qualifications]
-- Artificial Intelligence / Computer Science / Data Science / Statistics / Electric Engineering ë“± ì´ Â· ê³µ ê³„ì—´ ë°•ì‚¬ ì´ìƒ ë˜ëŠ” 5ë…„ ì´ìƒì˜ ì‹¤ë¬´ ê²½ë ¥
-- Model Compression (Quantization / Pruning / Knowledge Distillation) ë° Optimization ê²½í—˜
-- Noise Robust / Occlusion / Data Imbalanced Problemì— ê´€í•œ ì´í•´ë„ì™€ ê·¹ë³µ ê²½í—˜
-- ì œí•œëœ ë¦¬ì†ŒìŠ¤ í™˜ê²½ì—ì„œ ëª¨ë¸ Inference ë° Deployment ê²½í—˜
-- êµ­ì œí•™ìˆ ëŒ€íšŒ (CVPR, ICCV, ECCV, AAAI, IJCAI, ICML, IROS) ë“±ì— ë…¼ë¬¸ì„ ê²Œìž¬í•œ ê²½í—˜
-- Kalman Filter, Graph Optimization ë“±ì„ í™œìš©í•œ ë©€í‹° ì„¼ì„œ í“¨ì „ ê¸°ìˆ  êµ¬í˜„ ê²½í—˜
-- ROS, ROS2ë¥¼ ì‚¬ìš©í•œ ê¸°ìˆ  ê°œë°œ ê²½í—˜
-- ìŠ¤íƒ€íŠ¸ì—… ê²½í—˜
-- OSì— ëŒ€í•œ ë†’ì€ ì´í•´
-- CUDA, OpenCLì— ëŒ€í•œ ê²½í—˜
-- Slack, Confluence, JIRA ë“± í˜‘ì—… íˆ´ ê²½í—˜
-- Jenkins, Docker, AWS ë“±ë“± ì „ë°˜ì ì¸ í˜‘ì—…ê³¼ ë°°í¬ ê²½í—˜
-- ìˆ˜í•™ì  ì‚¬ê³ ì™€ í†µê³„, ìµœì í™” ë“± ìˆ˜í•™ ì´ë¡ ì— ëŒ€í•œ ë†’ì€ ì´í•´
-- ì˜ì–´ ëŠ¥í†µìž",
-ì‹œìŠ¤í…œ ì‹ ìž… ìš´ì˜ìž(êµëŒ€ê·¼ë¬´),ì†”ë°•ìŠ¤,"â€¢ Network ê¸°ë³¸êµ¬ì¡°ì— ëŒ€í•œ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„
-â€¢ ì„œë²„ì˜ í•˜ë“œì›¨ì–´ êµ¬ì¡°ì— ëŒ€í•œ ì´í•´ê°€ ìžˆìœ¼ì‹  ë¶„
-â€¢ êµëŒ€ì œ ê·¼ë¬´(ëŒ€íœ´ì œê³µ) ê°€ëŠ¥í•˜ì‹  ë¶„","â€¢ êµ°í•„ìž ìš°ëŒ€
-â€¢ ê´€ë ¨ ì „ê³µìž ìš°ëŒ€
-â€¢ ITê´€ë ¨ ìžê²©ì¦ ë³´ìœ í•˜ì‹  ë¶„",
-ë¹„ì „ì‹œìŠ¤í…œ S/Wê°œë°œìž,ì½”ë¹„ìŠ¤í…Œí¬ë†€ë¡œì§€,"â€¢ C++, C# ê°€ëŠ¥ìž","â€¢ ê³µí•™ê³„ì—´ ì „ê³µìž
-â€¢ ì»´í“¨í„°/ì‹œìŠ¤í…œê³µí•™ ì „ê³µ
-â€¢ í•´ë‹¹ì§ë¬´ ê·¼ë¬´ê²½í—˜, ìš´ì „ê°€ëŠ¥ìž
-â€¢ í•´ì™¸ê·¼ë¬´ ê°€ëŠ¥ìž",
+? (ÇÊ¼ö)ÇÁ·ÐÆ® °³¹ß °æ·Â¸¸ 3³â Â÷ ÀÌ»óÀÌ½Å ºÐµé¸¸ Áö¿øºÎÅ¹µå¸³´Ï´Ù. 
+? (ÇÊ¼ö) locofy  ¹× ½ºÅä¸®ºÏ È°¿ëÀ» ÅëÇÑ ÇÇ±×¸¶¿¬µ¿ °æÇè
+? ÇØ´ç ¾÷¹« °ü·Ã ÇÁ·Î±×·¥ È°¿ë ´É·ÂÀ» °®Ãá ºÐ(¸®¾×Æ®, Html, CSS µî)
+? ´Ù¾çÇÑ ÆÀ°úÀÇ Çù¾÷¿¡ ´ÉÇÏ°í ¿øÈ°ÇÑ ÀÇ»ç¼ÒÅë ´É·ÂÀ» °®Ãá ºÐ","? °³¹ß¿¡ ´ëÇÑ ÇÁ·Î¼¼½ºÀÇ ÀÌÇØµµ¸¦ °®Ãá ºÐ
+? Àû±ØÀûÀÌ°í ÁÖµµÀûÀ¸·Î ÇÁ·ÐÆ®¿£µå °³¹ß °æÇèÀÌ ÀÖ°Å³ª ÀÇÁö°¡ ÀÖÀ¸½Å ºÐ
+? ½ºÅ¸Æ®¾÷ ÀçÁ÷/Çù¾÷ °æÇèÀÌ ÀÖÀ¸½Å ºÐ",
+AI °³¹ßÀÚ,ÇÑ±¹ÇØ¾ç±â»ó±â¼ú,"? ÇÐ·Â ´ëÁ¹ ÀÌ»ó(Àü¹® ¿¬±¸ ¿ä¿øÀÇ °æ¿ì ¼®¹Ú»ç ÀÌ»ó Áö¿ø °¡´É)
+? Python »ç¿ë °¡´É
+? Tensorflow ¶Ç´Â Pytorch »ç¿ë °¡´É","? AI ¼Ö·ç¼Ç ¶Ç´Â ¼­ºñ½º Ãâ½Ã °æÇèÀÌ ÀÖÀ¸½Å ºÐ
+? ¼®»ç, ¹Ú»ç ÇÐÀ§ ¼ö¿©ÀÚ ¹× °ü·Ã ÇÐ°ú Àü°øÀÚ",
+AI Vision Engineer,¾ËÁö¿¡ÀÌ¾ÆÀÌ¿£¾¾(RGA Inc.),"[What the essential qualifications are for this role]
+- ÀÌ ¡¤ °ø °è¿­ ÇÐ¼®»ç ÀÌ»ó ¶Ç´Â ±×¿¡ »óÀÀÇÏ´Â °æ·ÂÀÇ ¼ÒÁöÀÚ (Artificial Intelligence / Computer Science / Data Science / Statistics / Electric Engineering µî)
+- Facial Emotion Recognition / Gesture Estimation / Pose Estimation / Instance Segmentation / Object Tracking Áß ÇÑ°¡Áö ÀÌ»óÀÇ Computer Vision ÇÁ·ÎÁ§Æ® ¼öÇà °æÇè
+- Multi-task Learning / Multi-modal Modeling ÇÁ·ÎÁ§Æ® ¼öÇà °æÇè
+- ³í¹®ÀÌ³ª ±â¼ú°ü·Ã ¹®¼­¸¦ ÀÌÇØÇÏ°í ÀÌ¸¦ ¹ÙÅÁÀ¸·Î ¸ðµ¨ ±¸ÇöÀÌ °¡´ÉÇÑ ´É·Â
+- Python, C++ coding ´É·Â
+- PyTorch, Tensorflow, Keras, MXNet µî Deep Learning Framework È°¿ë ´É·Â
+- GitÀ» ÅëÇÑ ÇÁ·ÎÁ§Æ® Çù¾÷ ´É·Â
+- ±¸¼º¿øµé°úÀÇ Çù¾÷ÀÌ °¡´ÉÇÑ ÀÇ»ç¼ÒÅë°ú ÀÌ¸¦ ÅëÇÑ ºñÁî´Ï½º ¹®Á¦ ÇØ°á ´É·Â","[What will give candidates an advantage are these additional qualifications]
+- Artificial Intelligence / Computer Science / Data Science / Statistics / Electric Engineering µî ÀÌ ¡¤ °ø °è¿­ ¹Ú»ç ÀÌ»ó ¶Ç´Â 5³â ÀÌ»óÀÇ ½Ç¹« °æ·Â
+- Model Compression (Quantization / Pruning / Knowledge Distillation) ¹× Optimization °æÇè
+- Noise Robust / Occlusion / Data Imbalanced Problem¿¡ °üÇÑ ÀÌÇØµµ¿Í ±Øº¹ °æÇè
+- Á¦ÇÑµÈ ¸®¼Ò½º È¯°æ¿¡¼­ ¸ðµ¨ Inference ¹× Deployment °æÇè
+- ±¹Á¦ÇÐ¼ú´ëÈ¸ (CVPR, ICCV, ECCV, AAAI, IJCAI, ICML, IROS) µî¿¡ ³í¹®À» °ÔÀçÇÑ °æÇè
+- Kalman Filter, Graph Optimization µîÀ» È°¿ëÇÑ ¸ÖÆ¼ ¼¾¼­ Ç»Àü ±â¼ú ±¸Çö °æÇè
+- ROS, ROS2¸¦ »ç¿ëÇÑ ±â¼ú °³¹ß °æÇè
+- ½ºÅ¸Æ®¾÷ °æÇè
+- OS¿¡ ´ëÇÑ ³ôÀº ÀÌÇØ
+- CUDA, OpenCL¿¡ ´ëÇÑ °æÇè
+- Slack, Confluence, JIRA µî Çù¾÷ Åø °æÇè
+- Jenkins, Docker, AWS µîµî Àü¹ÝÀûÀÎ Çù¾÷°ú ¹èÆ÷ °æÇè
+- ¼öÇÐÀû »ç°í¿Í Åë°è, ÃÖÀûÈ­ µî ¼öÇÐ ÀÌ·Ð¿¡ ´ëÇÑ ³ôÀº ÀÌÇØ
+- ¿µ¾î ´ÉÅëÀÚ",
+½Ã½ºÅÛ ½ÅÀÔ ¿î¿µÀÚ(±³´ë±Ù¹«),¼Ö¹Ú½º,"? Network ±âº»±¸Á¶¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ
+? ¼­¹öÀÇ ÇÏµå¿þ¾î ±¸Á¶¿¡ ´ëÇÑ ÀÌÇØ°¡ ÀÖÀ¸½Å ºÐ
+? ±³´ëÁ¦ ±Ù¹«(´ëÈÞÁ¦°ø) °¡´ÉÇÏ½Å ºÐ","? ±ºÇÊÀÚ ¿ì´ë
+? °ü·Ã Àü°øÀÚ ¿ì´ë
+? IT°ü·Ã ÀÚ°ÝÁõ º¸À¯ÇÏ½Å ºÐ",
+ºñÀü½Ã½ºÅÛ S/W°³¹ßÀÚ,ÄÚºñ½ºÅ×Å©³î·ÎÁö,"? C++, C# °¡´ÉÀÚ","? °øÇÐ°è¿­ Àü°øÀÚ
+? ÄÄÇ»ÅÍ/½Ã½ºÅÛ°øÇÐ Àü°ø
+? ÇØ´çÁ÷¹« ±Ù¹«°æÇè, ¿îÀü°¡´ÉÀÚ
+? ÇØ¿Ü±Ù¹« °¡´ÉÀÚ",
