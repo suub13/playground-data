@@ -1,0 +1,18 @@
+ 'Apache', 'CSS', 'ASP .NET', 'Flask', 'Shell', 'Notion', 'Embedded Linux', 'TypeScript', 'SAP', 'Rust', 'ObjectiveC', 'Tableau', 'Tomcat', 'Unreal Engine', 'ElasticSearch', 'SoC', 'Mac', 'Scala', 'NodeJS', 'Linux', 'Google Analytics', 'Redux', 'C++', 'MATLAB', 'Kubernetes', 'Ubuntu', 'ML', 'Unity3D', 'API 개발', 'React Native', 'Perl', 'IoT', 'MFC', 'NumPy', 'OSS', 'Flutter', 'WebRTC', 'REST', 'JPA', 'ES6', 'Maven', 'Git', 'TCP', 'Apache Kafka', 'VueJS', '임베디드 소프트웨어', 'JIRA', 'Figma', 'Azure', 'Ruby on Rails', 'MySQL', 'Go', 'HTML', 'DevOps', 'Slack', 'MongoDB', '.NET', 'Spring Framework', 'HTML5', 'ROS', 'API', 'Node.js', 'Kotlin', 'WPF', 'ORM', 'Google Cloud Platform', 'MVVM', 'PostgreSQL', '보안 관리', 'WebGL', 'Verilog', 'Powershell', 'ABAP', 'AngularJS', 'OpenGL', 'Nginx', '가상화', 'JavaScript', '임베디드 시스템', 'C / C++', 'RESTful WebServices', 'GraphQL', 'Scikit-Learn', 'Laravel', 'RTL 설계', 'Spark', 'Agile', 'Docker', 'Firebase', 'Restful API', 'Bootstrap', 'Jenkins', 'Next.js', 'Oracle', 'ExpressJS', 'Github', 'NoSQL', 'Golang', 'R', 'MSSQL', 'C', '딥 러닝', 'HTTP', 'RDBMS', 'Android Studio', 'Hadoop', 'Office 365', 'Gradle', 'jQuery', '시스템 구축', 'Blockchain', 'Java', '개발', 'UNIX', 'Embedded C', 'Django', 'FPGA', 'CUDA', 'Product Management ', 'CSS3', 'CISA', 'GitLab', 'React', 'iOS', 'OpenCV', 'Python', 'Pytorch', 'Confluence', 'GCP', 'VM웨어', 'Tensorflow', '펌웨어', 'BitBucket', 'Ruby', 'Windows 서버', 'ETL', 'Shell Scripting', 'Android', 'Redis', 'RabbitMQ', 'AWS', 'QA 엔지니어링', 'DNS', 'Vue.JS', 'CSS 자바 스크립트', 'OOP', 'iOS 개발', 'Active Directory', 'React.js', 'Spring Boot', 'SQL', 'Nest.js', 'PHP', 'Swift', 'FastAPI', 'JSP', 'Bash', 'JUnit', 'C#']
+
+
+임베디드 소프트웨어  -> embedded software
+임베디드 시스템 -> embedded system
+가상화 -> virtualization
+RTL 설계 -> RTL
+딥 러닝 -> DL
+VM웨어 -> VMware
+펌웨어 -> firmware
+windows 서버 -> windows
+API 개발 
+
+-----------------------------------
+프론트엔드 개발자, 백엔드 개발, 검증, 안드로이드 개발, 인프라, 보안 관리, 보안, 서버 관리, 개발, 시스템 구축, 소프트웨어 개발, QA 엔지니어링, 시스템 관리
+--------------------------------------------------------------
+
+
