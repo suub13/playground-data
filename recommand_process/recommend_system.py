@@ -1,6 +1,9 @@
 # import library
 import re
 import csv
+import pandas as pd
+from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np
 # from tqdm import tqdm
 
 def get_skills_list():
@@ -107,12 +110,9 @@ drop_list = [
 
 # skillset_dict 만들기
 def skillset_dict():
-    skillset_dict = dict() # 안에 skill: [해당 skillset] 형식으로 넣을 예정
-    skills_set = get_skills_list() # 중복 제거된 스킬 셋
-    # print("총 skilset 개수: " + str(len(skills_set)))
-    # print(skill_mapping.values())
+    skillset_dict = dict()
+    skills_set = get_skills_list()
     mapping_values = [item for sublist in list(skill_mapping.values()) for item in sublist]
-    # print(len(mapping_values))
     for skill in skills_set:
         if skill in mapping_values:
             for key, mappings in skill_mapping.items():
@@ -127,8 +127,8 @@ def skillset_dict():
     return skillset_dict
 
 
-skillset_dict = skillset_dict()
-print(skillset_dict)
+# skillset_dict = skillset_dict()
+# print(skillset_dict)
 # values_count = 0
 # for values in skillset_dict.values():
 #     values_count += len(values)
@@ -137,6 +137,143 @@ print(skillset_dict)
 # print("values count: " + str(values_count))
 # print("skilset length: " + str(len(skillset_dict)))
 
+def skill_scaling():
+    # with open("data/qual_pref_skill_scaling.csv", "w", encoding="utf-8") as f:
+    #     writer = csv.writer(f)
+
+    #     writer.writerow(["id"]+list(skills_dict.keys()))
+    skills_dict = skillset_dict()
+    key = list(skills_dict.keys())
+    skill_df = pd.DataFrame(columns=key)
+    with open("data/qual_pref_skill_combined.csv", "r", encoding="utf-8") as combined_data:
+        reader = csv.reader(combined_data)
+        data = list(reader)
+
+        for row in data[200:400]:
+            skill_cols = skills_dict.copy()
+
+            quals = re.findall(r"'(.*?)'", row[1])
+            prefs = re.findall(r"'(.*?)'", row[2])
+            skills = re.findall(r"'(.*?)'", row[3])
+
+            for key, value in skills_dict.items():
+                skill_cols[key] = 0
+
+                if len(quals) > 0:
+                    for q in quals:
+                        if q in value:
+                            skill_cols[key] += 1
+                            break
+
+                if len(prefs) > 0:
+                    for p in prefs:
+                        if p in value:
+                            skill_cols[key] += 1
+                            break
+
+                if len(skills) > 0:
+                    for s in skills:
+                        if s in value:
+                            skill_cols[key] += 1
+                            break
+            # print(row[0])
+            for i in skill_cols:
+                if skill_cols[i] == 0:
+                    skill_cols[i] = -1
+            df_row = pd.DataFrame(skill_cols, index=[row[0]])
+            # print(df_row)
+            skill_df = pd.concat([skill_df, df_row])
+            skill_df.index.name = 'id'
+            # print(skill_df)
+    return skill_df
 
 
 
+# 유사도 검증
+def similarity():
+    # Load the job offering dataset with one-hot encoded skills
+
+    job_data = skill_scaling()
+
+    user_skills = {
+        'MYSQL':1,
+        'PYTHON':1,
+        'JAVA':1,
+        'HTML':1,
+        'REACT':1,
+        'SPRING FRAMEWORK':1,
+        'PYTORCH':1
+    }
+    skill_df = job_data[list(user_skills.keys())]
+    print(skill_df)
+    user_profile = pd.DataFrame(0, index=[0], columns=skill_df.columns[:])
+
+    # 유저 프로필 데이터 입력
+    for skill, grade in user_skills.items():
+        skill = skill.upper()
+        if skill in user_profile.columns:
+            user_profile[skill] = grade
+    print(user_profile)
+    # 입력 값 확인
+
+    similarity_scores = cosine_similarity(user_profile, skill_df.iloc[:, :])[0].tolist()
+    ser = pd.DataFrame(data={'similarity_score':similarity_scores}, index=skill_df.index.tolist())
+
+    skill_df = pd.concat([skill_df, ser], axis=1)
+
+    recommended_jobs = skill_df.nlargest(10, 'similarity_score')
+    rocommended_urls = recommended_jobs.index.tolist()
+    recommended_score = recommended_jobs['similarity_score'].tolist()
+    
+    
+    print("\n\n\n ", "="*10, "링크", "="*10)
+    
+    for i in range(len(rocommended_urls)):
+        print("https://www.wanted.co.kr/wd/"+str(rocommended_urls[i]))
+        print(recommended_score[i])
+
+
+
+# Sample user-item rating matrix
+
+job_data = skill_scaling()
+user_skills = {
+        'MYSQL':1,
+        'PYTHON':1,
+        'JAVA':1,
+        'HTML':1,
+        'REACT':1,
+        'SPRING FRAMEWORK':1,
+        'PYTORCH':1
+    }
+skill_df = job_data[list(user_skills.keys())]
+print(skill_df)
+user_profile = pd.DataFrame(0, index=[0], columns=skill_df.columns[:])
+
+# 유저 프로필 데이터 입력
+for skill, grade in user_skills.items():
+    skill = skill.upper()
+    if skill in user_profile.columns:
+        user_profile[skill] = grade
+print(user_profile)
+
+# Calculate the mean rating per item
+item_means = skill_df.mean(axis=0)
+print(item_means)
+
+# Calculate the Mean Squared Difference (MSD) similarity matrix
+msd_sim_matrix = 1 / (1 + np.sqrt(np.square(skill_df.T - skill_df).mean(axis=1)))
+print(msd_sim_matrix.shape)
+
+# Replace NaN values with 0 in the original DataFrame
+df_filled = skill_df.fillna(0)
+print(df_filled.shape)
+# Calculate the MSD-based predicted ratings
+# predicted_ratings = (df_filled.T.dot(msd_sim_matrix.T)) / np.abs(msd_sim_matrix).sum()
+
+# Print the predicted ratings
+# print(predicted_ratings)
+
+
+# similarity()
+# print(skill_scaling())
