@@ -15,4 +15,26 @@ API 개발
 프론트엔드 개발자, 백엔드 개발, 검증, 안드로이드 개발, 인프라, 보안 관리, 보안, 서버 관리, 개발, 시스템 구축, 소프트웨어 개발, QA 엔지니어링, 시스템 관리
 --------------------------------------------------------------
 
+crawled_data_combined.csv
+파일 5157, 5158 중복
+총 개수 -> 5450
 
+
+20230610_playdata 크롤링 -> 직무별로 채용 사이트 링크 크롤링
+crawled_data_combined.csv -> 작성하는 코드 만들어야 함
+data_extraction -> qual, pref, skill 스트링 쪼개서 skill set속 데이터만 정리 후 하나의 파일로 합침
+EDA 해서 skil로 one hot encoding 하는 코드
+datafiltering위한DataCount -> data 필터링 할 떄, 각 skill 별로 나타난 빈도수로 확인 함. (qual*3+pref+skill)
+
+직무별로 페이지가 다름 -> 직무별 페이지와 직무로 셀레니움 돌려서 저장 시 직무, link로 저장되게 함. 
+매 직무마다 csv파일로 저장하고, 다음 직무 돌릴 때, 해당 파일에 있는 내용 가져와서 그 뒤로 추가 되게끔 코딩 작성
+
+유뚜루루루루
+
+rev.01
+rev.02
+rev.03
+rev.04
+
+1. 첫 화면에 띄우는 Skill list (20개)
+AWS, JAVA, PYTHON, GIT, JAVASCRIPT, REACT, API, TYPESCRIPT, LINUX, MYSQL, C, CSS, HTML, SQL, DOCKER, KOTLIN, GITHUB, ANDROID, IOS, NODE

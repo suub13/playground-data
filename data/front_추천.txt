@@ -1,0 +1,62 @@
+1. 첫 화면에 띄우는 Skill list (20개)
+AWS, JAVA, PYTHON, GIT, JAVASCRIPT, REACT, API, TYPESCRIPT, LINUX, MYSQL, C/C++, CSS, HTML, SQL, DOCKER, KOTLIN, ANDROID, IOS, NODE
+
+2. 모든 skill set (411개)
+['BASH', '시스템', 'SAP', 'ORCAD', 'RTL', 'SCRUM', '서버', 'GIT', 'POWERBUILDER', 'SPRING BOOT', 'REVIT', 'ALTIUM', 'AKKA', 'KOTLIN', 'PADS LAYOUT', 'WINDOWS', 'MMO', '모바일 게임', 'ASP', 'MONGODB', 'UNITY3D', 'IBATIS', 'RABBITMQ', 'SNMP', 'MATLAB', 'TRELLO', '검색 엔진', '네트워크', 'NGINX', 'XCODE', 'HILT', '하드웨어', 'GOOGLE WEBMASTER TOOLS', '.NET', 'EMR', 'RPG', 'EXCEL', 'CCIE', 'OPENCL', 'UBUNTU', 'POSTGRESQL', '보안', 'POWERSHELL', 'SCIKIT-LEARN', 'PYTORCH', 'DELPHI', 'VHDL', 'GUI', 'VM웨어', 'HMI', 'LIDAR', 'FTP', 'IVR', 'GCC', 'NEXACRO', 'SPARK', '데이터 시각화', 'REDMINE', 'OPENGL', 'SIP', 'PHPUNIT', 'QC', 'CTI', 'PCB 레이아웃 설계', 'WEBSPHERE MQ', 'ITIL', 'FLOW', 'PRODUCT MANAGEMENT ', 'SASS', 'SOC', 'LINUX', 'OLAP', 'VBA', 'SPI', 'JUNIT', 'DIAGNOSTIC', 'APACHE 2', 'CRM', 'EMBEDDED', 'NEO4J', 'MIMO', 'WINFORM', 'C/C++', 'SHADER', '3G', 'OAUTH', 'CONFLUENCE', '펌웨어', '방화벽', 'NAS', 'SHELL', 'SSH', 'RUBY ON RAILS', 'QT', 'IOS', 'BITBUCKET', 'SYBASE', 'OOP', 'SPINE', 'ASIC', 'TENSORFLOW', 'SSIS', 'FPGA 프로토 타이핑', 'GIS', 'ZEMAX', 'ES6', 'STRUTS', 'SMS', 'CAD', 'REACT', 'MOBILE APP DESIGN', 'SAAS', 'ETHEREUM', '딥 러닝', 'ADC', '데이터 수집', 'IIS', 'EXPRESSJS', 'SERVLETS', 'ADOBE XD', 'GOOGLE APPS', 'UX', 'DB2', 'JSP', 'EAI', 'NEXT.JS', 'ISO', '통신', '소프트웨어 개발', 'RX', 'LESS', '서버 관리', '그래픽 디자인', 'NUMPY', 'OBJECTIVEC', 'PLC', 'CAM', 'OFDM', 'HTML', 'HTTP', 'ZEPLIN', 'TDD', 'JAVASCRIPT', 'XML', 'ADOBE PHOTOSHOP', 'OPENMP', 'SVG', 'BOOTSTRAP', 'GPS', 'USER EXPERIENCE', 'ORACLE', 'DATA ANALYSIS', 'APPLICANT TRACKING SYSTEM(ATS)', 'VR', 'FIREBASE', 'APACHE', 'VISUAL STUDIO CODE', 'AGILE', '앱 서버', 'DBT', 'IPS', 'SOLR', '소켓', 'ECLIPSE', 'PACS', 'SD', 'JQEURY', '암호화', 'SEO', 'SOLARIS ', 'API', 'PADS', 'CISCO', '인공 지능', 'VISUAL BASIC', 'PCB 디자인', 'ROS', 'TABLEAU', 'RTOS', 'R', 'UNREAL ENGINE', 'REDUX', 'C#', '인터페이스', 'MFC', 'NOSQL', 'TYPEFORM', 'JUNIPER', 'INTELLIJ IDEA', 'VUE', 'MSSQL', '신호 처리', 'FPGA', 'MAVEN', 'SONET', 'VISUAL STUDIO', 'NLP', 'UDP', 'RESTFUL', 'ANDROID', '클라우드 컴퓨팅', 'CISSP', 'AUTOSAR', 'DOM', '금융', 'RF', 'I2C', 'RTP', 'AUDIT COMMAND LANGUAGE (ACL)', 'SPRING FRAMEWORK', 'PERL', 'PYTHON', 'WORDPRESS', 'SPSS', '컴퓨터 비전', 'STORAGE', 'JSTL', 'VOIP', '빅 데이터', '데이터베이스 설계', 'SVN', 'HADOOP', 'WPF', 'DATASTAGE', '구글 API', 'OTN', 'GRUNTJS', 'QA 엔지니어링', 'CUDA', 'CITRIX', 'GO', '네트워크 개발', 'TOMCAT', 'CAKEPHP', '웹 디자인', 'PKI', 'MVVM', 'AAC', 'GIMP', 'MICROCHIP PIC', 'BLOCKCHAIN', 'TELERIK', 'XEN', 'LIS', '데이터베이스', 'PAAS', 'AR', 'DNS', 'LINQ', '3D', 'WEBRTC', 'ETL 도구', 'JSON', '윈도우 프로그래밍', 'RAID', 'IP', 'ADOBE ILLUSTRATOR', 'CISA', 'STL', 'INFRA', 'COCOA TOUCH', 'IOT', 'ENTITY FRAMEWORK', 'SCALA', 'ANGULAR', 'OPENSTACK', 'NOTION', 'OPENCV', 'GOOGLE ANALYTICS', 'REDIS', 'NFC', 'HTA', 'NODEJS', 'VDI', 'SAS', 'AXURE', 'AWS', 'GLSL', '데이터 마트', 'XAML', 'EDA', 'ANSI C', 'MXNET', 'ETL', 'CCNA', 'PMP', 'RUBY', 'DSP', 'ML', 'DEVOPS', 'KERNEL PROGRAMMING', 'SIMULINK', 'AZURE', 'FLASK', '솔루션 아키텍처', 'ORM', 'ABAP', 'FLUTTER', 'GCP', 'ARDUINO', 'SMTP', 'RHEL', 'TCP', 'OSS', 'STATA', 'XP', 'SPA', 'SQL', 'GPU', 'SCM', 'MDX', 'FIGMA', '무선 통신', 'SKETCHUP', 'UNIX', 'ACTIVE DIRECTORY', 'SDLC', 'TYPESCRIPT', 'POWER BI', 'KUBERNETES', 'RS232', 'XILINX', '백엔드 개발', 'DOCKER', 'METAL', 'SLACK', 'WEBGL', 'LARAVEL', '예측 모델링', 'HCI', 'CSS', 'RUST', 'GOOGLE TAG MANAGER', 'DIRECTX', 'SSL', 'MES', 'GOOGLE MAPS', 'NEST.JS', 'DSL', 'SOLIDWORKS', 'XAMARIN', 'SCIPY', 'VPN', 'TEAMCITY', 'CENTOS', '로봇', '서버 아키텍처', 'TCL', 'SSAS', 'FLASH', 'SVELTE', 'USER STORIES', 'CCNP', '가상화', 'FMEA', 'AIX', 'BGP', 'NODE.JS', 'LTE', 'RASPBERRY PI', 'JENKINS', 'ELASTICSEARCH', 'GRADLE', 'SPLUNK', 'MULTI TASKING', 'APACHE KAFKA', 'JIRA', 'RHINO 3D', '솔루션 개발', 'EC2', 'SKETCH', 'CODEIGNITER', 'PHP', 'AMAZON REDSHIFT', 'FASTAPI', 'DWDM', 'PERFORCE', 'ASANA', 'FRAMER', 'SQLITE', 'DLP', 'B2C', 'WBS', 'BI', 'CAN', 'RETROFIT2', 'DICOM', 'MIXPANEL', 'CMS', '웹 개발', 'B2B', 'ENCASE', 'LIN', 'STP', 'GRAPHQL', 'MVC', 'UI 디자인', 'JAVA', 'MYSQL', 'RDBMS', 'GCPS', 'ELIXIR', 'DJANGO', 'AJAX', 'AMPLITUDE', 'ADOBE', 'SWIFT', 'DART FOR PUBLISHERS', 'DHCP', 'JPA', 'VERILOG']
+
+
+3. 직업
+웹 개발자
+서버 개발자
+소프트웨어 엔지니어
+프론트엔드 개발자
+자바 개발자
+C, C++ 개발자
+안드로이드 개발자
+파이썬 개발자
+Node.js 개발자
+iOS 개발자
+머신러닝 엔지니어
+데이터 엔지니어
+시스템, 네트워크 관리자
+DevOps/ 시스템 관리자
+개발 매니저
+기술지원
+QA,테스트 엔지니어
+데이터 사이언티스트
+임베디드 개발자
+보안 엔지니어
+프로덕트 매니저
+빅데이터 엔지니어
+하드웨어 엔지니어
+PHP 개발자
+블록체인 플랫폼 엔지니어
+크로스플랫폼 앱 개발자
+DBA
+ERP전문가
+.NET 개발자
+웹 퍼블리셔
+영상,음성 엔지니어
+그래픽스 엔지니어
+루비온레일즈 개발자
+BI 엔지니어
+VR 엔지니어
+
+4. 위치
+강원
+세종
+충북
+대구
+경기
+울산
+대전
+경북
+충남
+부산
+광주
+서울
+경남
+한국
+인천
+제주
+전북
